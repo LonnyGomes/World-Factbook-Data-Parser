@@ -1,7 +1,7 @@
 /*global require, $, phantom, console */
 /*jslint plusplus: true */
 var url = 'html/factbook/index.html',
-    outputFile = "data/rankCategories.json",
+    outputFile = "data/rankCategoriesMapping.json",
     rankOrderURL = 'html/factbook/rankorder/rankorderguide.html';
 
 function parseRankOrder(url, callback, output) {
