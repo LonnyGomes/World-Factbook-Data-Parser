@@ -1,9 +1,8 @@
 /*global require, $, phantom, console */
 /*jslint plusplus: true */
-//var jQueryURL = "html/js/jquery-2.0.3.min.js";
 var url = 'html/factbook/index.html',
-    rankOrderURL = 'html/factbook/rankorder/rankorderguide.html',
-    jQueryURL = 'http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js';
+    outputFile = "data/rankCategories.json",
+    rankOrderURL = 'html/factbook/rankorder/rankorderguide.html';
 /*
 var page = require('webpage').create();
 page.open(url, function(status) {
@@ -26,25 +25,17 @@ page.open(url, function(status) {
 
 */
 
-function parseRankOrder(url, callback) {
+function parseRankOrder(url, callback, output) {
     "use strict";
     var page = require('webpage').create(),
-        parseRankCSV = function (rankPathname, categoryName, cb) {
-//            if (status !== 'success') {
-//                if (callback !== undefined) {
-//                    callback('Failed to open rank order URL:' + url);
-//                }
-//                return;
-//            }
-            console.log("blah:" + categoryName);
-            
-        };
+        fs = require("fs");
 
     page.open(url, function (status) {
         if (status !== 'success') {
             if (callback !== undefined) {
                 callback('Failed to open rank order base URL:' + url);
             }
+            phantom.exit();
             return;
         }
 
@@ -59,10 +50,6 @@ function parseRankOrder(url, callback) {
 
             
             $.each(rankTopics, function (idx, val) {
-
-                //curCategory = curTopicEl.text();
-                //curURL = curTopicEl.attr('href');
-                
                 var curElObj = {},
                     valEl = $(val),
                     curCategory = valEl.text().replace(/:$/, ""),
@@ -82,23 +69,19 @@ function parseRankOrder(url, callback) {
             
         });
 
-        var curResObj,
-            resIdx,
-            rankPage;
-        //loop through 
-        for (resIdx = 0; resIdx < results.length; resIdx++) {
-            curResObj = results[resIdx];
-
-            parseRankCSV(curResObj.dataURL, curResObj.category);
-
-        }
-
-        console.log("RESULTS NAME:" + results[0].category);
-        console.log("RESULTS URL:" + results[0].dataURL);
+        //write the json file out to disk
+        fs.write(output, JSON.stringify(results), function (err) {
+			if (err) {
+                return console.log(err);
+            }
+			console.log('Hello World > helloworld.txt');
+        });
 
         if (callback) {
             callback('success');
         }
+
+        phantom.exit();
     });
 }
 
@@ -109,6 +92,5 @@ function parserCallback(status) {
         phantom.exit();
     }
 }
-//
-///
-parseRankOrder(rankOrderURL, parserCallback);
+
+parseRankOrder(rankOrderURL, parserCallback, outputFile);
