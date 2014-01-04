@@ -3,27 +3,6 @@
 var url = 'html/factbook/index.html',
     outputFile = "data/rankCategories.json",
     rankOrderURL = 'html/factbook/rankorder/rankorderguide.html';
-/*
-var page = require('webpage').create();
-page.open(url, function(status) {
-    if (status !== 'success') {
-        console.log("Failed to open: " + url);
-        phantom.exit();
-    }
-
-    page.includeJs('http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js', function(jsStatus) {
-        console.log("trying ... " + jsStatus );
-        var title = page.evaluate(function() {
-            
-            return document.title;
-        });
-        console.log("page title:" + title);
-        phantom.exit();
-    });
-
-});
-
-*/
 
 function parseRankOrder(url, callback, output) {
     "use strict";
@@ -74,7 +53,7 @@ function parseRankOrder(url, callback, output) {
 			if (err) {
                 return console.log(err);
             }
-			console.log('Hello World > helloworld.txt');
+			console.log('Saved rank categories dump to:' + output);
         });
 
         if (callback) {
@@ -93,4 +72,5 @@ function parserCallback(status) {
     }
 }
 
+//parse the rank order values to retrieve the categories and their CSV file mappings
 parseRankOrder(rankOrderURL, parserCallback, outputFile);
