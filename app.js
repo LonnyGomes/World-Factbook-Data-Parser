@@ -8,6 +8,7 @@ var exec = require('child_process').exec,
     rankOrderInputPath = "data/rankCategoriesMapping.json",
     rankOrderOutputPath = "data/countryRankings.json",
     rankOrderData = [],
+    countryFlagScript = 'phantomjs/scrapeCountryFlags.js',
     parseCSV = function (categoryName, categoryPath, dataResults, callback) {
         "use strict";
         var arr = [],
@@ -69,6 +70,17 @@ var exec = require('child_process').exec,
             }
         });
     };
+
+process.stdout.write("Scraping country flags ...");
+exec(phantomjsPath  + " " + countryFlagScript, function (error, stdout, stderr) {
+    "use strict";
+    if (error) {
+        console.log("Failed to launch phantomjs for country flags!");
+        process.exit(1);
+    }
+    console.log("done");
+});
+
 
 process.stdout.write("Scraping rank order categories ...");
 exec(phantomjsPath  + " " + rankOrderScript, function (error, stdout, stderr) {
