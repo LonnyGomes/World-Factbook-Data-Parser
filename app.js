@@ -70,6 +70,39 @@ var exec = require('child_process').exec,
                 parseCSV(curItem.category, curItem.dataURL, dataResults, parseCallback);
             }
         });
+    },
+    processDumps = function () {
+        "use strict";
+        process.stdout.write("Scraping country flags ...");
+        exec(phantomjsPath  + " " + countryFlagScript, function (error, stdout, stderr) {
+            //"use strict";
+            if (error) {
+                console.log("Failed to launch phantomjs for country flags!");
+                process.exit(1);
+            }
+            console.log("done");
+        });
+        
+        
+        process.stdout.write("Scraping rank order categories ...");
+        exec(phantomjsPath  + " " + rankOrderScript, function (error, stdout, stderr) {
+            //"use strict";
+            if (error) {
+                console.log("Failed to launch phantomjs!");
+                process.exit(1);
+            }
+            console.log("done");
+            
+            processRankOrder(rankOrderInputPath, rankOrderData, function (data) {
+                //save rank order results out to disk
+                fs.writeFile(rankOrderOutputPath, JSON.stringify(data), function (err) {
+                    if (err) {
+                        return console.log('Error while trying to save final rank categories JSON:' + err);
+                    }
+                    console.log('Generated final JSON dump for rank categories: ' + rankOrderOutputPath);
+                });
+            });
+        });
     };
 
 var urls = [
@@ -80,43 +113,12 @@ downloadManager.downloadFile(urls[0], "data/docs.zip")
 	.then(downloadManager.downloadFile(urls[1], "data/rankorder.zip"))
 	.then(function (val) {
         "use strict";
-        console.log(val);
+        console.log("Successfully downloaded all required data dumps");
+        //now it's safe to process the dumps
+        processDumps();
     })
 	.fail(function (err) {
         "use strict";
         console.error("OK we fail:" + err);
     })
 	.done();
-
-process.stdout.write("Scraping country flags ...");
-exec(phantomjsPath  + " " + countryFlagScript, function (error, stdout, stderr) {
-    "use strict";
-    if (error) {
-        console.log("Failed to launch phantomjs for country flags!");
-        process.exit(1);
-    }
-    console.log("done");
-});
-
-
-process.stdout.write("Scraping rank order categories ...");
-exec(phantomjsPath  + " " + rankOrderScript, function (error, stdout, stderr) {
-    "use strict";
-    if (error) {
-        console.log("Failed to launch phantomjs!");
-        process.exit(1);
-    }
-    console.log("done");
-    
-    processRankOrder(rankOrderInputPath, rankOrderData, function (data) {
-        //save rank order results out to disk
-        fs.writeFile(rankOrderOutputPath, JSON.stringify(data), function (err) {
-			if (err) {
-                return console.log('Error while trying to save final rank categories JSON:' + err);
-            }
-			console.log('Generated final JSON dump for rank categories: ' + rankOrderOutputPath);
-        });
-    });
-});
-
-
