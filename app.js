@@ -72,15 +72,22 @@ var exec = require('child_process').exec,
         });
     };
 
-downloadManager.downloadFile("https://www.cia.gov/library/publications/download/download-2013/rankorder.zip", "data/rankorder2.zip", function (err) {
-    "use strict";
+var urls = [
+    "https://www.cia.gov/library/publications/download/download-2013/docs.zip",
+    "https://www.cia.gov/library/publications/download/download-2013/rankorder.zip"
+];
+downloadManager.downloadFile(urls[0], "data/docs.zip")
+	.then(downloadManager.downloadFile(urls[1], "data/rankorder.zip"))
+	.then(function (val) {
+        "use strict";
+        console.log(val);
+    })
+	.fail(function (err) {
+        "use strict";
+        console.error("OK we fail:" + err);
+    })
+	.done();
 
-    if (err) {
-        console.log(err);
-    } else {
-        console.log("It downloaded!");
-    }
-});
 process.stdout.write("Scraping country flags ...");
 exec(phantomjsPath  + " " + countryFlagScript, function (error, stdout, stderr) {
     "use strict";
