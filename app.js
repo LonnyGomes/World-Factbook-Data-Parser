@@ -3,6 +3,7 @@
 var exec = require('child_process').exec,
     fs = require('fs'),
     csv = require('ya-csv'),
+    downloadManager = require('./lib/download_manager'),
     phantomjsPath = 'node_modules/phantomjs/lib/phantom/bin/phantomjs',
     rankOrderScript = 'phantomjs/scrapeRankCategoryMappings.js',
     rankOrderInputPath = "data/rankCategoriesMapping.json",
@@ -71,6 +72,15 @@ var exec = require('child_process').exec,
         });
     };
 
+downloadManager.downloadFile("https://www.cia.gov/library/publications/download/download-2013/rankorder.zip", "data/rankorder2.zip", function (err) {
+    "use strict";
+
+    if (err) {
+        console.log(err);
+    } else {
+        console.log("It downloaded!");
+    }
+});
 process.stdout.write("Scraping country flags ...");
 exec(phantomjsPath  + " " + countryFlagScript, function (error, stdout, stderr) {
     "use strict";
