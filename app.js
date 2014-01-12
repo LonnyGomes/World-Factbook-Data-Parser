@@ -3,6 +3,8 @@
 var exec = require('child_process').exec,
     fs = require('fs'),
     csv = require('ya-csv'),
+    q = require('q'),
+    FS = require('q-io/fs'),
     downloadManager = require('./lib/download_manager'),
     downloadURLs = [
         "https://www.cia.gov/library/publications/download/download-2013/docs.zip",
@@ -14,7 +16,7 @@ var exec = require('child_process').exec,
     rankOrderOutputPath = "data/countryRankings.json",
     rankOrderData = [],
     countryFlagScript = 'phantomjs/scrapeCountryFlags.js',
-    parseCSV = function (categoryName, categoryPath, dataResults, callback) {
+    parseCSV = function (categoryName, categoryPath, dataResults) {
         "use strict";
         var arr = [],
             reader = csv.createCsvFileReader(categoryPath, {
@@ -22,7 +24,12 @@ var exec = require('child_process').exec,
                 'quote': '"',
                 'escape': '"',
                 'comment': ''
-            });
+            }),
+            deferred = q.defer();
+
+        reader.addListener('error', function (err) {
+            deferred.reject(new Error(err));
+        });
 
         reader.addListener('data', function (data) {
             var d = {
@@ -35,90 +42,96 @@ var exec = require('child_process').exec,
         });
 
         reader.addListener('end', function (data) {
-            if (callback) {
-                callback(categoryName, arr);
-            }
+            deferred.resolve({
+                name: categoryName,
+                data: arr
+            });
         });
+
+        return deferred.promise;
     },
-    processRankOrder = function (jsonInputPath, dataResults, callback) {
+    processRankOrder = function (jsonInputPath, dataResults) {
         "use strict";
+        var deferred = q.defer();
         fs.readFile(jsonInputPath, 'utf8', function (err, data) {
             if (err) {
-                console.log('Failed to open rank categories file: ' + err);
-                return;
+                deferred.reject(new Error('Failed to open rank categories file: ' + err));
             }
 
             data = JSON.parse(data);
 
             var idx = 0,
                 curItem,
+                curPromise,
                 total = data.length,
-                parseCallback = function (categoryName, data) {
+                saveCategoryData = function (obj) {
                     //the category is done being parsed!
                     var categoryObj = {};
-                    categoryObj.category = categoryName;
-                    categoryObj.categoryData = data;
+                    categoryObj.category = obj.name;
+                    categoryObj.categoryData = obj.data;
 
                     dataResults.push(categoryObj);
-
-                    if (dataResults.length === total) {
-                        //we are done processing, fire the callback
-                        if (callback) {
-                            callback(dataResults);
-                        }
-                    }
                 };
 
-            for (idx = 0; idx < total; idx++) {
-                curItem = data[idx];
-                parseCSV(curItem.category, curItem.dataURL, dataResults, parseCallback);
+            //chain the parseCSV operations
+            while (data.length > 0) {
+                curItem = data.shift();
+                curPromise = parseCSV(curItem.category, curItem.dataURL, dataResults)
+                    .then(saveCategoryData);
             }
+
+            //after we got through the chain, we can resolve the promise
+            curPromise.then(function (data) {
+                deferred.resolve(dataResults);
+            });
+
         });
+
+        return deferred.promise;
+    },
+    executePhantomjs = function (phantomScript) {
+        "use strict";
+
+        var deferred = q.defer();
+        exec(phantomjsPath + " " + phantomScript, function (error, stdout, stderr) {
+            if (error) {
+                deferred.reject(new Error("Failed to launch phantomjs for " + phantomScript));
+            }
+            deferred.resolve("Finished executing " + phantomScript);
+        });
+
+        return deferred.promise;
     },
     processDumps = function () {
         "use strict";
-        process.stdout.write("Scraping country flags ...");
-        exec(phantomjsPath + " " + countryFlagScript, function (error, stdout, stderr) {
-            //"use strict";
-            if (error) {
-                console.log("Failed to launch phantomjs for country flags!");
-                process.exit(1);
-            }
-            console.log("done");
-        });
 
-
-        process.stdout.write("Scraping rank order categories ...");
-        exec(phantomjsPath + " " + rankOrderScript, function (error, stdout, stderr) {
-            //"use strict";
-            if (error) {
-                console.log("Failed to launch phantomjs!");
-                process.exit(1);
-            }
-            console.log("done");
-
-            processRankOrder(rankOrderInputPath, rankOrderData, function (data) {
-                //save rank order results out to disk
-                fs.writeFile(rankOrderOutputPath, JSON.stringify(data), function (err) {
-                    if (err) {
-                        return console.log('Error while trying to save final rank categories JSON:' + err);
-                    }
-                    console.log('Generated final JSON dump for rank categories: ' + rankOrderOutputPath);
-                });
+        console.log("Processing dump files");
+        return executePhantomjs(countryFlagScript, "Scraping country flags page")
+            .then(executePhantomjs(rankOrderScript, "Scraping rank order page"))
+            .then(function (val) {
+                return processRankOrder(rankOrderInputPath, rankOrderData)
+                    .then(function (data) {
+                        //save rank order results out to disk
+                        return FS.write(rankOrderOutputPath, JSON.stringify(data));
+                    });
+            })
+            .fail(function (err) {
+                throw new Error("Error processing dumps:" + err);
             });
-        });
     };
 
-downloadManager.downloadFiles(downloadURLs, "data")
-    .then(function (val) {
-        "use strict";
+//start by downloading files
+downloadManager.downloadFiles(downloadURLs, "data").then(function (val) {
+    "use strict";
 
-        console.log("Successfully downloaded all required data dumps");
-        //now it's safe to process the dumps
-        processDumps();
-    })
+    console.log("Successfully downloaded all required data dumps");
+
+    //now it's safe to process the dumps
+    return processDumps();
+})
     .fail(function (err) {
         "use strict";
 
-        console.error("FAILED!" + err);
-    });
+        console.error(err);
+    })
+    .done();
