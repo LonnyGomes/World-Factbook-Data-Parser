@@ -4,6 +4,10 @@ var exec = require('child_process').exec,
     fs = require('fs'),
     csv = require('ya-csv'),
     downloadManager = require('./lib/download_manager'),
+    downloadURLs = [
+        "https://www.cia.gov/library/publications/download/download-2013/docs.zip",
+        "https://www.cia.gov/library/publications/download/download-2013/rankorder.zip"
+    ],
     phantomjsPath = 'node_modules/phantomjs/lib/phantom/bin/phantomjs',
     rankOrderScript = 'phantomjs/scrapeRankCategoryMappings.js',
     rankOrderInputPath = "data/rankCategoriesMapping.json",
@@ -19,7 +23,7 @@ var exec = require('child_process').exec,
                 'escape': '"',
                 'comment': ''
             });
-        
+
         reader.addListener('data', function (data) {
             var d = {
                 "rank": data[0],
@@ -29,7 +33,7 @@ var exec = require('child_process').exec,
             //console.log(d.rank, d.countryName, d.rankValue);
             arr.push(d);
         });
-        
+
         reader.addListener('end', function (data) {
             if (callback) {
                 callback(categoryName, arr);
@@ -37,26 +41,26 @@ var exec = require('child_process').exec,
         });
     },
     processRankOrder = function (jsonInputPath, dataResults, callback) {
-		"use strict";
+        "use strict";
         fs.readFile(jsonInputPath, 'utf8', function (err, data) {
-			if (err) {
-				console.log('Failed to open rank categories file: ' + err);
-				return;
-			}
+            if (err) {
+                console.log('Failed to open rank categories file: ' + err);
+                return;
+            }
 
-			data = JSON.parse(data);
+            data = JSON.parse(data);
 
-			var idx = 0,
+            var idx = 0,
                 curItem,
                 total = data.length,
                 parseCallback = function (categoryName, data) {
-					//the category is done being parsed!
+                    //the category is done being parsed!
                     var categoryObj = {};
                     categoryObj.category = categoryName;
                     categoryObj.categoryData = data;
-                    
+
                     dataResults.push(categoryObj);
-                    
+
                     if (dataResults.length === total) {
                         //we are done processing, fire the callback
                         if (callback) {
@@ -66,7 +70,7 @@ var exec = require('child_process').exec,
                 };
 
             for (idx = 0; idx < total; idx++) {
-				curItem = data[idx];
+                curItem = data[idx];
                 parseCSV(curItem.category, curItem.dataURL, dataResults, parseCallback);
             }
         });
@@ -74,7 +78,7 @@ var exec = require('child_process').exec,
     processDumps = function () {
         "use strict";
         process.stdout.write("Scraping country flags ...");
-        exec(phantomjsPath  + " " + countryFlagScript, function (error, stdout, stderr) {
+        exec(phantomjsPath + " " + countryFlagScript, function (error, stdout, stderr) {
             //"use strict";
             if (error) {
                 console.log("Failed to launch phantomjs for country flags!");
@@ -82,17 +86,17 @@ var exec = require('child_process').exec,
             }
             console.log("done");
         });
-        
-        
+
+
         process.stdout.write("Scraping rank order categories ...");
-        exec(phantomjsPath  + " " + rankOrderScript, function (error, stdout, stderr) {
+        exec(phantomjsPath + " " + rankOrderScript, function (error, stdout, stderr) {
             //"use strict";
             if (error) {
                 console.log("Failed to launch phantomjs!");
                 process.exit(1);
             }
             console.log("done");
-            
+
             processRankOrder(rankOrderInputPath, rankOrderData, function (data) {
                 //save rank order results out to disk
                 fs.writeFile(rankOrderOutputPath, JSON.stringify(data), function (err) {
@@ -105,20 +109,16 @@ var exec = require('child_process').exec,
         });
     };
 
-var urls = [
-    "https://www.cia.gov/library/publications/download/download-2013/docs.zip",
-    "https://www.cia.gov/library/publications/download/download-2013/rankorder.zip"
-];
-downloadManager.downloadFile(urls[0], "data/docs.zip")
-	.then(downloadManager.downloadFile(urls[1], "data/rankorder.zip"))
-	.then(function (val) {
+downloadManager.downloadFiles(downloadURLs, "data")
+    .then(function (val) {
         "use strict";
+
         console.log("Successfully downloaded all required data dumps");
         //now it's safe to process the dumps
         processDumps();
     })
-	.fail(function (err) {
+    .fail(function (err) {
         "use strict";
-        console.error("OK we fail:" + err);
-    })
-	.done();
+
+        console.error("FAILED!" + err);
+    });
