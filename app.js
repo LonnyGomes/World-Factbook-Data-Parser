@@ -1,15 +1,18 @@
 /*global require, console, process */
-/*jslint plusplus: true */
+/*jslint plusplus: true, nomen: true */
 var exec = require('child_process').exec,
     fs = require('fs'),
     csv = require('ya-csv'),
     q = require('q'),
     FS = require('q-io/fs'),
+    path = require('path'),
+    _ = require('underscore'),
     downloadManager = require('./lib/download_manager'),
     downloadURLs = [
         "https://www.cia.gov/library/publications/download/download-2013/docs.zip",
         "https://www.cia.gov/library/publications/download/download-2013/rankorder.zip"
     ],
+    outputBasePath = "data",
     phantomjsPath = 'node_modules/phantomjs/lib/phantom/bin/phantomjs',
     rankOrderScript = 'phantomjs/scrapeRankCategoryMappings.js',
     rankOrderInputPath = "data/rankCategoriesMapping.json",
@@ -105,14 +108,17 @@ var exec = require('child_process').exec,
     processDumps = function () {
         "use strict";
 
-        console.log("Processing dump files");
+        process.stdout.write("Processing dump files ... ");
         return executePhantomjs(countryFlagScript, "Processing country flags page")
             .then(executePhantomjs(rankOrderScript, "Processing rank order page"))
             .then(function (val) {
                 return processRankOrder(rankOrderInputPath, rankOrderData)
                     .then(function (data) {
                         //save rank order results out to disk
-                        return FS.write(rankOrderOutputPath, JSON.stringify(data));
+                        FS.write(rankOrderOutputPath, JSON.stringify(data)).then(function (val) {
+                            console.log("done");
+                            return rankOrderOutputPath;
+                        });
                     });
             })
             .fail(function (err) {
@@ -121,14 +127,20 @@ var exec = require('child_process').exec,
     };
 
 //start by downloading files
-downloadManager.downloadFiles(downloadURLs, "data").then(function (val) {
+downloadManager.downloadFiles(downloadURLs, outputBasePath).then(function (val) {
     "use strict";
 
     console.log("Successfully downloaded all required data dumps");
-
-    //now it's safe to process the dumps
-    return processDumps();
+	//set up output paths for zip files
+    var zipPaths = _.map(downloadURLs, function (curURL) {
+        return outputBasePath + path.sep +  path.basename(curURL);
+    });
+    return downloadManager.unzipDumps(zipPaths);
 })
+	.then(function (val) {
+        "use strict";
+        return processDumps();
+    })
     .fail(function (err) {
         "use strict";
 

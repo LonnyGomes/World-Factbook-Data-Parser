@@ -12,8 +12,8 @@
     "wget": "0.0.1",
     "q": "~1.0.0",
     "q-io": "~1.10.6",
-    "unzip": "~0.1.9",
-    "adm-zip": "~0.4.3"
+    "adm-zip": "~0.4.3",
+    "underscore": "~1.5.2"
   },
   "devDependencies": {},
   "scripts": {
