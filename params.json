@@ -1,0 +1,7 @@
+{
+    "downloadsPath": "dumps",
+    "downloadURLs": [
+        "https://www.cia.gov/library/publications/download/download-2013/docs.zip",
+        "https://www.cia.gov/library/publications/download/download-2013/rankorder.zip"
+    ]
+}

@@ -9,10 +9,9 @@ var exec = require('child_process').exec,
     _ = require('underscore'),
     colors = require('colors'),
     downloadManager = require('./lib/download_manager'),
-    downloadURLs = [
-        "https://www.cia.gov/library/publications/download/download-2013/docs.zip",
-        "https://www.cia.gov/library/publications/download/download-2013/rankorder.zip"
-    ],
+    params = require('./params.json'),
+    downloadsPath = params.downloadsPath,
+    downloadURLs = params.downloadURLs,
     outputBasePath = "data",
     phantomjsPath = 'node_modules/phantomjs/lib/phantom/bin/phantomjs',
     rankOrderScript = 'phantomjs/scrapeRankCategoryMappings.js',
@@ -128,13 +127,13 @@ var exec = require('child_process').exec,
     };
 
 //start by downloading files
-downloadManager.downloadFiles(downloadURLs, outputBasePath).then(function (val) {
+downloadManager.downloadFiles(downloadURLs, downloadsPath).then(function (val) {
     "use strict";
 
     console.log("Successfully downloaded all required data dumps".magenta);
 	//set up output paths for zip files
     var zipPaths = _.map(downloadURLs, function (curURL) {
-        return outputBasePath + path.sep +  path.basename(curURL);
+        return downloadsPath + path.sep +  path.basename(curURL);
     });
     return downloadManager.unzipDumps(zipPaths);
 })
