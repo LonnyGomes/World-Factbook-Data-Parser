@@ -13,7 +13,8 @@
     "q": "~1.0.0",
     "q-io": "~1.10.6",
     "adm-zip": "~0.4.3",
-    "underscore": "~1.5.2"
+    "underscore": "~1.5.2",
+    "colors": "~0.6.2"
   },
   "devDependencies": {},
   "scripts": {

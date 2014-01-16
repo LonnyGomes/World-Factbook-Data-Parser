@@ -7,6 +7,7 @@ var exec = require('child_process').exec,
     FS = require('q-io/fs'),
     path = require('path'),
     _ = require('underscore'),
+    colors = require('colors'),
     downloadManager = require('./lib/download_manager'),
     downloadURLs = [
         "https://www.cia.gov/library/publications/download/download-2013/docs.zip",
@@ -108,7 +109,7 @@ var exec = require('child_process').exec,
     processDumps = function () {
         "use strict";
 
-        process.stdout.write("Processing dump files ... ");
+        process.stdout.write("Processing dump files ... ".bold.white);
         return executePhantomjs(countryFlagScript, "Processing country flags page")
             .then(executePhantomjs(rankOrderScript, "Processing rank order page"))
             .then(function (val) {
@@ -116,7 +117,7 @@ var exec = require('child_process').exec,
                     .then(function (data) {
                         //save rank order results out to disk
                         FS.write(rankOrderOutputPath, JSON.stringify(data)).then(function (val) {
-                            console.log("done");
+                            console.log("done".green);
                             return rankOrderOutputPath;
                         });
                     });
@@ -130,7 +131,7 @@ var exec = require('child_process').exec,
 downloadManager.downloadFiles(downloadURLs, outputBasePath).then(function (val) {
     "use strict";
 
-    console.log("Successfully downloaded all required data dumps");
+    console.log("Successfully downloaded all required data dumps".magenta);
 	//set up output paths for zip files
     var zipPaths = _.map(downloadURLs, function (curURL) {
         return outputBasePath + path.sep +  path.basename(curURL);
