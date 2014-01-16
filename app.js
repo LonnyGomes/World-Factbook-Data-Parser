@@ -106,8 +106,8 @@ var exec = require('child_process').exec,
         "use strict";
 
         console.log("Processing dump files");
-        return executePhantomjs(countryFlagScript, "Scraping country flags page")
-            .then(executePhantomjs(rankOrderScript, "Scraping rank order page"))
+        return executePhantomjs(countryFlagScript, "Processing country flags page")
+            .then(executePhantomjs(rankOrderScript, "Processing rank order page"))
             .then(function (val) {
                 return processRankOrder(rankOrderInputPath, rankOrderData)
                     .then(function (data) {
@@ -132,6 +132,6 @@ downloadManager.downloadFiles(downloadURLs, "data").then(function (val) {
     .fail(function (err) {
         "use strict";
 
-        console.error(err);
+        console.error("error!" + err);
     })
     .done();
