@@ -1,9 +1,11 @@
 /*global require, $, phantom, console */
 /*jslint plusplus: true */
-var url = 'html/factbook/index.html',
-    outputFile = "data/rankCategoriesMapping.json",
-    rankOrderURL = 'html/factbook/rankorder/rankorderguide.html';
+var params = require('../params.json'),
+    url = params.downloadsPath + '/' + params.index_html,
+    outputFile = params.dataPath + '/' + params.output_rank_mappings,
+    rankOrderURL = params.downloadsPath + '/' + params.rank_order_html;
 
+console.log(params.downloadsPath + '/' + params.rank_order_html);
 function parseRankOrder(url, callback, output) {
     "use strict";
     var page = require('webpage').create(),
@@ -34,10 +36,10 @@ function parseRankOrder(url, callback, output) {
                     curCategory = valEl.text().replace(/:$/, ""),
                     curURL = valEl.attr('href').replace(/[\w\W]*\//, ""),
                     dataURL = 'rawdata_' + curURL.replace(/rank\.html/, ".txt"),
-                    baseURL = 'html/factbook/rankorder/';
+                    //TODO: don't hardcode this path
+                    baseURL = 'dumps/rankorder/';
 
                 curElObj.category = curCategory;
-                //TODO: don't hardcode this path
                 curElObj.url = baseURL + curURL;
                 curElObj.dataURL = baseURL + dataURL;
 

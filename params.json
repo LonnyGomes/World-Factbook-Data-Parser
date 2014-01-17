@@ -1,11 +1,15 @@
 {
+    "dataPath": "data",
     "downloadsPath": "dumps",
     "downloadURLs": [
         "https://www.cia.gov/library/publications/download/download-2013/index.zip",
         "https://www.cia.gov/library/publications/download/download-2013/docs.zip",
+        "https://www.cia.gov/library/publications/download/download-2013/js.zip",
+        "https://www.cia.gov/library/publications/download/download-2013/scripts.zip",
         "https://www.cia.gov/library/publications/download/download-2013/rankorder.zip"
     ],
     "index_html": "index.html",
     "flags_html": "docs/flagsoftheworld.html",
-    "rank_order_html": "rankorder/rankorderguide.html"
+    "rank_order_html": "rankorder/rankorderguide.html",
+    "output_rank_mappings": "rankCategoriesMapping.json"
 }
