@@ -143,7 +143,7 @@ downloadManager.downloadFiles(downloadURLs, downloadsPath).then(function (val) {
     })
     .fail(function (err) {
         "use strict";
-
-        console.error("error!" + err);
+		var errorStr = "\nERROR " + err + "\n";
+        console.error(errorStr.red.bold);
     })
     .done();
