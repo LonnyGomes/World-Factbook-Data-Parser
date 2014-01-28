@@ -124,26 +124,34 @@ var exec = require('child_process').exec,
             .fail(function (err) {
                 throw new Error("Error processing dumps:" + err);
             });
-    };
+    },
+    init = function() {
+        console.log("Here we go :" );
+        if (fs.existsSync(downloadsPath)) {
+            process.
+        }
+    }
 
-//start by downloading files
-downloadManager.downloadFiles(downloadURLs, downloadsPath).then(function (val) {
-    "use strict";
+init();
 
-    console.log("Successfully downloaded all required data dumps".magenta);
-	//set up output paths for zip files
-    var zipPaths = _.map(downloadURLs, function (curURL) {
-        return downloadsPath + path.sep +  path.basename(curURL);
-    });
-    return downloadManager.unzipDumps(zipPaths);
-})
-	.then(function (val) {
-        "use strict";
-        return processDumps();
-    })
-    .fail(function (err) {
-        "use strict";
-		var errorStr = "\nERROR " + err + "\n";
-        console.error(errorStr.red.bold);
-    })
-    .done();
+// //start by downloading files
+// downloadManager.downloadFiles(downloadURLs, downloadsPath).then(function (val) {
+//     "use strict";
+
+//     console.log("Successfully downloaded all required data dumps".magenta);
+// 	//set up output paths for zip files
+//     var zipPaths = _.map(downloadURLs, function (curURL) {
+//         return downloadsPath + path.sep +  path.basename(curURL);
+//     });
+//     return downloadManager.unzipDumps(zipPaths);
+// })
+// 	.then(function (val) {
+//         "use strict";
+//         return processDumps();
+//     })
+//     .fail(function (err) {
+//         "use strict";
+// 		var errorStr = "\nERROR " + err + "\n";
+//         console.error(errorStr.red.bold);
+//     })
+//     .done();

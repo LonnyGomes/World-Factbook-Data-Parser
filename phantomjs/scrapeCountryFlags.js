@@ -1,5 +1,5 @@
 /*global require, $, phantom, console */
-var htmlUrl = "html/factbook/docs/flagsoftheworld.html",
+var htmlUrl = "dumps/docs/flagsoftheworld.html",
     outputFile = "data/countryFlags.json";
 
 function parseCountryFlagsPage(url, output, callback) {
