@@ -125,33 +125,69 @@ var exec = require('child_process').exec,
                 throw new Error("Error processing dumps:" + err);
             });
     },
-    init = function() {
-        console.log("Here we go :" );
-        if (fs.existsSync(downloadsPath)) {
-            process.
-        }
+    download = function () {
+        "use strict";
+
+        return downloadManager.downloadFiles(downloadURLs, downloadsPath).then(function (val) {
+            console.log("Successfully downloaded all required data dumps".magenta);
+            //set up output paths for zip files
+            var zipPaths = _.map(downloadURLs, function (curURL) {
+                return downloadsPath + path.sep +  path.basename(curURL);
+            });
+            return downloadManager.unzipDumps(zipPaths);
+        });
+    };
+
+//Begin execution of the parsing
+(function () {
+    "use strict";
+
+    var promise = null,
+        promptVal;
+
+    if (fs.existsSync(downloadsPath)) {
+        process.stdin.write("Data already exists, would you like to re-download it (y/N)?\n");
+
+        //TODO: check if response is yes and then call download manager
+    } else {
+        promise = this.download(); //TODO: pass in vars
     }
 
-init();
+    if (promise === null) {
+        promise = processDumps();
+    } else {
+        promise.then(function (val) {
+            return processDumps();
+        });
+    }
+
+    promise.fail(function (err) {
+        var errorStr = "\nERROR " + err + "\n";
+
+        console.error(errorStr.red.bold);
+    })
+        .done();
+}());
+
 
 // //start by downloading files
 // downloadManager.downloadFiles(downloadURLs, downloadsPath).then(function (val) {
 //     "use strict";
 
 //     console.log("Successfully downloaded all required data dumps".magenta);
-// 	//set up output paths for zip files
+//      //set up output paths for zip files
 //     var zipPaths = _.map(downloadURLs, function (curURL) {
 //         return downloadsPath + path.sep +  path.basename(curURL);
 //     });
 //     return downloadManager.unzipDumps(zipPaths);
 // })
-// 	.then(function (val) {
+//     .then(function (val) {
 //         "use strict";
 //         return processDumps();
 //     })
 //     .fail(function (err) {
 //         "use strict";
-// 		var errorStr = "\nERROR " + err + "\n";
+//         var errorStr = "\nERROR " + err + "\n";
 //         console.error(errorStr.red.bold);
 //     })
 //     .done();
