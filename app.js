@@ -150,7 +150,7 @@ var exec = require('child_process').exec,
 
         //TODO: check if response is yes and then call download manager
     } else {
-        promise = this.download(); //TODO: pass in vars
+        promise = download(); //TODO: pass in vars
     }
 
     if (promise === null) {
