@@ -110,7 +110,9 @@ var exec = require('child_process').exec,
 
         process.stdout.write("Processing dump files ... ".bold.white);
         return executePhantomjs(countryFlagScript, "Processing country flags page")
-            .then(executePhantomjs(rankOrderScript, "Processing rank order page"))
+            .then(function () {
+                return executePhantomjs(rankOrderScript, "Processing rank order page");
+            })
             .then(function (val) {
                 return processRankOrder(rankOrderInputPath, rankOrderData)
                     .then(function (data) {
