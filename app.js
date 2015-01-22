@@ -55,10 +55,12 @@ var exec = require('child_process').exec,
     },
     processRankOrder = function (jsonInputPath, dataResults) {
         "use strict";
+
         var deferred = q.defer();
         fs.readFile(jsonInputPath, 'utf8', function (err, data) {
             if (err) {
                 deferred.reject(new Error('Failed to open rank categories file: ' + err));
+                return;
             }
 
             data = JSON.parse(data);
@@ -99,20 +101,34 @@ var exec = require('child_process').exec,
         exec(phantomjsPath + " " + phantomScript, function (error, stdout, stderr) {
             if (error) {
                 deferred.reject(new Error("Failed to launch phantomjs for " + phantomScript));
+            } else {
+                deferred.resolve("Finished executing " + phantomScript);
             }
-            deferred.resolve("Finished executing " + phantomScript);
         });
 
         return deferred.promise;
     },
+    processPhantomjs = function () {
+        'use strict';
+
+        var phantomScripts = [
+            [ countryFlagScript, "Processing country flags page"],
+            [ rankOrderScript, "Processing rank order page" ]
+        ];
+
+        return phantomScripts.reduce(function (prev, curPhantomArgs) {
+            var msg = curPhantomArgs[1];
+            console.log("    " + msg.bold.white);
+            return prev.then(function () {
+                return executePhantomjs.apply(this, curPhantomArgs);
+            });
+        }, q());
+    },
     processDumps = function () {
         "use strict";
 
-        process.stdout.write("Processing dump files ... ".bold.white);
-        return executePhantomjs(countryFlagScript, "Processing country flags page")
-            .then(function () {
-                return executePhantomjs(rankOrderScript, "Processing rank order page");
-            })
+        console.log("Processing dump files ... ".bold.white);
+        return processPhantomjs()
             .then(function (val) {
                 return processRankOrder(rankOrderInputPath, rankOrderData)
                     .then(function (data) {
