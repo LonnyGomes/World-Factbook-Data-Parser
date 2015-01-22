@@ -66,7 +66,6 @@ var exec = require('child_process').exec,
             data = JSON.parse(data);
 
             var idx = 0,
-                curItem,
                 curPromise,
                 total = data.length,
                 saveCategoryData = function (obj) {
@@ -78,12 +77,12 @@ var exec = require('child_process').exec,
                     dataResults.push(categoryObj);
                 };
 
-            //chain the parseCSV operations
-            while (data.length > 0) {
-                curItem = data.shift();
-                curPromise = parseCSV(curItem.category, curItem.dataURL, dataResults)
-                    .then(saveCategoryData);
-            }
+            curPromise = data.reduce(function (prev, curItem) {
+                return prev.then(function () {
+                    return parseCSV(curItem.category, curItem.dataURL, dataResults)
+                        .then(saveCategoryData);
+                });
+            }, q());
 
             //after we got through the chain, we can resolve the promise
             curPromise.then(function (data) {
