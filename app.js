@@ -7,6 +7,7 @@ var exec = require('child_process').exec,
     FS = require('q-io/fs'),
     path = require('path'),
     _ = require('underscore'),
+    readline = require('readline'),
     colors = require('colors'),
     downloadManager = require('./lib/download_manager'),
     params = require('./params.json'),
@@ -126,7 +127,7 @@ var exec = require('child_process').exec,
     processDumps = function () {
         "use strict";
 
-        console.log("Processing dump files ... ".bold.white);
+        console.log("Processing dump files ... ".magenta);
         return processPhantomjs()
             .then(function (val) {
                 return processRankOrder(rankOrderInputPath, rankOrderData)
@@ -146,43 +147,65 @@ var exec = require('child_process').exec,
         "use strict";
 
         return downloadManager.downloadFiles(downloadURLs, downloadsPath).then(function (val) {
-            console.log("Successfully downloaded all required data dumps".magenta);
+            console.log("Successfully downloaded all required data dumps\n".magenta);
             //set up output paths for zip files
             var zipPaths = _.map(downloadURLs, function (curURL) {
                 return downloadsPath + path.sep +  path.basename(curURL);
             });
             return downloadManager.unzipDumps(zipPaths);
         });
+    },
+    prompt = function (dlPath) {
+        "use strict";
+
+        var deferred = q.defer(),
+            rl,
+            promise;
+
+        if (fs.existsSync(dlPath)) {
+            promise = deferred.promise;
+
+            rl = readline.createInterface({
+                input: process.stdin,
+                output: process.stdout
+            });
+
+            rl.question("Data already exists, would you like to re-download it (y/N)", function (answer) {
+                if (answer.match(/y|yes/i)) {
+                    console.log("Re-downloading data ...".magenta);
+                    download().then(function () {
+                        deferred.resolve();
+                    }, function (err) {
+                        console.error("Failed while attempting to re-download: ".red.bold + err.red.bold);
+                    });
+                } else {
+                    deferred.resolve();
+                }
+
+                rl.close();
+            });
+
+        } else {
+            promise = download(); //TODO: pass in vars
+        }
+
+        return promise;
     };
 
 //Begin execution of the parsing
 (function () {
     "use strict";
 
-    var promise = null,
-        promptVal;
+    var rl,
+        promptVal,
+        promise = prompt(downloadsPath);
 
-    if (fs.existsSync(downloadsPath)) {
-        process.stdin.write("Data already exists, would you like to re-download it (y/N)?\n");
+    promise.then(processDumps)
+        .fail(function (err) {
+            var errorStr = "\nERROR " + err + "\n";
 
-        //TODO: check if response is yes and then call download manager
-    } else {
-        promise = download(); //TODO: pass in vars
-    }
-
-    if (promise === null) {
-        promise = processDumps();
-    } else {
-        promise.then(function (val) {
-            return processDumps();
-        });
-    }
-
-    promise.fail(function (err) {
-        var errorStr = "\nERROR " + err + "\n";
-
-        console.error(errorStr.red.bold);
-    })
+            console.error(errorStr.red.bold);
+        })
         .done();
 }());
 
