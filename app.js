@@ -16,8 +16,8 @@ var exec = require('child_process').exec,
     outputBasePath = params.dataPath,
     phantomjsPath = 'node_modules/phantomjs/lib/phantom/bin/phantomjs',
     rankOrderScript = 'phantomjs/scrapeRankCategoryMappings.js',
-    rankOrderInputPath = params.dataPath + path.sep + "rankCategoriesMapping.json",
-    rankOrderOutputPath = params.dataPath + path.sep + "countryRankings.json",
+    rankOrderInputPath = path.resolve(params.dataPath, "rankCategoriesMapping.json"),
+    rankOrderOutputPath = path.resolve(params.dataPath, "countryRankings.json"),
     rankOrderData = [],
     countryFlagScript = 'phantomjs/scrapeCountryFlags.js',
     parseCSV = function (categoryName, categoryPath, dataResults) {
@@ -150,7 +150,7 @@ var exec = require('child_process').exec,
             console.log("Successfully downloaded all required data dumps\n".magenta);
             //set up output paths for zip files
             var zipPaths = _.map(downloadURLs, function (curURL) {
-                return downloadsPath + path.sep +  path.basename(curURL);
+                return path.resolve(downloadsPath, path.basename(curURL));
             });
             return downloadManager.unzipDumps(zipPaths);
         });
@@ -176,7 +176,7 @@ var exec = require('child_process').exec,
                     download().then(function () {
                         deferred.resolve();
                     }, function (err) {
-                        console.error("Failed while attempting to re-download: ".red.bold + err.red.bold);
+                        console.error("\nFailed while attempting to re-download: ".red.bold + err.red.bold);
                     });
                 } else {
                     deferred.resolve();
@@ -209,25 +209,3 @@ var exec = require('child_process').exec,
         .done();
 }());
 
-
-// //start by downloading files
-// downloadManager.downloadFiles(downloadURLs, downloadsPath).then(function (val) {
-//     "use strict";
-
-//     console.log("Successfully downloaded all required data dumps".magenta);
-//      //set up output paths for zip files
-//     var zipPaths = _.map(downloadURLs, function (curURL) {
-//         return downloadsPath + path.sep +  path.basename(curURL);
-//     });
-//     return downloadManager.unzipDumps(zipPaths);
-// })
-//     .then(function (val) {
-//         "use strict";
-//         return processDumps();
-//     })
-//     .fail(function (err) {
-//         "use strict";
-//         var errorStr = "\nERROR " + err + "\n";
-//         console.error(errorStr.red.bold);
-//     })
-//     .done();
