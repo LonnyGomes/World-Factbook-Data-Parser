@@ -1,0 +1,382 @@
+[
+  {
+    "category": "Area",
+    "dataURL": "dumps/rankorder/rawdata_2147.txt",
+    "url": "dumps/rankorder/2147rank.html"
+  },
+  {
+    "category": "Population",
+    "dataURL": "dumps/rankorder/rawdata_2119.txt",
+    "url": "dumps/rankorder/2119rank.html"
+  },
+  {
+    "category": "Population growth rate",
+    "dataURL": "dumps/rankorder/rawdata_2002.txt",
+    "url": "dumps/rankorder/2002rank.html"
+  },
+  {
+    "category": "Birth rate",
+    "dataURL": "dumps/rankorder/rawdata_2054.txt",
+    "url": "dumps/rankorder/2054rank.html"
+  },
+  {
+    "category": "Death rate",
+    "dataURL": "dumps/rankorder/rawdata_2066.txt",
+    "url": "dumps/rankorder/2066rank.html"
+  },
+  {
+    "category": "Net migration rate",
+    "dataURL": "dumps/rankorder/rawdata_2112.txt",
+    "url": "dumps/rankorder/2112rank.html"
+  },
+  {
+    "category": "Maternal mortality rate",
+    "dataURL": "dumps/rankorder/rawdata_2223.txt",
+    "url": "dumps/rankorder/2223rank.html"
+  },
+  {
+    "category": "Infant mortality rate",
+    "dataURL": "dumps/rankorder/rawdata_2091.txt",
+    "url": "dumps/rankorder/2091rank.html"
+  },
+  {
+    "category": "Life expectancy at birth",
+    "dataURL": "dumps/rankorder/rawdata_2102.txt",
+    "url": "dumps/rankorder/2102rank.html"
+  },
+  {
+    "category": "Total fertility rate",
+    "dataURL": "dumps/rankorder/rawdata_2127.txt",
+    "url": "dumps/rankorder/2127rank.html"
+  },
+  {
+    "category": "Health expenditures",
+    "dataURL": "dumps/rankorder/rawdata_2225.txt",
+    "url": "dumps/rankorder/2225rank.html"
+  },
+  {
+    "category": "HIV/AIDS - adult prevalence rate",
+    "dataURL": "dumps/rankorder/rawdata_2155.txt",
+    "url": "dumps/rankorder/2155rank.html"
+  },
+  {
+    "category": "HIV/AIDS - people living with HIV/AIDS",
+    "dataURL": "dumps/rankorder/rawdata_2156.txt",
+    "url": "dumps/rankorder/2156rank.html"
+  },
+  {
+    "category": "HIV/AIDS - deaths",
+    "dataURL": "dumps/rankorder/rawdata_2157.txt",
+    "url": "dumps/rankorder/2157rank.html"
+  },
+  {
+    "category": "Obesity - adult prevalence rate",
+    "dataURL": "dumps/rankorder/rawdata_2228.txt",
+    "url": "dumps/rankorder/2228rank.html"
+  },
+  {
+    "category": "Children under the age of 5 years underweight",
+    "dataURL": "dumps/rankorder/rawdata_2224.txt",
+    "url": "dumps/rankorder/2224rank.html"
+  },
+  {
+    "category": "Education expenditures",
+    "dataURL": "dumps/rankorder/rawdata_2206.txt",
+    "url": "dumps/rankorder/2206rank.html"
+  },
+  {
+    "category": "Unemployment, youth ages 15-24",
+    "dataURL": "dumps/rankorder/rawdata_2229.txt",
+    "url": "dumps/rankorder/2229rank.html"
+  },
+  {
+    "category": "GDP (purchasing power parity)",
+    "dataURL": "dumps/rankorder/rawdata_2001.txt",
+    "url": "dumps/rankorder/2001rank.html"
+  },
+  {
+    "category": "GDP - real growth rate",
+    "dataURL": "dumps/rankorder/rawdata_2003.txt",
+    "url": "dumps/rankorder/2003rank.html"
+  },
+  {
+    "category": "GDP - per capita (PPP)",
+    "dataURL": "dumps/rankorder/rawdata_2004.txt",
+    "url": "dumps/rankorder/2004rank.html"
+  },
+  {
+    "category": "Gross national saving",
+    "dataURL": "dumps/rankorder/rawdata_2260.txt",
+    "url": "dumps/rankorder/2260rank.html"
+  },
+  {
+    "category": "Industrial production growth rate",
+    "dataURL": "dumps/rankorder/rawdata_2089.txt",
+    "url": "dumps/rankorder/2089rank.html"
+  },
+  {
+    "category": "Labor force",
+    "dataURL": "dumps/rankorder/rawdata_2095.txt",
+    "url": "dumps/rankorder/2095rank.html"
+  },
+  {
+    "category": "Unemployment rate",
+    "dataURL": "dumps/rankorder/rawdata_2129.txt",
+    "url": "dumps/rankorder/2129rank.html"
+  },
+  {
+    "category": "Distribution of family income - Gini index",
+    "dataURL": "dumps/rankorder/rawdata_2172.txt",
+    "url": "dumps/rankorder/2172rank.html"
+  },
+  {
+    "category": "Taxes and other revenues",
+    "dataURL": "dumps/rankorder/rawdata_2221.txt",
+    "url": "dumps/rankorder/2221rank.html"
+  },
+  {
+    "category": "Budget surplus (+) or deficit (-)",
+    "dataURL": "dumps/rankorder/rawdata_2222.txt",
+    "url": "dumps/rankorder/2222rank.html"
+  },
+  {
+    "category": "Public debt",
+    "dataURL": "dumps/rankorder/rawdata_2186.txt",
+    "url": "dumps/rankorder/2186rank.html"
+  },
+  {
+    "category": "Inflation rate (consumer prices)",
+    "dataURL": "dumps/rankorder/rawdata_2092.txt",
+    "url": "dumps/rankorder/2092rank.html"
+  },
+  {
+    "category": "Central bank discount rate",
+    "dataURL": "dumps/rankorder/rawdata_2207.txt",
+    "url": "dumps/rankorder/2207rank.html"
+  },
+  {
+    "category": "Commercial bank prime lending rate",
+    "dataURL": "dumps/rankorder/rawdata_2208.txt",
+    "url": "dumps/rankorder/2208rank.html"
+  },
+  {
+    "category": "Stock of narrow money",
+    "dataURL": "dumps/rankorder/rawdata_2214.txt",
+    "url": "dumps/rankorder/2214rank.html"
+  },
+  {
+    "category": "Stock of broad money",
+    "dataURL": "dumps/rankorder/rawdata_2215.txt",
+    "url": "dumps/rankorder/2215rank.html"
+  },
+  {
+    "category": "Stock of domestic credit",
+    "dataURL": "dumps/rankorder/rawdata_2211.txt",
+    "url": "dumps/rankorder/2211rank.html"
+  },
+  {
+    "category": "Market value of publicly traded shares",
+    "dataURL": "dumps/rankorder/rawdata_2200.txt",
+    "url": "dumps/rankorder/2200rank.html"
+  },
+  {
+    "category": "Current account balance",
+    "dataURL": "dumps/rankorder/rawdata_2187.txt",
+    "url": "dumps/rankorder/2187rank.html"
+  },
+  {
+    "category": "Exports",
+    "dataURL": "dumps/rankorder/rawdata_2078.txt",
+    "url": "dumps/rankorder/2078rank.html"
+  },
+  {
+    "category": "Imports",
+    "dataURL": "dumps/rankorder/rawdata_2087.txt",
+    "url": "dumps/rankorder/2087rank.html"
+  },
+  {
+    "category": "Reserves of foreign exchange and gold",
+    "dataURL": "dumps/rankorder/rawdata_2188.txt",
+    "url": "dumps/rankorder/2188rank.html"
+  },
+  {
+    "category": "Debt - external",
+    "dataURL": "dumps/rankorder/rawdata_2079.txt",
+    "url": "dumps/rankorder/2079rank.html"
+  },
+  {
+    "category": "Stock of direct foreign investment - at home",
+    "dataURL": "dumps/rankorder/rawdata_2198.txt",
+    "url": "dumps/rankorder/2198rank.html"
+  },
+  {
+    "category": "Stock of direct foreign investment - abroad",
+    "dataURL": "dumps/rankorder/rawdata_2199.txt",
+    "url": "dumps/rankorder/2199rank.html"
+  },
+  {
+    "category": "Electricity - production",
+    "dataURL": "dumps/rankorder/rawdata_2232.txt",
+    "url": "dumps/rankorder/2232rank.html"
+  },
+  {
+    "category": "Electricity - consumption",
+    "dataURL": "dumps/rankorder/rawdata_2233.txt",
+    "url": "dumps/rankorder/2233rank.html"
+  },
+  {
+    "category": "Electricity - exports",
+    "dataURL": "dumps/rankorder/rawdata_2234.txt",
+    "url": "dumps/rankorder/2234rank.html"
+  },
+  {
+    "category": "Electricity - imports",
+    "dataURL": "dumps/rankorder/rawdata_2235.txt",
+    "url": "dumps/rankorder/2235rank.html"
+  },
+  {
+    "category": "Electricity - installed generating capacity",
+    "dataURL": "dumps/rankorder/rawdata_2236.txt",
+    "url": "dumps/rankorder/2236rank.html"
+  },
+  {
+    "category": "Electricity - from fossil fuels",
+    "dataURL": "dumps/rankorder/rawdata_2237.txt",
+    "url": "dumps/rankorder/2237rank.html"
+  },
+  {
+    "category": "Electricity - from nuclear fuels",
+    "dataURL": "dumps/rankorder/rawdata_2239.txt",
+    "url": "dumps/rankorder/2239rank.html"
+  },
+  {
+    "category": "Electricity - from hydroelectric plants",
+    "dataURL": "dumps/rankorder/rawdata_2238.txt",
+    "url": "dumps/rankorder/2238rank.html"
+  },
+  {
+    "category": "Electricity - from other renewable sources",
+    "dataURL": "dumps/rankorder/rawdata_2240.txt",
+    "url": "dumps/rankorder/2240rank.html"
+  },
+  {
+    "category": "Crude oil - production",
+    "dataURL": "dumps/rankorder/rawdata_2241.txt",
+    "url": "dumps/rankorder/2241rank.html"
+  },
+  {
+    "category": "Crude oil - exports",
+    "dataURL": "dumps/rankorder/rawdata_2242.txt",
+    "url": "dumps/rankorder/2242rank.html"
+  },
+  {
+    "category": "Crude oil - imports",
+    "dataURL": "dumps/rankorder/rawdata_2243.txt",
+    "url": "dumps/rankorder/2243rank.html"
+  },
+  {
+    "category": "Crude oil - proved reserves",
+    "dataURL": "dumps/rankorder/rawdata_2244.txt",
+    "url": "dumps/rankorder/2244rank.html"
+  },
+  {
+    "category": "Refined petroleum products - production",
+    "dataURL": "dumps/rankorder/rawdata_2245.txt",
+    "url": "dumps/rankorder/2245rank.html"
+  },
+  {
+    "category": "Refined petroleum products - consumption",
+    "dataURL": "dumps/rankorder/rawdata_2246.txt",
+    "url": "dumps/rankorder/2246rank.html"
+  },
+  {
+    "category": "Refined petroleum products - exports",
+    "dataURL": "dumps/rankorder/rawdata_2247.txt",
+    "url": "dumps/rankorder/2247rank.html"
+  },
+  {
+    "category": "Refined petroleum products - imports",
+    "dataURL": "dumps/rankorder/rawdata_2248.txt",
+    "url": "dumps/rankorder/2248rank.html"
+  },
+  {
+    "category": "Natural gas - production",
+    "dataURL": "dumps/rankorder/rawdata_2249.txt",
+    "url": "dumps/rankorder/2249rank.html"
+  },
+  {
+    "category": "Natural gas - consumption",
+    "dataURL": "dumps/rankorder/rawdata_2250.txt",
+    "url": "dumps/rankorder/2250rank.html"
+  },
+  {
+    "category": "Natural gas - exports",
+    "dataURL": "dumps/rankorder/rawdata_2251.txt",
+    "url": "dumps/rankorder/2251rank.html"
+  },
+  {
+    "category": "Natural gas - imports",
+    "dataURL": "dumps/rankorder/rawdata_2252.txt",
+    "url": "dumps/rankorder/2252rank.html"
+  },
+  {
+    "category": "Natural gas - proved reserves",
+    "dataURL": "dumps/rankorder/rawdata_2253.txt",
+    "url": "dumps/rankorder/2253rank.html"
+  },
+  {
+    "category": "Carbon dioxide emissions from consumption of energy",
+    "dataURL": "dumps/rankorder/rawdata_2254.txt",
+    "url": "dumps/rankorder/2254rank.html"
+  },
+  {
+    "category": "Telephones - main lines in use",
+    "dataURL": "dumps/rankorder/rawdata_2150.txt",
+    "url": "dumps/rankorder/2150rank.html"
+  },
+  {
+    "category": "Telephones - mobile cellular",
+    "dataURL": "dumps/rankorder/rawdata_2151.txt",
+    "url": "dumps/rankorder/2151rank.html"
+  },
+  {
+    "category": "Internet hosts",
+    "dataURL": "dumps/rankorder/rawdata_2184.txt",
+    "url": "dumps/rankorder/2184rank.html"
+  },
+  {
+    "category": "Internet users",
+    "dataURL": "dumps/rankorder/rawdata_2153.txt",
+    "url": "dumps/rankorder/2153rank.html"
+  },
+  {
+    "category": "Airports",
+    "dataURL": "dumps/rankorder/rawdata_2053.txt",
+    "url": "dumps/rankorder/2053rank.html"
+  },
+  {
+    "category": "Railways",
+    "dataURL": "dumps/rankorder/rawdata_2121.txt",
+    "url": "dumps/rankorder/2121rank.html"
+  },
+  {
+    "category": "Roadways",
+    "dataURL": "dumps/rankorder/rawdata_2085.txt",
+    "url": "dumps/rankorder/2085rank.html"
+  },
+  {
+    "category": "Waterways",
+    "dataURL": "dumps/rankorder/rawdata_2093.txt",
+    "url": "dumps/rankorder/2093rank.html"
+  },
+  {
+    "category": "Merchant marine",
+    "dataURL": "dumps/rankorder/rawdata_2108.txt",
+    "url": "dumps/rankorder/2108rank.html"
+  },
+  {
+    "category": "Military expenditures",
+    "dataURL": "dumps/rankorder/rawdata_2034.txt",
+    "url": "dumps/rankorder/2034rank.html"
+  }
+]
