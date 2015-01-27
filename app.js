@@ -106,7 +106,7 @@ var exec = require('child_process').exec,
         var deferred = q.defer();
         exec(phantomjsPath + " " + phantomScript, function (error, stdout, stderr) {
             if (error) {
-                deferred.reject(new Error("Failed to launch phantomjs for " + phantomScript));
+                deferred.reject(new Error("phantomjs error for " + phantomScript + ":" + error));
             } else {
                 deferred.resolve("Finished executing " + phantomScript);
             }
