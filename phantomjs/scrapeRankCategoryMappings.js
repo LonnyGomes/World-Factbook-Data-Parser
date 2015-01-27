@@ -29,7 +29,7 @@ function parseRankOrder(url, callback, output) {
                 curTopicEl,
                 rankResults = [];
 
-            
+
             $.each(rankTopics, function (idx, val) {
                 var curElObj = {},
                     valEl = $(val),
@@ -47,15 +47,15 @@ function parseRankOrder(url, callback, output) {
             });
 
             return rankResults;
-            
+
         });
 
         //write the json file out to disk
-        fs.write(output, JSON.stringify(results), function (err) {
-			if (err) {
+        fs.write(output, JSON.stringify(results, null, 2), function (err) {
+            if (err) {
                 return console.log(err);
             }
-			console.log('Saved rank categories dump to:' + output);
+            console.log('Saved rank categories dump to:' + output);
         });
 
         if (callback) {

@@ -24,18 +24,18 @@ function parseCountryFlagsPage(url, output, callback) {
                 curCountryFlagData,
                 flagResults = [];
 
-            
+
             $.each(flagImgs, function (idx, val) {
                 var curData = {},
                     curEl = $(val);
-                
+
                 curData.countryName = curEl.attr('countryName');
                 curData.countryCode = curEl.attr('countrycode');
                 curData.regionCode = curEl.attr('regioncode');
                 curData.region = curEl.attr('region');
                 curData.flagDesc = curEl.attr('flagdescription');
                 curData.flagUrl = curEl.attr('src');
-                
+
                 flagResults.push(curData);
             });
 
@@ -43,11 +43,11 @@ function parseCountryFlagsPage(url, output, callback) {
         });
 
         //write the json file out to disk
-        fs.write(output, JSON.stringify(results), function (err) {
-			if (err) {
+        fs.write(output, JSON.stringify(results, null, 2), function (err) {
+            if (err) {
                 return console.log(err);
             }
-			console.log('Saved country flags dump to:' + output);
+            console.log('Saved country flags dump to:' + output);
         });
 
         if (callback) {

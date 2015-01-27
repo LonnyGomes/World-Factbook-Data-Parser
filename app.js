@@ -133,7 +133,7 @@ var exec = require('child_process').exec,
                 return processRankOrder(rankOrderInputPath, rankOrderData)
                     .then(function (data) {
                         //save rank order results out to disk
-                        FS.write(rankOrderOutputPath, JSON.stringify(data)).then(function (val) {
+                        FS.write(rankOrderOutputPath, JSON.stringify(data, null, 2)).then(function (val) {
                             console.log("done".green);
                             return rankOrderOutputPath;
                         });
