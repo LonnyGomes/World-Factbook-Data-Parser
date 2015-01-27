@@ -29,6 +29,12 @@ var exec = require('child_process').exec,
                 'escape': '"',
                 'comment': ''
             }),
+            sanitizeValue = function (val) {
+                //remove any dollar signs or commas
+                var ret = val.replace(/[$,]/g, '');
+
+                return isNaN(ret) ? ret.trim() : Number(ret);
+            },
             deferred = q.defer();
 
         reader.addListener('error', function (err) {
@@ -39,7 +45,7 @@ var exec = require('child_process').exec,
             var d = {
                 "rank": data[0],
                 "countryName": data[1],
-                "rankValue": data[2]
+                "rankValue": sanitizeValue(data[2])
             };
             //console.log(d.rank, d.countryName, d.rankValue);
             arr.push(d);
