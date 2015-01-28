@@ -43,7 +43,7 @@ var exec = require('child_process').exec,
 
         reader.addListener('data', function (data) {
             var d = {
-                "rank": data[0],
+                "rank": Number(data[0]),
                 "countryName": data[1],
                 "rankValue": sanitizeValue(data[2])
             };
