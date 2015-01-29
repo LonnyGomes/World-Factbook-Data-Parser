@@ -6,10 +6,12 @@
         "https://www.cia.gov/library/publications/download/download-2013/docs.zip",
         "https://www.cia.gov/library/publications/download/download-2013/js.zip",
         "https://www.cia.gov/library/publications/download/download-2013/scripts.zip",
-        "https://www.cia.gov/library/publications/download/download-2013/rankorder.zip"
+        "https://www.cia.gov/library/publications/download/download-2013/rankorder.zip",
+        "https://www.cia.gov/library/publications/download/download-2014/geos.zip"
     ],
     "index_html": "index.html",
     "flags_html": "docs/flagsoftheworld.html",
     "rank_order_html": "rankorder/rankorderguide.html",
-    "output_rank_mappings": "rankCategoriesMapping.json"
+    "output_rank_mappings": "rankCategoriesMapping.json",
+    "countries_path": "countries"
 }
