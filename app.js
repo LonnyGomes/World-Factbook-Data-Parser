@@ -20,6 +20,7 @@ var exec = require('child_process').exec,
     rankOrderOutputPath = path.resolve(params.dataPath, "countryRankings.json"),
     rankOrderData = [],
     countryFlagScript = 'phantomjs/scrapeCountryFlags.js',
+    countryProfilesScript = 'phantomjs/scrapeCountryProfiles.js',
     parseCSV = function (categoryName, categoryPath, dataResults) {
         "use strict";
         var arr = [],
@@ -119,7 +120,8 @@ var exec = require('child_process').exec,
 
         var phantomScripts = [
             [ countryFlagScript, "Processing country flags page"],
-            [ rankOrderScript, "Processing rank order page" ]
+            [ rankOrderScript, "Processing rank order page" ],
+            [ countryProfilesScript, "Processing country profiles"]
         ];
 
         return phantomScripts.reduce(function (prev, curPhantomArgs) {
