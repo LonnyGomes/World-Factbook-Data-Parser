@@ -61,11 +61,8 @@ function parseCountriesList(url, baseOutputPath, callback) {
                                 countryName: valEl.text().trim()
                             }
                         );
-
-                        console.log(valEl.attr('value'));
                     }
                 });
-
 
                 return countries;
             }),
@@ -86,9 +83,6 @@ function parseCountriesList(url, baseOutputPath, callback) {
                     //console.log('Saved ' + d.countryName + ' profile to:' + outputPath);
 
                     cb(null, data);
-                    //if ((cb) && (countryIdx === results.length - 1)) {
-                        //cb('success');
-                    //}
                 });
             },
             curResultsIdx = 0,
@@ -106,15 +100,6 @@ function parseCountriesList(url, baseOutputPath, callback) {
     });
 }
 
-function parserCallback(err) {
-    "use strict";
-    if (err) {
-        console.log("FAILED:" + err);
-    }
-
-    phantom.exit();
-}
-
 //create base output path if it doesn't already exist
 if (!fs.exists(countriesBasePath)) {
     if (!fs.makeDirectory(countriesBasePath)) {
@@ -123,6 +108,13 @@ if (!fs.exists(countriesBasePath)) {
 }
 
 //now that the folder is created, open file
-parseCountriesList(url, countriesBasePath, parserCallback);
+parseCountriesList(url, countriesBasePath, function (err) {
+    "use strict";
+    if (err) {
+        console.log("FAILED:" + err);
+    }
+
+    phantom.exit();
+});
 
 
