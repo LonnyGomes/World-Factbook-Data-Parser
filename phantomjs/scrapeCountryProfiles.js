@@ -23,15 +23,35 @@ function parseCountryProfile(url, callback) {
         //retrieve country profile page
         results = page.evaluate(function () {
             var countryData = {},
-                getCategoryData = function (categoryLabel) {
+                getCategoryTextBlock = function (categoryLabel) {
                     return $(".category a:contains('"  + categoryLabel + "')")
-                        .parents("tr")
+                        .parents("tr:first")
                         .next()
                         .find(".category_data")
                         .text();
+                },
+                getCategoryNestedText = function (categoryLabel, nestedLabel) {
+                    return $(".category a:contains('" + categoryLabel + "')")
+                        .parents("tr:first")
+                        .next()
+                        .find("td .category:contains('" + nestedLabel + "') .category_data")
+                        .text();
+
+//                    return $(".category a:contains('Area:')").parents("tr:first").next().find("td .category:contains('water:') .category_data").text();
                 };
-            countryData.background = getCategoryData("Background");
-            countryData.location = getCategoryData("Location");
+
+            //Introduction Section
+            countryData.background = getCategoryTextBlock("Background");
+
+            //Geography Section
+            countryData.location = getCategoryTextBlock("Location");
+            countryData.geoCoords = getCategoryTextBlock("Geographic coordinates");
+            countryData.area = {
+                total: getCategoryNestedText("Area:", "total:"),
+                land: getCategoryNestedText("Area:", "land:"),
+                water: getCategoryNestedText("Area:", "water:")
+            };
+            countryData.areaCompare = getCategoryTextBlock("Area - comparative:");
 
             return countryData;
         });
