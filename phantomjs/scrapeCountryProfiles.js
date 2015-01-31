@@ -22,8 +22,16 @@ function parseCountryProfile(url, callback) {
 
         //retrieve country profile page
         results = page.evaluate(function () {
-            var countryData = {};
-            countryData.background = $("#data .category_data").text();
+            var countryData = {},
+                getCategoryData = function (categoryLabel) {
+                    return $(".category a:contains('"  + categoryLabel + "')")
+                        .parents("tr")
+                        .next()
+                        .find(".category_data")
+                        .text();
+                };
+            countryData.background = getCategoryData("Background");
+            countryData.location = getCategoryData("Location");
 
             return countryData;
         });
