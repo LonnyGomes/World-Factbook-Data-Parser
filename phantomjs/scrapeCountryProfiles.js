@@ -54,7 +54,34 @@ function parseCountryProfile(url, callback) {
                 },
                 areaCompare: getCategoryTextBlock("Area - comparative:"),
                 landBoundaries: getCategoryTextBlock("Land boundaries:"), //TODO: fix see Aruba and China
-                coastline: getCategoryTextBlock("Coastline:")
+                coastline: getCategoryTextBlock("Coastline:"),
+                //TODO: Maritime claims:
+                climate: getCategoryTextBlock("Climate:"),
+                terrain: getCategoryTextBlock("Terrain:"),
+                elevationLowest: getCategoryNestedText("Elevation extremes:", "lowest point:"),
+                elevationHighest: getCategoryNestedText("Elevation extremes:", "highest point:"),
+                naturalResources: getCategoryTextBlock("Natural resources:"),
+                landUse: {
+                    arable: getCategoryNestedText("Land use:", "arable land:"),
+                    crops: getCategoryNestedText("Land use:", "permanent crops:"),
+                    other: getCategoryNestedText("Land use:", "other:")
+                },
+                irrigatedLand: getCategoryTextBlock("Irrigated land:"),
+                renewableWater: getCategoryTextBlock("Total renewable water resources:"),
+                freshWaterWithdrawal: {
+                    total: getCategoryNestedText("Freshwater withdrawal (domestic/industrial/agricultural):", "total:"),
+                    perCapita: getCategoryNestedText("Freshwater withdrawal (domestic/industrial/agricultural):", "per capita:")
+                },
+                naturalHazards: getCategoryTextBlock("Natural hazards:"),
+                environment: {
+                    currIssues: getCategoryTextBlock("Environment - current issues:"),
+                    intlAgreements: {
+                        partyTo: getCategoryNestedText("Environment - international agreements:", "party to:"),
+                        notRatified: getCategoryNestedText("Environment - international agreements:", "signed, but not ratified:")
+                    }
+                },
+                notes: getCategoryTextBlock("Geography - note:")
+
             };
 
             return countryData;
