@@ -44,14 +44,18 @@ function parseCountryProfile(url, callback) {
             countryData.background = getCategoryTextBlock("Background");
 
             //Geography Section
-            countryData.location = getCategoryTextBlock("Location");
-            countryData.geoCoords = getCategoryTextBlock("Geographic coordinates");
-            countryData.area = {
-                total: getCategoryNestedText("Area:", "total:"),
-                land: getCategoryNestedText("Area:", "land:"),
-                water: getCategoryNestedText("Area:", "water:")
+            countryData.geography = {
+                location: getCategoryTextBlock("Location"),
+                geoCoords: getCategoryTextBlock("Geographic coordinates"),
+                area: {
+                    total: getCategoryNestedText("Area:", "total:"),
+                    land: getCategoryNestedText("Area:", "land:"),
+                    water: getCategoryNestedText("Area:", "water:")
+                },
+                areaCompare: getCategoryTextBlock("Area - comparative:"),
+                landBoundaries: getCategoryTextBlock("Land boundaries:"), //TODO: fix see Aruba and China
+                coastline: getCategoryTextBlock("Coastline:")
             };
-            countryData.areaCompare = getCategoryTextBlock("Area - comparative:");
 
             return countryData;
         });
@@ -96,6 +100,7 @@ function parseCountriesList(url, baseOutputPath, callback) {
             }),
             processCountryData = function (d, cb) {
                 var countryURL = params.downloadsPath + "/" + d.url,
+                    countryName = d.countryName,
                     countryCode = d.url.match(/\/(\w\w)\.html/)[1],
                     outputPath = baseOutputPath + "/" + countryCode + ".json";
 
@@ -104,6 +109,10 @@ function parseCountriesList(url, baseOutputPath, callback) {
                         cb(err);
                         return;
                     }
+
+                    //add country name & code
+                    data.countryName = countryName;
+                    data.countryCode = countryCode.toUpperCase();
 
                     //write the json file out to disk
                     fs.write(outputPath, JSON.stringify(data, null, 2), "w");
