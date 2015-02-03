@@ -13,5 +13,5 @@
     "flags_html": "docs/flagsoftheworld.html",
     "rank_order_html": "rankorder/rankorderguide.html",
     "output_rank_mappings": "rankCategoriesMapping.json",
-    "countries_path": "countries"
+    "countries_path": "profiles"
 }
