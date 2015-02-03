@@ -81,7 +81,44 @@ function parseCountryProfile(url, callback) {
                     }
                 },
                 notes: getCategoryTextBlock("Geography - note:")
+            };
 
+            countryData.people = {
+                nationality: {
+                    noun: getCategoryNestedText("Nationality", "noun:"),
+                    adjective: getCategoryNestedText("Nationality", "adjective:")
+                },
+                ethnicGroups: getCategoryTextBlock("Ethnic groups"),
+                ethnicGroupsNote: getCategoryNestedText("Ethnic groups", "note:"), //TODO: fix
+                languages: getCategoryTextBlock("Languages:"),
+                religions: getCategoryTextBlock("Religions:"),
+                population: getCategoryTextBlock("Population:"),
+                ageStructure: {
+                    years00to14: getCategoryNestedText("Age structure", "0-14 years:"),
+                    years15to24: getCategoryNestedText("Age structure", "15-24 years:"),
+                    years25to54: getCategoryNestedText("Age structure", "25-54 years:"),
+                    years55to64: getCategoryNestedText("Age structure", "55-64 years:"),
+                    years65to99: getCategoryNestedText("Age structure", "65 years and over:")
+                },
+                dependencyRatios: {
+                    total: getCategoryNestedText("Dependency ratios", "total dependency ratio:"),
+                    youth: getCategoryNestedText("Dependency ratios", "youth dependency ratio:"),
+                    elderly: getCategoryNestedText("Dependency ratios", "elderly dependency ratio:"),
+                    potential: getCategoryNestedText("Dependency ratios", "potential support ratio:")
+                },
+                medianAge: {
+                    total: getCategoryNestedText("Median age", "total:"),
+                    male: getCategoryNestedText("Median age", "male:"),
+                    female: getCategoryNestedText("Median age", "female:")
+                },
+                populationGrowth: getCategoryTextBlock("Population growth rate"),
+                birthRate: getCategoryTextBlock("Birth rate"),
+                deathRate: getCategoryTextBlock("Death rate"),
+                netMigration: getCategoryTextBlock("Net migration rate"),
+                urbanization: {
+                    population: getCategoryNestedText("Urbanization", "urban population:"),
+                    rate: getCategoryNestedText("Urbanization", "rate of urbanization:")
+                }
             };
 
             return countryData;
