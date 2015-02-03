@@ -1,0 +1,42 @@
+{
+  "background": "There are 27 coral islands in the group. Captain William KEELING discovered the islands in 1609, but they remained uninhabited until the 19th century. From the 1820s to 1978, members of the CLUNIE-ROSS family controlled the islands and the copra produced from local coconuts. Annexed by the UK in 1857, the Cocos Islands were transferred to the Australian Government in 1955. Apart from North Keeling Island, which lies 30 kilometers north of the main group, the islands form a horseshoe-shaped atoll surrounding a lagoon. North Keeling Island was declared a national park in 1995 and is administered by Parks Australia. The population on the two inhabited islands generally is split between the ethnic Europeans on West Island and the ethnic Malays on Home Island.",
+  "geography": {
+    "area": {
+      "land": "14 sq km ",
+      "total": "14 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about 24 times the size of The Mall in Washington, DC",
+    "climate": "tropical with high humidity, moderated by the southeast trade winds for about nine months of the year",
+    "coastline": "26 km",
+    "elevationHighest": "unnamed location 5 m ",
+    "elevationLowest": "Indian Ocean 0 m",
+    "environment": {
+      "currIssues": "freshwater resources are limited to rainwater accumulations in natural underground reservoirs",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "12 30 S, 96 50 E",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0%",
+      "crops": "0% ",
+      "other": "100% (2011) "
+    },
+    "location": "Southeastern Asia, group of islands in the Indian Ocean, southwest of Indonesia, about halfway between Australia and Sri Lanka",
+    "naturalHazards": "cyclone season is October to April",
+    "naturalResources": "fish",
+    "notes": "islands are thickly covered with coconut palms and other vegetation; site of a World War I naval battle in November 1914 between the Australian light cruiser HMAS Sydney and the German raider SMS Emden; after being heavily damaged in the engagement, the Emden was beached by her captain on North Keeling Island",
+    "renewableWater": "",
+    "terrain": "flat, low-lying coral atolls"
+  },
+  "countryName": "Cocos (Keeling) Islands",
+  "countryCode": "CK"
+}

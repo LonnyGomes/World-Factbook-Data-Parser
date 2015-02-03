@@ -1,0 +1,42 @@
+{
+  "background": "Muslim conversions and settlement in the region now referred to as Bangladesh began in the 10th century, primarily from Arab and Persian traders and preachers. Europeans began to set up trading posts in the area in the 16th century. Eventually the area known as Bengal, primarily Hindu in the western section and mostly Muslim in the eastern half, became part of British India. Partition in 1947 resulted in an eastern wing of Pakistan in the Muslim-majority area, which became East Pakistan. Calls for greater autonomy and animosity between the eastern and western wings of Pakistan led to a Bengali independence movement. That movement, led by the Awami League (AL) and supported by India, won independence for Bangladesh in a brief war in 1971, during which at least 300,000 civilians died. The post-independence, AL government faced daunting challenges and in 1975 was overthrown by the military, triggering a series of military coups that resulted in a military-backed government and subsequent creation of the Bangladesh Nationalist Party (BNP). That government also ended in a coup in 1981, followed by military-backed rule until democratic elections in 1991. The BNP and AL have alternately held power since then, with the exception of a military-backed, emergency caretaker regime that suspended parliamentary elections planned for January 2007 in an effort to reform the political system and root out corruption. That government returned the country to fully democratic rule in December 2008 with the election of the AL and Prime Minister Sheikh HASINA. In January 2014, the AL won the national election by an overwhelming majority after the BNP boycotted, extending HASINA's term as prime minister. With the help of international development assistance, Bangladesh has made great progress in food security since independence, and the economy has grown at an average of about 6 percent over the last two decades.",
+  "geography": {
+    "area": {
+      "land": "130,168 sq km ",
+      "total": "143,998 sq km",
+      "water": "13,830 sq km "
+    },
+    "areaCompare": "slightly smaller than Iowa",
+    "climate": "tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)",
+    "coastline": "580 km",
+    "elevationHighest": "Keokradong 1,230 m ",
+    "elevationLowest": "Indian Ocean 0 m",
+    "environment": {
+      "currIssues": "many people are landless and forced to live on and cultivate flood-prone land; waterborne diseases prevalent in surface water; water pollution, especially of fishing areas, results from the use of commercial pesticides; ground water contaminated by naturally occurring arsenic; intermittent water shortages because of falling water tables in the northern and central parts of the country; soil degradation and erosion; deforestation; severe overpopulation",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "238.3  cu m/yr (2008) ",
+      "total": "35.87  cu km/yr (10%/2%/88%)"
+    },
+    "geoCoords": "24 00 N, 90 00 E",
+    "irrigatedLand": "50,500 sq km (2008)",
+    "landBoundaries": "4,413 kmBurma 271 km, India 4,142 km ",
+    "landUse": {
+      "arable": "52.97%",
+      "crops": "6.25% ",
+      "other": "40.78% (2011) "
+    },
+    "location": "Southern Asia, bordering the Bay of Bengal, between Burma and India",
+    "naturalHazards": "droughts; cyclones; much of the country routinely inundated during the summer monsoon season",
+    "naturalResources": "natural gas, arable land, timber, coal",
+    "notes": "most of the country is situated on deltas of large rivers flowing from the Himalayas: the Ganges unites with the Jamuna (main channel of the Brahmaputra) and later joins the Meghna to eventually empty into the Bay of Bengal",
+    "renewableWater": "1,227 cu km (2011)",
+    "terrain": "mostly flat alluvial plain; hilly in southeast"
+  },
+  "countryName": "Bangladesh",
+  "countryCode": "BG"
+}

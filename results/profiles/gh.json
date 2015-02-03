@@ -1,0 +1,42 @@
+{
+  "background": "Formed from the merger of the British colony of the Gold Coast and the Togoland trust territory, Ghana in 1957 became the first sub-Saharan country in colonial Africa to gain its independence. Ghana endured a long series of coups before Lt. Jerry RAWLINGS took power in 1981 and banned political parties. After approving a new constitution and restoring multiparty politics in 1992, RAWLINGS won presidential elections in 1992 and 1996 but was constitutionally prevented from running for a third term in 2000. John KUFUOR succeeded him and was reelected in 2004. John Atta MILLS won the 2008 presidential election and took over as head of state, but he died in July 2012 and was constitutionally succeeded by his vice president John Dramani MAHAMA, who subsequently won the December 2012 presidential election.",
+  "geography": {
+    "area": {
+      "land": "227,533 sq km ",
+      "total": "238,533 sq km",
+      "water": "11,000 sq km "
+    },
+    "areaCompare": "slightly smaller than Oregon",
+    "climate": "tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north",
+    "coastline": "539 km",
+    "elevationHighest": "Mount Afadjato 885 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "recurrent drought in north severely affects agricultural activities; deforestation; overgrazing; soil erosion; poaching and habitat destruction threatens wildlife populations; water pollution; inadequate supplies of potable water",
+      "intlAgreements": {
+        "notRatified": "Marine Life Conservation ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "48.82  cu m/yr (2000) ",
+      "total": "0.98  cu km/yr (24%/10%/66%)"
+    },
+    "geoCoords": "8 00 N, 2 00 W",
+    "irrigatedLand": "309 sq km (2003)",
+    "landBoundaries": "2,420 kmBurkina Faso 602 km, Cote d'Ivoire 720 km, Togo 1,098 km ",
+    "landUse": {
+      "arable": "20.12%",
+      "crops": "11.74% ",
+      "other": "68.14% (2011) "
+    },
+    "location": "Western Africa, bordering the Gulf of Guinea, between Cote d'Ivoire and Togo",
+    "naturalHazards": "dry, dusty, northeastern harmattan winds from January to March; droughts",
+    "naturalResources": "gold, timber, industrial diamonds, bauxite, manganese, fish, rubber, hydropower, petroleum, silver, salt, limestone",
+    "notes": "Lake Volta is the world's largest artificial lake by surface area (8,482 sq km; 3,275 sq mi)",
+    "renewableWater": "53.2 cu km (2011)",
+    "terrain": "mostly low plains with dissected plateau in south-central area"
+  },
+  "countryName": "Ghana",
+  "countryCode": "GH"
+}

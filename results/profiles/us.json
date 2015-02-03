@@ -1,0 +1,42 @@
+{
+  "background": "Britain's American colonies broke with the mother country in 1776 and were recognized as the new nation of the United States of America following the Treaty of Paris in 1783. During the 19th and 20th centuries, 37 new states were added to the original 13 as the nation expanded across the North American continent and acquired a number of overseas possessions. The two most traumatic experiences in the nation's history were the Civil War (1861-65), in which a northern Union of states defeated a secessionist Confederacy of 11 southern slave states, and the Great Depression of the 1930s, an economic downturn during which about a quarter of the labor force lost its jobs. Buoyed by victories in World Wars I and II and the end of the Cold War in 1991, the US remains the world's most powerful nation state. Since the end of World War II, the economy has achieved relatively steady growth, low unemployment and inflation, and rapid advances in technology.",
+  "geography": {
+    "area": {
+      "land": "9,161,966 sq km ",
+      "total": "9,826,675 sq km",
+      "water": "664,709 sq km "
+    },
+    "areaCompare": "about half the size of Russia; about three-tenths the size of Africa; about half the size of South America (or slightly larger than Brazil); slightly larger than China; more than twice the size of the European Union",
+    "climate": "mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid in the great plains west of the Mississippi River, and arid in the Great Basin of the southwest; low winter temperatures in the northwest are ameliorated occasionally in January and February by warm chinook winds from the eastern slopes of the Rocky Mountains",
+    "coastline": "19,924 km",
+    "elevationHighest": "Mount McKinley (Denali) 6,194 m (highest point in North America) ",
+    "elevationLowest": "Death Valley -86 m",
+    "environment": {
+      "currIssues": "air pollution resulting in acid rain in both the US and Canada; large emitter of carbon dioxide from the burning of fossil fuels; water pollution from runoff of pesticides and fertilizers; limited natural freshwater resources in much of the western part of the country require careful management; desertification",
+      "intlAgreements": {
+        "notRatified": "Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change-Kyoto Protocol, Hazardous Wastes ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Climate Change, Desertification, Endangered Species, Environmental Modification, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "1,583  cu m/yr (2005) ",
+      "total": "478.4  cu km/yr (14%/46%/40%)"
+    },
+    "geoCoords": "38 00 N, 97 00 W",
+    "irrigatedLand": "266,440 sq km (2007)",
+    "landBoundaries": "12,034 kmCanada 8,893 km (including 2,477 km with Alaska), Mexico 3,141 km US Naval Base at Guantanamo Bay, Cuba is leased by the US and is part of Cuba; the base boundary is 28 km ",
+    "landUse": {
+      "arable": "16.29%",
+      "crops": "0.26% ",
+      "other": "83.44% (2011) "
+    },
+    "location": "North America, bordering both the North Atlantic Ocean and the North Pacific Ocean, between Canada and Mexico",
+    "naturalHazards": "tsunamis; volcanoes; earthquake activity around Pacific Basin; hurricanes along the Atlantic and Gulf of Mexico coasts; tornadoes in the Midwest and Southeast; mud slides in California; forest fires in the west; flooding; permafrost in northern Alaska, a major impediment to developmentvolcanic activity in the Hawaiian Islands, Western Alaska, the Pacific Northwest, and in the Northern Mariana Islands; both Mauna Loa (elev. 4,170 m) in Hawaii and Mount Rainier (elev. 4,392 m) in Washington have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Pavlof (elev. 2,519 m) is the most active volcano in Alaska's Aleutian Arc and poses a significant threat to air travel since the area constitutes a major flight path between North America and East Asia; St. Helens (elev. 2,549 m), famous for the devastating 1980 eruption, remains active today; numerous other historically active volcanoes exist, mostly concentrated in the Aleutian arc and Hawaii; they include: in Alaska: Aniakchak, Augustine, Chiginagak, Fourpeaked, Iliamna, Katmai, Kupreanof, Martin, Novarupta, Redoubt, Spurr, Wrangell; in Hawaii: Trident, Ugashik-Peulik, Ukinrek Maars, Veniaminof; in the Northern Mariana Islands: Anatahan; and in the Pacific Northwest: Mount Baker, Mount Hood ",
+    "naturalResources": "coal, copper, lead, molybdenum, phosphates, rare earth elements, uranium, bauxite, gold, iron, mercury, nickel, potash, silver, tungsten, zinc, petroleum, natural gas, timberthe US has the world's largest coal reserves with 491 billion short tons accounting for 27% of the world's total ",
+    "notes": "world's third-largest country by size (after Russia and Canada) and by population (after China and India); Mt. McKinley is highest point in North America and Death Valley the lowest point on the continent",
+    "renewableWater": "3,069 cu km (2011)",
+    "terrain": "vast central plain, mountains in west, hills and low mountains in east; rugged mountains and broad river valleys in Alaska; rugged, volcanic topography in Hawaii"
+  },
+  "countryName": "United States",
+  "countryCode": "US"
+}

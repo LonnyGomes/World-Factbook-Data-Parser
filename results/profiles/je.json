@@ -1,0 +1,42 @@
+{
+  "background": "Jersey and the other Channel Islands represent the last remnants of the medieval Dukedom of Normandy that held sway in both France and England. These islands were the only British soil occupied by German troops in World War II. Jersey is a British crown dependency but is not part of the UK or of the European Union. However, the UK Government is constitutionally responsible for its defense and international representation.",
+  "geography": {
+    "area": {
+      "land": "116 sq km ",
+      "total": "116 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about two-thirds the size of Washington, DC",
+    "climate": "temperate; mild winters and cool summers",
+    "coastline": "70 km",
+    "elevationHighest": "unnamed elevation 143 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "49 15 N, 2 10 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "NA",
+      "crops": "NA ",
+      "other": "NA "
+    },
+    "location": "Western Europe, island in the English Channel, northwest of France",
+    "naturalHazards": "NA",
+    "naturalResources": "arable land",
+    "notes": "largest and southernmost of Channel Islands; about 30% of population concentrated in Saint Helier",
+    "renewableWater": "",
+    "terrain": "gently rolling plain with low, rugged hills along north coast"
+  },
+  "countryName": "Jersey",
+  "countryCode": "JE"
+}

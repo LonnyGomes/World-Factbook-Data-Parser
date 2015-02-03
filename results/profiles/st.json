@@ -1,0 +1,42 @@
+{
+  "background": "The island, with its fine natural harbor at Castries, was contested between England and France throughout the 17th and early 18th centuries (changing possession 14 times); it was finally ceded to the UK in 1814. Even after the abolition of slavery on its plantations in 1834, Saint Lucia remained an agricultural island, dedicated to producing tropical commodity crops. Self-government was granted in 1967 and independence in 1979.",
+  "geography": {
+    "area": {
+      "land": "606 sq km ",
+      "total": "616 sq km",
+      "water": "10 sq km "
+    },
+    "areaCompare": "three and a half times the size of Washington, DC",
+    "climate": "tropical, moderated by northeast trade winds; dry season January to April, rainy season May to August",
+    "coastline": "158 km",
+    "elevationHighest": "Mount Gimie 950 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "deforestation; soil erosion, particularly in the northern region",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "98.22  cu m/yr (2005) ",
+      "total": "0.02  cu km/yr (NA)"
+    },
+    "geoCoords": "13 53 N, 60 58 W",
+    "irrigatedLand": "30 sq km (2007)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "4.84%",
+      "crops": "11.29% ",
+      "other": "83.87% (2011) "
+    },
+    "location": "Caribbean, island between the Caribbean Sea and North Atlantic Ocean, north of Trinidad and Tobago",
+    "naturalHazards": "hurricanes; volcanic activity",
+    "naturalResources": "forests, sandy beaches, minerals (pumice), mineral springs, geothermal potential",
+    "notes": "the twin Pitons (Gros Piton and Petit Piton), striking cone-shaped peaks south of Soufriere, are one of the scenic natural highlights of the Caribbean",
+    "renewableWater": "",
+    "terrain": "volcanic and mountainous with some broad, fertile valleys"
+  },
+  "countryName": "Saint Lucia",
+  "countryCode": "ST"
+}

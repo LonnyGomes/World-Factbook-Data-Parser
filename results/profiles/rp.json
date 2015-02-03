@@ -1,0 +1,42 @@
+{
+  "background": "The Philippine Islands became a Spanish colony during the 16th century; they were ceded to the US in 1898 following the Spanish-American War. In 1935 the Philippines became a self-governing commonwealth. Manuel QUEZON was elected president and was tasked with preparing the country for independence after a 10-year transition. In 1942 the islands fell under Japanese occupation during World War II, and US forces and Filipinos fought together during 1944-45 to regain control. On 4 July 1946 the Republic of the Philippines attained its independence. A 20-year rule by Ferdinand MARCOS ended in 1986, when a \"people power\" movement in Manila (\"EDSA 1\") forced him into exile and installed Corazon AQUINO as president. Her presidency was hampered by several coup attempts that prevented a return to full political stability and economic development. Fidel RAMOS was elected president in 1992. His administration was marked by increased stability and by progress on economic reforms. In 1992, the US closed its last military bases on the islands. Joseph ESTRADA was elected president in 1998. He was succeeded by his vice-president, Gloria MACAPAGAL-ARROYO, in January 2001 after ESTRADA's stormy impeachment trial on corruption charges broke down and another \"people power\" movement (\"EDSA 2\") demanded his resignation. MACAPAGAL-ARROYO was elected to a six-year term as president in May 2004. Her presidency was marred by several corruption allegations but the Philippine economy was one of the few to avoid contraction following the 2008 global financial crisis, expanding each year of her administration. Benigno AQUINO III was elected to a six-year term as president in May 2010. The Philippine Government faces threats from several groups, some of which are on the US Government's Foreign Terrorist Organization list. Manila has waged a decades-long struggle against ethnic Moro insurgencies in the southern Philippines, which has led to a peace accord with the Moro National Liberation Front and ongoing peace talks with the Moro Islamic Liberation Front. The decades-long Maoist-inspired New People's Army insurgency also operates through much of the country. The Philippines faces increased tension with China over disputed territorial and maritime claims in the South China Sea.",
+  "geography": {
+    "area": {
+      "land": "298,170 sq km ",
+      "total": "300,000 sq km",
+      "water": "1,830 sq km "
+    },
+    "areaCompare": "",
+    "climate": "tropical marine; northeast monsoon (November to April); southwest monsoon (May to October)",
+    "coastline": "36,289 km",
+    "elevationHighest": "Mount Apo 2,954 m ",
+    "elevationLowest": "Philippine Sea 0 m",
+    "environment": {
+      "currIssues": "uncontrolled deforestation especially in watershed areas; soil erosion; air and water pollution in major urban centers; coral reef degradation; increasing pollution of coastal mangrove swamps that are important fish breeding grounds",
+      "intlAgreements": {
+        "notRatified": "Air Pollution-Persistent Organic Pollutants ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "859.9  cu m/yr (2009) ",
+      "total": "81.56  cu km/yr (8%/10%/82%)"
+    },
+    "geoCoords": "13 00 N, 122 00 E",
+    "irrigatedLand": "18,790 sq km (2006)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "18%",
+      "crops": "17.33% ",
+      "other": "64.67% (2011) "
+    },
+    "location": "Southeastern Asia, archipelago between the Philippine Sea and the South China Sea, east of Vietnam",
+    "naturalHazards": "astride typhoon belt, usually affected by 15 and struck by five to six cyclonic storms each year; landslides; active volcanoes; destructive earthquakes; tsunamissignificant volcanic activity; Taal (elev. 311 m), which has shown recent unrest and may erupt in the near future, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Mayon (elev. 2,462 m), the country's most active volcano, erupted in 2009 forcing over 33,000 to be evacuated; other historically active volcanoes include Biliran, Babuyan Claro, Bulusan, Camiguin, Camiguin de Babuyanes, Didicas, Iraya, Jolo, Kanlaon, Makaturing, Musuan, Parker, Pinatubo and Ragang ",
+    "naturalResources": "timber, petroleum, nickel, cobalt, silver, gold, salt, copper",
+    "notes": "the Philippine archipelago is made up of 7,107 islands; favorably located in relation to many of Southeast Asia's main water bodies: the South China Sea, Philippine Sea, Sulu Sea, Celebes Sea, and Luzon Strait",
+    "renewableWater": "479 cu km (2011)",
+    "terrain": "mostly mountains with narrow to extensive coastal lowlands"
+  },
+  "countryName": "Philippines",
+  "countryCode": "RP"
+}

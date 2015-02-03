@@ -1,0 +1,42 @@
+{
+  "background": "First discovered by the Norwegians in the 12th century, the islands served as an international whaling base during the 17th and 18th centuries. Norway's sovereignty was recognized in 1920; five years later it officially took over the territory.",
+  "geography": {
+    "area": {
+      "land": "62,045 sq km ",
+      "total": "62,045 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly smaller than West Virginia",
+    "climate": "arctic, tempered by warm North Atlantic Current; cool summers, cold winters; North Atlantic Current flows along west and north coasts of Spitsbergen, keeping water open and navigable most of the year",
+    "coastline": "3,587 km",
+    "elevationHighest": "Newtontoppen 1,717 m ",
+    "elevationLowest": "Arctic Ocean 0 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "78 00 N, 20 00 E",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0%",
+      "crops": "0% ",
+      "other": "100% (no trees; the only bushes are crowberry and cloudberry) (2011) "
+    },
+    "location": "Northern Europe, islands between the Arctic Ocean, Barents Sea, Greenland Sea, and Norwegian Sea, north of Norway",
+    "naturalHazards": "ice floes often block the entrance to Bellsund (a transit point for coal export) on the west coast and occasionally make parts of the northeastern coast inaccessible to maritime traffic",
+    "naturalResources": "coal, iron ore, copper, zinc, phosphate, wildlife, fish",
+    "notes": "northernmost part of the Kingdom of Norway; consists of nine main islands; glaciers and snowfields cover 60% of the total area; Spitsbergen Island is the site of the Svalbard Global Seed Vault, a seed repository established by the Global Crop Diversity Trust and the Norwegian Government",
+    "renewableWater": "",
+    "terrain": "wild, rugged mountains; much of high land ice covered; west coast clear of ice about one-half of the year; fjords along west and north coasts"
+  },
+  "countryName": "Svalbard",
+  "countryCode": "SV"
+}

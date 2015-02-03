@@ -1,0 +1,42 @@
+{
+  "background": "The Indus Valley civilization, one of the oldest in the world and dating back at least 5,000 years, spread over much of what is presently Pakistan. During the second millennium B.C., remnants of this culture fused with the migrating Indo-Aryan peoples. The area underwent successive invasions in subsequent centuries from the Persians, Greeks, Scythians, Arabs (who brought Islam), Afghans, and Turks. The Mughal Empire flourished in the 16th and 17th centuries; the British came to dominate the region in the 18th century. The separation in 1947 of British India into the Muslim state of Pakistan (with West and East sections) and largely Hindu India was never satisfactorily resolved, and India and Pakistan fought two wars - in 1947-48 and 1965 - over the disputed Kashmir territory. A third war between these countries in 1971 - in which India capitalized on Islamabad's marginalization of Bengalis in Pakistani politics - resulted in East Pakistan becoming the separate nation of Bangladesh. In response to Indian nuclear weapons testing, Pakistan conducted its own tests in 1998. India-Pakistan relations have been rocky since the November 2008 Mumbai attacks, but both countries are taking small steps to put relations back on track. In February 2008, Pakistan held parliamentary elections and in September 2008, after the resignation of former President MUSHARRAF, elected Asif Ali ZARDARI to the presidency. Pakistani government and military leaders are struggling to control domestic insurgents, many of whom are located in the tribal areas adjacent to the border with Afghanistan.",
+  "geography": {
+    "area": {
+      "land": "770,875 sq km ",
+      "total": "796,095 sq km",
+      "water": "25,220 sq km "
+    },
+    "areaCompare": "",
+    "climate": "mostly hot, dry desert; temperate in northwest; arctic in north",
+    "coastline": "1,046 km",
+    "elevationHighest": "K2 (Mt. Godwin-Austen) 8,611 m ",
+    "elevationLowest": "Indian Ocean 0 m",
+    "environment": {
+      "currIssues": "water pollution from raw sewage, industrial wastes, and agricultural runoff; limited natural freshwater resources; most of the population does not have access to potable water; deforestation; soil erosion; desertification",
+      "intlAgreements": {
+        "notRatified": "Marine Life Conservation ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "1,038  cu m/yr (2008) ",
+      "total": "183.5  cu km/yr (5%/1%/94%)"
+    },
+    "geoCoords": "30 00 N, 70 00 E",
+    "irrigatedLand": "199,900 sq km (2008)",
+    "landBoundaries": "6,774 kmAfghanistan 2,430 km, China 523 km, India 2,912 km, Iran 909 km ",
+    "landUse": {
+      "arable": "26.02%",
+      "crops": "1.05% ",
+      "other": "72.93% (2011) "
+    },
+    "location": "Southern Asia, bordering the Arabian Sea, between India on the east and Iran and Afghanistan on the west and China in the north",
+    "naturalHazards": "frequent earthquakes, occasionally severe especially in north and west; flooding along the Indus after heavy rains (July and August)",
+    "naturalResources": "land, extensive natural gas reserves, limited petroleum, poor quality coal, iron ore, copper, salt, limestone",
+    "notes": "controls Khyber Pass and Bolan Pass, traditional invasion routes between Central Asia and the Indian Subcontinent",
+    "renewableWater": "246.8 cu km (2011)",
+    "terrain": "flat Indus plain in east; mountains in north and northwest; Balochistan plateau in west"
+  },
+  "countryName": "Pakistan",
+  "countryCode": "PK"
+}

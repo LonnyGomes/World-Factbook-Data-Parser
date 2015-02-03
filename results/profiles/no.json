@@ -1,0 +1,42 @@
+{
+  "background": "Two centuries of Viking raids into Europe tapered off following the adoption of Christianity by King Olav TRYGGVASON in 994. Conversion of the Norwegian kingdom occurred over the next several decades. In 1397, Norway was absorbed into a union with Denmark that lasted more than four centuries. In 1814, Norwegians resisted the cession of their country to Sweden and adopted a new constitution. Sweden then invaded Norway but agreed to let Norway keep its constitution in return for accepting the union under a Swedish king. Rising nationalism throughout the 19th century led to a 1905 referendum granting Norway independence. Although Norway remained neutral in World War I, it suffered heavy losses to its shipping. Norway proclaimed its neutrality at the outset of World War II, but was nonetheless occupied for five years by Nazi Germany (1940-45). In 1949, neutrality was abandoned and Norway became a member of NATO. Discovery of oil and gas in adjacent waters in the late 1960s boosted Norway's economic fortunes. In referenda held in 1972 and 1994, Norway rejected joining the EU. Key domestic issues include immigration and integration of ethnic minorities, maintaining the country's extensive social safety net with an aging population, and preserving economic competitiveness.",
+  "geography": {
+    "area": {
+      "land": "304,282 sq km ",
+      "total": "323,802 sq km",
+      "water": "19,520 sq km "
+    },
+    "areaCompare": "slightly larger than New Mexico",
+    "climate": "temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast",
+    "coastline": "25,148 km (includes mainland 2,650 km, as well as long fjords, numerous small islands, and minor indentations 22,498 km; length of island coastlines 58,133 km)",
+    "elevationHighest": "Galdhopiggen 2,469 m ",
+    "elevationLowest": "Norwegian Sea 0 m",
+    "environment": {
+      "currIssues": "water pollution; acid rain damaging forests and adversely affecting lakes, threatening fish stocks; air pollution from vehicle emissions",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "622.4  cu m/yr (2006) ",
+      "total": "2.94  cu km/yr (28%/43%/29%)"
+    },
+    "geoCoords": "62 00 N, 10 00 E",
+    "irrigatedLand": "1,149 sq km (2007)",
+    "landBoundaries": "2,542 kmFinland 727 km, Sweden 1,619 km, Russia 196 km ",
+    "landUse": {
+      "arable": "2.52%",
+      "crops": "0.01% ",
+      "other": "97.46% (2011) "
+    },
+    "location": "Northern Europe, bordering the North Sea and the North Atlantic Ocean, west of Sweden",
+    "naturalHazards": "rockslides, avalanchesBeerenberg (elev. 2,227 m) on Jan Mayen Island in the Norwegian Sea is the country's only active volcano ",
+    "naturalResources": "petroleum, natural gas, iron ore, copper, lead, zinc, titanium, pyrites, nickel, fish, timber, hydropower",
+    "notes": "about two-thirds mountains; some 50,000 islands off its much-indented coastline; strategic location adjacent to sea lanes and air routes in North Atlantic; one of the most rugged and longest coastlines in the world",
+    "renewableWater": "382 cu km (2011)",
+    "terrain": "glaciated; mostly high plateaus and rugged mountains broken by fertile valleys; small, scattered plains; coastline deeply indented by fjords; arctic tundra in north"
+  },
+  "countryName": "Norway",
+  "countryCode": "NO"
+}

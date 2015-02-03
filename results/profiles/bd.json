@@ -1,0 +1,42 @@
+{
+  "background": "Bermuda was first settled in 1609 by shipwrecked English colonists headed for Virginia. Self-governing since 1620, Bermuda is the oldest and most populous of the British overseas territories. Vacationing to the island to escape North American winters first developed in Victorian times. Tourism continues to be important to the island's economy, although international business has overtaken it in recent years. Bermuda has also developed into a highly successful offshore financial center. A referendum on independence from the UK was soundly defeated in 1995.",
+  "geography": {
+    "area": {
+      "land": "54 sq km ",
+      "total": "54 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about one-third the size of Washington, DC",
+    "climate": "subtropical; mild, humid; gales, strong winds common in winter",
+    "coastline": "103 km",
+    "elevationHighest": "Town Hill 76 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "sustainable development",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "32 20 N, 64 45 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "14.8%",
+      "crops": "0% ",
+      "other": "85.2% (55% developed, 45% rural/open space) (2011) "
+    },
+    "location": "North America, group of islands in the North Atlantic Ocean, east of South Carolina (US)",
+    "naturalHazards": "hurricanes (June to November)",
+    "naturalResources": "limestone, pleasant climate fostering tourism",
+    "notes": "consists of about 138 coral islands and islets with ample rainfall, but no rivers or freshwater lakes; some land was leased by the US Government from 1941 to 1995",
+    "renewableWater": "",
+    "terrain": "low hills separated by fertile depressions"
+  },
+  "countryName": "Bermuda",
+  "countryCode": "BD"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "A unified Thai kingdom was established in the mid-14th century. Known as Siam until 1939, Thailand is the only Southeast Asian country never to have been taken over by a European power. A bloodless revolution in 1932 led to a constitutional monarchy. In alliance with Japan during World War II, Thailand became a US treaty ally in 1954 after sending troops to Korea and later fighting alongside the United States in Vietnam. Thailand since 2005 has experienced several rounds of political turmoil including a military coup in 2006 that ousted then Prime Minister THAKSIN Chinnawat, followed by large-scale street protests by competing political factions in 2008, 2009, and 2010. THAKSIN's youngest sister, YINGLAK Chinnawat, in 2011 led the Puea Thai Party to an electoral win and assumed control of the government. A blanket amnesty bill for individuals involved in street protests, altered at the last minute to include all political crimes - including all convictions against THAKSIN - triggered months of large-scale anti-government protests in Bangkok beginning in November 2013. In early May 2014 YINGLAK was removed from office and in late May 2014 the Royal Thai Army staged a coup against the caretaker government. Thailand has also experienced violence associated with the ethno-nationalist insurgency in Thailand's southern Malay-Muslim majority provinces. Since January 2004, thousands have been killed and wounded in the insurgency.",
+  "geography": {
+    "area": {
+      "land": "510,890 sq km ",
+      "total": "513,120 sq km",
+      "water": "2,230 sq km "
+    },
+    "areaCompare": "slightly more than twice the size of Wyoming",
+    "climate": "tropical; rainy, warm, cloudy southwest monsoon (mid-May to September); dry, cool northeast monsoon (November to mid-March); southern isthmus always hot and humid",
+    "coastline": "3,219 km",
+    "elevationHighest": "Doi Inthanon 2,576 m ",
+    "elevationLowest": "Gulf of Thailand 0 m",
+    "environment": {
+      "currIssues": "air pollution from vehicle emissions; water pollution from organic and factory wastes; deforestation; soil erosion; wildlife populations threatened by illegal hunting",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "845.3  cu m/yr (2007) ",
+      "total": "57.31  cu km/yr (5%/5%/90%)"
+    },
+    "geoCoords": "15 00 N, 100 00 E",
+    "irrigatedLand": "64,150 sq km (2007)",
+    "landBoundaries": "4,863 kmBurma 1,800 km, Cambodia 803 km, Laos 1,754 km, Malaysia 506 km ",
+    "landUse": {
+      "arable": "30.71%",
+      "crops": "8.77% ",
+      "other": "60.52% (2011) "
+    },
+    "location": "Southeastern Asia, bordering the Andaman Sea and the Gulf of Thailand, southeast of Burma",
+    "naturalHazards": "land subsidence in Bangkok area resulting from the depletion of the water table; droughts",
+    "naturalResources": "tin, rubber, natural gas, tungsten, tantalum, timber, lead, fish, gypsum, lignite, fluorite, arable land",
+    "notes": "controls only land route from Asia to Malaysia and Singapore",
+    "renewableWater": "438.6 cu km (2011)",
+    "terrain": "central plain; Khorat Plateau in the east; mountains elsewhere"
+  },
+  "countryName": "Thailand",
+  "countryCode": "TH"
+}

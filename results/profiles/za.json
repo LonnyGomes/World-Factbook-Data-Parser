@@ -1,0 +1,42 @@
+{
+  "background": "The territory of Northern Rhodesia was administered by the [British] South Africa Company from 1891 until it was taken over by the UK in 1923. During the 1920s and 1930s, advances in mining spurred development and immigration. The name was changed to Zambia upon independence in 1964. In the 1980s and 1990s, declining copper prices, economic mismanagement and a prolonged drought hurt the economy. Elections in 1991 brought an end to one-party rule, but the subsequent vote in 1996 saw blatant harassment of opposition parties. The election in 2001 was marked by administrative problems with three parties filing a legal petition challenging the election of ruling party candidate Levy MWANAWASA. MWANAWASA was reelected in 2006 in an election that was deemed free and fair. Upon his abrupt death in August 2008, he was succeeded by his vice president, Rupiah BANDA, who subsequently won a special presidential by-election in October 2008. Michael SATA was elected president in September 2011.",
+  "geography": {
+    "area": {
+      "land": "743,398 sq km ",
+      "total": "752,618 sq km",
+      "water": "9,220 sq km "
+    },
+    "areaCompare": "slightly larger than Texas",
+    "climate": "tropical; modified by altitude; rainy season (October to April)",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "unnamed elevation in Mafinga Hills 2,301 m ",
+    "elevationLowest": "Zambezi river 329 m",
+    "environment": {
+      "currIssues": "air pollution and resulting acid rain in the mineral extraction and refining region; chemical runoff into watersheds; poaching seriously threatens rhinoceros, elephant, antelope, and large cat populations; deforestation; soil erosion; desertification; lack of adequate water treatment presents human health risks",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "147  cu m/yr (2002) ",
+      "total": "1.57  cu km/yr (18%/8%/73%)"
+    },
+    "geoCoords": "15 00 S, 30 00 E",
+    "irrigatedLand": "1,559 sq km (2003)",
+    "landBoundaries": "5,664.1 kmAngola 1,110 km, Botswana 0.1 km, Democratic Republic of the Congo 1,930 km, Malawi 837 km, Mozambique 419 km, Namibia 233 km, Tanzania 338 km, Zimbabwe 797 km ",
+    "landUse": {
+      "arable": "4.52%",
+      "crops": "0.05% ",
+      "other": "95.44% (2011) "
+    },
+    "location": "Southern Africa, east of Angola, south of the Democratic Republic of the Congo",
+    "naturalHazards": "periodic drought; tropical storms (November to April)",
+    "naturalResources": "copper, cobalt, zinc, lead, coal, emeralds, gold, silver, uranium, hydropower",
+    "notes": "landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)",
+    "renewableWater": "105.2 cu km (2011)",
+    "terrain": "mostly high plateau with some hills and mountains"
+  },
+  "countryName": "Zambia",
+  "countryCode": "ZA"
+}

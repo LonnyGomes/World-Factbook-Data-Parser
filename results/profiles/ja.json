@@ -1,0 +1,42 @@
+{
+  "background": "In 1603, after decades of civil warfare, the Tokugawa shogunate (a military-led, dynastic government) ushered in a long period of relative political stability and isolation from foreign influence. For more than two centuries this policy enabled Japan to enjoy a flowering of its indigenous culture. Japan opened its ports after signing the Treaty of Kanagawa with the US in 1854 and began to intensively modernize and industrialize. During the late 19th and early 20th centuries, Japan became a regional power that was able to defeat the forces of both China and Russia. It occupied Korea, Formosa (Taiwan), and southern Sakhalin Island. In 1931-32 Japan occupied Manchuria, and in 1937 it launched a full-scale invasion of China. Japan attacked US forces in 1941 - triggering America's entry into World War II - and soon occupied much of East and Southeast Asia. After its defeat in World War II, Japan recovered to become an economic power and an ally of the US. While the emperor retains his throne as a symbol of national unity, elected politicians hold actual decision-making power. Following three decades of unprecedented growth, Japan's economy experienced a major slowdown starting in the 1990s, but the country remains a major economic power. In March 2011, Japan's strongest-ever earthquake, and an accompanying tsunami, devastated the northeast part of Honshu island, killing thousands and damaging several nuclear power plants. The catastrophe hobbled the country's economy and its energy infrastructure, and tested its ability to deal with humanitarian disasters.",
+  "geography": {
+    "area": {
+      "land": "364,485 sq km ",
+      "total": "377,915 sq km",
+      "water": "13,430 sq km "
+    },
+    "areaCompare": "",
+    "climate": "varies from tropical in south to cool temperate in north",
+    "coastline": "29,751 km",
+    "elevationHighest": "Fujiyama 3,776 m ",
+    "elevationLowest": "Hachiro-gata -4 m",
+    "environment": {
+      "currIssues": "air pollution from power plant emissions results in acid rain; acidification of lakes and reservoirs degrading water quality and threatening aquatic life; Japan is one of the largest consumers of fish and tropical timber, contributing to the depletion of these resources in Asia and elsewhere",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "714.3  cu m/yr (2007) ",
+      "total": "90.04  cu km/yr (20%/18%/62%)"
+    },
+    "geoCoords": "36 00 N, 138 00 E",
+    "irrigatedLand": "25,000 sq km (2010)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "11.26%",
+      "crops": "0.81% ",
+      "other": "87.93% (2011) "
+    },
+    "location": "Eastern Asia, island chain between the North Pacific Ocean and the Sea of Japan, east of the Korean Peninsula",
+    "naturalHazards": "many dormant and some active volcanoes; about 1,500 seismic occurrences (mostly tremors but occasional severe earthquakes) every year; tsunamis; typhoonsboth Unzen (elev. 1,500 m) and Sakura-jima (elev. 1,117 m), which lies near the densely populated city of Kagoshima, have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; other notable historically active volcanoes include Asama, Honshu Island's most active volcano, Aso, Bandai, Fuji, Iwo-Jima, Kikai, Kirishima, Komaga-take, Oshima, Suwanosejima, Tokachi, Yake-dake, and Usu ",
+    "naturalResources": "negligible mineral resources, fishwith virtually no energy natural resources, Japan is the world's largest importer of coal and liquefied natural gas, as well as the second largest importer of oil ",
+    "notes": "strategic location in northeast Asia",
+    "renewableWater": "430 cu km (2011)",
+    "terrain": "mostly rugged and mountainous"
+  },
+  "countryName": "Japan",
+  "countryCode": "JA"
+}

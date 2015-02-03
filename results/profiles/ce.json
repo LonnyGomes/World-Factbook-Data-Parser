@@ -1,0 +1,42 @@
+{
+  "background": "The first Sinhalese arrived in Sri Lanka late in the 6th century B.C., probably from northern India. Buddhism was introduced in about the mid-third century B.C., and a great civilization developed at the cities of Anuradhapura (kingdom from circa 200 B.C. to circa A.D. 1000) and Polonnaruwa (from about 1070 to 1200). In the 14th century, a south Indian dynasty established a Tamil kingdom in northern Sri Lanka. The coastal areas of the island were controlled by the Portuguese in the 16th century and by the Dutch in the 17th century. The island was ceded to the British in 1796, became a crown colony in 1802, and was formally united under British rule by 1815. As Ceylon, it became independent in 1948; its name was changed to Sri Lanka in 1972. Tensions between the Sinhalese majority and Tamil separatists erupted into war in 1983. After two decades of fighting, the government and Liberation Tigers of Tamil Eelam (LTTE) formalized a cease-fire in February 2002 with Norway brokering peace negotiations. Violence between the LTTE and government forces intensified in 2006, but the government regained control of the Eastern Province in 2007. By May 2009, the government announced that its military had defeated the remnants of the LTTE. Since the end of the conflict, the government has enacted an ambitious program of economic development projects, many of which are financed by loans from the Government of China. In addition to efforts to reconstruct its economy, the government has resettled more than 95% of those civilians who were displaced during the final phase of the conflict and released the vast majority of former LTTE combatants captured by Government Security Forces. At the same time, there has been little progress on more contentious and politically difficult issues such as reaching a political settlement with Tamil elected representatives and holding accountable those alleged to have been involved in human rights violations and other abuses during the conflict.",
+  "geography": {
+    "area": {
+      "land": "64,630 sq km ",
+      "total": "65,610 sq km",
+      "water": "980 sq km "
+    },
+    "areaCompare": "slightly larger than West Virginia",
+    "climate": "tropical monsoon; northeast monsoon (December to March); southwest monsoon (June to October)",
+    "coastline": "1,340 km",
+    "elevationHighest": "Pidurutalagala 2,524 m ",
+    "elevationLowest": "Indian Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; soil erosion; wildlife populations threatened by poaching and urbanization; coastal degradation from mining activities and increased pollution; freshwater resources being polluted by industrial wastes and sewage runoff; waste disposal; air pollution in Colombo",
+      "intlAgreements": {
+        "notRatified": "Marine Life Conservation ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "638.8  cu m/yr (2005) ",
+      "total": "12.95  cu km/yr (6%/6%/87%)"
+    },
+    "geoCoords": "7 00 N, 81 00 E",
+    "irrigatedLand": "5,700 sq km (2003)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "18.29%",
+      "crops": "14.94% ",
+      "other": "66.77% (2011) "
+    },
+    "location": "Southern Asia, island in the Indian Ocean, south of India",
+    "naturalHazards": "occasional cyclones and tornadoes",
+    "naturalResources": "limestone, graphite, mineral sands, gems, phosphates, clay, hydropower",
+    "notes": "strategic location near major Indian Ocean sea lanes",
+    "renewableWater": "52.8 cu km (2011)",
+    "terrain": "mostly low, flat to rolling plain; mountains in south-central interior"
+  },
+  "countryName": "Sri Lanka",
+  "countryCode": "CE"
+}

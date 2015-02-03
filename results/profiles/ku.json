@@ -1,0 +1,42 @@
+{
+  "background": "Britain oversaw foreign relations and defense for the ruling Kuwaiti AL-SABAH dynasty from 1899 until independence in 1961. Kuwait was attacked and overrun by Iraq on 2 August 1990. Following several weeks of aerial bombardment, a US-led, UN coalition began a ground assault on 23 February 1991 that liberated Kuwait in four days. Kuwait spent more than $5 billion to repair oil infrastructure damaged during 1990-91. The AL-SABAH family has ruled since returning to power in 1991 and reestablished an elected legislature that in recent years has become increasingly assertive. The country witnessed the historic election in 2009 of four women to its National Assembly. Amid the 2010-11 uprisings and protests across the Arab world, stateless Arabs, known as bidun, staged small protests in February and March 2011 demanding citizenship, jobs, and other benefits available to Kuwaiti nationals. Youth activist groups - supported by opposition legislators - rallied repeatedly in 2011 for the prime minister's dismissal amid allegations of widespread government corruption. Demonstrators forced the prime minister to resign in late 2011. In late 2012, Kuwait witnessed unprecedented protests in response to the Amir's changes to the electoral law by decree reducing the number of votes per person from four to one. The opposition, led by a coalition of Sunni Islamists, tribalists, some liberals, and myriad youth groups, largely boycotted legislative elections in 2012 and 2013 ushering in legislatures more amenable to the government's agenda. Since 2006, the Amir has dissolved the National Assembly on five occasions (the Constitutional Court annulled the Assembly in June 2012 and again in June 2013) and shuffled the cabinet over a dozen times, usually citing political stagnation and gridlock between the legislature and the government.",
+  "geography": {
+    "area": {
+      "land": "17,818 sq km ",
+      "total": "17,818 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly smaller than New Jersey",
+    "climate": "dry desert; intensely hot summers; short, cool winters",
+    "coastline": "499 km",
+    "elevationHighest": "unnamed elevation 306 m ",
+    "elevationLowest": "Persian Gulf 0 m",
+    "environment": {
+      "currIssues": "limited natural freshwater resources; some of world's largest and most sophisticated desalination facilities provide much of the water; air and water pollution; desertification",
+      "intlAgreements": {
+        "notRatified": "Marine Dumping ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "441.2  cu m/yr (2005) ",
+      "total": "0.91  cu km/yr (47%/2%/51%)"
+    },
+    "geoCoords": "29 30 N, 45 45 E",
+    "irrigatedLand": "86 sq km (2007)",
+    "landBoundaries": "462 kmIraq 240 km, Saudi Arabia 222 km ",
+    "landUse": {
+      "arable": "0.62%",
+      "crops": "0.28% ",
+      "other": "99.1% (2011) "
+    },
+    "location": "Middle East, bordering the Persian Gulf, between Iraq and Saudi Arabia",
+    "naturalHazards": "sudden cloudbursts are common from October to April and bring heavy rain, which can damage roads and houses; sandstorms and dust storms occur throughout the year but are most common between March and August",
+    "naturalResources": "petroleum, fish, shrimp, natural gas",
+    "notes": "strategic location at head of Persian Gulf",
+    "renewableWater": "0.02 cu km (2011)",
+    "terrain": "flat to slightly undulating desert plain"
+  },
+  "countryName": "Kuwait",
+  "countryCode": "KU"
+}

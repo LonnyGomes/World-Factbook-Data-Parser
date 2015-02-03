@@ -1,0 +1,42 @@
+{
+  "background": "The Danes secured control over the southern Virgin Islands of Saint Thomas, Saint John, and Saint Croix during the 17th and early 18th centuries. Sugarcane, produced by African slave labor, drove the islands' economy during the 18th and early 19th centuries. In 1917, the US purchased the Danish holdings, which had been in economic decline since the abolition of slavery in 1848.",
+  "geography": {
+    "area": {
+      "land": "346 sq km ",
+      "total": "1,910 sq km",
+      "water": "1,564 sq km "
+    },
+    "areaCompare": "twice the size of Washington, DC",
+    "climate": "subtropical, tempered by easterly trade winds, relatively low humidity, little seasonal temperature variation; rainy season September to November",
+    "coastline": "188 km",
+    "elevationHighest": "Crown Mountain 474 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "lack of natural freshwater resources",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "18 20 N, 64 50 W",
+    "irrigatedLand": "1 sq km (2011)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "2.86%",
+      "crops": "2.86% ",
+      "other": "94.29% (2011) "
+    },
+    "location": "Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico",
+    "naturalHazards": "several hurricanes in recent years; frequent and severe droughts and floods; occasional earthquakes",
+    "naturalResources": "sun, sand, sea, surf",
+    "notes": "important location along the Anegada Passage - a key shipping lane for the Panama Canal; Saint Thomas has one of the best natural deepwater harbors in the Caribbean",
+    "renewableWater": "",
+    "terrain": "mostly hilly to rugged and mountainous with little level land"
+  },
+  "countryName": "Virgin Islands",
+  "countryCode": "VQ"
+}

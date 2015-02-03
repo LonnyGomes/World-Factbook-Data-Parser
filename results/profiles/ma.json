@@ -1,0 +1,42 @@
+{
+  "background": "Formerly an independent kingdom, Madagascar became a French colony in 1896 but regained independence in 1960. During 1992-93, free presidential and National Assembly elections were held ending 17 years of single-party rule. In 1997, in the second presidential race, Didier RATSIRAKA, the leader during the 1970s and 1980s, was returned to the presidency. The 2001 presidential election was contested between the followers of Didier RATSIRAKA and Marc RAVALOMANANA, nearly causing secession of half of the country. In April 2002, the High Constitutional Court announced RAVALOMANANA the winner. RAVALOMANANA achieved a second term following a landslide victory in the generally free and fair presidential elections of 2006. In early 2009, protests over increasing restrictions on opposition press and activities resulted in RAVALOMANANA handing over power to the military, which then conferred the presidency on the mayor of Antananarivo, Andry RAJOELINA, in what amounted to a coup d'etat. Following a lengthy mediation process led by the Southern African Development Community (SADC), Madagascar held UN-supported presidential and parliamentary elections in 2013. Former de facto finance minister Hery RAJAONARIMAMPIANINA defeated RAVALOMANANA's favored candidate Jean-Louis ROBINSON in a presidential runoff and was inaugurated in January 2014. Most international observers, while noting some irregularities, declared polls to be a credible reflection of the Malagasy public's will.",
+  "geography": {
+    "area": {
+      "land": "581,540 sq km ",
+      "total": "587,041 sq km",
+      "water": "5,501 sq km "
+    },
+    "areaCompare": "slightly less than twice the size of Arizona",
+    "climate": "tropical along coast, temperate inland, arid in south",
+    "coastline": "4,828 km",
+    "elevationHighest": "Maromokotro 2,876 m ",
+    "elevationLowest": "Indian Ocean 0 m",
+    "environment": {
+      "currIssues": "soil erosion results from deforestation and overgrazing; desertification; surface water contaminated with raw sewage and other organic wastes; several endangered species of flora and fauna unique to the island",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "1,010  cu m/yr (2005) ",
+      "total": "16.5  cu km/yr (2%/1%/97%)"
+    },
+    "geoCoords": "20 00 S, 47 00 E",
+    "irrigatedLand": "10,860 sq km (2003)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "5.96%",
+      "crops": "1.02% ",
+      "other": "93.02% (2011) "
+    },
+    "location": "Southern Africa, island in the Indian Ocean, east of Mozambique",
+    "naturalHazards": "periodic cyclones; drought; and locust infestationMadagascar's volcanoes have not erupted in historical times ",
+    "naturalResources": "graphite, chromite, coal, bauxite, rare earth elements, salt, quartz, tar sands, semiprecious stones, mica, fish, hydropower",
+    "notes": "world's fourth-largest island; strategic location along Mozambique Channel",
+    "renewableWater": "337 cu km (2011)",
+    "terrain": "narrow coastal plain, high plateau and mountains in center"
+  },
+  "countryName": "Madagascar",
+  "countryCode": "MA"
+}

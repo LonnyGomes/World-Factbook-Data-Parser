@@ -1,0 +1,42 @@
+{
+  "background": "Spain's powerful world empire of the 16th and 17th centuries ultimately yielded command of the seas to England. Subsequent failure to embrace the mercantile and industrial revolutions caused the country to fall behind Britain, France, and Germany in economic and political power. Spain remained neutral in World War I and II but suffered through a devastating civil war (1936-39). A peaceful transition to democracy following the death of dictator Francisco FRANCO in 1975, and rapid economic modernization (Spain joined the EU in 1986) gave Spain a dynamic and rapidly growing economy and made it a global champion of freedom and human rights. More recently the government has had to focus on measures to reverse a severe economic recession that began in mid-2008. Austerity measures implemented to reduce a large budget deficit and reassure foreign investors have led to one of the highest unemployment rates in Europe.",
+  "geography": {
+    "area": {
+      "land": "498,980 sq km ",
+      "total": "505,370 sq km",
+      "water": "6,390 sq km "
+    },
+    "areaCompare": "",
+    "climate": "temperate; clear, hot summers in interior, more moderate and cloudy along coast; cloudy, cold winters in interior, partly cloudy and cool along coast",
+    "coastline": "4,964 km",
+    "elevationHighest": "Pico de Teide (Tenerife) on Canary Islands 3,718 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "pollution of the Mediterranean Sea from raw sewage and effluents from the offshore production of oil and gas; water quality and quantity nationwide; air pollution; deforestation; desertification",
+      "intlAgreements": {
+        "notRatified": "Air Pollution-Persistent Organic Pollutants ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "698.7  cu m/yr (2008) ",
+      "total": "32.46  cu km/yr (18%/22%/61%)"
+    },
+    "geoCoords": "40 00 N, 4 00 W",
+    "irrigatedLand": "34,700 sq km (2011)",
+    "landBoundaries": "1,920.4 kmAndorra 63.7 km, France 623 km, Gibraltar 1.2 km, Portugal 1,214 km, Morocco (Ceuta) 8 km, Morocco (Melilla) 10.5 km an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera ",
+    "landUse": {
+      "arable": "24.75%",
+      "crops": "9.29% ",
+      "other": "65.96% (2011) "
+    },
+    "location": "Southwestern Europe, bordering the Mediterranean Sea, North Atlantic Ocean, Bay of Biscay, and Pyrenees Mountains; southwest of France",
+    "naturalHazards": "periodic droughts, occasional floodingvolcanic activity in the Canary Islands, located off Africa's northwest coast; Teide (elev. 3,715 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; La Palma (elev. 2,426 m), which last erupted in 1971, is the most active of the Canary Islands volcanoes; Lanzarote is the only other historically active volcano ",
+    "naturalResources": "coal, lignite, iron ore, copper, lead, zinc, uranium, tungsten, mercury, pyrites, magnesite, fluorspar, gypsum, sepiolite, kaolin, potash, hydropower, arable land",
+    "notes": "strategic location along approaches to Strait of Gibraltar; Spain controls a number of territories in northern Morocco including the enclaves of Ceuta and Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas",
+    "renewableWater": "111.5 cu km (2011)",
+    "terrain": "large, flat to dissected plateau surrounded by rugged hills; Pyrenees Mountains in north"
+  },
+  "countryName": "Spain",
+  "countryCode": "SP"
+}

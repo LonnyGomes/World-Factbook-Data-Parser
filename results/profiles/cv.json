@@ -1,0 +1,42 @@
+{
+  "background": "The uninhabited islands were discovered and colonized by the Portuguese in the 15th century; Cabo Verde subsequently became a trading center for African slaves and later an important coaling and resupply stop for whaling and transatlantic shipping. Following independence in 1975, and a tentative interest in unification with Guinea-Bissau, a one-party system was established and maintained until multi-party elections were held in 1990. Cabo Verde continues to exhibit one of Africa's most stable democratic governments. Repeated droughts during the second half of the 20th century caused significant hardship and prompted heavy emigration. As a result, Cabo Verde's expatriate population is greater than its domestic one. Most Cabo Verdeans have both African and Portuguese antecedents.",
+  "geography": {
+    "area": {
+      "land": "4,033 sq km ",
+      "total": "4,033 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly larger than Rhode Island",
+    "climate": "temperate; warm, dry summer; precipitation meager and erratic",
+    "coastline": "965 km",
+    "elevationHighest": "Mt. Fogo 2,829 m (a volcano on Fogo Island) ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "soil erosion; deforestation due to demand for wood used as fuel; water shortages; desertification; environmental damage has threatened several species of birds and reptiles; illegal beach sand extraction; overfishing",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "48.57  cu m/yr (2004) ",
+      "total": "0.02  cu km/yr (6%/1%/93%)"
+    },
+    "geoCoords": "16 00 N, 24 00 W",
+    "irrigatedLand": "34.76 sq km (2004)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "11.66%",
+      "crops": "0.74% ",
+      "other": "87.59% (2011) "
+    },
+    "location": "Western Africa, group of islands in the North Atlantic Ocean, west of Senegal",
+    "naturalHazards": "prolonged droughts; seasonal harmattan wind produces obscuring dust; volcanically and seismically activeFogo (elev. 2,829 m), which last erupted in 1995, is Cabo Verde's only active volcano ",
+    "naturalResources": "salt, basalt rock, limestone, kaolin, fish, clay, gypsum",
+    "notes": "strategic location 500 km from west coast of Africa near major north-south sea routes; important communications station; important sea and air refueling site",
+    "renewableWater": "0.3 cu km (2011)",
+    "terrain": "steep, rugged, rocky, volcanic"
+  },
+  "countryName": "Cape Verde",
+  "countryCode": "CV"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "Lithuanian lands were united under MINDAUGAS in 1236; over the next century, through alliances and conquest, Lithuania extended its territory to include most of present-day Belarus and Ukraine. By the end of the 14th century Lithuania was the largest state in Europe. An alliance with Poland in 1386 led the two countries into a union through the person of a common ruler. In 1569, Lithuania and Poland formally united into a single dual state, the Polish-Lithuanian Commonwealth. This entity survived until 1795 when its remnants were partitioned by surrounding countries. Lithuania regained its independence following World War I but was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. On 11 March 1990, Lithuania became the first of the Soviet republics to declare its independence, but Moscow did not recognize this proclamation until September of 1991 (following the abortive coup in Moscow). The last Russian troops withdrew in 1993. Lithuania subsequently restructured its economy for integration into Western European institutions; it joined both NATO and the EU in the spring of 2004. In January 2014, Lithuania assumed a nonpermanent seat on the UN Security Council for the 2014-15 term.",
+  "geography": {
+    "area": {
+      "land": "62,680 sq km ",
+      "total": "65,300 sq km",
+      "water": "2,620 sq km "
+    },
+    "areaCompare": "slightly larger than West Virginia",
+    "climate": "transitional, between maritime and continental; wet, moderate winters and summers",
+    "coastline": "90 km",
+    "elevationHighest": "Aukstojas 294 m ",
+    "elevationLowest": "Baltic Sea 0 m",
+    "environment": {
+      "currIssues": "contamination of soil and groundwater with petroleum products and chemicals at military bases",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "703.8  cu m/yr (2009) ",
+      "total": "2.38  cu km/yr (7%/90%/3%)"
+    },
+    "geoCoords": "56 00 N, 24 00 E",
+    "irrigatedLand": "13.4 sq km (2007)",
+    "landBoundaries": "1,574 kmBelarus 680 km, Latvia 576 km, Poland 91 km, Russia (Kaliningrad) 227 km ",
+    "landUse": {
+      "arable": "33.48%",
+      "crops": "0.47% ",
+      "other": "66.05% (2011) "
+    },
+    "location": "Eastern Europe, bordering the Baltic Sea, between Latvia and Russia",
+    "naturalHazards": "NA",
+    "naturalResources": "peat, arable land, amber",
+    "notes": "fertile central plains are separated by hilly uplands that are ancient glacial deposits",
+    "renewableWater": "24.9 cu km (2011)",
+    "terrain": "lowland, many scattered small lakes, fertile soil"
+  },
+  "countryName": "Lithuania",
+  "countryCode": "LH"
+}

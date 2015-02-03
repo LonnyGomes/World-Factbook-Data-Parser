@@ -1,0 +1,42 @@
+{
+  "background": "In 1959, three years before independence from Belgium, the majority ethnic group, the Hutus, overthrew the ruling Tutsi king. Over the next several years, thousands of Tutsis were killed, and some 150,000 driven into exile in neighboring countries. The children of these exiles later formed a rebel group, the Rwandan Patriotic Front (RPF), and began a civil war in 1990. The war, along with several political and economic upheavals, exacerbated ethnic tensions, culminating in April 1994 in a state-orchestrated genocide, in which Rwandans killed up to a million of their fellow citizens, including approximately three-quarters of the Tutsi population. The genocide ended later that same year when the predominantly Tutsi RPF, operating out of Uganda and northern Rwanda, defeated the national army and Hutu militias, and established an RPF-led government of national unity. Approximately 2 million Hutu refugees - many fearing Tutsi retribution - fled to neighboring Burundi, Tanzania, Uganda, and former Zaire. Since then, most of the refugees have returned to Rwanda, but several thousand remained in the neighboring Democratic Republic of the Congo (DRC, the former Zaire) and formed an extremist insurgency bent on retaking Rwanda, much as the RPF did in 1990. Rwanda held its first local elections in 1999 and its first post-genocide presidential and legislative elections in 2003. Rwanda in 2009 staged a joint military operation with the Congolese Army in DRC to rout out the Hutu extremist insurgency there, and Kigali and Kinshasa restored diplomatic relations. Rwanda also joined the Commonwealth in late 2009. In January 2013, Rwanda assumed a nonpermanent seat on the UN Security Council for the 2013-14 term.",
+  "geography": {
+    "area": {
+      "land": "24,668 sq km ",
+      "total": "26,338 sq km",
+      "water": "1,670 sq km "
+    },
+    "areaCompare": "slightly smaller than Maryland",
+    "climate": "temperate; two rainy seasons (February to April, November to January); mild in mountains with frost and snow possible",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Volcan Karisimbi 4,519 m ",
+    "elevationLowest": "Rusizi River 950 m",
+    "environment": {
+      "currIssues": "deforestation results from uncontrolled cutting of trees for fuel; overgrazing; soil exhaustion; soil erosion; widespread poaching",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "17.25  cu m/yr (2005) ",
+      "total": "0.15  cu km/yr (33%/11%/55%)"
+    },
+    "geoCoords": "2 00 S, 30 00 E",
+    "irrigatedLand": "96.25 sq km (2007)",
+    "landBoundaries": "893 kmBurundi 290 km, Democratic Republic of the Congo 217 km, Tanzania 217 km, Uganda 169 km ",
+    "landUse": {
+      "arable": "46.32%",
+      "crops": "9.49% ",
+      "other": "44.19% (2011) "
+    },
+    "location": "Central Africa, east of Democratic Republic of the Congo",
+    "naturalHazards": "periodic droughts; the volcanic Virunga mountains are in the northwest along the border with Democratic Republic of the CongoVisoke (elev. 3,711 m), located on the border with the Democratic Republic of the Congo, is the country's only historically active volcano ",
+    "naturalResources": "gold, cassiterite (tin ore), wolframite (tungsten ore), methane, hydropower, arable land",
+    "notes": "landlocked; most of the country is savanna grassland with the population predominantly rural",
+    "renewableWater": "9.5 cu km (2011)",
+    "terrain": "mostly grassy uplands and hills; relief is mountainous with altitude declining from west to east"
+  },
+  "countryName": "Rwanda",
+  "countryCode": "RW"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "Founding president and liberation struggle icon Jomo KENYATTA led Kenya from independence in 1963 until his death in 1978, when President Daniel MOI took power in a constitutional succession. The country was a de facto one-party state from 1969 until 1982 when the ruling Kenya African National Union (KANU) made itself the sole legal party in Kenya. MOI acceded to internal and external pressure for political liberalization in late 1991. The ethnically fractured opposition failed to dislodge KANU from power in elections in 1992 and 1997, which were marred by violence and fraud, but were viewed as having generally reflected the will of the Kenyan people. President MOI stepped down in December 2002 following fair and peaceful elections. Mwai KIBAKI, running as the candidate of the multiethnic, united opposition group, the National Rainbow Coalition (NARC), defeated KANU candidate Uhuru KENYATTA and assumed the presidency following a campaign centered on an anticorruption platform. KIBAKI's NARC coalition splintered in 2005 over a constitutional review process. Government defectors joined with KANU to form a new opposition coalition, the Orange Democratic Movement (ODM), which defeated the government's draft constitution in a popular referendum in November 2005. KIBAKI's reelection in December 2007 brought charges of vote rigging from ODM candidate Raila ODINGA and unleashed two months of violence in which as many as 1,500 people died. African Union-sponsored mediation led by former UN Secretary General Kofi ANNAN in late February 2008 resulted in a power-sharing accord bringing ODINGA into the government in the restored position of prime minister. The power sharing accord included a broad reform agenda, the centerpiece of which was constitutional reform. In August 2010, Kenyans overwhelmingly adopted a new constitution in a national referendum. The new constitution introduced additional checks and balances to executive power and significant devolution of power and resources to 47 newly created counties. It also eliminated the position of prime minister following the first presidential election under the new constitution, which occurred on 4 March 2013. Uhuru KENYATTA, the son of founding president Jomo KENYATTA, won the March elections in the first round by a close margin and was sworn into office on 9 April 2013.",
+  "geography": {
+    "area": {
+      "land": "569,140 sq km ",
+      "total": "580,367 sq km",
+      "water": "11,227 sq km "
+    },
+    "areaCompare": "",
+    "climate": "varies from tropical along coast to arid in interior",
+    "coastline": "536 km",
+    "elevationHighest": "Mount Kenya 5,199 m ",
+    "elevationLowest": "Indian Ocean 0 m",
+    "environment": {
+      "currIssues": "water pollution from urban and industrial wastes; degradation of water quality from increased use of pesticides and fertilizers; water hyacinth infestation in Lake Victoria; deforestation; soil erosion; desertification; poaching",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "72.96  cu m/yr (2003) ",
+      "total": "2.74  cu km/yr (17%/4%/79%)"
+    },
+    "geoCoords": "1 00 N, 38 00 E",
+    "irrigatedLand": "1,032 sq km (2003)",
+    "landBoundaries": "3,477 kmEthiopia 861 km, Somalia 682 km, South Sudan 232 km, Tanzania 769 km, Uganda 933 km ",
+    "landUse": {
+      "arable": "9.48%",
+      "crops": "1.12% ",
+      "other": "89.4% (2011) "
+    },
+    "location": "Eastern Africa, bordering the Indian Ocean, between Somalia and Tanzania",
+    "naturalHazards": "recurring drought; flooding during rainy seasonslimited volcanic activity; the Barrier (elev. 1,032 m) last erupted in 1921; South Island is the only other historically active volcano ",
+    "naturalResources": "limestone, soda ash, salt, gemstones, fluorspar, zinc, diatomite, gypsum, wildlife, hydropower",
+    "notes": "the Kenyan Highlands comprise one of the most successful agricultural production regions in Africa; glaciers are found on Mount Kenya, Africa's second highest peak; unique physiography supports abundant and varied wildlife of scientific and economic value",
+    "renewableWater": "30.7 cu km (2011)",
+    "terrain": "low plains rise to central highlands bisected by Great Rift Valley; fertile plateau in west"
+  },
+  "countryName": "Kenya",
+  "countryCode": "KE"
+}

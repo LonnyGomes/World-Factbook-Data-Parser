@@ -1,0 +1,42 @@
+{
+  "background": "Macedonia gained its independence peacefully from Yugoslavia in 1991. Greece's objection to the new state's use of what it considered a Hellenic name and symbols delayed international recognition, which occurred under the provisional designation of \"the Former Yugoslav Republic of Macedonia.\" In 1995, Greece lifted a 20-month trade embargo and the two countries agreed to normalize relations, but the issue of the name remained unresolved and negotiations for a solution are ongoing. Since 2004, the US and over 130 other nations have recognized Macedonia by its constitutional name, Republic of Macedonia. Ethnic Albanian grievances over perceived political and economic inequities escalated into an insurgency in 2001 that eventually led to the internationally brokered Ohrid Framework Agreement, which ended the fighting and established guidelines for constitutional amendments and the creation of new laws that enhanced the rights of minorities. Although Macedonia became an EU candidate in 2005, the country still faces challenges, including fully implementing the Framework Agreement, improving relations with Bulgaria, carrying out democratic reforms, and stimulating economic growth and development. Macedonia's membership in NATO was blocked by Greece at the Alliance's Summit of Bucharest in 2008.",
+  "geography": {
+    "area": {
+      "land": "25,433 sq km ",
+      "total": "25,713 sq km",
+      "water": "280 sq km "
+    },
+    "areaCompare": "slightly larger than Vermont",
+    "climate": "warm, dry summers and autumns; relatively cold winters with heavy snowfall",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Golem Korab (Maja e Korabit) 2,764 m ",
+    "elevationLowest": "Vardar River 50 m",
+    "environment": {
+      "currIssues": "air pollution from metallurgical plants",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "502  cu m/yr (2007) ",
+      "total": "1.03  cu km/yr (21%/67%/12%)"
+    },
+    "geoCoords": "41 50 N, 22 00 E",
+    "irrigatedLand": "1,278 sq km (2004)",
+    "landBoundaries": "766 kmAlbania 151 km, Bulgaria 148 km, Greece 246 km, Kosovo 159 km, Serbia 62 km ",
+    "landUse": {
+      "arable": "16.1%",
+      "crops": "1.36% ",
+      "other": "82.54% (2011) "
+    },
+    "location": "Southeastern Europe, north of Greece",
+    "naturalHazards": "high seismic risks",
+    "naturalResources": "low-grade iron ore, copper, lead, zinc, chromite, manganese, nickel, tungsten, gold, silver, asbestos, gypsum, timber, arable land",
+    "notes": "landlocked; major transportation corridor from Western and Central Europe to Aegean Sea and Southern Europe to Western Europe",
+    "renewableWater": "6.4 cu km (2011)",
+    "terrain": "mountainous territory covered with deep basins and valleys; three large lakes, each divided by a frontier line; country bisected by the Vardar River"
+  },
+  "countryName": "Macedonia",
+  "countryCode": "MK"
+}

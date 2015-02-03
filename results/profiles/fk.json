@@ -1,0 +1,42 @@
+{
+  "background": "Although first sighted by an English navigator in 1592, the first landing (English) did not occur until almost a century later in 1690, and the first settlement (French) was not established until 1764. The colony was turned over to Spain two years later and the islands have since been the subject of a territorial dispute, first between Britain and Spain, then between Britain and Argentina. The UK asserted its claim to the islands by establishing a naval garrison there in 1833. Argentina invaded the islands on 2 April 1982. The British responded with an expeditionary force that landed seven weeks later and after fierce fighting forced an Argentine surrender on 14 June 1982. With hostilities ended and Argentine forces withdrawn, UK administration resumed. In response to renewed calls from Argentina for Britain to relinquish control of the islands, a referendum was held in March 2013, which resulted in 99.8% of the population voting to remain a part of the UK.",
+  "geography": {
+    "area": {
+      "land": "12,173 sq km ",
+      "total": "12,173 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly smaller than Connecticut",
+    "climate": "cold marine; strong westerly winds, cloudy, humid; rain occurs on more than half of days in year; average annual rainfall is 24 inches in Stanley; occasional snow all year, except in January and February, but typically does not accumulate",
+    "coastline": "1,288 km",
+    "elevationHighest": "Mount Usborne 705 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "overfishing by unlicensed vessels is a problem; reindeer were introduced to the islands in 2001 for commercial reasons; this is the only commercial reindeer herd in the world unaffected by the 1986 Chornobyl disaster",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "51 45 S, 59 00 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0%",
+      "crops": "0% ",
+      "other": "100% (99% permanent pastures, 1% other) (2011) "
+    },
+    "location": "Southern South America, islands in the South Atlantic Ocean, about 500 km east of southern Argentina",
+    "naturalHazards": "strong winds persist throughout the year",
+    "naturalResources": "fish, squid, wildlife, calcified seaweed, sphagnum moss",
+    "notes": "deeply indented coast provides good natural harbors; short growing season",
+    "renewableWater": "",
+    "terrain": "rocky, hilly, mountainous with some boggy, undulating plains"
+  },
+  "countryName": "Falkland Islands (Islas Malvinas)",
+  "countryCode": "FK"
+}

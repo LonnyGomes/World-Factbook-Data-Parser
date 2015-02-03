@@ -1,0 +1,42 @@
+{
+  "background": "Slovakia's roots can be traced to the 9th century state of Great Moravia. Subsequently, the Slovaks became part of the Hungarian Kingdom, where they remained for the next 1,000 years. Following the formation of the dual Austro-Hungarian monarchy in 1867, language and education policies favoring the use of Hungarian (Magyarization) resulted in a strengthening of Slovak nationalism and a cultivation of cultural ties with the closely related Czechs, who were under Austrian rule. After the dissolution of the Austro-Hungarian Empire at the close of World War I, the Slovaks joined the Czechs to form Czechoslovakia. During the interwar period, Slovak nationalist leaders pushed for autonomy within Czechoslovakia, and in 1939 Slovakia became an independent state allied with Nazi Germany. Following World War II, Czechoslovakia was reconstituted and came under communist rule within Soviet-dominated Eastern Europe. In 1968, an invasion by Warsaw Pact troops ended the efforts of the country's leaders to liberalize communist rule and create \"socialism with a human face,\" ushering in a period of repression known as \"normalization.\" The peaceful \"Velvet Revolution\" swept the Communist Party from power at the end of 1989 and inaugurated a return to democratic rule and a market economy. On 1 January 1993, the country underwent a nonviolent \"velvet divorce\" into its two national components, Slovakia and the Czech Republic. Slovakia joined both NATO and the EU in the spring of 2004 and the euro zone on 1 January 2009.",
+  "geography": {
+    "area": {
+      "land": "48,105 sq km ",
+      "total": "49,035 sq km",
+      "water": "930 sq km "
+    },
+    "areaCompare": "about twice the size of New Hampshire",
+    "climate": "temperate; cool summers; cold, cloudy, humid winters",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Gerlachovsky Stit 2,655 m ",
+    "elevationLowest": "Bodrok River 94 m",
+    "environment": {
+      "currIssues": "air pollution from metallurgical plants presents human health risks; acid rain damaging forests",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "126.7  cu m/yr (2010) ",
+      "total": "0.69  cu km/yr (47%/51%/3%)"
+    },
+    "geoCoords": "48 40 N, 19 30 E",
+    "irrigatedLand": "1,720 sq km (2007)",
+    "landBoundaries": "1,474 kmAustria 91 km, Czech Republic 197 km, Hungary 676 km, Poland 420 km, Ukraine 90 km ",
+    "landUse": {
+      "arable": "28.36%",
+      "crops": "0.41% ",
+      "other": "71.22% (2011) "
+    },
+    "location": "Central Europe, south of Poland",
+    "naturalHazards": "NA",
+    "naturalResources": "brown coal and lignite; small amounts of iron ore, copper and manganese ore; salt; arable land",
+    "notes": "landlocked; most of the country is rugged and mountainous; the Tatra Mountains in the north are interspersed with many scenic lakes and valleys",
+    "renewableWater": "50.1 cu km (2011)",
+    "terrain": "rugged mountains in the central and northern part and lowlands in the south"
+  },
+  "countryName": "Slovakia",
+  "countryCode": "LO"
+}

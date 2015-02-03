@@ -1,0 +1,42 @@
+{
+  "background": "Upon independence in 1960, the former French region of Middle Congo became the Republic of the Congo. A quarter century of experimentation with Marxism was abandoned in 1990 and a democratically elected government took office in 1992. A brief civil war in 1997 restored former Marxist President Denis SASSOU-Nguesso, and ushered in a period of ethnic and political unrest. Southern-based rebel groups agreed to a final peace accord in March 2003, but the calm is tenuous and refugees continue to present a humanitarian crisis. The Republic of Congo is one of Africa's largest petroleum producers, but with declining production it will need new offshore oil finds to sustain its oil earnings over the long term.",
+  "geography": {
+    "area": {
+      "land": "341,500 sq km ",
+      "total": "342,000 sq km",
+      "water": "500 sq km "
+    },
+    "areaCompare": "slightly smaller than Montana",
+    "climate": "tropical; rainy season (March to June); dry season (June to October); persistent high temperatures and humidity; particularly enervating climate astride the Equator",
+    "coastline": "169 km",
+    "elevationHighest": "Mount Berongou 903 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "air pollution from vehicle emissions; water pollution from the dumping of raw sewage; tap water is not potable; deforestation",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "13.99  cu m/yr (2005) ",
+      "total": "0.05  cu km/yr (69%/26%/4%)"
+    },
+    "geoCoords": "1 00 S, 15 00 E",
+    "irrigatedLand": "20 sq km (2003)",
+    "landBoundaries": "5,008 kmAngola 231 km, Cameroon 494 km, Central African Republic 487 km, Democratic Republic of the Congo 1,229 km, Gabon 2,567 km ",
+    "landUse": {
+      "arable": "1.46%",
+      "crops": "0.18% ",
+      "other": "98.36% (2011) "
+    },
+    "location": "Central Africa, bordering the South Atlantic Ocean, between Angola and Gabon",
+    "naturalHazards": "seasonal flooding",
+    "naturalResources": "petroleum, timber, potash, lead, zinc, uranium, copper, phosphates, gold, magnesium, natural gas, hydropower",
+    "notes": "about 70% of the population lives in Brazzaville, Pointe-Noire, or along the railroad between them",
+    "renewableWater": "832 cu km (2011)",
+    "terrain": "coastal plain, southern basin, central plateau, northern basin"
+  },
+  "countryName": "Congo, Republic of the",
+  "countryCode": "CF"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "Following World War I, France acquired a mandate over the northern portion of the former Ottoman Empire province of Syria. The French administered the area as Syria until granting it independence in 1946. The new country lacked political stability, however, and experienced a series of military coups during its first decades. Syria united with Egypt in February 1958 to form the United Arab Republic. In September 1961, the two entities separated, and the Syrian Arab Republic was reestablished. In November 1970, Hafiz al-ASAD, a member of the socialist Ba'th Party and the minority Alawi sect, seized power in a bloodless coup and brought political stability to the country. In the 1967 Arab-Israeli War, Syria lost the Golan Heights to Israel. During the 1990s, Syria and Israel held occasional peace talks over its return. Following the death of President al-ASAD, his son, Bashar al-ASAD, was approved as president by popular referendum in July 2000. Syrian troops - stationed in Lebanon since 1976 in an ostensible peacekeeping role - were withdrawn in April 2005. During the July-August 2006 conflict between Israel and Hizballah, Syria placed its military forces on alert but did not intervene directly on behalf of its ally Hizballah. In May 2007 Bashar al-ASAD's second term as president was approved by popular referendum. Influenced by major uprisings that began elsewhere in the region, antigovernment protests broke out in the southern province of Dar'a in March 2011 with protesters calling for the repeal of the restrictive Emergency Law allowing arrests without charge, the legalization of political parties, and the removal of corrupt local officials. Since then demonstrations and unrest have spread to nearly every city in Syria, but the size and intensity of protests have fluctuated over time. The government responded to unrest with a mix of concessions - including the repeal of the Emergency Law and approving new laws permitting new political parties and liberalizing local and national elections - and force. However, the government's response has failed to meet opposition demands for ASAD to step down, and the government's ongoing security operations to quell unrest and widespread armed opposition activity have led to extended violent clashes between government forces and oppositionists. International pressure on the ASAD regime has intensified since late 2011, as the Arab League, EU, Turkey, and the United States have expanded economic sanctions against the regime. Lakhdar BRAHIMI, current Joint Special Representative of the United Nations and the League of Arab States on the Syrian crisis, in October 2012 began meeting with regional heads of state to assist in brokering a cease-fire. In December 2012, the National Coalition of Syrian Revolution and Opposition Forces was recognized by more than 130 countries as the sole legitimate representative of the Syrian people. Unrest persisted in 2013, and the death toll among Syrian Government forces, opposition forces, and civilians has topped 100,000. In January 2014, the Syrian Opposition Coalition and Syrian regime began peace talks at the UN sponsored Geneva II conference.",
+  "geography": {
+    "area": {
+      "land": "183,630 sq km ",
+      "total": "185,180 sq km",
+      "water": "1,550 sq km "
+    },
+    "areaCompare": "",
+    "climate": "mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; cold weather with snow or sleet periodically in Damascus",
+    "coastline": "193 km",
+    "elevationHighest": "Mount Hermon 2,814 m ",
+    "elevationLowest": "unnamed location near Lake Tiberias -200 m",
+    "environment": {
+      "currIssues": "deforestation; overgrazing; soil erosion; desertification; water pollution from raw sewage and petroleum refining wastes; inadequate potable water",
+      "intlAgreements": {
+        "notRatified": "Environmental Modification ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "867.4  cu m/yr (2005) ",
+      "total": "16.76  cu km/yr (9%/4%/88%)"
+    },
+    "geoCoords": "35 00 N, 38 00 E",
+    "irrigatedLand": "13,410 sq km (2010)",
+    "landBoundaries": "2,253 kmIraq 605 km, Israel 76 km, Jordan 375 km, Lebanon 375 km, Turkey 822 km ",
+    "landUse": {
+      "arable": "24.9%",
+      "crops": "5.69% ",
+      "other": "69.41% (2011) "
+    },
+    "location": "Middle East, bordering the Mediterranean Sea, between Lebanon and Turkey",
+    "naturalHazards": "dust storms, sandstormsSyria's two historically active volcanoes, Es Safa and an unnamed volcano near the Turkish border have not erupted in centuries ",
+    "naturalResources": "petroleum, phosphates, chrome and manganese ores, asphalt, iron ore, rock salt, marble, gypsum, hydropower",
+    "notes": "the capital of Damascus - located at an oasis fed by the Barada River - is thought to be one of the world's oldest continuously inhabited cities; there are 41 Israeli settlements and civilian land use sites in the Israeli-occupied Golan Heights (2010 est.)",
+    "renewableWater": "16.8 cu km (2011)",
+    "terrain": "primarily semiarid and desert plateau; narrow coastal plain; mountains in west"
+  },
+  "countryName": "Syria",
+  "countryCode": "SY"
+}

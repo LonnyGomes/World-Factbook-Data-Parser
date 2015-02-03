@@ -1,0 +1,42 @@
+{
+  "background": "Pitcairn Island was discovered in 1767 by the British and settled in 1790 by the Bounty mutineers and their Tahitian companions. Pitcairn was the first Pacific island to become a British colony (in 1838) and today remains the last vestige of that empire in the South Pacific. Outmigration, primarily to New Zealand, has thinned the population from a peak of 233 in 1937 to less than 50 today.",
+  "geography": {
+    "area": {
+      "land": "47 sq km ",
+      "total": "47 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about three tenths the size of Washington, DC",
+    "climate": "tropical; hot and humid; modified by southeast trade winds; rainy season (November to March)",
+    "coastline": "51 km",
+    "elevationHighest": "Big Ridge 347 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation (only a small portion of the original forest remains because of burning and clearing for settlement)",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "25 04 S, 130 06 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0%",
+      "crops": "0% ",
+      "other": "100% (2011) "
+    },
+    "location": "Oceania, islands in the South Pacific Ocean, about midway between Peru and New Zealand",
+    "naturalHazards": "typhoons (especially November to March)",
+    "naturalResources": "miro trees (used for handicrafts), fishmanganese, iron, copper, gold, silver, and zinc have been discovered offshore ",
+    "notes": "Britain's most isolated dependency; only the larger island of Pitcairn is inhabited but it has no port or natural harbor; supplies must be transported by rowed longboat from larger ships stationed offshore",
+    "renewableWater": "",
+    "terrain": "rugged volcanic formation; rocky coastline with cliffs"
+  },
+  "countryName": "Pitcairn Islands",
+  "countryCode": "PC"
+}

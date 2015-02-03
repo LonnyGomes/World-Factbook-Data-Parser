@@ -1,0 +1,42 @@
+{
+  "background": "The native Amerindian population of Cuba began to decline after the European discovery of the island by Christopher COLUMBUS in 1492 and following its development as a Spanish colony during the next several centuries. Large numbers of African slaves were imported to work the coffee and sugar plantations, and Havana became the launching point for the annual treasure fleets bound for Spain from Mexico and Peru. Spanish rule eventually provoked an independence movement and occasional rebellions that were harshly suppressed. US intervention during the Spanish-American War in 1898 assisted the Cubans in overthrowing Spanish rule. Subsequently, the 1901 Platt Amendment to the Cuban constitution authorized the US to intevene in Cuba in the event of instability. The Treaty of Paris established Cuban independence from the US in 1902 after which the island experienced a string of governments mostly dominated by the military and corrupt politicians. Fidel CASTRO led a rebel army to victory in 1959; his iron rule held the subsequent regime together for nearly five decades. He stepped down as president in February 2008 in favor of his younger brother Raul CASTRO. Cuba's communist revolution, with Soviet support, was exported throughout Latin America and Africa during the 1960s, 1970s, and 1980s. The country faced a severe economic downturn in 1990 following the withdrawal of former Soviet subsidies worth $4-6 billion annually. Cuba at times portrays the US embargo, in place since 1961, as the source if its difficulties. Illicit migration to the US - using homemade rafts, alien smugglers, air flights, or via the US's southwest border - is a continuing problem. The US Coast Guard interdicted 1,357 Cuban nationals attempting to cross the Straits of Florida in 2013. Also in 2013, 14,251 Cuban migrants presented themselves at various land border ports of entry through out the US.",
+  "geography": {
+    "area": {
+      "land": "109,820 sq km ",
+      "total": "110,860 sq km",
+      "water": "1,040 sq km "
+    },
+    "areaCompare": "slightly smaller than Pennsylvania",
+    "climate": "tropical; moderated by trade winds; dry season (November to April); rainy season (May to October)",
+    "coastline": "3,735 km",
+    "elevationHighest": "Pico Turquino 2,005 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "air and water pollution; biodiversity loss; deforestation",
+      "intlAgreements": {
+        "notRatified": "Marine Life Conservation ",
+        "partyTo": "Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "392.6  cu m/yr (2010) ",
+      "total": "4.42  cu km/yr (22%/14%/65%)"
+    },
+    "geoCoords": "21 30 N, 80 00 W",
+    "irrigatedLand": "8,703 sq km (2003)",
+    "landBoundaries": "29 kmUS Naval Base at Guantanamo Bay 29 km Guantanamo Naval Base is leased by the US and remains part of Cuba ",
+    "landUse": {
+      "arable": "32.31%",
+      "crops": "3.55% ",
+      "other": "64.15% (2011) "
+    },
+    "location": "Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, 150 km south of Key West, Florida",
+    "naturalHazards": "the east coast is subject to hurricanes from August to November (in general, the country averages about one hurricane every other year); droughts are common",
+    "naturalResources": "cobalt, nickel, iron ore, chromium, copper, salt, timber, silica, petroleum, arable land",
+    "notes": "largest country in Caribbean and westernmost island of the Greater Antilles",
+    "renewableWater": "38.12 cu km (2011)",
+    "terrain": "mostly flat to rolling plains, with rugged hills and mountains in the southeast"
+  },
+  "countryName": "Cuba",
+  "countryCode": "CU"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "The Spratly Islands consist of more than 100 small islands or reefs. They are surrounded by rich fishing grounds and potentially by gas and oil deposits. They are claimed in their entirety by China, Taiwan, and Vietnam, while portions are claimed by Malaysia and the Philippines. About 45 islands are occupied by relatively small numbers of military forces from China, Malaysia, the Philippines, Taiwan, and Vietnam. Since 1985 Brunei has claimed a continental shelf that overlaps a southern reef but has not made any formal claim to the reef. Brunei claims an exclusive economic zone over this area.",
+  "geography": {
+    "area": {
+      "land": "less than 5 sq km ",
+      "total": "less than 5 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "NA",
+    "climate": "tropical",
+    "coastline": "926 km",
+    "elevationHighest": "unnamed location on Southwest Cay 4 m ",
+    "elevationLowest": "South China Sea 0 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "8 38 N, 111 55 E",
+    "irrigatedLand": "5,700 sq km (2006)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0%",
+      "crops": "0% ",
+      "other": "100% (2011) "
+    },
+    "location": "Southeastern Asia, group of reefs and islands in the South China Sea, about two-thirds of the way from southern Vietnam to the southern Philippines",
+    "naturalHazards": "typhoons; numerous reefs and shoals pose a serious maritime hazard",
+    "naturalResources": "fish, guano, undetermined oil and natural gas potential",
+    "notes": "strategically located near several primary shipping lanes in the central South China Sea; includes numerous small islands, atolls, shoals, and coral reefs",
+    "renewableWater": "",
+    "terrain": "flat"
+  },
+  "countryName": "Spratly Islands",
+  "countryCode": "PG"
+}

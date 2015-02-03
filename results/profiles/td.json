@@ -1,0 +1,42 @@
+{
+  "background": "First colonized by the Spanish, the islands came under British control in the early 19th century. The islands' sugar industry was hurt by the emancipation of the slaves in 1834. Manpower was replaced with the importation of contract laborers from India between 1845 and 1917, which boosted sugar production as well as the cocoa industry. The discovery of oil on Trinidad in 1910 added another important export. Independence was attained in 1962. The country is one of the most prosperous in the Caribbean thanks largely to petroleum and natural gas production and processing. Tourism, mostly in Tobago, is targeted for expansion and is growing. The government is coping with a rise in violent crime.",
+  "geography": {
+    "area": {
+      "land": "5,128 sq km ",
+      "total": "5,128 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly smaller than Delaware",
+    "climate": "tropical; rainy season (June to December)",
+    "coastline": "362 km",
+    "elevationHighest": "El Cerro del Aripo 940 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "water pollution from agricultural chemicals, industrial wastes, and raw sewage; oil pollution of beaches; deforestation; soil erosion",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "177.9  cu m/yr (2005) ",
+      "total": "0.23  cu km/yr (67%/25%/8%)"
+    },
+    "geoCoords": "11 00 N, 61 00 W",
+    "irrigatedLand": "36 sq km (2003)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "4.87%",
+      "crops": "4.29% ",
+      "other": "90.84% (2011) "
+    },
+    "location": "Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, northeast of Venezuela",
+    "naturalHazards": "outside usual path of hurricanes and other tropical storms",
+    "naturalResources": "petroleum, natural gas, asphalt",
+    "notes": "Pitch Lake, on Trinidad's southwestern coast, is the world's largest natural reservoir of asphalt",
+    "renewableWater": "3.84 cu km (2011)",
+    "terrain": "mostly plains with some hills and low mountains"
+  },
+  "countryName": "Trinidad and Tobago",
+  "countryCode": "TD"
+}

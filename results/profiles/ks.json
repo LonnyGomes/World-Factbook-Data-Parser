@@ -1,0 +1,42 @@
+{
+  "background": "An independent kingdom for much of its long history, Korea was occupied by Japan beginning in 1905 following the Russo-Japanese War. In 1910, Tokyo formally annexed the entire Peninsula. Korea regained its independence following Japan's surrender to the United States in 1945. After World War II, a democratic-based government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula while a communist-style government was installed in the north (Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a DPRK invasion supported by China and the Soviet Union. A 1953 armistice split the peninsula along a demilitarized zone at about the 38th parallel. PARK Chung-hee took over leadership of the country in a 1961 coup. During his regime, from 1961 to 1979, South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea. South Korea held its first free presidential election under a revised democratic constitution in 1987, with former ROK Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam (1993-98) became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his \"Sunshine\" policy of engagement with North Korea. President PARK Geun-hye, daughter of former ROK President PARK Chung-hee, took office in February 2013 and is South Korea's first female leader. South Korea holds a non-permanent seat (2013-14) on the UN Security Council and will host the 2018 Winter Olympic Games. Serious tensions with North Korea have punctuated inter-Korean relations in recent years, including the North's attacks on a South Korean ship and island in 2010, nuclear and missile tests, and its temporary closure of the inter-Korean Kaesong Industrial Complex in 2013.",
+  "geography": {
+    "area": {
+      "land": "96,920 sq km ",
+      "total": "99,720 sq km",
+      "water": "2,800 sq km "
+    },
+    "areaCompare": "",
+    "climate": "temperate, with rainfall heavier in summer than winter",
+    "coastline": "2,413 km",
+    "elevationHighest": "Halla-san 1,950 m ",
+    "elevationLowest": "Sea of Japan 0 m",
+    "environment": {
+      "currIssues": "air pollution in large cities; acid rain; water pollution from the discharge of sewage and industrial effluents; drift net fishing",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "548.7  cu m/yr (2003) ",
+      "total": "25.47  cu km/yr (26%/12%/62%)"
+    },
+    "geoCoords": "37 00 N, 127 30 E",
+    "irrigatedLand": "8,804 sq km (2003)",
+    "landBoundaries": "238 kmNorth Korea 238 km ",
+    "landUse": {
+      "arable": "14.93%",
+      "crops": "2.06% ",
+      "other": "83% (2011) "
+    },
+    "location": "Eastern Asia, southern half of the Korean Peninsula bordering the Sea of Japan and the Yellow Sea",
+    "naturalHazards": "occasional typhoons bring high winds and floods; low-level seismic activity common in southwestHalla (elev. 1,950 m) is considered historically active although it has not erupted in many centuries ",
+    "naturalResources": "coal, tungsten, graphite, molybdenum, lead, hydropower potential",
+    "notes": "strategic location on Korea Strait",
+    "renewableWater": "69.7 cu km (2011)",
+    "terrain": "mostly hills and mountains; wide coastal plains in west and south"
+  },
+  "countryName": "Korea, South",
+  "countryCode": "KS"
+}

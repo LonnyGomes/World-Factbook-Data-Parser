@@ -1,0 +1,42 @@
+{
+  "background": "A former British colony, Cyprus became independent in 1960 following years of resistance to British rule. Tensions between the Greek Cypriot majority and Turkish Cypriot minority came to a head in December 1963, when violence broke out in the capital of Nicosia. Despite the deployment of UN peacekeepers in 1964, sporadic intercommunal violence continued forcing most Turkish Cypriots into enclaves throughout the island. In 1974, a Greek Government-sponsored attempt to overthrow the elected president of Cyprus was met by military intervention from Turkey, which soon controlled more than a third of the island. In 1983, the Turkish Cypriot-occupied area declared itself the \"Turkish Republic of Northern Cyprus\" (\"TRNC\"), but it is recognized only by Turkey. In February 2014, after a hiatus of nearly two years, the leaders of the two communities resumed formal discussions under UN auspices aimed at reuniting the divided island. The talks are ongoing. The entire island entered the EU on 1 May 2004, although the EU acquis - the body of common rights and obligations - applies only to the areas under the internationally recognized government, and is suspended in the areas administered by Turkish Cypriots. However, individual Turkish Cypriots able to document their eligibility for Republic of Cyprus citizenship legally enjoy the same rights accorded to other citizens of European Union states.",
+  "geography": {
+    "area": {
+      "land": "9,241 sq km ",
+      "total": "9,251 sq km (of which 3,355 sq km are in north Cyprus)",
+      "water": "10 sq km "
+    },
+    "areaCompare": "about 0.6 times the size of Connecticut",
+    "climate": "temperate; Mediterranean with hot, dry summers and cool winters",
+    "coastline": "648 km",
+    "elevationHighest": "Mount Olympus 1,951 m ",
+    "elevationLowest": "Mediterranean Sea 0 m",
+    "environment": {
+      "currIssues": "water resource problems (no natural reservoir catchments, seasonal disparity in rainfall, sea water intrusion to island's largest aquifer, increased salination in the north); water pollution from sewage and industrial wastes; coastal degradation; loss of wildlife habitats from urbanization",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "164.7  cu m/yr (2009) ",
+      "total": "0.18  cu km/yr (10%/3%/86%)"
+    },
+    "geoCoords": "35 00 N, 33 00 E",
+    "irrigatedLand": "457.9 sq km (2007)",
+    "landBoundaries": "156 kmAkrotiri 48 km, Dhekelia 108 km ",
+    "landUse": {
+      "arable": "9.06%",
+      "crops": "3.54% ",
+      "other": "87.41% (2011) "
+    },
+    "location": "Middle East, island in the Mediterranean Sea, south of Turkey",
+    "naturalHazards": "moderate earthquake activity; droughts",
+    "naturalResources": "copper, pyrites, asbestos, gypsum, timber, salt, marble, clay earth pigment",
+    "notes": "the third largest island in the Mediterranean Sea (after Sicily and Sardinia)",
+    "renewableWater": "0.78 cu km (2011)",
+    "terrain": "central plain with mountains to north and south; scattered but significant plains along southern coast"
+  },
+  "countryName": "Cyprus",
+  "countryCode": "CY"
+}

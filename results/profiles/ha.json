@@ -1,0 +1,42 @@
+{
+  "background": "The native Taino - who inhabited the island of Hispaniola when it was discovered by Christopher COLUMBUS in 1492 - were virtually annihilated by Spanish settlers within 25 years. In the early 17th century, the French established a presence on Hispaniola. In 1697, Spain ceded to the French the western third of the island, which later became Haiti. The French colony, based on forestry and sugar-related industries, became one of the wealthiest in the Caribbean but only through the heavy importation of African slaves and considerable environmental degradation. In the late 18th century, Haiti's nearly half million slaves revolted under Toussaint L'OUVERTURE. After a prolonged struggle, Haiti became the first post-colonial black-led nation in the world, declaring its independence in 1804. Currently the poorest country in the Western Hemisphere, Haiti has experienced political instability for most of its history. After an armed rebellion led to the forced resignation and exile of President Jean-Bertrand ARISTIDE in February 2004, an interim government took office to organize new elections under the auspices of the United Nations. Continued instability and technical delays prompted repeated postponements, but Haiti inaugurated a democratically elected president and parliament in May of 2006. This was followed by contested elections in 2010 that resulted in the election of Haiti's current President, Michel MARTELLY. A massive magnitude 7.0 earthquake struck Haiti in January 2010 with an epicenter about 25 km (15 mi) west of the capital, Port-au-Prince. Estimates are that over 300,000 people were killed and some 1.5 million left homeless. The earthquake was assessed as the worst in this region over the last 200 years.",
+  "geography": {
+    "area": {
+      "land": "27,560 sq km ",
+      "total": "27,750 sq km",
+      "water": "190 sq km "
+    },
+    "areaCompare": "slightly smaller than Maryland",
+    "climate": "tropical; semiarid where mountains in east cut off trade winds",
+    "coastline": "1,771 km",
+    "elevationHighest": "Chaine de la Selle 2,680 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "extensive deforestation (much of the remaining forested land is being cleared for agriculture and used as fuel); soil erosion; inadequate supplies of potable water",
+      "intlAgreements": {
+        "notRatified": "Hazardous Wastes ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "134.3  cu m/yr (2009) ",
+      "total": "1.2  cu km/yr (17%/3%/80%)"
+    },
+    "geoCoords": "19 00 N, 72 25 W",
+    "irrigatedLand": "970 sq km (2009)",
+    "landBoundaries": "376 kmDominican Republic 376 km ",
+    "landUse": {
+      "arable": "36.04%",
+      "crops": "10.09% ",
+      "other": "53.87% (2011) "
+    },
+    "location": "Caribbean, western one-third of the island of Hispaniola, between the Caribbean Sea and the North Atlantic Ocean, west of the Dominican Republic",
+    "naturalHazards": "lies in the middle of the hurricane belt and subject to severe storms from June to October; occasional flooding and earthquakes; periodic droughts",
+    "naturalResources": "bauxite, copper, calcium carbonate, gold, marble, hydropower",
+    "notes": "shares island of Hispaniola with Dominican Republic (western one-third is Haiti, eastern two-thirds is the Dominican Republic)",
+    "renewableWater": "14.03 cu km (2011)",
+    "terrain": "mostly rough and mountainous"
+  },
+  "countryName": "Haiti",
+  "countryCode": "HA"
+}

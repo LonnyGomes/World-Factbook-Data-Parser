@@ -1,0 +1,42 @@
+{
+  "background": "Originally settled by Polynesian emigrants from surrounding island groups, the Tokelau Islands were made a British protectorate in 1889. They were transferred to New Zealand administration in 1925. Referenda held in 2006 and 2007 to change the status of the islands from that of a New Zealand territory to one of free association with New Zealand did not meet the needed threshold for approval.",
+  "geography": {
+    "area": {
+      "land": "12 sq km ",
+      "total": "12 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about 17 times the size of The Mall in Washington, DC",
+    "climate": "tropical; moderated by trade winds (April to November)",
+    "coastline": "101 km",
+    "elevationHighest": "unnamed location 5 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "limited natural resources and overcrowding are contributing to emigration to New Zealand",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "9 00 S, 172 00 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0% (soil is thin and infertile)",
+      "crops": "60% ",
+      "other": "40% (2011) "
+    },
+    "location": "Oceania, group of three atolls in the South Pacific Ocean, about one-half of the way from Hawaii to New Zealand",
+    "naturalHazards": "lies in Pacific typhoon belt",
+    "naturalResources": "NEGL",
+    "notes": "consists of three atolls (Atafu, Fakaofo, Nukunonu), each with a lagoon surrounded by a number of reef-bound islets of varying length and rising to over 3 m above sea level",
+    "renewableWater": "",
+    "terrain": "low-lying coral atolls enclosing large lagoons"
+  },
+  "countryName": "Tokelau",
+  "countryCode": "TL"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "Part of the Norwegian Kingdom of the Hebrides until the 13th century when it was ceded to Scotland, the isle came under the British crown in 1765. Current concerns include reviving the almost extinct Manx Gaelic language. Isle of Man is a British crown dependency but is not part of the UK or of the European Union. However, the UK Government remains constitutionally responsible for its defense and international representation.",
+  "geography": {
+    "area": {
+      "land": "572 sq km ",
+      "total": "572 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly more than three times the size of Washington, DC",
+    "climate": "temperate; cool summers and mild winters; overcast about a third of the time",
+    "coastline": "160 km",
+    "elevationHighest": "Snaefell 621 m ",
+    "elevationLowest": "Irish Sea 0 m",
+    "environment": {
+      "currIssues": "waste disposal (both household and industrial); transboundary air pollution",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "54 15 N, 4 30 W",
+    "irrigatedLand": "0 sq km (2011)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "43.86%",
+      "crops": "0% ",
+      "other": "56.14% (permanent pastures, forests, mountain, and heathland) (2011) "
+    },
+    "location": "Western Europe, island in the Irish Sea, between Great Britain and Ireland",
+    "naturalHazards": "NA",
+    "naturalResources": "none",
+    "notes": "one small islet, the Calf of Man, lies to the southwest and is a bird sanctuary",
+    "renewableWater": "",
+    "terrain": "hills in north and south bisected by central valley"
+  },
+  "countryName": "Isle of Man",
+  "countryCode": "IM"
+}

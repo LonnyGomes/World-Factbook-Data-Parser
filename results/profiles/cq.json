@@ -1,0 +1,42 @@
+{
+  "background": "Under US administration as part of the UN Trust Territory of the Pacific, the people of the Northern Mariana Islands decided in the 1970s not to seek independence but instead to forge closer links with the US. Negotiations for territorial status began in 1972. A covenant to establish a commonwealth in political union with the US was approved in 1975, and came into force on 24 March 1976. A new government and constitution went into effect in 1978.",
+  "geography": {
+    "area": {
+      "land": "464 sq km ",
+      "total": "464 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "2.5 times the size of Washington, DC",
+    "climate": "tropical marine; moderated by northeast trade winds, little seasonal temperature variation; dry season December to June, rainy season July to October",
+    "coastline": "1,482 km",
+    "elevationHighest": "unnamed elevation on Agrihan 965 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "contamination of groundwater on Saipan may contribute to disease; clean-up of landfill; protection of endangered species conflicts with development",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "15 12 N, 145 45 E",
+    "irrigatedLand": "1 sq km (2011)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "2.17%",
+      "crops": "2.17% ",
+      "other": "95.65% (2011) "
+    },
+    "location": "Oceania, islands in the North Pacific Ocean, about three-quarters of the way from Hawaii to the Philippines",
+    "naturalHazards": "active volcanoes on Pagan and Agrihan; typhoons (especially August to November)",
+    "naturalResources": "arable land, fish",
+    "notes": "strategic location in the North Pacific Ocean",
+    "renewableWater": "",
+    "terrain": "southern islands are limestone with level terraces and fringing coral reefs; northern islands are volcanic"
+  },
+  "countryName": "Northern Mariana Islands",
+  "countryCode": "CQ"
+}

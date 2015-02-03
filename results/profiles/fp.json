@@ -1,0 +1,42 @@
+{
+  "background": "The French annexed various Polynesian island groups during the 19th century. In September 1995, France stirred up widespread protests by resuming nuclear testing on the Mururoa atoll after a three-year moratorium. The tests were halted in January 1996. In recent years, French Polynesia's autonomy has been considerably expanded.",
+  "geography": {
+    "area": {
+      "land": "3,827 sq km ",
+      "total": "4,167 sq km (118 islands and atolls)",
+      "water": "340 sq km "
+    },
+    "areaCompare": "slightly less than one-third the size of Connecticut",
+    "climate": "tropical, but moderate",
+    "coastline": "2,525 km",
+    "elevationHighest": "Mont Orohena 2,241 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "15 00 S, 140 00 W",
+    "irrigatedLand": "10 sq km (2003)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0.68%",
+      "crops": "6.28% ",
+      "other": "93.03% (2011) "
+    },
+    "location": "Oceania, five archipelagoes (Archipel des Tuamotu, Iles Gambier, Iles Marquises, Iles Tubuai, Society Islands) in the South Pacific Ocean about half way between South America and Australia",
+    "naturalHazards": "occasional cyclonic storms in January",
+    "naturalResources": "timber, fish, cobalt, hydropower",
+    "notes": "includes five archipelagoes: four volcanic (Iles Gambier, Iles Marquises, Iles Tubuai, Society Islands) and one coral (Archipel des Tuamotu); Makatea in French Polynesia is one of the three great phosphate rock islands in the Pacific Ocean - the others are Banaba (Ocean Island) in Kiribati and Nauru",
+    "renewableWater": "",
+    "terrain": "mixture of rugged high islands and low islands with reefs"
+  },
+  "countryName": "French Polynesia",
+  "countryCode": "FP"
+}

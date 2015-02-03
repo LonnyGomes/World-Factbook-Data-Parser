@@ -1,0 +1,42 @@
+{
+  "background": "The use of the name Crna Gora or Black Mountain (Montenegro) began in the 13th century in reference to a highland region in the Serbian province of Zeta. The later medieval state of Zeta maintained its existence until 1496 when Montenegro finally fell under Ottoman rule. Over subsequent centuries Montenegro managed to maintain a level of autonomy within the Ottoman Empire. From the 16th to 19th centuries, Montenegro was a theocracy ruled by a series of bishop princes; in 1852, it transformed into a secular principality. Montenegro was recognized as an independent sovereign principality at the Congress of Berlin in 1878. After World War I, during which Montenegro fought on the side of the Allies, Montenegro was absorbed by the Kingdom of Serbs, Croats, and Slovenes, which became the Kingdom of Yugoslavia in 1929; at the conclusion of World War II, it became a constituent republic of the Socialist Federal Republic of Yugoslavia. When the latter dissolved in 1992, Montenegro federated with Serbia, creating the Federal Republic of Yugoslavia and, after 2003, shifting to a looser State Union of Serbia and Montenegro. In May 2006, Montenegro invoked its right under the Constitutional Charter of Serbia and Montenegro to hold a referendum on independence from the state union. The vote for severing ties with Serbia barely exceeded 55% - the threshold set by the EU - allowing Montenegro to formally restore its independence on 3 June 2006.",
+  "geography": {
+    "area": {
+      "land": "13,452 sq km ",
+      "total": "13,812 sq km",
+      "water": "360 sq km "
+    },
+    "areaCompare": "slightly smaller than Connecticut",
+    "climate": "Mediterranean climate, hot dry summers and autumns and relatively cold winters with heavy snowfalls inland",
+    "coastline": "293.5 km",
+    "elevationHighest": "Bobotov Kuk 2,522 m ",
+    "elevationLowest": "Adriatic Sea 0 m",
+    "environment": {
+      "currIssues": "pollution of coastal waters from sewage outlets, especially in tourist-related areas such as Kotor",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "42 30 N, 19 18 E",
+    "irrigatedLand": "24.12 sq km (2010)",
+    "landBoundaries": "625 kmAlbania 172 km, Bosnia and Herzegovina 225 km, Croatia 25 km, Kosovo 79 km, Serbia 124 km ",
+    "landUse": {
+      "arable": "12.45%",
+      "crops": "1.16% ",
+      "other": "86.39% (2011) "
+    },
+    "location": "Southeastern Europe, between the Adriatic Sea and Serbia",
+    "naturalHazards": "destructive earthquakes",
+    "naturalResources": "bauxite, hydroelectricity",
+    "notes": "strategic location along the Adriatic coast",
+    "renewableWater": "",
+    "terrain": "highly indented coastline with narrow coastal plain backed by rugged high limestone mountains and plateaus"
+  },
+  "countryName": "Montenegro",
+  "countryCode": "MJ"
+}

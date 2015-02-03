@@ -1,0 +1,42 @@
+{
+  "background": "Modern-day Laos has its roots in the ancient Lao kingdom of Lan Xang, established in the 14th century under King FA NGUM. For 300 years Lan Xang had influence reaching into present-day Cambodia and Thailand, as well as over all of what is now Laos. After centuries of gradual decline, Laos came under the domination of Siam (Thailand) from the late 18th century until the late 19th century when it became part of French Indochina. The Franco-Siamese Treaty of 1907 defined the current Lao border with Thailand. In 1975, the communist Pathet Lao took control of the government ending a six-century-old monarchy and instituting a strict socialist regime closely aligned to Vietnam. A gradual, limited return to private enterprise and the liberalization of foreign investment laws began in 1988. Laos became a member of ASEAN in 1997 and the WTO in 2013.",
+  "geography": {
+    "area": {
+      "land": "230,800 sq km ",
+      "total": "236,800 sq km",
+      "water": "6,000 sq km "
+    },
+    "areaCompare": "slightly larger than Utah",
+    "climate": "tropical monsoon; rainy season (May to November); dry season (December to April)",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Phu Bia 2,817 m ",
+    "elevationLowest": "Mekong River 70 m",
+    "environment": {
+      "currIssues": "unexploded ordnance; deforestation; soil erosion; most of the population does not have access to potable water",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Law of the Sea, Ozone Layer Protection"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "588.9  cu m/yr (2005) ",
+      "total": "3.49  cu km/yr (4%/5%/91%)"
+    },
+    "geoCoords": "18 00 N, 105 00 E",
+    "irrigatedLand": "3,100 sq km (2005)",
+    "landBoundaries": "5,083 kmBurma 235 km, Cambodia 541 km, China 423 km, Thailand 1,754 km, Vietnam 2,130 km ",
+    "landUse": {
+      "arable": "5.91%",
+      "crops": "0.42% ",
+      "other": "93.67% (2011) "
+    },
+    "location": "Southeastern Asia, northeast of Thailand, west of Vietnam",
+    "naturalHazards": "floods, droughts",
+    "naturalResources": "timber, hydropower, gypsum, tin, gold, gemstones",
+    "notes": "landlocked; most of the country is mountainous and thickly forested; the Mekong River forms a large part of the western boundary with Thailand",
+    "renewableWater": "333.5 cu km (2011)",
+    "terrain": "mostly rugged mountains; some plains and plateaus"
+  },
+  "countryName": "Laos",
+  "countryCode": "LA"
+}

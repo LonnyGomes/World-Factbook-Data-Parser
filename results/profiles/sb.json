@@ -1,0 +1,42 @@
+{
+  "background": "First settled by the French in the early 17th century, the islands represent the sole remaining vestige of France's once vast North American possessions.",
+  "geography": {
+    "area": {
+      "land": "242 sq km ",
+      "total": "242 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "one and half times the size of Washington, DC",
+    "climate": "cold and wet, with considerable mist and fog; spring and autumn are often windy",
+    "coastline": "120 km",
+    "elevationHighest": "Morne de la Grande Montagne 240 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "recent test drilling for oil in waters around Saint Pierre and Miquelon may bring future development that would impact the environment",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "46 50 N, 56 20 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "8.7%",
+      "crops": "0% ",
+      "other": "91.3% (2011) "
+    },
+    "location": "Northern North America, islands in the North Atlantic Ocean, south of Newfoundland (Canada)",
+    "naturalHazards": "persistent fog throughout the year can be a maritime hazard",
+    "naturalResources": "fish, deepwater ports",
+    "notes": "vegetation scanty",
+    "renewableWater": "",
+    "terrain": "mostly barren rock"
+  },
+  "countryName": "Saint Pierre and Miquelon",
+  "countryCode": "SB"
+}

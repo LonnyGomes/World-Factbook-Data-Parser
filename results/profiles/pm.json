@@ -1,0 +1,42 @@
+{
+  "background": "Explored and settled by the Spanish in the 16th century, Panama broke with Spain in 1821 and joined a union of Colombia, Ecuador, and Venezuela - named the Republic of Gran Colombia. When the latter dissolved in 1830, Panama remained part of Colombia. With US backing, Panama seceded from Colombia in 1903 and promptly signed a treaty with the US allowing for the construction of a canal and US sovereignty over a strip of land on either side of the structure (the Panama Canal Zone). The Panama Canal was built by the US Army Corps of Engineers between 1904 and 1914. In 1977, an agreement was signed for the complete transfer of the Canal from the US to Panama by the end of the century. Certain portions of the Zone and increasing responsibility over the Canal were turned over in the subsequent decades. With US help, dictator Manuel NORIEGA was deposed in 1989. The entire Panama Canal, the area supporting the Canal, and remaining US military bases were transferred to Panama by the end of 1999. In October 2006, Panamanians approved an ambitious plan (estimated to cost $5.3 billion) to expand the Canal. The project, which began in 2007 and could double the Canal's capacity, is expected to be completed in 2015.",
+  "geography": {
+    "area": {
+      "land": "74,340 sq km ",
+      "total": "75,420 sq km",
+      "water": "1,080 sq km "
+    },
+    "areaCompare": "slightly smaller than South Carolina",
+    "climate": "tropical maritime; hot, humid, cloudy; prolonged rainy season (May to January), short dry season (January to May)",
+    "coastline": "2,490 km",
+    "elevationHighest": "Volcan Baru 3,475 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "water pollution from agricultural runoff threatens fishery resources; deforestation of tropical rain forest; land degradation and soil erosion threatens siltation of Panama Canal; air pollution in urban areas; mining threatens natural resources",
+      "intlAgreements": {
+        "notRatified": "Marine Life Conservation ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "296.1  cu m/yr (2005) ",
+      "total": "0.91  cu km/yr (27%/2%/71%)"
+    },
+    "geoCoords": "9 00 N, 80 00 W",
+    "irrigatedLand": "346.2 sq km (2003)",
+    "landBoundaries": "555 kmColombia 225 km, Costa Rica 330 km ",
+    "landUse": {
+      "arable": "7.16%",
+      "crops": "2.51% ",
+      "other": "90.33% (2011) "
+    },
+    "location": "Central America, bordering both the Caribbean Sea and the North Pacific Ocean, between Colombia and Costa Rica",
+    "naturalHazards": "occasional severe storms and forest fires in the Darien area",
+    "naturalResources": "copper, mahogany forests, shrimp, hydropower",
+    "notes": "strategic location on eastern end of isthmus forming land bridge connecting North and South America; controls Panama Canal that links North Atlantic Ocean via Caribbean Sea with North Pacific Ocean",
+    "renewableWater": "148 cu km (2011)",
+    "terrain": "interior mostly steep, rugged mountains and dissected, upland plains; coastal areas largely plains and rolling hills"
+  },
+  "countryName": "Panama",
+  "countryCode": "PM"
+}

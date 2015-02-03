@@ -1,0 +1,42 @@
+{
+  "background": "The Dutch United Provinces declared their independence from Spain in 1579; during the 17th century, they became a leading seafaring and commercial power, with settlements and colonies around the world. After a 20-year French occupation, a Kingdom of the Netherlands was formed in 1815. In 1830 Belgium seceded and formed a separate kingdom. The Netherlands remained neutral in World War I, but suffered invasion and occupation by Germany in World War II. A modern, industrialized nation, the Netherlands is also a large exporter of agricultural products. The country was a founding member of NATO and the EEC (now the EU) and participated in the introduction of the euro in 1999. In October 2010, the former Netherlands Antilles was dissolved and the three smallest islands - Bonaire, Sint Eustatius, and Saba - became special municipalities in the Netherlands administrative structure. The larger islands of Sint Maarten and Curacao joined the Netherlands and Aruba as constituent countries forming the Kingdom of the Netherlands.",
+  "geography": {
+    "area": {
+      "land": "33,893 sq km ",
+      "total": "41,543 sq km",
+      "water": "7,650 sq km "
+    },
+    "areaCompare": "slightly less than twice the size of New Jersey",
+    "climate": "temperate; marine; cool summers and mild winters",
+    "coastline": "451 km",
+    "elevationHighest": "Mount Scenery 862 m (on the island of Saba in the Caribbean, now considered an integral part of the Netherlands following the dissolution of the Netherlands Antilles) ",
+    "elevationLowest": "Zuidplaspolder -7 m",
+    "environment": {
+      "currIssues": "water pollution in the form of heavy metals, organic compounds, and nutrients such as nitrates and phosphates; air pollution from vehicles and refining activities; acid rain",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "636.7  cu m/yr (2008) ",
+      "total": "10.61  cu km/yr (12%/88%/1%)"
+    },
+    "geoCoords": "52 30 N, 5 45 E",
+    "irrigatedLand": "4,572 sq km (2007)",
+    "landBoundaries": "1,027 kmBelgium 450 km, Germany 577 km ",
+    "landUse": {
+      "arable": "25.08%",
+      "crops": "0.88% ",
+      "other": "74.04% (2011) "
+    },
+    "location": "Western Europe, bordering the North Sea, between Belgium and Germany",
+    "naturalHazards": "flooding",
+    "naturalResources": "natural gas, petroleum, peat, limestone, salt, sand and gravel, arable land",
+    "notes": "located at mouths of three major European rivers (Rhine, Maas or Meuse, and Schelde)",
+    "renewableWater": "91 cu km (2011)",
+    "terrain": "mostly coastal lowland and reclaimed land (polders); some hills in southeast"
+  },
+  "countryName": "Netherlands",
+  "countryCode": "NL"
+}

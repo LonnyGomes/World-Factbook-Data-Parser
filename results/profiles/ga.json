@@ -1,0 +1,42 @@
+{
+  "background": "The Gambia gained its independence from the UK in 1965. Geographically surrounded by Senegal, it formed a short-lived federation of Senegambia between 1982 and 1989. In 1991 the two nations signed a friendship and cooperation treaty, but tensions have flared up intermittently since then. Yahya JAMMEH led a military coup in 1994 that overthrew the president and banned political activity. A new constitution and presidential elections in 1996, followed by parliamentary balloting in 1997, completed a nominal return to civilian rule. JAMMEH has been elected president in all subsequent elections including most recently in late 2011.",
+  "geography": {
+    "area": {
+      "land": "10,000 sq km ",
+      "total": "11,295 sq km",
+      "water": "1,295 sq km "
+    },
+    "areaCompare": "slightly less than twice the size of Delaware",
+    "climate": "tropical; hot, rainy season (June to November); cooler, dry season (November to May)",
+    "coastline": "80 km",
+    "elevationHighest": "unnamed elevation 53 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; desertification; water-borne diseases prevalent",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "65.77  cu m/yr (2005) ",
+      "total": "0.09  cu km/yr (41%/21%/39%)"
+    },
+    "geoCoords": "13 28 N, 16 34 W",
+    "irrigatedLand": "50 sq km (2011)",
+    "landBoundaries": "749 kmSenegal 749 km ",
+    "landUse": {
+      "arable": "39.82%",
+      "crops": "0.44% ",
+      "other": "59.73% (2011) "
+    },
+    "location": "Western Africa, bordering the North Atlantic Ocean and Senegal",
+    "naturalHazards": "drought (rainfall has dropped by 30% in the last 30 years)",
+    "naturalResources": "fish, clay, silica sand, titanium (rutile and ilmenite), tin, zircon",
+    "notes": "almost an enclave of Senegal; smallest country on the continent of Africa",
+    "renewableWater": "8 cu km (2011)",
+    "terrain": "flood plain of the Gambia River flanked by some low hills"
+  },
+  "countryName": "Gambia, The",
+  "countryCode": "GA"
+}

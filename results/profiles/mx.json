@@ -1,0 +1,42 @@
+{
+  "background": "The site of several advanced Amerindian civilizations - including the Olmec, Toltec, Teotihuacan, Zapotec, Maya, and Aztec - Mexico was conquered and colonized by Spain in the early 16th century. Administered as the Viceroyalty of New Spain for three centuries, it achieved its independence early in the 19th century. The global financial crisis beginning in late 2008 caused a massive economic downturn the following year, although growth returned quickly in 2010. Ongoing economic and social concerns include low real wages, underemployment for a large segment of the population, inequitable income distribution, and few advancement opportunities for the largely indigenous population in the impoverished southern states. The elections held in 2000 marked the first time since the 1910 Mexican Revolution that an opposition candidate - Vicente FOX of the National Action Party (PAN) - defeated the party in government, the Institutional Revolutionary Party (PRI). He was succeeded in 2006 by another PAN candidate Felipe CALDERON, but Enrique PENA NIETO regained the presidency for the PRI in 2012. Since 2007, Mexico's powerful drug-trafficking organizations have engaged in bloody feuding, resulting in tens of thousands of drug-related homicides.",
+  "geography": {
+    "area": {
+      "land": "1,943,945 sq km ",
+      "total": "1,964,375 sq km",
+      "water": "20,430 sq km "
+    },
+    "areaCompare": "",
+    "climate": "varies from tropical to desert",
+    "coastline": "9,330 km",
+    "elevationHighest": "Volcan Pico de Orizaba 5,700 m ",
+    "elevationLowest": "Laguna Salada -10 m",
+    "environment": {
+      "currIssues": "scarcity of hazardous waste disposal facilities; rural to urban migration; natural freshwater resources scarce and polluted in north, inaccessible and poor quality in center and extreme southeast; raw sewage and industrial effluents polluting rivers in urban areas; deforestation; widespread erosion; desertification; deteriorating agricultural lands; serious air and water pollution in the national capital and urban centers along US-Mexico border; land subsidence in Valley of Mexico caused by groundwater depletionthe government considers the lack of clean water and deforestation national security issues ",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "700.4  cu m/yr (2009) ",
+      "total": "80.4  cu km/yr (14%/9%/77%)"
+    },
+    "geoCoords": "23 00 N, 102 00 W",
+    "irrigatedLand": "64,600 sq km (2009)",
+    "landBoundaries": "4,353 kmBelize 250 km, Guatemala 962 km, US 3,141 km ",
+    "landUse": {
+      "arable": "12.98%",
+      "crops": "1.36% ",
+      "other": "85.66% (2011) "
+    },
+    "location": "North America, bordering the Caribbean Sea and the Gulf of Mexico, between Belize and the United States and bordering the North Pacific Ocean, between Guatemala and the United States",
+    "naturalHazards": "tsunamis along the Pacific coast, volcanoes and destructive earthquakes in the center and south, and hurricanes on the Pacific, Gulf of Mexico, and Caribbean coastsvolcanic activity in the central-southern part of the country; the volcanoes in Baja California are mostly dormant; Colima (elev. 3,850 m), which erupted in 2010, is Mexico's most active volcano and is responsible for causing periodic evacuations of nearby villagers; it has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Popocatepetl (elev. 5,426 m) poses a threat to Mexico City; other historically active volcanoes include Barcena, Ceboruco, El Chichon, Michoacan-Guanajuato, Pico de Orizaba, San Martin, Socorro, and Tacana ",
+    "naturalResources": "petroleum, silver, copper, gold, lead, zinc, natural gas, timber",
+    "notes": "strategic location on southern border of US; corn (maize), one of the world's major grain crops, is thought to have originated in Mexico",
+    "renewableWater": "457.2 cu km (2011)",
+    "terrain": "high, rugged mountains; low coastal plains; high plateaus; desert"
+  },
+  "countryName": "Mexico",
+  "countryCode": "MX"
+}

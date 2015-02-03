@@ -1,0 +1,42 @@
+{
+  "background": "Guinea is at a turning point after decades of authoritarian rule since gaining its independence from France in 1958. Guinea held its first free and competitive democratic presidential and legislative elections in 2010 and 2013 respectively. Alpha CONDE was elected to a five year term as president in 2010, and the National Assembly was seated in January 2014. CONDE's cabinet is the first all-civilian government in Guinea. Previously, Sekou TOURE ruled the country as president from independence to his death in 1984. Lansana CONTE came to power in 1984 when the military seized the government after TOURE's death. Gen. CONTE organized and won presidential elections in 1993, 1998, and 2003, though all the polls were rigged. Upon CONTE's death in December 2008, Capt. Moussa Dadis CAMARA led a military coup, seizing power and suspending the constitution. His unwillingness to yield to domestic and international pressure to step down led to heightened political tensions that culminated in September 2009 when presidential guards opened fire on an opposition rally killing more than 150 people, and in early December 2009 when CAMARA was wounded in an assassination attempt and exiled to Burkina Faso. A transitional government led by Gen. Sekouba KONATE paved the way for Guinea's transition to a fledgling democracy.",
+  "geography": {
+    "area": {
+      "land": "245,717 sq km ",
+      "total": "245,857 sq km",
+      "water": "140 sq km "
+    },
+    "areaCompare": "slightly smaller than Oregon",
+    "climate": "generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds",
+    "coastline": "320 km",
+    "elevationHighest": "Mont Nimba 1,752 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; inadequate supplies of potable water; desertification; soil contamination and erosion; overfishing, overpopulation in forest region; poor mining practices have led to environmental damage",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "64.3  cu m/yr (2005) ",
+      "total": "0.55  cu km/yr (39%/10%/51%)"
+    },
+    "geoCoords": "11 00 N, 10 00 W",
+    "irrigatedLand": "949.2 sq km (2003)",
+    "landBoundaries": "4,046 kmCote d'Ivoire 816 km, Guinea-Bissau 421 km, Liberia 590 km, Mali 1,062 km, Senegal 363 km, Sierra Leone 794 km ",
+    "landUse": {
+      "arable": "11.59%",
+      "crops": "2.81% ",
+      "other": "85.6% (2011) "
+    },
+    "location": "Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Sierra Leone",
+    "naturalHazards": "hot, dry, dusty harmattan haze may reduce visibility during dry season",
+    "naturalResources": "bauxite, iron ore, diamonds, gold, uranium, hydropower, fish, salt",
+    "notes": "the Niger and its important tributary the Milo have their sources in the Guinean highlands",
+    "renewableWater": "226 cu km (2011)",
+    "terrain": "generally flat coastal plain, hilly to mountainous interior"
+  },
+  "countryName": "Guinea",
+  "countryCode": "GV"
+}

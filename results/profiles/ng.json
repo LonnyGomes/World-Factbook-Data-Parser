@@ -1,0 +1,42 @@
+{
+  "background": "Niger became independent from France in 1960 and experienced single-party and military rule until 1991, when Gen. Ali SAIBOU was forced by public pressure to allow multiparty elections, which resulted in a democratic government in 1993. Political infighting brought the government to a standstill and in 1996 led to a coup by Col. Ibrahim BARE. In 1999, BARE was killed in a counter coup by military officers who restored democratic rule and held elections that brought Mamadou TANDJA to power in December of that year. TANDJA was reelected in 2004 and in 2009 spearheaded a constitutional amendment that would allow him to extend his term as president. In February 2010, a military coup deposed TANDJA, immediately suspended the constitution, and dissolved the Cabinet. ISSOUFOU Mahamadou emerged victorious from a crowded field in the election following the coup and was inaugurated in April 2011. Niger is one of the poorest countries in the world with minimal government services and insufficient funds to develop its resource base. The largely agrarian and subsistence-based economy is frequently disrupted by extended droughts common to the Sahel region of Africa. The Nigerien Movement for Justice, a predominantly ethnic Tuareg rebel group, emerged in February 2007, and attacked several military targets in Niger's northern region throughout 2007 and 2008. Successful government offensives in 2009 ended the rebellion. Niger is facing increased security concerns on its borders from various external threats including insecurity in Libya, spillover from the conflict in Mali, and violent extremism in northeastern Nigeria.",
+  "geography": {
+    "area": {
+      "land": "1,266,700 sq km ",
+      "total": "1.267 million sq km",
+      "water": "300 sq km "
+    },
+    "areaCompare": "slightly less than twice the size of Texas",
+    "climate": "desert; mostly hot, dry, dusty; tropical in extreme south",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Idoukal-n-Taghes 2,022 m ",
+    "elevationLowest": "Niger River 200 m",
+    "environment": {
+      "currIssues": "overgrazing; soil erosion; deforestation; desertification; wildlife populations (such as elephant, hippopotamus, giraffe, and lion) threatened because of poaching and habitat destruction",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "70.53  cu m/yr (2005) ",
+      "total": "0.98  cu km/yr (30%/3%/67%)"
+    },
+    "geoCoords": "16 00 N, 8 00 E",
+    "irrigatedLand": "736.6 sq km (2005)",
+    "landBoundaries": "5,697 kmAlgeria 956 km, Benin 266 km, Burkina Faso 628 km, Chad 1,175 km, Libya 354 km, Mali 821 km, Nigeria 1,497 km ",
+    "landUse": {
+      "arable": "11.79%",
+      "crops": "0.05% ",
+      "other": "88.16% (2011) "
+    },
+    "location": "Western Africa, southeast of Algeria",
+    "naturalHazards": "recurring droughts",
+    "naturalResources": "uranium, coal, iron ore, tin, phosphates, gold, molybdenum, gypsum, salt, petroleum",
+    "notes": "landlocked; one of the hottest countries in the world; northern four-fifths is desert, southern one-fifth is savanna, suitable for livestock and limited agriculture",
+    "renewableWater": "33.65 cu km (2011)",
+    "terrain": "predominately desert plains and sand dunes; flat to rolling plains in south; hills in north"
+  },
+  "countryName": "Niger",
+  "countryCode": "NG"
+}

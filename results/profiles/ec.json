@@ -1,0 +1,42 @@
+{
+  "background": "What is now Ecuador formed part of the northern Inca Empire until the Spanish conquest in 1533. Quito became a seat of Spanish colonial government in 1563 and part of the Viceroyalty of New Granada in 1717. The territories of the Viceroyalty - New Granada (Colombia), Venezuela, and Quito - gained their independence between 1819 and 1822 and formed a federation known as Gran Colombia. When Quito withdrew in 1830, the traditional name was changed in favor of the \"Republic of the Equator.\" Between 1904 and 1942, Ecuador lost territories in a series of conflicts with its neighbors. A border war with Peru that flared in 1995 was resolved in 1999. Although Ecuador marked 30 years of civilian governance in 2004, the period was marred by political instability. Protests in Quito contributed to the mid-term ouster of three of Ecuador's last four democratically elected presidents. In late 2008, voters approved a new constitution, Ecuador's 20th since gaining independence. General elections were held in February 2013, and voters re-elected President Rafael CORREA.",
+  "geography": {
+    "area": {
+      "land": "276,841 sq km ",
+      "total": "283,561 sq km",
+      "water": "6,720 sq km "
+    },
+    "areaCompare": "slightly smaller than Nevada",
+    "climate": "tropical along coast, becoming cooler inland at higher elevations; tropical in Amazonian jungle lowlands",
+    "coastline": "2,237 km",
+    "elevationHighest": "Chimborazo 6,267 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; soil erosion; desertification; water pollution; pollution from oil production wastes in ecologically sensitive areas of the Amazon Basin and Galapagos Islands",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Antarctic-Environmental Protocol, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "716.1  cu m/yr (2005) ",
+      "total": "9.92  cu km/yr (13%/6%/81%)"
+    },
+    "geoCoords": "2 00 S, 77 30 W",
+    "irrigatedLand": "8,534 sq km (2003)",
+    "landBoundaries": "2,237 kmColombia 708 km, Peru 1,529 km ",
+    "landUse": {
+      "arable": "4.51%",
+      "crops": "5.38% ",
+      "other": "90.11% (2011) "
+    },
+    "location": "Western South America, bordering the Pacific Ocean at the Equator, between Colombia and Peru",
+    "naturalHazards": "frequent earthquakes; landslides; volcanic activity; floods; periodic droughtsvolcanic activity concentrated along the Andes Mountains; Sangay (elev. 5,230 m), which erupted in 2010, is mainland Ecuador's most active volcano; other historically active volcanoes in the Andes include Antisana, Cayambe, Chacana, Cotopaxi, Guagua Pichincha, Reventador, Sumaco, and Tungurahua; Fernandina (elev. 1,476 m), a shield volcano that last erupted in 2009, is the most active of the many Galapagos volcanoes; other historically active Galapagos volcanoes include Wolf, Sierra Negra, Cerro Azul, Pinta, Marchena, and Santiago ",
+    "naturalResources": "petroleum, fish, timber, hydropower",
+    "notes": "Cotopaxi in Andes is highest active volcano in world",
+    "renewableWater": "424.4 cu km (2011)",
+    "terrain": "coastal plain (costa), inter-Andean central highlands (sierra), and flat to rolling eastern jungle (oriente)"
+  },
+  "countryName": "Ecuador",
+  "countryCode": "EC"
+}

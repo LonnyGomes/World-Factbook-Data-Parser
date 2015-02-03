@@ -1,0 +1,42 @@
+{
+  "background": "Ethnic Kazakhs, a mix of Turkic and Mongol nomadic tribes who migrated to the region by the 13th century, were rarely united as a single nation. The area was conquered by Russia in the 18th century, and Kazakhstan became a Soviet Republic in 1936. During the 1950s and 1960s agricultural \"Virgin Lands\" program, Soviet citizens were encouraged to help cultivate Kazakhstan's northern pastures. This influx of immigrants (mostly Russians, but also some other deported nationalities) skewed the ethnic mixture and enabled non-ethnic Kazakhs to outnumber natives. Non-Muslim ethnic minorities departed Kazakhstan in large numbers from the mid-1990s through the mid-2000s and a national program has repatriated about a million ethnic Kazakhs back to Kazakhstan. These trends have allowed Kazakhs to become the titular majority again. This dramatic demographic shift has also undermined the previous religious diversity and made the country more than 70 percent Muslim. Kazakhstan's economy is larger than those of all the other Central Asian states largely due to the country's vast natural resources. Current issues include: developing a cohesive national identity; managing Islamic revivalism; expanding the development of the country's vast energy resources and exporting them to world markets; diversifying the economy outside the oil, gas, and mining sectors; enhancing Kazakhstan's economic competitiveness; developing a multiparty parliament and advancing political and social reform; and strengthening relations with neighboring states and other foreign powers.",
+  "geography": {
+    "area": {
+      "land": "2,699,700 sq km ",
+      "total": "2,724,900 sq km",
+      "water": "25,200 sq km "
+    },
+    "areaCompare": "slightly less than four times the size of Texas",
+    "climate": "continental, cold winters and hot summers, arid and semiarid",
+    "coastline": "0 km (landlocked); note - Kazakhstan borders the Aral Sea, now split into two bodies of water (1,070 km), and the Caspian Sea (1,894 km)",
+    "elevationHighest": "Khan Tangiri Shyngy (Pik Khan-Tengri) 6,995 m ",
+    "elevationLowest": "Vpadina Kaundy -132 m",
+    "environment": {
+      "currIssues": "radioactive or toxic chemical sites associated with former defense industries and test ranges scattered throughout the country pose health risks for humans and animals; industrial pollution is severe in some cities; because the two main rivers that flowed into the Aral Sea have been diverted for irrigation, it is drying up and leaving behind a harmful layer of chemical pesticides and natural salts; these substances are then picked up by the wind and blown into noxious dust storms; pollution in the Caspian Sea; soil pollution from overuse of agricultural chemicals and salination from poor infrastructure and wasteful irrigation practices",
+      "intlAgreements": {
+        "notRatified": "Climate Change-Kyoto Protocol ",
+        "partyTo": "Air Pollution, Biodiversity, Climate Change, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "1,304  cu m/yr (2010) ",
+      "total": "21.14  cu km/yr (4%/30%/66%)"
+    },
+    "geoCoords": "48 00 N, 68 00 E",
+    "irrigatedLand": "20,660 sq km (2010)",
+    "landBoundaries": "12,185 kmChina 1,533 km, Kyrgyzstan 1,224 km, Russia 6,846 km, Turkmenistan 379 km, Uzbekistan 2,203 km ",
+    "landUse": {
+      "arable": "8.82%",
+      "crops": "0.03% ",
+      "other": "91.15% (2011) "
+    },
+    "location": "Central Asia, northwest of China; a small portion west of the Ural (Zhayyq) River in eastern-most Europe",
+    "naturalHazards": "earthquakes in the south; mudslides around Almaty",
+    "naturalResources": "major deposits of petroleum, natural gas, coal, iron ore, manganese, chrome ore, nickel, cobalt, copper, molybdenum, lead, zinc, bauxite, gold, uranium",
+    "notes": "world's largest landlocked country; Russia leases approximately 6,000 sq km of territory enclosing the Baykonur Cosmodrome; in January 2004, Kazakhstan and Russia extended the lease to 2050",
+    "renewableWater": "107.5 cu km (2011)",
+    "terrain": "vast flat steppe extending from the Volga in the west to the Altai Mountains in the east and from the plains of western Siberia in the north to oases and deserts of Central Asia in the south"
+  },
+  "countryName": "Kazakhstan",
+  "countryCode": "KZ"
+}

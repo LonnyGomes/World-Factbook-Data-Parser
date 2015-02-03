@@ -1,0 +1,42 @@
+{
+  "background": "The Sultanate of Brunei's influence peaked between the 15th and 17th centuries when its control extended over coastal areas of northwest Borneo and the southern Philippines. Brunei subsequently entered a period of decline brought on by internal strife over royal succession, colonial expansion of European powers, and piracy. In 1888, Brunei became a British protectorate; independence was achieved in 1984. The same family has ruled Brunei for over six centuries. Brunei benefits from extensive petroleum and natural gas fields, the source of one of the highest per capita GDPs in Asia.",
+  "geography": {
+    "area": {
+      "land": "5,265 sq km ",
+      "total": "5,765 sq km",
+      "water": "500 sq km "
+    },
+    "areaCompare": "slightly smaller than Delaware",
+    "climate": "tropical; hot, humid, rainy",
+    "coastline": "161 km",
+    "elevationHighest": "Bukit Pagon 1,850 m ",
+    "elevationLowest": "South China Sea 0 m",
+    "environment": {
+      "currIssues": "seasonal smoke/haze resulting from forest fires in Indonesia",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "301.6  cu m/yr (2009) ",
+      "total": "0.09  cu km/yr (97%/0%/3%)"
+    },
+    "geoCoords": "4 30 N, 114 40 E",
+    "irrigatedLand": "10 sq km (2003)",
+    "landBoundaries": "266 kmMalaysia 266 km ",
+    "landUse": {
+      "arable": "0.52%",
+      "crops": "0.87% ",
+      "other": "98.61% (2011) "
+    },
+    "location": "Southeastern Asia, bordering the South China Sea and Malaysia",
+    "naturalHazards": "typhoons, earthquakes, and severe flooding are rare",
+    "naturalResources": "petroleum, natural gas, timber",
+    "notes": "close to vital sea lanes through South China Sea linking Indian and Pacific Oceans; two parts physically separated by Malaysia; almost an enclave within Malaysia",
+    "renewableWater": "8.5 cu km (2011)",
+    "terrain": "flat coastal plain rises to mountains in east; hilly lowland in west"
+  },
+  "countryName": "Brunei",
+  "countryCode": "BX"
+}

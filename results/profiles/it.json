@@ -1,0 +1,42 @@
+{
+  "background": "Italy became a nation-state in 1861 when the regional states of the peninsula, along with Sardinia and Sicily, were united under King Victor EMMANUEL II. An era of parliamentary government came to a close in the early 1920s when Benito MUSSOLINI established a Fascist dictatorship. His alliance with Nazi Germany led to Italy's defeat in World War II. A democratic republic replaced the monarchy in 1946 and economic revival followed. Italy is a charter member of NATO and the European Economic Community (EEC). It has been at the forefront of European economic and political unification, joining the Economic and Monetary Union in 1999. Persistent problems include sluggish economic growth, high youth and female unemployment, organized crime, corruption, and economic disparities between southern Italy and the more prosperous north.",
+  "geography": {
+    "area": {
+      "land": "294,140 sq km ",
+      "total": "301,340 sq km",
+      "water": "7,200 sq km "
+    },
+    "areaCompare": "",
+    "climate": "predominantly Mediterranean; Alpine in far north; hot, dry in south",
+    "coastline": "7,600 km",
+    "elevationHighest": "Mont Blanc (Monte Bianco) de Courmayeur 4,748 m (a secondary peak of Mont Blanc) ",
+    "elevationLowest": "Mediterranean Sea 0 m",
+    "environment": {
+      "currIssues": "air pollution from industrial emissions such as sulfur dioxide; coastal and inland rivers polluted from industrial and agricultural effluents; acid rain damaging lakes; inadequate industrial waste treatment and disposal facilities",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "789.8  cu m/yr (2008) ",
+      "total": "45.41  cu km/yr (24%/43%/34%)"
+    },
+    "geoCoords": "42 50 N, 12 50 E",
+    "irrigatedLand": "39,510 sq km (2007)",
+    "landBoundaries": "1,836 kmAustria 404 km, France 476 km, Holy See (Vatican City) 3 km, San Marino 37 km, Slovenia 218 km, Switzerland 698 km ",
+    "landUse": {
+      "arable": "22.57%",
+      "crops": "8.37% ",
+      "other": "69.07% (2011) "
+    },
+    "location": "Southern Europe, a peninsula extending into the central Mediterranean Sea, northeast of Tunisia",
+    "naturalHazards": "regional risks include landslides, mudflows, avalanches, earthquakes, volcanic eruptions, flooding; land subsidence in Venicesignificant volcanic activity; Etna (elev. 3,330 m), which is in eruption as of 2010, is Europe's most active volcano; flank eruptions pose a threat to nearby Sicilian villages; Etna, along with the famous Vesuvius, which remains a threat to the millions of nearby residents in the Bay of Naples area, have both been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Stromboli, on its namesake island, has also been continuously active with moderate volcanic activity; other historically active volcanoes include Campi Flegrei, Ischia, Larderello, Pantelleria, Vulcano, and Vulsini ",
+    "naturalResources": "coal, mercury, zinc, potash, marble, barite, asbestos, pumice, fluorspar, feldspar, pyrite (sulfur), natural gas and crude oil reserves, fish, arable land",
+    "notes": "strategic location dominating central Mediterranean as well as southern sea and air approaches to Western Europe",
+    "renewableWater": "191.3 cu km (2011)",
+    "terrain": "mostly rugged and mountainous; some plains, coastal lowlands"
+  },
+  "countryName": "Italy",
+  "countryCode": "IT"
+}

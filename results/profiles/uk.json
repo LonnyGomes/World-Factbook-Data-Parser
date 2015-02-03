@@ -1,0 +1,42 @@
+{
+  "background": "The United Kingdom has historically played a leading role in developing parliamentary democracy and in advancing literature and science. At its zenith in the 19th century, the British Empire stretched over one-fourth of the earth's surface. The first half of the 20th century saw the UK's strength seriously depleted in two world wars and the Irish Republic's withdrawal from the union. The second half witnessed the dismantling of the Empire and the UK rebuilding itself into a modern and prosperous European nation. As one of five permanent members of the UN Security Council and a founding member of NATO and the Commonwealth, the UK pursues a global approach to foreign policy. The UK is also an active member of the EU, although it chose to remain outside the Economic and Monetary Union. The Scottish Parliament, the National Assembly for Wales, and the Northern Ireland Assembly were established in 1999. The latter was suspended until May 2007 due to wrangling over the peace process, but devolution was fully completed in March 2010.",
+  "geography": {
+    "area": {
+      "land": "241,930 sq km ",
+      "total": "243,610 sq km",
+      "water": "1,680 sq km "
+    },
+    "areaCompare": "",
+    "climate": "temperate; moderated by prevailing southwest winds over the North Atlantic Current; more than one-half of the days are overcast",
+    "coastline": "12,429 km",
+    "elevationHighest": "Ben Nevis 1,343 m ",
+    "elevationLowest": "The Fens -4 m",
+    "environment": {
+      "currIssues": "continues to reduce greenhouse gas emissions (has met Kyoto Protocol target of a 12.5% reduction from 1990 levels and intends to meet the legally binding target and move toward a domestic goal of a 20% cut in emissions by 2010); by 2005 the government reduced the amount of industrial and commercial waste disposed of in landfill sites to 85% of 1998 levels and recycled or composted at least 25% of household waste, increasing to 33% by 2015",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "213.2  cu m/yr (2008) ",
+      "total": "13.03  cu km/yr (58%/33%/9%)"
+    },
+    "geoCoords": "54 00 N, 2 00 W",
+    "irrigatedLand": "2,280 sq km (2005)",
+    "landBoundaries": "360 kmIreland 360 km ",
+    "landUse": {
+      "arable": "24.88%",
+      "crops": "0.18% ",
+      "other": "74.93% (2011) "
+    },
+    "location": "Western Europe, islands - including the northern one-sixth of the island of Ireland - between the North Atlantic Ocean and the North Sea; northwest of France",
+    "naturalHazards": "winter windstorms; floods",
+    "naturalResources": "coal, petroleum, natural gas, iron ore, lead, zinc, gold, tin, limestone, salt, clay, chalk, gypsum, potash, silica sand, slate, arable land",
+    "notes": "lies near vital North Atlantic sea lanes; only 35 km from France and linked by tunnel under the English Channel; because of heavily indented coastline, no location is more than 125 km from tidal waters",
+    "renewableWater": "147 cu km (2011)",
+    "terrain": "mostly rugged hills and low mountains; level to rolling plains in east and southeast"
+  },
+  "countryName": "United Kingdom",
+  "countryCode": "UK"
+}

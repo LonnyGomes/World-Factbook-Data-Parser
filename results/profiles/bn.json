@@ -1,0 +1,42 @@
+{
+  "background": "Present day Benin was the site of Dahomey, a West African kingdom that rose to prominence in about 1600 and over the next two and half centuries became a regional power, largely based on its slave trade. Coastal areas of Dahomey began to be controlled by the French in the second half of the 19th century; the entire kingdom was conquered by 1894. French Dahomey achieved independence in 1960; it changed its name to the Republic of Benin in 1975. A succession of military governments ended in 1972 with the rise to power of Mathieu KEREKOU and the establishment of a government based on Marxist-Leninist principles. A move to representative government began in 1989. Two years later, free elections ushered in former Prime Minister Nicephore SOGLO as president, marking the first successful transfer of power in Africa from a dictatorship to a democracy. KEREKOU was returned to power by elections held in 1996 and 2001, though some irregularities were alleged. KEREKOU stepped down at the end of his second term in 2006 and was succeeded by Thomas YAYI Boni, a political outsider and independent. YAYI, who won a second five-year term in March 2011, has attempted to stem corruption and has strongly promoted accelerating Benin's economic growth.",
+  "geography": {
+    "area": {
+      "land": "110,622 sq km ",
+      "total": "112,622 sq km",
+      "water": "2,000 sq km "
+    },
+    "areaCompare": "slightly smaller than Pennsylvania",
+    "climate": "tropical; hot, humid in south; semiarid in north",
+    "coastline": "121 km",
+    "elevationHighest": "Mont Sokbaro 658 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "inadequate supplies of potable water; poaching threatens wildlife populations; deforestation; desertification",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "18.74  cu m/yr (2001) ",
+      "total": "0.13  cu km/yr (32%/23%/45%)"
+    },
+    "geoCoords": "9 30 N, 2 15 E",
+    "irrigatedLand": "230.4 sq km (2008)",
+    "landBoundaries": "2,123 kmBurkina Faso 386 km, Niger 277 km, Nigeria 809 km, Togo 651 km ",
+    "landUse": {
+      "arable": "22.48%",
+      "crops": "2.61% ",
+      "other": "74.9% (2011) "
+    },
+    "location": "Western Africa, bordering the Bight of Benin, between Nigeria and Togo",
+    "naturalHazards": "hot, dry, dusty harmattan wind may affect north from December to March",
+    "naturalResources": "small offshore oil deposits, limestone, marble, timber",
+    "notes": "sandbanks create difficult access to a coast with no natural harbors, river mouths, or islands",
+    "renewableWater": "26.39 cu km (2011)",
+    "terrain": "mostly flat to undulating plain; some hills and low mountains"
+  },
+  "countryName": "Benin",
+  "countryCode": "BN"
+}

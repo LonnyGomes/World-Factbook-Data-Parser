@@ -1,0 +1,42 @@
+{
+  "background": "Established as a Belgian colony in 1908, the then-Republic of the Congo gained its independence in 1960, but its early years were marred by political and social instability. Col. Joseph MOBUTU seized power and declared himself president in a November 1965 coup. He subsequently changed his name - to MOBUTU Sese Seko - as well as that of the country - to Zaire. MOBUTU retained his position for 32 years through several sham elections, as well as through brutal force. Ethnic strife and civil war, touched off by a massive inflow of refugees in 1994 from fighting in Rwanda and Burundi, led in May 1997 to the toppling of the MOBUTU regime by a rebellion backed by Rwanda and Uganda and fronted by Laurent KABILA. He renamed the country the Democratic Republic of the Congo (DRC), but in August 1998 his regime was itself challenged by a second insurrection again backed by Rwanda and Uganda. Troops from Angola, Chad, Namibia, Sudan, and Zimbabwe intervened to support KABILA's regime. In January 2001, KABILA was assassinated and his son, Joseph KABILA, was named head of state. In October 2002, the new president was successful in negotiating the withdrawal of Rwandan forces occupying the eastern DRC; two months later, the Pretoria Accord was signed by all remaining warring parties to end the fighting and establish a government of national unity. A transitional government was set up in July 2003; it held a successful constitutional referendum in December 2005 and elections for the presidency, National Assembly, and provincial legislatures took place in 2006. In 2009, following a resurgence of conflict in the eastern DRC, the government signed a peace agreement with the National Congress for the Defense of the People (CNDP), a primarily Tutsi rebel group. An attempt to integrate CNDP members into the Congolese military failed, prompting their defection in 2012 and the formation of the M23 armed group - named after the 23 March 2009 peace agreements. Renewed conflict has lead to the displacement of large numbers of people and significant human rights abuses. As of February 2013, peace talks between the Congolese government and the M23 were on-going. In addition, the DRC continues to experience violence committed by other armed groups including the Democratic Forces for the Liberation of Rwanda and Mai Mai groups. In the most recent national elections, held in November 2011, disputed results allowed Joseph KABILA to be reelected to the presidency.",
+  "geography": {
+    "area": {
+      "land": "2,267,048 sq km ",
+      "total": "2,344,858 sq km",
+      "water": "77,810 sq km "
+    },
+    "areaCompare": "slightly less than one-fourth the size of the US",
+    "climate": "tropical; hot and humid in equatorial river basin; cooler and drier in southern highlands; cooler and wetter in eastern highlands; north of Equator - wet season (April to October), dry season (December to February); south of Equator - wet season (November to March), dry season (April to October)",
+    "coastline": "37 km",
+    "elevationHighest": "Pic Marguerite on Mont Ngaliema (Mount Stanley) 5,110 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "poaching threatens wildlife populations; water pollution; deforestation; refugees responsible for significant deforestation, soil erosion, and wildlife poaching; mining of minerals (coltan - a mineral used in creating capacitors, diamonds, and gold) causing environmental damage",
+      "intlAgreements": {
+        "notRatified": "Environmental Modification ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "11.25  cu m/yr (2005) ",
+      "total": "0.68  cu km/yr (68%/21%/11%)"
+    },
+    "geoCoords": "0 00 N, 25 00 E",
+    "irrigatedLand": "105 sq km (2003)",
+    "landBoundaries": "10,481 kmAngola 2,646 km (of which 225 km is the boundary of Angola's discontiguous Cabinda Province), Burundi 236 km, Central African Republic 1,747 km, Republic of the Congo 1,229 km, Rwanda 221 km, South Sudan 714 km, Tanzania 479 km, Uganda 877 km, Zambia 2,332 km ",
+    "landUse": {
+      "arable": "2.9%",
+      "crops": "0.32% ",
+      "other": "96.78% (2011) "
+    },
+    "location": "Central Africa, northeast of Angola",
+    "naturalHazards": "periodic droughts in south; Congo River floods (seasonal); active volcanoes in the east along the Great Rift ValleyNyiragongo (elev. 3,470 m), which erupted in 2002 and is experiencing ongoing activity, poses a major threat to the city of Goma, home to a quarter million people; the volcano produces unusually fast-moving lava, known to travel up to 100 km /hr; Nyiragongo has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; its neighbor, Nyamuragira, which erupted in 2010, is Africa's most active volcano; Visoke is the only other historically active volcano ",
+    "naturalResources": "cobalt, copper, niobium, tantalum, petroleum, industrial and gem diamonds, gold, silver, zinc, manganese, tin, uranium, coal, hydropower, timber",
+    "notes": "second largest country in Africa (after Algeria) and largest country in Sub-Saharan Africa; straddles the equator; has narrow strip of land that controls the lower Congo River and is only outlet to South Atlantic Ocean; dense tropical rain forest in central river basin and eastern highlands",
+    "renewableWater": "1,283 cu km (2011)",
+    "terrain": "vast central basin is a low-lying plateau; mountains in east"
+  },
+  "countryName": "Congo, Democratic Republic of the",
+  "countryCode": "CG"
+}

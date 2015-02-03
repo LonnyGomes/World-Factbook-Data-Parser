@@ -1,0 +1,42 @@
+{
+  "background": "After centuries of Danish, Swedish, German, and Russian rule, Estonia attained independence in 1918. Forcibly incorporated into the USSR in 1940 - an action never recognized by the US - it regained its freedom in 1991 with the collapse of the Soviet Union. Since the last Russian troops left in 1994, Estonia has been free to promote economic and political ties with the West. It joined both NATO and the EU in the spring of 2004, formally joined the OECD in late 2010, and adopted the euro as its official currency on 1 January 2011.",
+  "geography": {
+    "area": {
+      "land": "42,388 sq km ",
+      "total": "45,228 sq km",
+      "water": "2,840 sq km "
+    },
+    "areaCompare": "slightly smaller than New Hampshire and Vermont combined",
+    "climate": "maritime; wet, moderate winters, cool summers",
+    "coastline": "3,794 km",
+    "elevationHighest": "Suur Munamagi 318 m ",
+    "elevationLowest": "Baltic Sea 0 m",
+    "environment": {
+      "currIssues": "air polluted with sulfur dioxide from oil-shale burning power plants in northeast; however, the amount of pollutants emitted to the air have fallen steadily, the emissions of 2000 were 80% less than in 1980; the amount of unpurified wastewater discharged to water bodies in 2000 was 1/20 the level of 1980; in connection with the start-up of new water purification plants, the pollution load of wastewater decreased; Estonia has more than 1,400 natural and manmade lakes, the smaller of which in agricultural areas need to be monitored; coastal seawater is polluted in certain locations",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "1,337  cu m/yr (2009) ",
+      "total": "1.8  cu km/yr (3%/97%/0%)"
+    },
+    "geoCoords": "59 00 N, 26 00 E",
+    "irrigatedLand": "4.58 sq km (2010)",
+    "landBoundaries": "657 kmLatvia 333 km, Russia 324 km ",
+    "landUse": {
+      "arable": "13.97%",
+      "crops": "0.13% ",
+      "other": "85.89% (2011) "
+    },
+    "location": "Eastern Europe, bordering the Baltic Sea and Gulf of Finland, between Latvia and Russia",
+    "naturalHazards": "sometimes flooding occurs in the spring",
+    "naturalResources": "oil shale, peat, rare earth elements, phosphorite, clay, limestone, sand, dolomite, arable land, sea mud",
+    "notes": "the mainland terrain is flat, boggy, and partly wooded; offshore lie more than 1,500 islands",
+    "renewableWater": "12.81 cu km (2011)",
+    "terrain": "marshy, lowlands; flat in the north, hilly in the south"
+  },
+  "countryName": "Estonia",
+  "countryCode": "EN"
+}

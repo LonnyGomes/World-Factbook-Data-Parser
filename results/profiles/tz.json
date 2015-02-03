@@ -1,0 +1,42 @@
+{
+  "background": "Shortly after achieving independence from Britain in the early 1960s, Tanganyika and Zanzibar merged to form the nation of Tanzania in 1964. One-party rule ended in 1995 with the first democratic elections held in the country since the 1970s. Zanzibar's semi-autonomous status and popular opposition led to two contentious elections since 1995, which the ruling party won despite international observers' claims of voting irregularities. The formation of a government of national unity between Zanzibar's two leading parties succeeded in minimizing electoral tension in 2010.",
+  "geography": {
+    "area": {
+      "land": "885,800 sq km ",
+      "total": "947,300 sq km",
+      "water": "61,500 sq km "
+    },
+    "areaCompare": "slightly larger than twice the size of California",
+    "climate": "varies from tropical along coast to temperate in highlands",
+    "coastline": "1,424 km",
+    "elevationHighest": "Kilimanjaro 5,895 m (highest point in Africa) ",
+    "elevationLowest": "Indian Ocean 0 m",
+    "environment": {
+      "currIssues": "soil degradation; deforestation; desertification; destruction of coral reefs threatens marine habitats; recent droughts affected marginal agriculture; wildlife threatened by illegal hunting and trade, especially for ivory",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "144.7  cu m/yr (2002) ",
+      "total": "5.18  cu km/yr (10%/0%/89%)"
+    },
+    "geoCoords": "6 00 S, 35 00 E",
+    "irrigatedLand": "1,843 sq km (2003)",
+    "landBoundaries": "3,861 kmBurundi 451 km, Democratic Republic of the Congo 459 km, Kenya 769 km, Malawi 475 km, Mozambique 756 km, Rwanda 217 km, Uganda 396 km, Zambia 338 km ",
+    "landUse": {
+      "arable": "12.25%",
+      "crops": "1.79% ",
+      "other": "85.96% (2011) "
+    },
+    "location": "Eastern Africa, bordering the Indian Ocean, between Kenya and Mozambique",
+    "naturalHazards": "flooding on the central plateau during the rainy season; droughtlimited volcanic activity; Ol Doinyo Lengai (elev. 2,962 m) has emitted lava in recent years; other historically active volcanoes include Kieyo and Meru ",
+    "naturalResources": "hydropower, tin, phosphates, iron ore, coal, diamonds, gemstones, gold, natural gas, nickel",
+    "notes": "Kilimanjaro is the highest point in Africa and one of only two mountains on the continent that has glaciers (the other is Mount Kenya); bordered by three of the largest lakes on the continent: Lake Victoria (the world's second-largest freshwater lake) in the north, Lake Tanganyika (the world's second deepest) in the west, and Lake Nyasa (Lake Malawi) in the southwest",
+    "renewableWater": "96.27 cu km (2011)",
+    "terrain": "plains along coast; central plateau; highlands in north, south"
+  },
+  "countryName": "Tanzania",
+  "countryCode": "TZ"
+}

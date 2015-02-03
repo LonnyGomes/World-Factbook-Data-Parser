@@ -1,0 +1,42 @@
+{
+  "background": "Once the center of power for the large Austro-Hungarian Empire, Austria was reduced to a small republic after its defeat in World War I. Following annexation by Nazi Germany in 1938 and subsequent occupation by the victorious Allies in 1945, Austria's status remained unclear for a decade. A State Treaty signed in 1955 ended the occupation, recognized Austria's independence, and forbade unification with Germany. A constitutional law that same year declared the country's \"perpetual neutrality\" as a condition for Soviet military withdrawal. The Soviet Union's collapse in 1991 and Austria's entry into the European Union in 1995 have altered the meaning of this neutrality. A prosperous, democratic country, Austria entered the EU Economic and Monetary Union in 1999.",
+  "geography": {
+    "area": {
+      "land": "82,445 sq km ",
+      "total": "83,871 sq km",
+      "water": "1,426 sq km "
+    },
+    "areaCompare": "slightly smaller than Maine",
+    "climate": "temperate; continental, cloudy; cold winters with frequent rain and some snow in lowlands and snow in mountains; moderate summers with occasional showers",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Grossglockner 3,798 m ",
+    "elevationLowest": "Neusiedler See 115 m",
+    "environment": {
+      "currIssues": "some forest degradation caused by air and soil pollution; soil pollution results from the use of agricultural chemicals; air pollution results from emissions by coal- and oil-fired power stations and industrial plants and from trucks transiting Austria between northern and southern Europe",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "452.4  cu m/yr (2008) ",
+      "total": "3.66  cu km/yr (18%/79%/3%)"
+    },
+    "geoCoords": "47 20 N, 13 20 E",
+    "irrigatedLand": "1,170 sq km (2007)",
+    "landBoundaries": "2,524 kmCzech Republic 402 km, Germany 801 km, Hungary 321 km, Italy 404 km, Liechtenstein 34 km, Slovakia 105 km, Slovenia 299 km, Switzerland 158 km ",
+    "landUse": {
+      "arable": "16.25%",
+      "crops": "0.77% ",
+      "other": "82.98% (2011) "
+    },
+    "location": "Central Europe, north of Italy and Slovenia",
+    "naturalHazards": "landslides; avalanches; earthquakes",
+    "naturalResources": "oil, coal, lignite, timber, iron ore, copper, zinc, antimony, magnesite, tungsten, graphite, salt, hydropower",
+    "notes": "landlocked; strategic location at the crossroads of central Europe with many easily traversable Alpine passes and valleys; major river is the Danube; population is concentrated on eastern lowlands because of steep slopes, poor soils, and low temperatures elsewhere",
+    "renewableWater": "77.7 cu km (2011)",
+    "terrain": "in the west and south mostly mountains (Alps); along the eastern and northern margins mostly flat or gently sloping"
+  },
+  "countryName": "Austria",
+  "countryCode": "AU"
+}

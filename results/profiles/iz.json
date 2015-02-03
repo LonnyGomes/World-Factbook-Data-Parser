@@ -1,0 +1,42 @@
+{
+  "background": "Formerly part of the Ottoman Empire, Iraq was occupied by Britain during the course of World War I; in 1920, it was declared a League of Nations mandate under UK administration. In stages over the next dozen years, Iraq attained its independence as a kingdom in 1932. A \"republic\" was proclaimed in 1958, but in actuality a series of strongmen ruled the country until 2003. The last was SADDAM Husayn. Territorial disputes with Iran led to an inconclusive and costly eight-year war (1980-88). In August 1990, Iraq seized Kuwait but was expelled by US-led, UN coalition forces during the Gulf War of January-February 1991. Following Kuwait's liberation, the UN Security Council (UNSC) required Iraq to scrap all weapons of mass destruction and long-range missiles and to allow UN verification inspections. Continued Iraqi noncompliance with UNSC resolutions over a period of 12 years led to the US-led invasion of Iraq in March 2003 and the ouster of the SADDAM Husayn regime. US forces remained in Iraq under a UNSC mandate through 2009 and under a bilateral security agreement thereafter, helping to provide security and to train and mentor Iraqi security forces. In October 2005, Iraqis approved a constitution in a national referendum and, pursuant to this document, elected a 275-member Council of Representatives (COR) in December 2005. The COR approved most cabinet ministers in May 2006, marking the transition to Iraq's first constitutional government in nearly a half century. In January 2009 and April 2013, Iraq held elections for provincial councils in all governorates except for the three governorates comprising the Kurdistan Regional Government and Kirkuk Governorate. Iraq held a national legislative election in March 2010 - choosing 325 legislators in an expanded COR - and, after nine months of deadlock the COR approved the new government in December 2010. Nearly nine years after the start of the Second Gulf War in Iraq, US military operations there ended in mid-December 2011.",
+  "geography": {
+    "area": {
+      "land": "437,367 sq km ",
+      "total": "438,317 sq km",
+      "water": "950 sq km "
+    },
+    "areaCompare": "",
+    "climate": "mostly desert; mild to cool winters with dry, hot, cloudless summers; northern mountainous regions along Iranian and Turkish borders experience cold winters with occasionally heavy snows that melt in early spring, sometimes causing extensive flooding in central and southern Iraq",
+    "coastline": "58 km",
+    "elevationHighest": "Cheekha Dar (Kurdish for \"Black Tent\"); 3,611 m ",
+    "elevationLowest": "Persian Gulf 0 m",
+    "environment": {
+      "currIssues": "government water control projects have drained most of the inhabited marsh areas east of An Nasiriyah by drying up or diverting the feeder streams and rivers; a once sizable population of Marsh Arabs, who inhabited these areas for thousands of years, has been displaced; furthermore, the destruction of the natural habitat poses serious threats to the area's wildlife populations; inadequate supplies of potable water; development of the Tigris and Euphrates rivers system contingent upon agreements with upstream riparian Turkey; air and water pollution; soil degradation (salination) and erosion; desertification",
+      "intlAgreements": {
+        "notRatified": "Environmental Modification ",
+        "partyTo": "Biodiversity, Law of the Sea, Ozone Layer Protection"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "2,616  cu m/yr (2000) ",
+      "total": "66  cu km/yr (7%/15%/79%)"
+    },
+    "geoCoords": "33 00 N, 44 00 E",
+    "irrigatedLand": "35,250 sq km (2003)",
+    "landBoundaries": "3,809 kmIran 1,599 km, Jordan 179 km, Kuwait 254 km, Saudi Arabia 811 km, Syria 599 km, Turkey 367 km ",
+    "landUse": {
+      "arable": "9.19%",
+      "crops": "0.48% ",
+      "other": "90.33% (2011) "
+    },
+    "location": "Middle East, bordering the Persian Gulf, between Iran and Kuwait",
+    "naturalHazards": "dust storms; sandstorms; floods",
+    "naturalResources": "petroleum, natural gas, phosphates, sulfur",
+    "notes": "strategic location on Shatt al Arab waterway and at the head of the Persian Gulf",
+    "renewableWater": "89.86 cu km (2011)",
+    "terrain": "mostly broad plains; reedy marshes along Iranian border in south with large flooded areas; mountains along borders with Iran and Turkey"
+  },
+  "countryName": "Iraq",
+  "countryCode": "IZ"
+}

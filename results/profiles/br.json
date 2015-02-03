@@ -1,0 +1,42 @@
+{
+  "background": "Following more than three centuries under Portuguese rule, Brazil gained its independence in 1822, maintaining a monarchical system of government until the abolition of slavery in 1888 and the subsequent proclamation of a republic by the military in 1889. Brazilian coffee exporters politically dominated the country until populist leader Getulio VARGAS rose to power in 1930. By far the largest and most populous country in South America, Brazil underwent more than a half century of populist and military government until 1985, when the military regime peacefully ceded power to civilian rulers. Brazil continues to pursue industrial and agricultural growth and development of its interior. Exploiting vast natural resources and a large labor pool, it is today South America's leading economic power and a regional leader, one of the first in the area to begin an economic recovery. High income inequality and crime remain pressing problems, as well as recent years' slow down in economic growth.",
+  "geography": {
+    "area": {
+      "land": "8,459,417 sq km ",
+      "total": "8,514,877 sq km",
+      "water": "55,460 sq km "
+    },
+    "areaCompare": "",
+    "climate": "mostly tropical, but temperate in south",
+    "coastline": "7,491 km",
+    "elevationHighest": "Pico da Neblina 2,994 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation in Amazon Basin destroys the habitat and endangers a multitude of plant and animal species indigenous to the area; there is a lucrative illegal wildlife trade; air and water pollution in Rio de Janeiro, Sao Paulo, and several other large cities; land degradation and water pollution caused by improper mining activities; wetland degradation; severe oil spills",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "306  cu m/yr (2006) ",
+      "total": "58.07  cu km/yr (28%/17%/55%)"
+    },
+    "geoCoords": "10 00 S, 55 00 W",
+    "irrigatedLand": "54,000 sq km (2011)",
+    "landBoundaries": "16,145 kmArgentina 1,263 km, Bolivia 3,403 km, Colombia 1,790 km, French Guiana 649 km, Guyana 1,308 km, Paraguay 1,371 km, Peru 2,659 km, Suriname 515 km, Uruguay 1,050 km, Venezuela 2,137 km ",
+    "landUse": {
+      "arable": "8.45%",
+      "crops": "0.83% ",
+      "other": "90.72% (2011) "
+    },
+    "location": "Eastern South America, bordering the Atlantic Ocean",
+    "naturalHazards": "recurring droughts in northeast; floods and occasional frost in south",
+    "naturalResources": "bauxite, gold, iron ore, manganese, nickel, phosphates, platinum, tin, rare earth elements, uranium, petroleum, hydropower, timber",
+    "notes": "largest country in South America and in the Southern Hemisphere; shares common boundaries with every South American country except Chile and Ecuador",
+    "renewableWater": "8,233 cu km (2011)",
+    "terrain": "mostly flat to rolling lowlands in north; some plains, hills, mountains, and narrow coastal belt"
+  },
+  "countryName": "Brazil",
+  "countryCode": "BR"
+}

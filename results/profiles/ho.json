@@ -1,0 +1,42 @@
+{
+  "background": "Once part of Spain's vast empire in the New World, Honduras became an independent nation in 1821. After two and a half decades of mostly military rule, a freely elected civilian government came to power in 1982. During the 1980s, Honduras proved a haven for anti-Sandinista contras fighting the Marxist Nicaraguan Government and an ally to Salvadoran Government forces fighting leftist guerrillas. The country was devastated by Hurricane Mitch in 1998, which killed about 5,600 people and caused approximately $2 billion in damage. Since then, the economy has slowly rebounded.",
+  "geography": {
+    "area": {
+      "land": "111,890 sq km ",
+      "total": "112,090 sq km",
+      "water": "200 sq km "
+    },
+    "areaCompare": "",
+    "climate": "subtropical in lowlands, temperate in mountains",
+    "coastline": "Caribbean Sea 669 km; Gulf of Fonseca 163 km",
+    "elevationHighest": "Cerro Las Minas 2,870 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "urban population expanding; deforestation results from logging and the clearing of land for agricultural purposes; further land degradation and soil erosion hastened by uncontrolled development and improper land use practices such as farming of marginal lands; mining activities polluting Lago de Yojoa (the country's largest source of fresh water), as well as several rivers and streams, with heavy metals",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "295.6  cu m/yr (2006) ",
+      "total": "2.12  cu km/yr (16%/23%/61%)"
+    },
+    "geoCoords": "15 00 N, 86 30 W",
+    "irrigatedLand": "878.5 sq km (2007)",
+    "landBoundaries": "1,575 kmGuatemala 244 km, El Salvador 391 km, Nicaragua 940 km ",
+    "landUse": {
+      "arable": "9.07%",
+      "crops": "3.91% ",
+      "other": "87.02% (2011) "
+    },
+    "location": "Central America, bordering the Caribbean Sea, between Guatemala and Nicaragua and bordering the Gulf of Fonseca (North Pacific Ocean), between El Salvador and Nicaragua",
+    "naturalHazards": "frequent, but generally mild, earthquakes; extremely susceptible to damaging hurricanes and floods along the Caribbean coast",
+    "naturalResources": "timber, gold, silver, copper, lead, zinc, iron ore, antimony, coal, fish, hydropower",
+    "notes": "has only a short Pacific coast but a long Caribbean shoreline, including the virtually uninhabited eastern Mosquito Coast",
+    "renewableWater": "95.93 cu km (2011)",
+    "terrain": "mostly mountains in interior, narrow coastal plains"
+  },
+  "countryName": "Honduras",
+  "countryCode": "HO"
+}

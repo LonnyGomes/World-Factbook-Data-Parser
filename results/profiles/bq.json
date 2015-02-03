@@ -1,0 +1,42 @@
+{
+  "background": "This uninhabited island was claimed by the US in 1857 for its guano. Mining took place between 1865 and 1898. The lighthouse, built in 1917, was shut down in 1996 and administration of Navassa Island transferred from the US Coast Guard to the Department of the Interior. A 1998 scientific expedition to the island described it as a unique preserve of Caribbean biodiversity; the following year it became a National Wildlife Refuge and annual scientific expeditions have continued.",
+  "geography": {
+    "area": {
+      "land": "5.4 sq km ",
+      "total": "5.4 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about nine times the size of The Mall in Washington, DC",
+    "climate": "marine, tropical",
+    "coastline": "8 km",
+    "elevationHighest": "unnamed elevation on southwest side 77 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "18 25 N, 75 02 W",
+    "irrigatedLand": "",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0%",
+      "crops": "0% ",
+      "other": "100% (2011) "
+    },
+    "location": "Caribbean, island in the Caribbean Sea, 35 miles west of Tiburon Peninsula of Haiti",
+    "naturalHazards": "hurricanes",
+    "naturalResources": "guano",
+    "notes": "strategic location 160 km south of the US Naval Base at Guantanamo Bay, Cuba; mostly exposed rock with numerous solution holes (limestone sinkholes) but with enough grassland to support goat herds; dense stands of fig trees, scattered cactus",
+    "renewableWater": "",
+    "terrain": "raised coral and limestone plateau, flat to undulating; ringed by vertical white cliffs (9 to 15 m high)"
+  },
+  "countryName": "Navassa Island",
+  "countryCode": "BQ"
+}

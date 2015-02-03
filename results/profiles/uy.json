@@ -1,0 +1,42 @@
+{
+  "background": "Montevideo, founded by the Spanish in 1726 as a military stronghold, soon took advantage of its natural harbor to become an important commercial center. Claimed by Argentina but annexed by Brazil in 1821, Uruguay declared its independence four years later and secured its freedom in 1828 after a three-year struggle. The administrations of President Jose BATLLE in the early 20th century launched widespread political, social, and economic reforms that established a statist tradition. A violent Marxist urban guerrilla movement named the Tupamaros, launched in the late 1960s, led Uruguay's president to cede control of the government to the military in 1973. By yearend, the rebels had been crushed, but the military continued to expand its hold over the government. Civilian rule was not restored until 1985. In 2004, the left-of-center Frente Amplio Coalition won national elections that effectively ended 170 years of political control previously held by the Colorado and Blanco parties. Uruguay's political and labor conditions are among the freest on the continent.",
+  "geography": {
+    "area": {
+      "land": "175,015 sq km ",
+      "total": "176,215 sq km",
+      "water": "1,200 sq km "
+    },
+    "areaCompare": "slightly smaller than the state of Washington",
+    "climate": "warm temperate; freezing temperatures almost unknown",
+    "coastline": "660 km",
+    "elevationHighest": "Cerro Catedral 514 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "water pollution from meat packing/tannery industry; inadequate solid/hazardous waste disposal",
+      "intlAgreements": {
+        "notRatified": "Marine Dumping, Marine Life Conservation ",
+        "partyTo": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "1,101  cu m/yr (2000) ",
+      "total": "3.66  cu km/yr (11%/2%/87%)"
+    },
+    "geoCoords": "33 00 S, 56 00 W",
+    "irrigatedLand": "1,810 sq km (2003)",
+    "landBoundaries": "1,648 kmArgentina 580 km, Brazil 1,068 km ",
+    "landUse": {
+      "arable": "10.25%",
+      "crops": "0.22% ",
+      "other": "89.52% (2011) "
+    },
+    "location": "Southern South America, bordering the South Atlantic Ocean, between Argentina and Brazil",
+    "naturalHazards": "seasonally high winds (the pampero is a chilly and occasional violent wind that blows north from the Argentine pampas), droughts, floods; because of the absence of mountains, which act as weather barriers, all locations are particularly vulnerable to rapid changes from weather fronts",
+    "naturalResources": "arable land, hydropower, minor minerals, fish",
+    "notes": "second-smallest South American country (after Suriname); most of the low-lying landscape (three-quarters of the country) is grassland, ideal for cattle and sheep raising",
+    "renewableWater": "139 cu km (2011)",
+    "terrain": "mostly rolling plains and low hills; fertile coastal lowland"
+  },
+  "countryName": "Uruguay",
+  "countryCode": "UY"
+}

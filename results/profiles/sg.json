@@ -1,0 +1,42 @@
+{
+  "background": "The French colonies of Senegal and the French Sudan were merged in 1959 and granted their independence as the Mali Federation in 1960. The union broke up after only a few months. Senegal joined with The Gambia to form the nominal confederation of Senegambia in 1982. The envisaged integration of the two countries was never carried out, and the union was dissolved in 1989. The Movement of Democratic Forces in the Casamance (MFDC) has led a low-level separatist insurgency in southern Senegal since the 1980s, and several peace deals have failed to resolve the conflict. Nevertheless, Senegal remains one of the most stable democracies in Africa and has a long history of participating in international peacekeeping and regional mediation. Senegal was ruled by a Socialist Party for 40 years until Abdoulaye WADE was elected president in 2000. He was reelected in 2007 and during his two terms amended Senegal's constitution over a dozen times to increase executive power and to weaken the opposition. His decision to run for a third presidential term sparked a large public backlash that led to his defeat in a March 2012 runoff election with Macky SALL.",
+  "geography": {
+    "area": {
+      "land": "192,530 sq km ",
+      "total": "196,722 sq km",
+      "water": "4,192 sq km "
+    },
+    "areaCompare": "slightly smaller than South Dakota",
+    "climate": "tropical; hot, humid; rainy season (May to November) has strong southeast winds; dry season (December to April) dominated by hot, dry, harmattan wind",
+    "coastline": "531 km",
+    "elevationHighest": "unnamed elevation southwest of Kedougou 581 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "wildlife populations threatened by poaching; deforestation; overgrazing; soil erosion; desertification; overfishing",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "221.6  cu m/yr (2002) ",
+      "total": "2.22  cu km/yr (4%/3%/93%)"
+    },
+    "geoCoords": "14 00 N, 14 00 W",
+    "irrigatedLand": "1,197 sq km (2003)",
+    "landBoundaries": "2,640 kmThe Gambia 740 km, Guinea 330 km, Guinea-Bissau 338 km, Mali 419 km, Mauritania 813 km ",
+    "landUse": {
+      "arable": "19.57%",
+      "crops": "0.28% ",
+      "other": "80.15% (2011) "
+    },
+    "location": "Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Mauritania",
+    "naturalHazards": "lowlands seasonally flooded; periodic droughts",
+    "naturalResources": "fish, phosphates, iron ore",
+    "notes": "westernmost country on the African continent; The Gambia is almost an enclave within Senegal",
+    "renewableWater": "38.8 cu km (2011)",
+    "terrain": "generally low, rolling, plains rising to foothills in southeast"
+  },
+  "countryName": "Senegal",
+  "countryCode": "SG"
+}

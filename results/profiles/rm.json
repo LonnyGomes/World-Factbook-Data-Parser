@@ -1,0 +1,42 @@
+{
+  "background": "After almost four decades under US administration as the easternmost part of the UN Trust Territory of the Pacific Islands, the Marshall Islands attained independence in 1986 under a Compact of Free Association. Compensation claims continue as a result of US nuclear testing on some of the atolls between 1947 and 1962. The Marshall Islands hosts the US Army Kwajalein Atoll (USAKA) Reagan Missile Test Site, a key installation in the US missile defense network.",
+  "geography": {
+    "area": {
+      "land": "181 sq km ",
+      "total": "181 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about the size of Washington, DC",
+    "climate": "tropical; hot and humid; wet season May to November; islands border typhoon belt",
+    "coastline": "370.4 km",
+    "elevationHighest": "unnamed location on Likiep 10 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "inadequate supplies of potable water; pollution of Majuro lagoon from household waste and discharges from fishing vessels",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "9 00 N, 168 00 E",
+    "irrigatedLand": "0 sq km (2011)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "11.11%",
+      "crops": "44.44% ",
+      "other": "44.44% (2011) "
+    },
+    "location": "Oceania, two archipelagic island chains of 29 atolls, each made up of many small islets, and five single islands in the North Pacific Ocean, about half way between Hawaii and Australia",
+    "naturalHazards": "infrequent typhoons",
+    "naturalResources": "coconut products, marine products, deep seabed minerals",
+    "notes": "the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein atoll, famous as a World War II battleground, surrounds the world's largest lagoon and is used as a US missile test range; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific",
+    "renewableWater": "",
+    "terrain": "low coral limestone and sand islands"
+  },
+  "countryName": "Marshall Islands",
+  "countryCode": "RM"
+}

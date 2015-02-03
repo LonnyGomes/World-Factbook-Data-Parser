@@ -1,0 +1,42 @@
+{
+  "background": "Settled by both Britain and France during the first half of the 19th century, the island became a French possession in 1853. It served as a penal colony for four decades after 1864. Agitation for independence during the 1980s and early 1990s ended in the 1998 Noumea Accord, which over a period of 15 to 20 years will transfer an increasing amount of governing responsibility from France to New Caledonia. The agreement also commits France to conduct a referendum between 2014 and 2018 to decide whether New Caledonia should assume full sovereignty and independence.",
+  "geography": {
+    "area": {
+      "land": "18,275 sq km ",
+      "total": "18,575 sq km",
+      "water": "300 sq km "
+    },
+    "areaCompare": "slightly smaller than New Jersey",
+    "climate": "tropical; modified by southeast trade winds; hot, humid",
+    "coastline": "2,254 km",
+    "elevationHighest": "Mont Panie 1,628 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "erosion caused by mining exploitation and forest fires",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "21 30 S, 165 30 E",
+    "irrigatedLand": "100 sq km (2003)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0.38%",
+      "crops": "0.27% ",
+      "other": "99.34% (2011) "
+    },
+    "location": "Oceania, islands in the South Pacific Ocean, east of Australia",
+    "naturalHazards": "cyclones, most frequent from November to MarchMatthew and Hunter Islands are historically active ",
+    "naturalResources": "nickel, chrome, iron, cobalt, manganese, silver, gold, lead, copper",
+    "notes": "consists of the main island of New Caledonia (one of the largest in the Pacific Ocean), the archipelago of Iles Loyaute, and numerous small, sparsely populated islands and atolls",
+    "renewableWater": "",
+    "terrain": "coastal plains with interior mountains"
+  },
+  "countryName": "New Caledonia",
+  "countryCode": "NC"
+}

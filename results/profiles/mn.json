@@ -1,0 +1,42 @@
+{
+  "background": "The Genoese built a fortress on the site of present day Monaco in 1215. The current ruling GRIMALDI family first seized temporary control in 1297, and again in 1331, but were not able to permanently secure their holding until 1419. Economic development was spurred in the late 19th century with a railroad linkup to France and the opening of a casino. Since then, the principality's mild climate, splendid scenery, and gambling facilities have made Monaco world famous as a tourist and recreation center.",
+  "geography": {
+    "area": {
+      "land": "2 sq km ",
+      "total": "2 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about three times the size of The Mall in Washington, DC",
+    "climate": "Mediterranean with mild, wet winters and hot, dry summers",
+    "coastline": "4.1 km",
+    "elevationHighest": "Mont Agel 140 m ",
+    "elevationLowest": "Mediterranean Sea 0 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "43 44 N, 7 24 E",
+    "irrigatedLand": "NA",
+    "landBoundaries": "6 kmFrance 6 km ",
+    "landUse": {
+      "arable": "0%",
+      "crops": "1% ",
+      "other": "99% (urban area) (2011) "
+    },
+    "location": "Western Europe, bordering the Mediterranean Sea on the southern coast of France, near the border with Italy",
+    "naturalHazards": "NA",
+    "naturalResources": "none",
+    "notes": "second-smallest independent state in the world (after Holy See); smallest country with a coastline; almost entirely urban",
+    "renewableWater": "",
+    "terrain": "hilly, rugged, rocky"
+  },
+  "countryName": "Monaco",
+  "countryCode": "MN"
+}

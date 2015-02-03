@@ -1,0 +1,42 @@
+{
+  "background": "Following World War I and the dissolution of the Ottoman Empire, the League of Nations awarded Britain the mandate to govern much of the Middle East. Britain demarcated a semi-autonomous region of Transjordan from Palestine in the early 1920s. The area gained its independence in 1946 and thereafter became The Hashemite Kingdom of Jordan. The country's long-time ruler, King HUSSEIN (1953-99), successfully navigated competing pressures from the major powers (US, USSR, and UK), various Arab states, Israel, and a large internal Palestinian population. Jordan lost the West Bank to Israel in the 1967 Six-Day War. King HUSSEIN in 1988 permanently relinquished Jordanian claims to the West Bank; in 1994 he signed a peace treaty with Israel. King ABDALLAH II, King HUSSEIN's eldest son, assumed the throne following his father's death in 1999. He implemented modest political and economic reforms, but in the wake of the \"Arab Revolution\" across the Middle East, Jordanians continue to press for further political liberalization, government reforms, and economic improvements. In January 2014, Jordan assumed a nonpermanent seat on the UN Security Council for the 2014-15 term.",
+  "geography": {
+    "area": {
+      "land": "88,802 sq km ",
+      "total": "89,342 sq km",
+      "water": "540 sq km "
+    },
+    "areaCompare": "slightly smaller than Indiana",
+    "climate": "mostly arid desert; rainy season in west (November to April)",
+    "coastline": "26 km",
+    "elevationHighest": "Jabal Umm ad Dami 1,854 m ",
+    "elevationLowest": "Dead Sea -408 m",
+    "environment": {
+      "currIssues": "limited natural freshwater resources; deforestation; overgrazing; soil erosion; desertification",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "166  cu m/yr (2005) ",
+      "total": "0.94  cu km/yr (31%/4%/65%)"
+    },
+    "geoCoords": "31 00 N, 36 00 E",
+    "irrigatedLand": "788.6 sq km (2004)",
+    "landBoundaries": "1,635 kmIraq 181 km, Israel 238 km, Saudi Arabia 744 km, Syria 375 km, West Bank 97 km ",
+    "landUse": {
+      "arable": "1.97%",
+      "crops": "0.95% ",
+      "other": "97.08% (2011) "
+    },
+    "location": "Middle East, northwest of Saudi Arabia, between Israel (to the west) and Iraq",
+    "naturalHazards": "droughts; periodic earthquakes",
+    "naturalResources": "phosphates, potash, shale oil",
+    "notes": "strategic location at the head of the Gulf of Aqaba and as the Arab country that shares the longest border with Israel and the occupied West Bank",
+    "renewableWater": "0.94 cu km (2011)",
+    "terrain": "mostly desert plateau in east, highland area in west; Great Rift Valley separates East and West Banks of the Jordan River"
+  },
+  "countryName": "Jordan",
+  "countryCode": "JO"
+}

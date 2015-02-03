@@ -1,0 +1,42 @@
+{
+  "background": "Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is participating in the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the European Union's Maastricht Treaty, including the European Economic and Monetary Union (EMU), European defense cooperation, and issues concerning certain justice and home affairs.",
+  "geography": {
+    "area": {
+      "land": "42,434 sq km ",
+      "total": "43,094 sq km",
+      "water": "660 sq km "
+    },
+    "areaCompare": "slightly less than twice the size of Massachusetts",
+    "climate": "temperate; humid and overcast; mild, windy winters and cool summers",
+    "coastline": "7,314 km",
+    "elevationHighest": "Mollehoj/Ejer Bavnehoj 171 m ",
+    "elevationLowest": "Lammefjord -7 m",
+    "environment": {
+      "currIssues": "air pollution, principally from vehicle and power plant emissions; nitrogen and phosphorus pollution of the North Sea; drinking and surface water becoming polluted from animal wastes and pesticides",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "118.4  cu m/yr (2009) ",
+      "total": "0.66  cu km/yr (58%/5%/36%)"
+    },
+    "geoCoords": "56 00 N, 10 00 E",
+    "irrigatedLand": "4,354 sq km (2007)",
+    "landBoundaries": "140 kmGermany 140 km ",
+    "landUse": {
+      "arable": "57.99%",
+      "crops": "0.09% ",
+      "other": "41.91% (2011) "
+    },
+    "location": "Northern Europe, bordering the Baltic Sea and the North Sea, on a peninsula north of Germany (Jutland); also includes several major islands (Sjaelland, Fyn, and Bornholm)",
+    "naturalHazards": "flooding is a threat in some areas of the country (e.g., parts of Jutland, along the southern coast of the island of Lolland) that are protected from the sea by a system of dikes",
+    "naturalResources": "petroleum, natural gas, fish, salt, limestone, chalk, stone, gravel and sand",
+    "notes": "controls Danish Straits (Skagerrak and Kattegat) linking Baltic and North Seas; about one-quarter of the population lives in greater Copenhagen",
+    "renewableWater": "6 cu km (2011)",
+    "terrain": "low and flat to gently rolling plains"
+  },
+  "countryName": "Denmark",
+  "countryCode": "DA"
+}

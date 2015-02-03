@@ -1,0 +1,42 @@
+{
+  "background": "At the close of World War I, the Czechs and Slovaks of the former Austro-Hungarian Empire merged to form Czechoslovakia. During the interwar years, having rejected a federal system, the new country's predominantly Czech leaders were frequently preoccupied with meeting the increasingly strident demands of other ethnic minorities within the republic, most notably the Slovaks, the Sudeten Germans, and the Ruthenians (Ukrainians). On the eve of World War II, Nazi Germany occupied the territory that today comprises the Czech Republic and Slovakia became an independent state allied with Germany. After the war, a reunited but truncated Czechoslovakia (less Ruthenia) fell within the Soviet sphere of influence. In 1968, an invasion by Warsaw Pact troops ended the efforts of the country's leaders to liberalize communist rule and create \"socialism with a human face,\" ushering in a period of repression known as \"normalization.\" The peaceful \"Velvet Revolution\" swept the Communist Party from power at the end of 1989 and inaugurated a return to democratic rule and a market economy. On 1 January 1993, the country underwent a nonviolent \"velvet divorce\" into its two national components, the Czech Republic and Slovakia. The Czech Republic joined NATO in 1999 and the European Union in 2004.",
+  "geography": {
+    "area": {
+      "land": "77,247 sq km ",
+      "total": "78,867 sq km",
+      "water": "1,620 sq km "
+    },
+    "areaCompare": "slightly smaller than South Carolina",
+    "climate": "temperate; cool summers; cold, cloudy, humid winters",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Snezka 1,602 m ",
+    "elevationLowest": "Labe (Elbe) River 115 m",
+    "environment": {
+      "currIssues": "air and water pollution in areas of northwest Bohemia and in northern Moravia around Ostrava present health risks; acid rain damaging forests; efforts to bring industry up to EU code should improve domestic pollution",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "164.7  cu m/yr (2009) ",
+      "total": "1.7  cu km/yr (41%/56%/2%)"
+    },
+    "geoCoords": "49 45 N, 15 30 E",
+    "irrigatedLand": "385.3 sq km (2007)",
+    "landBoundaries": "2,046 kmAustria 402 km, Germany 704 km, Poland 699 km, Slovakia 241 km ",
+    "landUse": {
+      "arable": "40.12%",
+      "crops": "0.96% ",
+      "other": "58.92% (2011) "
+    },
+    "location": "Central Europe, between Germany, Poland, Slovakia, and Austria",
+    "naturalHazards": "flooding",
+    "naturalResources": "hard coal, soft coal, kaolin, clay, graphite, timber",
+    "notes": "landlocked; strategically located astride some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europe",
+    "renewableWater": "13.15 cu km (2011)",
+    "terrain": "Bohemia in the west consists of rolling plains, hills, and plateaus surrounded by low mountains; Moravia in the east consists of very hilly country"
+  },
+  "countryName": "Czech Republic",
+  "countryCode": "EZ"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "The Slovene lands were part of the Austro-Hungarian Empire until the latter's dissolution at the end of World War I. In 1918, the Slovenes joined the Serbs and Croats in forming a new multinational state, which was named Yugoslavia in 1929. After World War II, Slovenia became a republic of the renewed Yugoslavia, which though communist, distanced itself from Moscow's rule. Dissatisfied with the exercise of power by the majority Serbs, the Slovenes succeeded in establishing their independence in 1991 after a short 10-day war. Historical ties to Western Europe, a strong economy, and a stable democracy have assisted in Slovenia's transformation to a modern state. Slovenia acceded to both NATO and the EU in the spring of 2004; it joined the eurozone in 2007.",
+  "geography": {
+    "area": {
+      "land": "20,151 sq km ",
+      "total": "20,273 sq km",
+      "water": "122 sq km "
+    },
+    "areaCompare": "slightly smaller than New Jersey",
+    "climate": "Mediterranean climate on the coast, continental climate with mild to hot summers and cold winters in the plateaus and valleys to the east",
+    "coastline": "46.6 km",
+    "elevationHighest": "Triglav 2,864 m ",
+    "elevationLowest": "Adriatic Sea 0 m",
+    "environment": {
+      "currIssues": "Sava River polluted with domestic and industrial waste; pollution of coastal waters with heavy metals and toxic chemicals; forest damage near Koper from air pollution (originating at metallurgical and chemical plants) and resulting acid rain",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "462.9  cu m/yr (2009) ",
+      "total": "0.94  cu km/yr (18%/82%/0%)"
+    },
+    "geoCoords": "46 07 N, 14 49 E",
+    "irrigatedLand": "76.04 sq km (2010)",
+    "landBoundaries": "1,086 kmAustria 330 km, Croatia 455 km, Hungary 102 km, Italy 199 km ",
+    "landUse": {
+      "arable": "8.31%",
+      "crops": "1.33% ",
+      "other": "90.36% (2011) "
+    },
+    "location": "south Central Europe, Julian Alps between Austria and Croatia",
+    "naturalHazards": "flooding; earthquakes",
+    "naturalResources": "lignite coal, lead, zinc, building stone, hydropower, forests",
+    "notes": "despite its small size, this eastern Alpine country controls some of Europe's major transit routes",
+    "renewableWater": "31.87 cu km (2011)",
+    "terrain": "a short coastal strip on the Adriatic, an alpine mountain region adjacent to Italy and Austria, mixed mountains and valleys with numerous rivers to the east"
+  },
+  "countryName": "Slovenia",
+  "countryCode": "SI"
+}

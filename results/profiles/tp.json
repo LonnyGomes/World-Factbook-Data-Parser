@@ -1,0 +1,42 @@
+{
+  "background": "Discovered and claimed by Portugal in the late 15th century, the islands' sugar-based economy gave way to coffee and cocoa in the 19th century - all grown with African plantation slave labor, a form of which lingered into the 20th century. While independence was achieved in 1975, democratic reforms were not instituted until the late 1980s. The country held its first free elections in 1991, but frequent internal wrangling between the various political parties precipitated repeated changes in leadership and two failed coup attempts in 1995 and 2003. In 2012, three opposition parties combined in a no confidence vote to bring down the majority government of former Prime Minister Patrice TROVOADA. The new government of Prime Minister Gabriel Arcanjo Ferreira DA COSTA is entirely composed of opposition party members with limited experience in governance. New oil discoveries in the Gulf of Guinea may attract increased attention to the small island nation.",
+  "geography": {
+    "area": {
+      "land": "964 sq km ",
+      "total": "964 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "more than five times the size of Washington, DC",
+    "climate": "tropical; hot, humid; one rainy season (October to May)",
+    "coastline": "209 km",
+    "elevationHighest": "Pico de Sao Tome 2,024 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; soil erosion and exhaustion",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "1 00 N, 7 00 E",
+    "irrigatedLand": "97 sq km (2003)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "9.06%",
+      "crops": "40.62% ",
+      "other": "50.31% (2011) "
+    },
+    "location": "Central Africa, islands in the Gulf of Guinea, just north of the Equator, west of Gabon",
+    "naturalHazards": "NA",
+    "naturalResources": "fish, hydropower",
+    "notes": "the smallest country in Africa; the two main islands form part of a chain of extinct volcanoes and both are mountainous",
+    "renewableWater": "",
+    "terrain": "volcanic, mountainous"
+  },
+  "countryName": "Sao Tome and Principe",
+  "countryCode": "TP"
+}

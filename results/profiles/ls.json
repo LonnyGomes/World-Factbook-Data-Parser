@@ -1,0 +1,42 @@
+{
+  "background": "The Principality of Liechtenstein was established within the Holy Roman Empire in 1719. Occupied by both French and Russian troops during the Napoleonic Wars, it became a sovereign state in 1806 and joined the Germanic Confederation in 1815. Liechtenstein became fully independent in 1866 when the Confederation dissolved. Until the end of World War I, it was closely tied to Austria, but the economic devastation caused by that conflict forced Liechtenstein to enter into a customs and monetary union with Switzerland. Since World War II (in which Liechtenstein remained neutral), the country's low taxes have spurred outstanding economic growth. In 2000, shortcomings in banking regulatory oversight resulted in concerns about the use of financial institutions for money laundering. However, Liechtenstein implemented anti-money laundering legislation and a Mutual Legal Assistance Treaty with the US that went into effect in 2003.",
+  "geography": {
+    "area": {
+      "land": "160 sq km ",
+      "total": "160 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about 0.9 times the size of Washington, DC",
+    "climate": "continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers",
+    "coastline": "0 km (doubly landlocked)",
+    "elevationHighest": "Vorder-Grauspitz 2,599 m ",
+    "elevationLowest": "Ruggeller Riet 430 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "47 16 N, 9 32 E",
+    "irrigatedLand": "NA",
+    "landBoundaries": "76 kmAustria 34.9 km, Switzerland 41.1 km ",
+    "landUse": {
+      "arable": "21.88%",
+      "crops": "0% ",
+      "other": "78.12% (2011) "
+    },
+    "location": "Central Europe, between Austria and Switzerland",
+    "naturalHazards": "NA",
+    "naturalResources": "hydroelectric potential, arable land",
+    "notes": "along with Uzbekistan, one of only two doubly landlocked countries in the world; variety of microclimatic variations based on elevation",
+    "renewableWater": "",
+    "terrain": "mostly mountainous (Alps) with Rhine Valley in western third"
+  },
+  "countryName": "Liechtenstein",
+  "countryCode": "LS"
+}

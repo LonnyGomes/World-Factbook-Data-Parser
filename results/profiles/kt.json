@@ -1,0 +1,42 @@
+{
+  "background": "Named in 1643 for the day of its discovery, the island was annexed and settlement began by the UK in 1888 with the discovery of the island's phosphate deposits. Following the Second World War, Christmas Island came under the jurisdiction of the new British Colony of Singapore. The island existed as a separate Crown colony from 1 January 1958 to 1 October 1958 when its transfer to Australian jurisdiction was finalized. That date is still celebrated on the first Monday in October as Territory Day. Almost two-thirds of the island has been declared a national park.",
+  "geography": {
+    "area": {
+      "land": "135 sq km ",
+      "total": "135 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about three-quarters the size of Washington, DC",
+    "climate": "tropical with a wet season (December to April) and dry season; heat and humidity moderated by trade winds",
+    "coastline": "138.9 km",
+    "elevationHighest": "Murray Hill 361 m ",
+    "elevationLowest": "Indian Ocean 0 m",
+    "environment": {
+      "currIssues": "loss of rainforest; impact of phosphate mining",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "10 30 S, 105 40 E",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0%",
+      "crops": "0% ",
+      "other": "100% (mainly tropical rainforest; 63% of the island is a national park) (2011) "
+    },
+    "location": "Southeastern Asia, island in the Indian Ocean, south of Indonesia",
+    "naturalHazards": "the narrow fringing reef surrounding the island can be a maritime hazard",
+    "naturalResources": "phosphate, beaches",
+    "notes": "located along major sea lanes of Indian Ocean",
+    "renewableWater": "",
+    "terrain": "steep cliffs along coast rise abruptly to central plateau"
+  },
+  "countryName": "Christmas Island",
+  "countryCode": "KT"
+}

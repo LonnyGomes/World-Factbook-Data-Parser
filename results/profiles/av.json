@@ -1,0 +1,42 @@
+{
+  "background": "Colonized by English settlers from Saint Kitts in 1650, Anguilla was administered by Great Britain until the early 19th century, when the island - against the wishes of the inhabitants - was incorporated into a single British dependency along with Saint Kitts and Nevis. Several attempts at separation failed. In 1971, two years after a revolt, Anguilla was finally allowed to secede; this arrangement was formally recognized in 1980, with Anguilla becoming a separate British dependency.",
+  "geography": {
+    "area": {
+      "land": "91 sq km ",
+      "total": "91 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about one-half the size of Washington, DC",
+    "climate": "tropical; moderated by northeast trade winds",
+    "coastline": "61 km",
+    "elevationHighest": "Crocus Hill 65 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "supplies of potable water sometimes cannot meet increasing demand largely because of poor distribution system",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "18 15 N, 63 10 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0%",
+      "crops": "0% ",
+      "other": "100% (mostly rock with sparse scrub oak, few trees, some commercial salt ponds) (2011) "
+    },
+    "location": "Caribbean, islands between the Caribbean Sea and North Atlantic Ocean, east of Puerto Rico",
+    "naturalHazards": "frequent hurricanes and other tropical storms (July to October)",
+    "naturalResources": "salt, fish, lobster",
+    "notes": "the most northerly of the Leeward Islands in the Lesser Antilles",
+    "renewableWater": "",
+    "terrain": "flat and low-lying island of coral and limestone"
+  },
+  "countryName": "Anguilla",
+  "countryCode": "AV"
+}

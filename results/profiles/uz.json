@@ -1,0 +1,42 @@
+{
+  "background": "Russia conquered the territory of present-day Uzbekistan in the late 19th century. Stiff resistance to the Red Army after the Bolshevik Revolution was eventually suppressed and a socialist republic established in 1924. During the Soviet era, intensive production of \"white gold\" (cotton) and grain led to overuse of agrochemicals and the depletion of water supplies, which have left the land degraded and the Aral Sea and certain rivers half dry. Independent since 1991, the country has lessened its dependence on the cotton monoculture by diversifying agricultural production while developing its mineral and petroleum export capacity and increasing its manufacturing base. However, longserving septuagenarian President Islom KARIMOV, who rose through the ranks of the Soviet-era State Planning Committee (Gosplan), remains wedded to the concepts of a command economy, creating a challenging environment for foreign investment. Current concerns include post-KARIMOV succession, terrorism by Islamic militants, economic stagnation, and the curtailment of human rights and democratization.",
+  "geography": {
+    "area": {
+      "land": "425,400 sq km ",
+      "total": "447,400 sq km",
+      "water": "22,000 sq km "
+    },
+    "areaCompare": "slightly larger than California",
+    "climate": "mostly midlatitude desert, long, hot summers, mild winters; semiarid grassland in east",
+    "coastline": "0 km (doubly landlocked); note - Uzbekistan includes the southern portion of the Aral Sea with a 420 km shoreline",
+    "elevationHighest": "Adelunga Toghi 4,301 m ",
+    "elevationLowest": "Sariqamish Kuli -12 m",
+    "environment": {
+      "currIssues": "shrinkage of the Aral Sea has resulted in growing concentrations of chemical pesticides and natural salts; these substances are then blown from the increasingly exposed lake bed and contribute to desertification and respiratory health problems; water pollution from industrial wastes and the heavy use of fertilizers and pesticides is the cause of many human health disorders; increasing soil salination; soil contamination from buried nuclear processing and agricultural chemicals, including DDT",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "2,113  cu m/yr (2005) ",
+      "total": "56  cu km/yr (7%/3%/90%)"
+    },
+    "geoCoords": "41 00 N, 64 00 E",
+    "irrigatedLand": "41,980 sq km (2005)",
+    "landBoundaries": "6,221 kmAfghanistan 137 km, Kazakhstan 2,203 km, Kyrgyzstan 1,099 km, Tajikistan 1,161 km, Turkmenistan 1,621 km ",
+    "landUse": {
+      "arable": "9.61%",
+      "crops": "0.8% ",
+      "other": "89.58% (2011) "
+    },
+    "location": "Central Asia, north of Turkmenistan, south of Kazakhstan",
+    "naturalHazards": "NA",
+    "naturalResources": "natural gas, petroleum, coal, gold, uranium, silver, copper, lead and zinc, tungsten, molybdenum",
+    "notes": "along with Liechtenstein, one of the only two doubly landlocked countries in the world",
+    "renewableWater": "48.87 cu km (2011)",
+    "terrain": "mostly flat-to-rolling sandy desert with dunes; broad, flat intensely irrigated river valleys along course of Amu Darya, Syr Darya (Sirdaryo), and Zarafshon; Fergana Valley in east surrounded by mountainous Tajikistan and Kyrgyzstan; shrinking Aral Sea in west"
+  },
+  "countryName": "Uzbekistan",
+  "countryCode": "UZ"
+}

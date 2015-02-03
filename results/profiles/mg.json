@@ -1,0 +1,42 @@
+{
+  "background": "The Mongols gained fame in the 13th century when under Chinggis KHAAN they established a huge Eurasian empire through conquest. After his death the empire was divided into several powerful Mongol states, but these broke apart in the 14th century. The Mongols eventually retired to their original steppe homelands and in the late 17th century came under Chinese rule. Mongolia won its independence in 1921 with Soviet backing and a communist regime was installed in 1924. The modern country of Mongolia, however, represents only part of the Mongols' historical homeland; more ethnic Mongolians live in the Inner Mongolia Autonomous Region in the People's Republic of China than in Mongolia. Following a peaceful democratic revolution, the ex-communist Mongolian People's Revolutionary Party (MPRP) won elections in 1990 and 1992, but was defeated by the Democratic Union Coalition (DUC) in the 1996 parliamentary election. The MPRP won an overwhelming majority in the 2000 parliamentary election, but the party lost seats in the 2004 election and shared power with democratic coalition parties from 2004-08. The MPRP regained a solid majority in the 2008 parliamentary elections but nevertheless formed a coalition government with the Democratic Party that lasted until January 2012. In 2009, current President ELBEGDORJ of the Democratic Party was elected to office and was re-elected for his second term in June 2013. In 2010, the MPRP voted to retake the name of the Mongolian People's Party (MPP), a name it used in the early 1920s. Shortly thereafter, a new party was formed by former president ENKHBAYAR, which adopted the MPRP name. In the 2012 Parliamentary elections, a coalition of four political parties led by the Democratic Party, gained control of the Parliament.",
+  "geography": {
+    "area": {
+      "land": "1,553,556 sq km ",
+      "total": "1,564,116 sq km",
+      "water": "10,560 sq km "
+    },
+    "areaCompare": "slightly smaller than Alaska",
+    "climate": "desert; continental (large daily and seasonal temperature ranges)",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Nayramadlin Orgil (Huyten Orgil) 4,374 m ",
+    "elevationLowest": "Hoh Nuur 560 m",
+    "environment": {
+      "currIssues": "limited natural freshwater resources in some areas; the policies of former Communist regimes promoted rapid urbanization and industrial growth that had negative effects on the environment; the burning of soft coal in power plants and the lack of enforcement of environmental laws severely polluted the air in Ulaanbaatar; deforestation, overgrazing, and the converting of virgin land to agricultural production increased soil erosion from wind and rain; desertification and mining activities had a deleterious effect on the environment",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "196.8  cu m/yr (2009) ",
+      "total": "0.55  cu km/yr (13%/43%/44%)"
+    },
+    "geoCoords": "46 00 N, 105 00 E",
+    "irrigatedLand": "843 sq km (2003)",
+    "landBoundaries": "8,220 kmChina 4,677 km, Russia 3,543 km ",
+    "landUse": {
+      "arable": "0.39%",
+      "crops": "0% ",
+      "other": "99.61% (2011) "
+    },
+    "location": "Northern Asia, between China and Russia",
+    "naturalHazards": "dust storms; grassland and forest fires; drought; \"zud,\" which is harsh winter conditions",
+    "naturalResources": "oil, coal, copper, molybdenum, tungsten, phosphates, tin, nickel, zinc, fluorspar, gold, silver, iron",
+    "notes": "landlocked; strategic location between China and Russia",
+    "renewableWater": "34.8 cu km (2011)",
+    "terrain": "vast semidesert and desert plains, grassy steppe, mountains in west and southwest; Gobi Desert in south-central"
+  },
+  "countryName": "Mongolia",
+  "countryCode": "MG"
+}

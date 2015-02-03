@@ -1,0 +1,42 @@
+{
+  "background": "Armenia prides itself on being the first nation to formally adopt Christianity (early 4th century). Despite periods of autonomy, over the centuries Armenia came under the sway of various empires including the Roman, Byzantine, Arab, Persian, and Ottoman. During World War I in the western portion of Armenia, Ottoman Turkey instituted a policy of forced resettlement coupled with other harsh practices that resulted in at least 1 million Armenian deaths. The eastern area of Armenia was ceded by the Ottomans to Russia in 1828; this portion declared its independence in 1918, but was conquered by the Soviet Red Army in 1920. Armenian leaders remain preoccupied by the long conflict with Azerbaijan over Nagorno-Karabakh, a primarily Armenian-populated region, assigned to Soviet Azerbaijan in the 1920s by Moscow. Armenia and Azerbaijan began fighting over the area in 1988; the struggle escalated after both countries attained independence from the Soviet Union in 1991. By May 1994, when a cease-fire took hold, ethnic Armenian forces held not only Nagorno-Karabakh but also a significant portion of Azerbaijan proper. The economies of both sides have been hurt by their inability to make substantial progress toward a peaceful resolution. Turkey closed the common border with Armenia in 1993 in support of Azerbaijan in its conflict with Armenia over control of Nagorno-Karabakh and surrounding areas, further hampering Armenian economic growth. In 2009, senior Armenian leaders began pursuing rapprochement with Turkey, aiming to secure an opening of the border, but Turkey has not yet ratified the Protocols normalizing relations between the two countries. In September 2013, President SARGSIAN announced Armenia would join Russia, Belarus, and Kazakhstan as a member of the Eurasian Economic Union.",
+  "geography": {
+    "area": {
+      "land": "28,203 sq km ",
+      "total": "29,743 sq km",
+      "water": "1,540 sq km "
+    },
+    "areaCompare": "slightly smaller than Maryland",
+    "climate": "highland continental, hot summers, cold winters",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Aragats Lerrnagagat' 4,090 m ",
+    "elevationLowest": "Debed River 400 m",
+    "environment": {
+      "currIssues": "soil pollution from toxic chemicals such as DDT; the energy crisis of the 1990s led to deforestation when citizens scavenged for firewood; pollution of Hrazdan (Razdan) and Aras Rivers; the draining of Sevana Lich (Lake Sevan), a result of its use as a source for hydropower, threatens drinking water supplies; restart of Metsamor nuclear power plant in spite of its location in a seismically active zone",
+      "intlAgreements": {
+        "notRatified": "Air Pollution-Persistent Organic Pollutants ",
+        "partyTo": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "929.7  cu m/yr (2010) ",
+      "total": "2.86  cu km/yr (40%/6%/54%)"
+    },
+    "geoCoords": "40 00 N, 45 00 E",
+    "irrigatedLand": "2,735 sq km (2006)",
+    "landBoundaries": "1,570 kmAzerbaijan 996 km, Georgia 219 km, Iran 44 km, Turkey 311 km ",
+    "landUse": {
+      "arable": "14.47%",
+      "crops": "1.8% ",
+      "other": "83.74% (2011) "
+    },
+    "location": "Southwestern Asia, between Turkey (to the west) and Azerbaijan",
+    "naturalHazards": "occasionally severe earthquakes; droughts",
+    "naturalResources": "small deposits of gold, copper, molybdenum, zinc, bauxite",
+    "notes": "landlocked in the Lesser Caucasus Mountains; Sevana Lich (Lake Sevan) is the largest lake in this mountain range",
+    "renewableWater": "7.77 cu km (2011)",
+    "terrain": "Armenian Highland with mountains; little forest land; fast flowing rivers; good soil in Aras River valley"
+  },
+  "countryName": "Armenia",
+  "countryCode": "AM"
+}

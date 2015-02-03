@@ -1,0 +1,42 @@
+{
+  "background": "Following World War I, France acquired a mandate over the northern portion of the former Ottoman Empire province of Syria. The French demarcated the region of Lebanon in 1920 and granted this area independence in 1943. Since independence the country has been marked by periods of political turmoil interspersed with prosperity built on its position as a regional center for finance and trade. The country's 1975-90 civil war that resulted in an estimated 120,000 fatalities, was followed by years of social and political instability. Sectarianism is a key element of Lebanese political life. Neighboring Syria has long influenced Lebanon's foreign policy and internal policies, and its military occupied Lebanon from 1976 until 2005. The Lebanon-based Hizballah militia and Israel continued attacks and counterattacks against each other after Syria's withdrawal, and fought a brief war in 2006. Lebanon's borders with Syria and Israel remain unresolved.",
+  "geography": {
+    "area": {
+      "land": "10,230 sq km ",
+      "total": "10,400 sq km",
+      "water": "170 sq km "
+    },
+    "areaCompare": "",
+    "climate": "Mediterranean; mild to cool, wet winters with hot, dry summers; Lebanon mountains experience heavy winter snows",
+    "coastline": "225 km",
+    "elevationHighest": "Qornet es Saouda 3,088 m ",
+    "elevationLowest": "Mediterranean Sea 0 m",
+    "environment": {
+      "currIssues": "deforestation; soil erosion; desertification; air pollution in Beirut from vehicular traffic and the burning of industrial wastes; pollution of coastal waters from raw sewage and oil spills",
+      "intlAgreements": {
+        "notRatified": "Environmental Modification, Marine Life Conservation ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "316.8  cu m/yr (2005) ",
+      "total": "1.31  cu km/yr (29%/11%/60%)"
+    },
+    "geoCoords": "33 50 N, 35 50 E",
+    "irrigatedLand": "1,040 sq km (2003)",
+    "landBoundaries": "454 kmIsrael 79 km, Syria 375 km ",
+    "landUse": {
+      "arable": "10.72%",
+      "crops": "12.06% ",
+      "other": "77.22% (2011) "
+    },
+    "location": "Middle East, bordering the Mediterranean Sea, between Israel and Syria",
+    "naturalHazards": "dust storms, sandstorms",
+    "naturalResources": "limestone, iron ore, salt, water-surplus state in a water-deficit region, arable land",
+    "notes": "smallest country in continental Asia; Nahr el Litani is the only major river in Near East not crossing an international boundary; rugged terrain historically helped isolate, protect, and develop numerous factional groups based on religion, clan, and ethnicity",
+    "renewableWater": "4.5 cu km (2011)",
+    "terrain": "narrow coastal plain; El Beqaa (Bekaa Valley) separates Lebanon and Anti-Lebanon Mountains"
+  },
+  "countryName": "Lebanon",
+  "countryCode": "LE"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "Greenland, the world's largest island, is about 81% ice-capped. Vikings reached the island in the 10th century from Iceland; Danish colonization began in the 18th century, and Greenland was made an integral part of Denmark in 1953. It joined the European Community (now the EU) with Denmark in 1973 but withdrew in 1985 over a dispute centered on stringent fishing quotas. Greenland was granted self-government in 1979 by the Danish parliament; the law went into effect the following year. Greenland voted in favor of increased self-rule in November 2008 and acquired greater responsibility for internal affairs when the Act on Greenland Self-Government was signed into law in June 2009. Denmark, however, continues to exercise control over several policy areas on behalf of Greenland including foreign affairs, security, and financial policy in consultation with Greenland's Self-Rule Government.",
+  "geography": {
+    "area": {
+      "land": "2,166,086 sq km (410,449 sq km ice-free, 1,755,637 sq km ice-covered) ",
+      "total": "2,166,086 sq km",
+      "water": ""
+    },
+    "areaCompare": "slightly more than three times the size of Texas",
+    "climate": "arctic to subarctic; cool summers, cold winters",
+    "coastline": "44,087 km",
+    "elevationHighest": "Gunnbjorn Fjeld 3,700 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "protection of the arctic environment; preservation of the Inuit traditional way of life, including whaling and seal hunting",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "72 00 N, 40 00 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0%",
+      "crops": "0% ",
+      "other": "100% (2011) "
+    },
+    "location": "Northern North America, island between the Arctic Ocean and the North Atlantic Ocean, northeast of Canada",
+    "naturalHazards": "continuous permafrost over northern two-thirds of the island",
+    "naturalResources": "coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas",
+    "notes": "dominates North Atlantic Ocean between North America and Europe; sparse population confined to small settlements along coast; close to one-quarter of the population lives in the capital, Nuuk; world's second largest ice cap",
+    "renewableWater": "",
+    "terrain": "flat to gradually sloping icecap covers all but a narrow, mountainous, barren, rocky coast"
+  },
+  "countryName": "Greenland",
+  "countryCode": "GL"
+}

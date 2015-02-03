@@ -1,0 +1,42 @@
+{
+  "background": "El Salvador achieved independence from Spain in 1821 and from the Central American Federation in 1839. A 12-year civil war, which cost about 75,000 lives, was brought to a close in 1992 when the government and leftist rebels signed a treaty that provided for military and political reforms.",
+  "geography": {
+    "area": {
+      "land": "20,721 sq km ",
+      "total": "21,041 sq km",
+      "water": "320 sq km "
+    },
+    "areaCompare": "slightly smaller than Massachusetts",
+    "climate": "tropical; rainy season (May to October); dry season (November to April); tropical on coast; temperate in uplands",
+    "coastline": "307 km",
+    "elevationHighest": "Cerro El Pital 2,730 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; soil erosion; water pollution; contamination of soils from disposal of toxic wastes",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "301.9  cu m/yr (2007) ",
+      "total": "1.84  cu km/yr (22%/14%/64%)"
+    },
+    "geoCoords": "13 50 N, 88 55 W",
+    "irrigatedLand": "449.9 sq km (2003)",
+    "landBoundaries": "590 kmGuatemala 199 km, Honduras 391 km ",
+    "landUse": {
+      "arable": "31.61%",
+      "crops": "10.93% ",
+      "other": "57.46% (2011) "
+    },
+    "location": "Central America, bordering the North Pacific Ocean, between Guatemala and Honduras",
+    "naturalHazards": "known as the Land of Volcanoes; frequent and sometimes destructive earthquakes and volcanic activity; extremely susceptible to hurricanessignificant volcanic activity; San Salvador (elev. 1,893 m), which last erupted in 1917, has the potential to cause major harm to the country's capital, which lies just below the volcano's slopes; San Miguel (elev. 2,130 m), which last erupted in 2002, is one of the most active volcanoes in the country; other historically active volcanoes include Conchaguita, Ilopango, Izalco, and Santa Ana ",
+    "naturalResources": "hydropower, geothermal power, petroleum, arable land",
+    "notes": "smallest Central American country and only one without a coastline on Caribbean Sea",
+    "renewableWater": "25.23 cu km (2011)",
+    "terrain": "mostly mountains with narrow coastal belt and central plateau"
+  },
+  "countryName": "El Salvador",
+  "countryCode": "ES"
+}

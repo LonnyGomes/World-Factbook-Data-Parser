@@ -1,0 +1,42 @@
+{
+  "background": "A Central Asian country of incredible natural beauty and proud nomadic traditions, most of Kyrgyzstan was formally annexed to Russia in 1876. The Kyrgyz staged a major revolt against the Tsarist Empire in 1916 in which almost one-sixth of the Kyrgyz population was killed. Kyrgyzstan became a Soviet republic in 1936 and achieved independence in 1991 when the USSR dissolved. Nationwide demonstrations in the spring of 2005 resulted in the ouster of President Askar AKAEV, who had run the country since 1990. Former prime minister Kurmanbek BAKIEV overwhelmingly won the presidential election in the summer of 2005. Over the next few years, he manipulated the parliament to accrue new powers for the presidency. In July 2009, after months of harassment against his opponents and media critics, BAKIEV won re-election in a presidential campaign that the international community deemed flawed. In April 2010, violent protests in Bishkek led to the collapse of the BAKIEV regime and his eventual fleeing to Minsk, Belarus. His successor, Roza OTUNBAEVA, served as transitional president until Almazbek ATAMBAEV was inaugurated in December 2011, marking the first peaceful transfer of presidential power in independent Kyrgyzstan's history. Continuing concerns include: the trajectory of democratization, endemic corruption, poor interethnic relations, and terrorism.",
+  "geography": {
+    "area": {
+      "land": "191,801 sq km ",
+      "total": "199,951 sq km",
+      "water": "8,150 sq km "
+    },
+    "areaCompare": "slightly smaller than South Dakota",
+    "climate": "dry continental to polar in high Tien Shan Mountains; subtropical in southwest (Fergana Valley); temperate in northern foothill zone",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Jengish Chokusu (Pik Pobedy) 7,439 m ",
+    "elevationLowest": "Kara-Daryya (Karadar'ya) 132 m",
+    "environment": {
+      "currIssues": "water pollution; many people get their water directly from contaminated streams and wells; as a result, water-borne diseases are prevalent; increasing soil salinity from faulty irrigation practices",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "1,558  cu m/yr (2006) ",
+      "total": "8.01  cu km/yr (3%/4%/93%)"
+    },
+    "geoCoords": "41 00 N, 75 00 E",
+    "irrigatedLand": "10,210 sq km (2005)",
+    "landBoundaries": "3,051 kmChina 858 km, Kazakhstan 1,224 km, Tajikistan 870 km, Uzbekistan 1,099 km ",
+    "landUse": {
+      "arable": "6.38%",
+      "crops": "0.37% ",
+      "other": "93.24% "
+    },
+    "location": "Central Asia, west of China, south of Kazakhstan",
+    "naturalHazards": "NA",
+    "naturalResources": "abundant hydropower; significant deposits of gold and rare earth metals; locally exploitable coal, oil, and natural gas; other deposits of nepheline, mercury, bismuth, lead, and zinc",
+    "notes": "landlocked; entirely mountainous, dominated by the Tien Shan range; 94% of the country is 1,000 m above sea level with an average elevation of 2,750 m; many tall peaks, glaciers, and high-altitude lakes",
+    "renewableWater": "23.62 cu km (2011)",
+    "terrain": "peaks of Tien Shan and associated valleys and basins encompass entire nation"
+  },
+  "countryName": "Kyrgyzstan",
+  "countryCode": "KG"
+}

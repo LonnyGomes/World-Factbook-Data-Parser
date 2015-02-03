@@ -1,0 +1,42 @@
+{
+  "background": "After seven decades as a constituent republic of the USSR, Belarus attained its independence in 1991. It has retained closer political and economic ties to Russia than have any of the other former Soviet republics. Belarus and Russia signed a treaty on a two-state union on 8 December 1999 envisioning greater political and economic integration. Although Belarus agreed to a framework to carry out the accord, serious implementation has yet to take place. Since his election in July 1994 as the country's first directly elected president, Aleksandr LUKASHENKO has steadily consolidated his power through authoritarian means and a centralized economic system. Government restrictions on freedom of speech and the press, peaceful assembly, and religion remain in place.",
+  "geography": {
+    "area": {
+      "land": "202,900 sq km ",
+      "total": "207,600 sq km",
+      "water": "4,700 sq km "
+    },
+    "areaCompare": "slightly smaller than Kansas",
+    "climate": "cold winters, cool and moist summers; transitional between continental and maritime",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Dzyarzhynskaya Hara 346 m ",
+    "elevationLowest": "Nyoman River 90 m",
+    "environment": {
+      "currIssues": "soil pollution from pesticide use; southern part of the country contaminated with fallout from 1986 nuclear reactor accident at Chornobyl' in northern Ukraine",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 85, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "435.4  cu m/yr (2009) ",
+      "total": "4.34  cu km/yr (32%/65%/3%)"
+    },
+    "geoCoords": "53 00 N, 28 00 E",
+    "irrigatedLand": "1,150 sq km (2003)",
+    "landBoundaries": "3,599 kmLatvia 161 km, Lithuania 640 km, Poland 375 km, Russia 1,312 km, Ukraine 1,111 km ",
+    "landUse": {
+      "arable": "26.63%",
+      "crops": "0.59% ",
+      "other": "72.78% (2011) "
+    },
+    "location": "Eastern Europe, east of Poland",
+    "naturalHazards": "NA",
+    "naturalResources": "timber, peat deposits, small quantities of oil and natural gas, granite, dolomitic limestone, marl, chalk, sand, gravel, clay",
+    "notes": "landlocked; glacial scouring accounts for the flatness of Belarusian terrain and for its 11,000 lakes",
+    "renewableWater": "58 cu km (2011)",
+    "terrain": "generally flat and contains much marshland"
+  },
+  "countryName": "Belarus",
+  "countryCode": "BO"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "Lucayan Indians inhabited the islands when Christopher COLUMBUS first set foot in the New World on San Salvador in 1492. British settlement of the islands began in 1647; the islands became a colony in 1783. Since attaining independence from the UK in 1973, The Bahamas has prospered through tourism, international banking, and investment management. Because of its location, the country is a major transshipment point for illegal drugs, particularly shipments to the US and Europe, and its territory is used for smuggling illegal migrants into the US.",
+  "geography": {
+    "area": {
+      "land": "10,010 sq km ",
+      "total": "13,880 sq km",
+      "water": "3,870 sq km "
+    },
+    "areaCompare": "slightly smaller than Connecticut",
+    "climate": "tropical marine; moderated by warm waters of Gulf Stream",
+    "coastline": "3,542 km",
+    "elevationHighest": "Mount Alvernia on Cat Island 63 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "coral reef decay; solid waste disposal",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "24 15 N, 76 00 W",
+    "irrigatedLand": "10 sq km (2003)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0.65%",
+      "crops": "0.29% ",
+      "other": "99.06% (2011) "
+    },
+    "location": "chain of islands in the North Atlantic Ocean, southeast of Florida, northeast of Cuba",
+    "naturalHazards": "hurricanes and other tropical storms cause extensive flood and wind damage",
+    "naturalResources": "salt, aragonite, timber, arable land",
+    "notes": "strategic location adjacent to US and Cuba; extensive island chain of which 30 are inhabited",
+    "renewableWater": "0.02 cu km (2011)",
+    "terrain": "long, flat coral formations with some low rounded hills"
+  },
+  "countryName": "Bahamas, The",
+  "countryCode": "BF"
+}

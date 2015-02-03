@@ -1,0 +1,42 @@
+{
+  "background": "The Pacific coast of Nicaragua was settled as a Spanish colony from Panama in the early 16th century. Independence from Spain was declared in 1821 and the country became an independent republic in 1838. Britain occupied the Caribbean Coast in the first half of the 19th century, but gradually ceded control of the region in subsequent decades. Violent opposition to governmental manipulation and corruption spread to all classes by 1978 and resulted in a short-lived civil war that brought the Marxist Sandinista guerrillas to power in 1979. Nicaraguan aid to leftist rebels in El Salvador caused the US to sponsor anti-Sandinista contra guerrillas through much of the 1980s. After losing free and fair elections in 1990, 1996, and 2001, former Sandinista President Daniel ORTEGA Saavedra was elected president in 2006 and reelected in 2011. The 2008 municipal elections, 2010 regional elections, 2011 presidential elections, 2012 municipal elections, and 2013 regional elections were marred by widespread irregularities. Nicaragua's infrastructure and economy - hard hit by the earlier civil war and by Hurricane Mitch in 1998 - are slowly being rebuilt, but democratic institutions have been weakened under the ORTEGA administration.",
+  "geography": {
+    "area": {
+      "land": "119,990 sq km ",
+      "total": "130,370 sq km",
+      "water": "10,380 sq km "
+    },
+    "areaCompare": "",
+    "climate": "tropical in lowlands, cooler in highlands",
+    "coastline": "910 km",
+    "elevationHighest": "Mogoton 2,438 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; soil erosion; water pollution",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "265.9  cu m/yr (2008) ",
+      "total": "1.39  cu km/yr (23%/4%/73%)"
+    },
+    "geoCoords": "13 00 N, 85 00 W",
+    "irrigatedLand": "942.4 sq km (2003)",
+    "landBoundaries": "1,231 kmCosta Rica 309 km, Honduras 922 km ",
+    "landUse": {
+      "arable": "14.57%",
+      "crops": "1.76% ",
+      "other": "83.66% (2011) "
+    },
+    "location": "Central America, bordering both the Caribbean Sea and the North Pacific Ocean, between Costa Rica and Honduras",
+    "naturalHazards": "destructive earthquakes; volcanoes; landslides; extremely susceptible to hurricanessignificant volcanic activity; Cerro Negro (elev. 728 m), which last erupted in 1999, is one of Nicaragua's most active volcanoes; its lava flows and ash have been known to cause significant damage to farmland and buildings; other historically active volcanoes include Concepcion, Cosiguina, Las Pilas, Masaya, Momotombo, San Cristobal, and Telica ",
+    "naturalResources": "gold, silver, copper, tungsten, lead, zinc, timber, fish",
+    "notes": "largest country in Central America; contains the largest freshwater body in Central America, Lago de Nicaragua",
+    "renewableWater": "196.6 cu km (2011)",
+    "terrain": "extensive Atlantic coastal plains rising to central interior mountains; narrow Pacific coastal plain interrupted by volcanoes"
+  },
+  "countryName": "Nicaragua",
+  "countryCode": "NU"
+}

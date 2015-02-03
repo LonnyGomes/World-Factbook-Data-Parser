@@ -1,0 +1,42 @@
+{
+  "background": "Established in 1891, the British protectorate of Nyasaland became the independent nation of Malawi in 1964. After three decades of one-party rule under President Hastings Kamuzu BANDA the country held multiparty elections in 1994, under a provisional constitution that came into full effect the following year. President Bingu wa MUTHARIKA, elected in May 2004 after a failed attempt by the previous president to amend the constitution to permit another term, struggled to assert his authority against his predecessor and subsequently started his own party, the Democratic Progressive Party (DPP) in 2005. MUTHARIKA was reelected to a second term in May 2009. He oversaw some economic improvement in his first term, but was accused of economic mismanagement and poor governance in his second term. He died abruptly in April 2012 and was succeeded by his vice president, Joyce BANDA, who had earlier started her own party, the People's Party (PP). Population growth, increasing pressure on agricultural lands, corruption, and the scourge of HIV/AIDS pose major problems for Malawi.",
+  "geography": {
+    "area": {
+      "land": "94,080 sq km ",
+      "total": "118,484 sq km",
+      "water": "24,404 sq km "
+    },
+    "areaCompare": "slightly smaller than Pennsylvania",
+    "climate": "sub-tropical; rainy season (November to May); dry season (May to November)",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Sapitwa (Mount Mlanje) 3,002 m ",
+    "elevationLowest": "junction of the Shire River and international boundary with Mozambique 37 m",
+    "environment": {
+      "currIssues": "deforestation; land degradation; water pollution from agricultural runoff, sewage, industrial wastes; siltation of spawning grounds endangers fish populations",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "99.86  cu m/yr (2005) ",
+      "total": "1.36  cu km/yr (11%/4%/86%)"
+    },
+    "geoCoords": "13 30 S, 34 00 E",
+    "irrigatedLand": "735 sq km (2006)",
+    "landBoundaries": "2,881 kmMozambique 1,569 km, Tanzania 475 km, Zambia 837 km ",
+    "landUse": {
+      "arable": "30.38%",
+      "crops": "1.1% ",
+      "other": "68.52% (2011) "
+    },
+    "location": "Southern Africa, east of Zambia, west and north of Mozambique",
+    "naturalHazards": "NA",
+    "naturalResources": "limestone, arable land, hydropower, unexploited deposits of uranium, coal, and bauxite",
+    "notes": "landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physical feature; it contains more fish species than any other lake on earth",
+    "renewableWater": "17.28 cu km (2011)",
+    "terrain": "narrow elongated plateau with rolling plains, rounded hills, some mountains"
+  },
+  "countryName": "Malawi",
+  "countryCode": "MI"
+}

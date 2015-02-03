@@ -1,0 +1,42 @@
+{
+  "background": "France today is one of the most modern countries in the world and is a leader among European nations. It plays an influential global role as a permanent member of the United Nations Security Council, NATO, the G-8, the G-20, the EU and other multilateral organizations. France rejoined NATO's integrated military command structure in 2009, reversing DE GAULLE's 1966 decision to take French forces out of NATO. Since 1958, it has constructed a hybrid presidential-parliamentary governing system resistant to the instabilities experienced in earlier, more purely parliamentary administrations. In recent decades, its reconciliation and cooperation with Germany have proved central to the economic integration of Europe, including the introduction of a common currency, the euro, in January 1999. In the early 21st century, five French overseas entities - French Guiana, Guadeloupe, Martinique, Mayotte, and Reunion - became French regions and were made part of France proper.",
+  "geography": {
+    "area": {
+      "land": "640,427 sq km; 549,970 sq km (metropolitan France) ",
+      "total": "643,801 sq km; 551,500 sq km (metropolitan France)",
+      "water": "3,374 sq km; 1,530 sq km (metropolitan France) "
+    },
+    "areaCompare": "",
+    "climate": "generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as mistraltropical; hot, humid; little seasonal temperature variation subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November) tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April) ",
+    "coastline": "4,853 km3,427 km ",
+    "elevationHighest": "Mont Blanc 4,807 m ",
+    "elevationLowest": "Rhone River delta -2 m",
+    "environment": {
+      "currIssues": "some forest damage from acid rain; air pollution from industrial and vehicle emissions; water pollution from urban wastes, agricultural runoff",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "512.1  cu m/yr (2009) ",
+      "total": "31.62  cu km/yr (19%/71%/10%)"
+    },
+    "geoCoords": "46 00 N, 2 00 E4 00 N, 53 00 W 16 15 N, 61 35 W 14 40 N, 61 00 W 12 50 S, 45 10 E 21 06 S, 55 36 E ",
+    "irrigatedLand": "26,420 sq km 26,950 sq km27,230 sq km (2007) ",
+    "landBoundaries": "2,751 kmAndorra 55 km, Belgium 556 km, Germany 418 km, Italy 476 km, Luxembourg 69 km, Monaco 6 km, Spain 646 km, Switzerland 525 km 1,205 km Brazil 649 km, Suriname 556 km ",
+    "landUse": {
+      "arable": "33.45%",
+      "crops": "1.86% ",
+      "other": "64.69% "
+    },
+    "location": "Western Europe, bordering the Bay of Biscay and English Channel, between Belgium and Spain, southeast of the UK; bordering the Mediterranean Sea, between Italy and SpainNorthern South America, bordering the North Atlantic Ocean, between Brazil and Suriname Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, southeast of Puerto Rico Caribbean, island between the Caribbean Sea and North Atlantic Ocean, north of Trinidad and Tobago Southern Indian Ocean, island in the Mozambique Channel, about half way between northern Madagascar and northern Mozambique Southern Africa, island in the Indian Ocean, east of Madagascar ",
+    "naturalHazards": "flooding; avalanches; midwinter windstorms; drought; forest fires in south near the Mediterraneanhurricanes (cyclones); flooding; volcanic activity (Guadeloupe, Martinique, Reunion) ",
+    "naturalResources": "coal, iron ore, bauxite, zinc, uranium, antimony, arsenic, potash, feldspar, fluorspar, gypsum, timber, fishgold deposits, petroleum, kaolin, niobium, tantalum, clay ",
+    "notes": "largest West European nation",
+    "renewableWater": "211 cu km (2011)",
+    "terrain": "mostly flat plains or gently rolling hills in north and west; remainder is mountainous, especially Pyrenees in south, Alps in eastlow-lying coastal plains rising to hills and small mountains Basse-Terre is volcanic in origin with interior mountains; Grande-Terre is low limestone formation; most of the seven other islands are volcanic in origin mountainous with indented coastline; dormant volcano generally undulating, with deep ravines and ancient volcanic peaks mostly rugged and mountainous; fertile lowlands along coast "
+  },
+  "countryName": "France",
+  "countryCode": "FR"
+}

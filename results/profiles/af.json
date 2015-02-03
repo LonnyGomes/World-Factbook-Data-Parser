@@ -1,0 +1,42 @@
+{
+  "background": "Ahmad Shah DURRANI unified the Pashtun tribes and founded Afghanistan in 1747. The country served as a buffer between the British and Russian Empires until it won independence from notional British control in 1919. A brief experiment in democracy ended in a 1973 coup and a 1978 communist counter-coup. The Soviet Union invaded in 1979 to support the tottering Afghan communist regime, touching off a long and destructive war. The USSR withdrew in 1989 under relentless pressure by internationally supported anti-communist mujahedin rebels. A series of subsequent civil wars saw Kabul finally fall in 1996 to the Taliban, a hardline Pakistani-sponsored movement that emerged in 1994 to end the country's civil war and anarchy. Following the 11 September 2001 terrorist attacks, a US, Allied, and anti-Taliban Northern Alliance military action toppled the Taliban for sheltering Osama BIN LADIN. The UN-sponsored Bonn Conference in 2001 established a process for political reconstruction that included the adoption of a new constitution, a presidential election in 2004, and National Assembly elections in 2005. In December 2004, Hamid KARZAI became the first democratically elected president of Afghanistan and the National Assembly was inaugurated the following December. KARZAI was re-elected in August 2009 for a second term. Despite gains toward building a stable central government, a resurgent Taliban and continuing provincial instability - particularly in the south and the east - remain serious challenges for the Afghan Government.",
+  "geography": {
+    "area": {
+      "land": "652,230 sq km ",
+      "total": "652,230 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "",
+    "climate": "arid to semiarid; cold winters and hot summers",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Noshak 7,485 m ",
+    "elevationLowest": "Amu Darya 258 m",
+    "environment": {
+      "currIssues": "limited natural freshwater resources; inadequate supplies of potable water; soil degradation; overgrazing; deforestation (much of the remaining forests are being cut down for fuel and building materials); desertification; air and water pollution",
+      "intlAgreements": {
+        "notRatified": "Hazardous Wastes, Law of the Sea, Marine Life Conservation ",
+        "partyTo": "Biodiversity, Climate Change, Desertification, Endangered Species, Environmental Modification, Marine Dumping, Ozone Layer Protection"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "823.1  cu m/yr (2005) ",
+      "total": "20.28  cu km/yr (1%/1%/98%)"
+    },
+    "geoCoords": "33 00 N, 65 00 E",
+    "irrigatedLand": "32,080 sq km (2003)",
+    "landBoundaries": "5,987 kmChina 91 km, Iran 921 km, Pakistan 2,670 km, Tajikistan 1,357 km, Turkmenistan 804 km, Uzbekistan 144 km ",
+    "landUse": {
+      "arable": "11.95%",
+      "crops": "0.18% ",
+      "other": "87.87% (2011) "
+    },
+    "location": "Southern Asia, north and west of Pakistan, east of Iran",
+    "naturalHazards": "damaging earthquakes occur in Hindu Kush mountains; flooding; droughts",
+    "naturalResources": "natural gas, petroleum, coal, copper, chromite, talc, barites, sulfur, lead, zinc, iron ore, salt, precious and semiprecious stones",
+    "notes": "landlocked; the Hindu Kush mountains that run northeast to southwest divide the northern provinces from the rest of the country; the highest peaks are in the northern Vakhan (Wakhan Corridor)",
+    "renewableWater": "65.33 cu km (2011)",
+    "terrain": "mostly rugged mountains; plains in north and southwest"
+  },
+  "countryName": "Afghanistan",
+  "countryCode": "AF"
+}

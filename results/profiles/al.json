@@ -1,0 +1,42 @@
+{
+  "background": "Albania declared its independence from the Ottoman Empire in 1912, but was conquered by Italy in 1939, and occupied by Germany in 1943. Communist partisans took over the country in 1944. Albania allied itself first with the USSR (until 1960), and then with China (to 1978). In the early 1990s, Albania ended 46 years of xenophobic communist rule and established a multiparty democracy. The transition has proven challenging as successive governments have tried to deal with high unemployment, widespread corruption, dilapidated infrastructure, powerful organized crime networks, and combative political opponents. Albania has made progress in its democratic development since first holding multiparty elections in 1991, but deficiencies remain. International observers judged elections to be largely free and fair since the restoration of political stability following the collapse of pyramid schemes in 1997; however, each of Albania's post-communist elections have been marred by claims of electoral fraud. The 2009 general elections resulted in a coalition government, the first such in the country's history. In 2013, general elections achieved a peaceful transition of power and a second successive coalition government. Albania joined NATO in April 2009 and is a potential candidate for EU accession. Although Albania's economy continues to grow, it has slowed, and the country is still one of the poorest in Europe. A large informal economy and an inadequate energy and transportation infrastructure remain obstacles.",
+  "geography": {
+    "area": {
+      "land": "27,398 sq km ",
+      "total": "28,748 sq km",
+      "water": "1,350 sq km "
+    },
+    "areaCompare": "slightly smaller than Maryland",
+    "climate": "mild temperate; cool, cloudy, wet winters; hot, clear, dry summers; interior is cooler and wetter",
+    "coastline": "362 km",
+    "elevationHighest": "Maja e Korabit (Golem Korab) 2,764 m ",
+    "elevationLowest": "Adriatic Sea 0 m",
+    "environment": {
+      "currIssues": "deforestation; soil erosion; water pollution from industrial and domestic effluents",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "413.6  cu m/yr (2006) ",
+      "total": "1.31  cu km/yr (43%/18%/39%)"
+    },
+    "geoCoords": "41 00 N, 20 00 E",
+    "irrigatedLand": "1,884 sq km (2006)",
+    "landBoundaries": "691 kmGreece 212 km, Kosovo 112 km, Macedonia 181 km, Montenegro 186 km ",
+    "landUse": {
+      "arable": "21.63%",
+      "crops": "2.57% ",
+      "other": "75.79% (2011) "
+    },
+    "location": "Southeastern Europe, bordering the Adriatic Sea and Ionian Sea, between Greece in the south and Montenegro and Kosovo to the north",
+    "naturalHazards": "destructive earthquakes; tsunamis occur along southwestern coast; floods; drought",
+    "naturalResources": "petroleum, natural gas, coal, bauxite, chromite, copper, iron ore, nickel, salt, timber, hydropower",
+    "notes": "strategic location along Strait of Otranto (links Adriatic Sea to Ionian Sea and Mediterranean Sea)",
+    "renewableWater": "41.7 cu km (2011)",
+    "terrain": "mostly mountains and hills; small plains along coast"
+  },
+  "countryName": "Albania",
+  "countryCode": "AL"
+}

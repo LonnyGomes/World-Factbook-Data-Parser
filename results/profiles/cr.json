@@ -1,0 +1,42 @@
+{
+  "background": "Scattered over more than three-quarters of a million square kilometers of ocean, the Coral Sea Islands were declared a territory of Australia in 1969. They are uninhabited except for a small meteorological staff on the Willis Islets. Automated weather stations, beacons, and a lighthouse occupy many other islands and reefs. The Coral Sea Islands Act 1969 was amended in 1997 to extend the boundaries of the Coral Sea Islands Territory around Elizabeth and Middleton Reefs.",
+  "geography": {
+    "area": {
+      "land": "less than 3 sq km ",
+      "total": "less than 3 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "NA",
+    "climate": "tropical",
+    "coastline": "3,095 km",
+    "elevationHighest": "unnamed location on Cato Island 6 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "no permanent freshwater resources",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "18 00 S, 152 00 E",
+    "irrigatedLand": "0 sq km (2011)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0%",
+      "crops": "0% ",
+      "other": "100% (mostly grass or scrub cover) (2011) "
+    },
+    "location": "Oceania, islands in the Coral Sea, northeast of Australia",
+    "naturalHazards": "occasional tropical cyclones",
+    "naturalResources": "NEGL",
+    "notes": "important nesting area for birds and turtles",
+    "renewableWater": "",
+    "terrain": "sand and coral reefs and islands (or cays)"
+  },
+  "countryName": "Coral Sea Islands",
+  "countryCode": "CR"
+}

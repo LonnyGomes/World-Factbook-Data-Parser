@@ -1,0 +1,42 @@
+{
+  "background": "Multiple waves of colonizers, each speaking a distinct language, migrated to the New Hebrides in the millennia preceding European exploration in the 18th century. This settlement pattern accounts for the complex linguistic diversity found on the archipelago to this day. The British and French, who settled the New Hebrides in the 19th century, agreed in 1906 to an Anglo-French Condominium, which administered the islands until independence in 1980, when the new name of Vanuatu was adopted.",
+  "geography": {
+    "area": {
+      "land": "12,189 sq km ",
+      "total": "12,189 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly larger than Connecticut",
+    "climate": "tropical; moderated by southeast trade winds from May to October; moderate rainfall from November to April; may be affected by cyclones from December to April",
+    "coastline": "2,528 km",
+    "elevationHighest": "Tabwemasana 1,877 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "most of the population does not have access to a reliable supply of potable water; deforestation",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 94"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "16 00 S, 167 00 E",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "1.64%",
+      "crops": "10.25% ",
+      "other": "88.11% (2011) "
+    },
+    "location": "Oceania, group of islands in the South Pacific Ocean, about three-quarters of the way from Hawaii to Australia",
+    "naturalHazards": "tropical cyclones or typhoons (January to April); volcanic eruption on Aoba (Ambae) island began on 27 November 2005, volcanism also causes minor earthquakes; tsunamissignificant volcanic activity with multiple eruptions in recent years; Yasur (elev. 361 m), one of the world's most active volcanoes, has experienced continuous activity in recent centuries; other historically active volcanoes include, Aoba, Ambrym, Epi, Gaua, Kuwae, Lopevi, Suretamatai, and Traitor's Head ",
+    "naturalResources": "manganese, hardwood forests, fish",
+    "notes": "a Y-shaped chain of four main islands and 80 smaller islands; several of the islands have active volcanoes and there are several underwater volcanoes as well",
+    "renewableWater": "",
+    "terrain": "mostly mountainous islands of volcanic origin; narrow coastal plains"
+  },
+  "countryName": "Vanuatu",
+  "countryCode": "NH"
+}

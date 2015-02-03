@@ -1,0 +1,42 @@
+{
+  "background": "The islands were part of the UK's Jamaican colony until 1962, when they assumed the status of a separate crown colony upon Jamaica's independence. The governor of The Bahamas oversaw affairs from 1965 to 1973. With Bahamian independence, the islands received a separate governor in 1973. Although independence was agreed upon for 1982, the policy was reversed and the islands remain a British overseas territory.",
+  "geography": {
+    "area": {
+      "land": "948 sq km ",
+      "total": "948 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "2.5 times the size of Washington, DC",
+    "climate": "tropical; marine; moderated by trade winds; sunny and relatively dry",
+    "coastline": "389 km",
+    "elevationHighest": "Flamingo Hill 48 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "limited natural freshwater resources, private cisterns collect rainwater",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "21 45 N, 71 35 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "1.05%",
+      "crops": "0% ",
+      "other": "98.95% (2011) "
+    },
+    "location": "two island groups in the North Atlantic Ocean, southeast of The Bahamas, north of Haiti",
+    "naturalHazards": "frequent hurricanes",
+    "naturalResources": "spiny lobster, conch",
+    "notes": "about 40 islands (eight inhabited)",
+    "renewableWater": "",
+    "terrain": "low, flat limestone; extensive marshes and mangrove swamps"
+  },
+  "countryName": "Turks and Caicos Islands",
+  "countryCode": "TK"
+}

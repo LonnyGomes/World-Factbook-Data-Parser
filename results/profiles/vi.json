@@ -1,0 +1,42 @@
+{
+  "background": "First inhabited by Arawak and later by Carib Indians, the Virgin Islands were settled by the Dutch in 1648 and then annexed by the English in 1672. The islands were part of the British colony of the Leeward Islands from 1872-1960; they were granted autonomy in 1967. The economy is closely tied to the larger and more populous US Virgin Islands to the west; the US dollar is the legal currency.",
+  "geography": {
+    "area": {
+      "land": "151 sq km ",
+      "total": "151 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about 0.9 times the size of Washington, DC",
+    "climate": "subtropical; humid; temperatures moderated by trade winds",
+    "coastline": "80 km",
+    "elevationHighest": "Mount Sage 521 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "limited natural freshwater resources except for a few seasonal streams and springs on Tortola; most of the islands' water supply comes from wells and rainwater catchments",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "18 30 N, 64 30 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "6.67%",
+      "crops": "6.67% ",
+      "other": "86.67% (2011) "
+    },
+    "location": "Caribbean, between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico",
+    "naturalHazards": "hurricanes and tropical storms (July to October)",
+    "naturalResources": "NEGL",
+    "notes": "strong ties to nearby US Virgin Islands and Puerto Rico",
+    "renewableWater": "",
+    "terrain": "coral islands relatively flat; volcanic islands steep, hilly"
+  },
+  "countryName": "British Virgin Islands",
+  "countryCode": "VI"
+}

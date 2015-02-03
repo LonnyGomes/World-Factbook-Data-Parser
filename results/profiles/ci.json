@@ -1,0 +1,42 @@
+{
+  "background": "Prior to the arrival of the Spanish in the 16th century, the Inca ruled northern Chile while the Mapuche inhabited central and southern Chile. Although Chile declared its independence in 1810, decisive victory over the Spanish was not achieved until 1818. In the War of the Pacific (1879-83), Chile defeated Peru and Bolivia and won its present northern regions. It was not until the 1880s that the Mapuche were brought under central government control. After a series of elected governments, the three-year-old Marxist government of Salvador ALLENDE was overthrown in 1973 by a military coup led by Augusto PINOCHET, who ruled until a freely elected president was inaugurated in 1990. Sound economic policies, maintained consistently since the 1980s, contributed to steady growth, reduced poverty rates by over half, and helped secure the country's commitment to democratic and representative government. Chile has increasingly assumed regional and international leadership roles befitting its status as a stable, democratic nation. In January 2014, Chile assumed a nonpermanent seat on the UN Security Council for the 2014-15 term.",
+  "geography": {
+    "area": {
+      "land": "743,812 sq km ",
+      "total": "756,102 sq km",
+      "water": "12,290 sq km "
+    },
+    "areaCompare": "slightly smaller than twice the size of Montana",
+    "climate": "temperate; desert in north; Mediterranean in central region; cool and damp in south",
+    "coastline": "6,435 km",
+    "elevationHighest": "Nevado Ojos del Salado 6,880 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "widespread deforestation and mining threaten natural resources; air pollution from industrial and vehicle emissions; water pollution from raw sewage",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "1,603  cu m/yr (2007) ",
+      "total": "26.67  cu km/yr (4%/10%/86%)"
+    },
+    "geoCoords": "30 00 S, 71 00 W",
+    "irrigatedLand": "11,990 sq km (2003)",
+    "landBoundaries": "7,801 kmArgentina 6,691 km, Bolivia 942 km, Peru 168 km ",
+    "landUse": {
+      "arable": "1.74%",
+      "crops": "0.6% ",
+      "other": "97.65% (2011) "
+    },
+    "location": "Southern South America, bordering the South Pacific Ocean, between Argentina and Peru",
+    "naturalHazards": "severe earthquakes; active volcanism; tsunamissignificant volcanic activity due to more than three-dozen active volcanoes along the Andes Mountains; Lascar (elev. 5,592 m), which last erupted in 2007, is the most active volcano in the northern Chilean Andes; Llaima (elev. 3,125 m) in central Chile, which last erupted in 2009, is another of the country's most active; Chaiten's 2008 eruption forced major evacuations; other notable historically active volcanoes include Cerro Hudson, Copahue, Guallatiri, Llullaillaco, Nevados de Chillan, Puyehue, San Pedro, and Villarrica ",
+    "naturalResources": "copper, timber, iron ore, nitrates, precious metals, molybdenum, hydropower",
+    "notes": "the longest north-south trending country in the world, extending across 38 degrees of latitude; strategic location relative to sea lanes between the Atlantic and Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); Atacama Desert - the driest desert in the world - spreads across the northern part of the country; the crater lake of Ojos del Salado is the world's highest lake (at 6,390 m)",
+    "renewableWater": "922 cu km (2011)",
+    "terrain": "low coastal mountains; fertile central valley; rugged Andes in east"
+  },
+  "countryName": "Chile",
+  "countryCode": "CI"
+}

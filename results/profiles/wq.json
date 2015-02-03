@@ -1,0 +1,42 @@
+{
+  "background": "The US annexed Wake Island in 1899 for a cable station. An important air and naval base was constructed in 1940-41. In December 1941, the island was captured by the Japanese and held until the end of World War II. In subsequent years, Wake became a stopover and refueling site for military and commercial aircraft transiting the Pacific. Since 1974, the island's airstrip has been used by the US military, as well as for emergency landings. Operations on the island were suspended and all personnel evacuated in 2006 with the approach of super typhoon IOKE (category 5), but resultant damage was comparatively minor. A US Air Force repair team restored full capability to the airfield and facilities, and the island remains a vital strategic link in the Pacific region.",
+  "geography": {
+    "area": {
+      "land": "6.5 sq km ",
+      "total": "6.5 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about 11 times the size of The Mall in Washington, DC",
+    "climate": "tropical",
+    "coastline": "19.3 km",
+    "elevationHighest": "unnamed location 6 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "19 17 N, 166 39 E",
+    "irrigatedLand": "0 sq km (2011)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0%",
+      "crops": "0% ",
+      "other": "100% (2011) "
+    },
+    "location": "Oceania, atoll in the North Pacific Ocean, about two-thirds of the way from Hawaii to the Northern Mariana Islands",
+    "naturalHazards": "occasional typhoons",
+    "naturalResources": "none",
+    "notes": "strategic location in the North Pacific Ocean; emergency landing location for transpacific flights",
+    "renewableWater": "",
+    "terrain": "atoll of three low coral islands, Peale, Wake, and Wilkes, built up on an underwater volcano; central lagoon is former crater, islands are part of the rim"
+  },
+  "countryName": "Wake Island",
+  "countryCode": "WQ"
+}

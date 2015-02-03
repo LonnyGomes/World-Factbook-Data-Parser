@@ -1,0 +1,42 @@
+{
+  "background": "The lands that today comprise Croatia were part of the Austro-Hungarian Empire until the close of World War I. In 1918, the Croats, Serbs, and Slovenes formed a kingdom known after 1929 as Yugoslavia. Following World War II, Yugoslavia became a federal independent communist state under the strong hand of Marshal TITO. Although Croatia declared its independence from Yugoslavia in 1991, it took four years of sporadic, but often bitter, fighting before occupying Serb armies were mostly cleared from Croatian lands, along with a majority of Croatia's ethnic Serb population. Under UN supervision, the last Serb-held enclave in eastern Slavonia was returned to Croatia in 1998. The country joined NATO in April 2009 and the EU in July 2013.",
+  "geography": {
+    "area": {
+      "land": "55,974 sq km ",
+      "total": "56,594 sq km",
+      "water": "620 sq km "
+    },
+    "areaCompare": "slightly smaller than West Virginia",
+    "climate": "Mediterranean and continental; continental climate predominant with hot summers and cold winters; mild winters, dry summers along coast",
+    "coastline": "5,835 km (mainland 1,777 km, islands 4,058 km)",
+    "elevationHighest": "Dinara 1,831 m ",
+    "elevationLowest": "Adriatic Sea 0 m",
+    "environment": {
+      "currIssues": "air pollution (from metallurgical plants) and resulting acid rain is damaging the forests; coastal pollution from industrial and domestic waste; landmine removal and reconstruction of infrastructure consequent to 1992-95 civil strife",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "45 10 N, 15 30 E",
+    "irrigatedLand": "36.27 sq km (2010)",
+    "landBoundaries": "2,237 kmBosnia and Herzegovina 956 km, Hungary 348 km, Montenegro 19 km, Serbia 314 km, Slovenia 600 km ",
+    "landUse": {
+      "arable": "15.85%",
+      "crops": "1.47% ",
+      "other": "82.69% (2011) "
+    },
+    "location": "Southeastern Europe, bordering the Adriatic Sea, between Bosnia and Herzegovina and Slovenia",
+    "naturalHazards": "destructive earthquakes",
+    "naturalResources": "oil, some coal, bauxite, low-grade iron ore, calcium, gypsum, natural asphalt, silica, mica, clays, salt, hydropower",
+    "notes": "controls most land routes from Western Europe to Aegean Sea and Turkish Straits; most Adriatic Sea islands lie off the coast of Croatia - some 1,200 islands, islets, ridges, and rocks",
+    "renewableWater": "105.5 cu km (2011)",
+    "terrain": "geographically diverse; flat plains along Hungarian border, low mountains and highlands near Adriatic coastline and islands"
+  },
+  "countryName": "Croatia",
+  "countryCode": "HR"
+}

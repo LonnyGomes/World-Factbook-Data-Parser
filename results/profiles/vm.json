@@ -1,0 +1,42 @@
+{
+  "background": "The conquest of Vietnam by France began in 1858 and was completed by 1884. It became part of French Indochina in 1887. Vietnam declared independence after World War II, but France continued to rule until its 1954 defeat by communist forces under Ho Chi MINH. Under the Geneva Accords of 1954, Vietnam was divided into the communist North and anti-communist South. US economic and military aid to South Vietnam grew through the 1960s in an attempt to bolster the government, but US armed forces were withdrawn following a cease-fire agreement in 1973. Two years later, North Vietnamese forces overran the South reuniting the country under communist rule. Despite the return of peace, for over a decade the country experienced little economic growth because of conservative leadership policies, the persecution and mass exodus of individuals - many of them successful South Vietnamese merchants - and growing international isolation. However, since the enactment of Vietnam's \"doi moi\" (renovation) policy in 1986, Vietnamese authorities have committed to increased economic liberalization and enacted structural reforms needed to modernize the economy and to produce more competitive, export-driven industries. The communist leaders, however, maintain control on political expression and have resisted outside calls to improve human rights. The country continues to experience small-scale protests from various groups - the vast majority connected to land-use issues, calls for increased political space, and the lack of equitable mechanisms for resolving disputes. Various ethnic minorities, such as the Montagnards of the Central Highlands and the Khmer Krom in the southern delta region, have also held protests.",
+  "geography": {
+    "area": {
+      "land": "310,070 sq km ",
+      "total": "331,210 sq km",
+      "water": "21,140 sq km "
+    },
+    "areaCompare": "slightly larger than New Mexico",
+    "climate": "tropical in south; monsoonal in north with hot, rainy season (May to September) and warm, dry season (October to March)",
+    "coastline": "3,444 km (excludes islands)",
+    "elevationHighest": "Fan Si Pan 3,144 m ",
+    "elevationLowest": "South China Sea 0 m",
+    "environment": {
+      "currIssues": "logging and slash-and-burn agricultural practices contribute to deforestation and soil degradation; water pollution and overfishing threaten marine life populations; groundwater contamination limits potable water supply; growing urban industrialization and population migration are rapidly degrading environment in Hanoi and Ho Chi Minh City",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "965  cu m/yr (2005) ",
+      "total": "82.03  cu km/yr (1%/4%/95%)"
+    },
+    "geoCoords": "16 10 N, 107 50 E",
+    "irrigatedLand": "45,850 sq km (2005)",
+    "landBoundaries": "4,639 kmCambodia 1,228 km, China 1,281 km, Laos 2,130 km ",
+    "landUse": {
+      "arable": "19.64%",
+      "crops": "11.18% ",
+      "other": "69.18% (2011) "
+    },
+    "location": "Southeastern Asia, bordering the Gulf of Thailand, Gulf of Tonkin, and South China Sea, as well as China, Laos, and Cambodia",
+    "naturalHazards": "occasional typhoons (May to January) with extensive flooding, especially in the Mekong River delta",
+    "naturalResources": "phosphates, coal, manganese, rare earth elements, bauxite, chromate, offshore oil and gas deposits, timber, hydropower",
+    "notes": "extending 1,650 km north to south, the country is only 50 km across at its narrowest point",
+    "renewableWater": "884.1 cu km (2011)",
+    "terrain": "low, flat delta in south and north; central highlands; hilly, mountainous in far north and northwest"
+  },
+  "countryName": "Vietnam",
+  "countryCode": "VM"
+}

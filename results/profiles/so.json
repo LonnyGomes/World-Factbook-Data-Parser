@@ -1,0 +1,42 @@
+{
+  "background": "Britain withdrew from British Somaliland in 1960 to allow its protectorate to join with Italian Somaliland and form the new nation of Somalia. In 1969, a coup headed by Mohamed SIAD Barre ushered in an authoritarian socialist rule characterized by the persecution, jailing, and torture of political opponents and dissidents. After the regime's collapse early in 1991, Somalia descended into turmoil, factional fighting, and anarchy. In May 1991, northern clans declared an independent Republic of Somaliland that now includes the administrative regions of Awdal, Woqooyi Galbeed, Togdheer, Sanaag, and Sool. Although not recognized by any government, this entity has maintained a stable existence and continues efforts to establish a constitutional democracy, including holding municipal, parliamentary, and presidential elections. The regions of Bari, Nugaal, and northern Mudug comprise a neighboring semi-autonomous state of Puntland, which has been self-governing since 1998 but does not aim at independence; it has also made strides toward reconstructing a legitimate, representative government but has suffered some civil strife. Puntland disputes its border with Somaliland as it also claims portions of eastern Sool and Sanaag. Beginning in 1993, a two-year UN humanitarian effort (primarily in the south) was able to alleviate famine conditions, but when the UN withdrew in 1995, having suffered significant casualties, order still had not been restored. In 2000, the Somalia National Peace Conference (SNPC) held in Djibouti resulted in the formation of an interim government, known as the Transitional National Government (TNG). When the TNG failed to establish adequate security or governing institutions, the Government of Kenya, under the auspices of the Intergovernmental Authority on Development (IGAD), led a subsequent peace process that concluded in October 2004 with the election of Abdullahi YUSUF Ahmed as President of a second interim government, known as the Transitional Federal Government (TFG) of the Somali Republic. The TFG included a 275-member parliamentary body, known as the Transitional Federal Parliament (TFP). President YUSUF resigned late in 2008 while United Nations-sponsored talks between the TFG and the opposition Alliance for the Re-Liberation of Somalia (ARS) were underway in Djibouti. In January 2009, following the creation of a TFG-ARS unity government, Ethiopian military forces, which had entered Somalia in December 2006 to support the TFG in the face of advances by the opposition Islamic Courts Union (ICU), withdrew from the country. The TFP was doubled in size to 550 seats with the addition of 200 ARS and 75 civil society members of parliament. The expanded parliament elected Sheikh SHARIF Sheikh Ahmed, the former ICU and ARS chairman as president in January 2009. The creation of the TFG was based on the Transitional Federal Charter (TFC), which outlined a five-year mandate leading to the establishment of a new Somali constitution and a transition to a representative government following national elections. In 2009, the TFP amended the TFC to extend TFG's mandate until 2011 and in 2011 Somali principals agreed to institute political transition by August 2012. The transition process ended in September 2012 when clan elders replaced the TFP by appointing 275 members to a new parliament who subsequently elected a new president.",
+  "geography": {
+    "area": {
+      "land": "627,337 sq km ",
+      "total": "637,657 sq km",
+      "water": "10,320 sq km "
+    },
+    "areaCompare": "",
+    "climate": "principally desert; northeast monsoon (December to February), moderate temperatures in north and hot in south; southwest monsoon (May to October), torrid in the north and hot in the south, irregular rainfall, hot and humid periods (tangambili) between monsoons",
+    "coastline": "3,025 km",
+    "elevationHighest": "Shimbiris 2,416 m ",
+    "elevationLowest": "Indian Ocean 0 m",
+    "environment": {
+      "currIssues": "famine; use of contaminated water contributes to human health problems; deforestation; overgrazing; soil erosion; desertification",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Desertification, Endangered Species, Law of the Sea, Ozone Layer Protection"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "377.6  cu m/yr (2003) ",
+      "total": "3.3  cu km/yr (0%/0%/99%)"
+    },
+    "geoCoords": "10 00 N, 49 00 E",
+    "irrigatedLand": "2,000 sq km (2003)",
+    "landBoundaries": "2,340 kmDjibouti 58 km, Ethiopia 1,600 km, Kenya 682 km ",
+    "landUse": {
+      "arable": "1.73%",
+      "crops": "0.05% ",
+      "other": "98.23% (2011) "
+    },
+    "location": "Eastern Africa, bordering the Gulf of Aden and the Indian Ocean, east of Ethiopia",
+    "naturalHazards": "recurring droughts; frequent dust storms over eastern plains in summer; floods during rainy season",
+    "naturalResources": "uranium and largely unexploited reserves of iron ore, tin, gypsum, bauxite, copper, salt, natural gas, likely oil reserves",
+    "notes": "strategic location on Horn of Africa along southern approaches to Bab el Mandeb and route through Red Sea and Suez Canal",
+    "renewableWater": "14.7 cu km (2011)",
+    "terrain": "mostly flat to undulating plateau rising to hills in north"
+  },
+  "countryName": "Somalia",
+  "countryCode": "SO"
+}

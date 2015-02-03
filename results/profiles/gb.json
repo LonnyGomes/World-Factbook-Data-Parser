@@ -1,0 +1,42 @@
+{
+  "background": "El Hadj Omar BONGO Ondimba - one of the longest-serving heads of state in the world - dominated the country's political scene for four decades (1967-2009) following independence from France in 1960. President BONGO introduced a nominal multiparty system and a new constitution in the early 1990s. However, allegations of electoral fraud during local elections in December 2002 and the presidential elections in 2005 exposed the weaknesses of formal political structures in Gabon. Following President BONGO's death in 2009, new elections brought Ali BONGO Ondimba, son of the former president, to power. Despite constrained political conditions, Gabon's small population, abundant natural resources, and considerable foreign support have helped make it one of the more stable African countries.",
+  "geography": {
+    "area": {
+      "land": "257,667 sq km ",
+      "total": "267,667 sq km",
+      "water": "10,000 sq km "
+    },
+    "areaCompare": "slightly smaller than Colorado",
+    "climate": "tropical; always hot, humid",
+    "coastline": "885 km",
+    "elevationHighest": "Mont Iboundji 1,575 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; poaching",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "97.68  cu m/yr (2005) ",
+      "total": "0.14  cu km/yr (61%/10%/29%)"
+    },
+    "geoCoords": "1 00 S, 11 45 E",
+    "irrigatedLand": "44.5 sq km (2003)",
+    "landBoundaries": "3,261 kmCameroon 349 km, Republic of the Congo 2,567 km, Equatorial Guinea 345 km ",
+    "landUse": {
+      "arable": "1.21%",
+      "crops": "0.64% ",
+      "other": "98.15% (2011) "
+    },
+    "location": "Central Africa, bordering the Atlantic Ocean at the Equator, between Republic of the Congo and Equatorial Guinea",
+    "naturalHazards": "NA",
+    "naturalResources": "petroleum, natural gas, diamond, niobium, manganese, uranium, gold, timber, iron ore, hydropower",
+    "notes": "a small population and oil and mineral reserves have helped Gabon become one of Africa's wealthier countries; in general, these circumstances have allowed the country to maintain and conserve its pristine rain forest and rich biodiversity",
+    "renewableWater": "164 cu km (2011)",
+    "terrain": "narrow coastal plain; hilly interior; savanna in east and south"
+  },
+  "countryName": "Gabon",
+  "countryCode": "GB"
+}

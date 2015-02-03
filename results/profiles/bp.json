@@ -1,0 +1,42 @@
+{
+  "background": "The UK established a protectorate over the Solomon Islands in the 1890s. Some of the most bitter fighting of World War II occurred on this archipelago. Self-government was achieved in 1976 and independence two years later. Ethnic violence, government malfeasance, and endemic crime have undermined stability and civil society. In June 2003, then Prime Minister Sir Allan KEMAKEZA sought the assistance of Australia in reestablishing law and order; the following month, an Australian-led multinational force arrived to restore peace and disarm ethnic militias. The Regional Assistance Mission to the Solomon Islands (RAMSI) has generally been effective in restoring law and order and rebuilding government institutions.",
+  "geography": {
+    "area": {
+      "land": "27,986 sq km ",
+      "total": "28,896 sq km",
+      "water": "910 sq km "
+    },
+    "areaCompare": "slightly smaller than Maryland",
+    "climate": "tropical monsoon; few extremes of temperature and weather",
+    "coastline": "5,313 km",
+    "elevationHighest": "Mount Popomanaseu 2,310 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; soil erosion; many of the surrounding coral reefs are dead or dying",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Environmental Modification, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "8 00 S, 159 00 E",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0.62%",
+      "crops": "2.25% ",
+      "other": "97.13% (2011) "
+    },
+    "location": "Oceania, group of islands in the South Pacific Ocean, east of Papua New Guinea",
+    "naturalHazards": "typhoons, but rarely destructive; geologically active region with frequent earthquakes, tremors, and volcanic activity; tsunamisTinakula (elev. 851 m) has frequent eruption activity, while an eruption of Savo (elev. 485 m) could affect the capital Honiara on nearby Guadalcanal ",
+    "naturalResources": "fish, forests, gold, bauxite, phosphates, lead, zinc, nickel",
+    "notes": "strategic location on sea routes between the South Pacific Ocean, the Solomon Sea, and the Coral Sea; on 2 April 2007 an undersea earthquake measuring 8.1 on the Richter scale occurred 345 km WNW of the capital Honiara; the resulting tsunami devastated coastal areas of Western and Choiseul provinces with dozens of deaths and thousands dislocated; the provincial capital of Gizo was especially hard hit",
+    "renewableWater": "44.7 cu km (2011)",
+    "terrain": "mostly rugged mountains with some low coral atolls"
+  },
+  "countryName": "Solomon Islands",
+  "countryCode": "BP"
+}

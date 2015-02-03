@@ -1,0 +1,42 @@
+{
+  "background": "In 788, about a century after the Arab conquest of North Africa, a series of Moroccan Muslim dynasties began to rule in Morocco. In the 16th century, the Sa'adi monarchy, particularly under Ahmad al-MANSUR (1578-1603), repelled foreign invaders and inaugurated a golden age. The Alaouite Dynasty, to which the current Moroccan royal family belongs, dates from the 17th century. In 1860, Spain occupied northern Morocco and ushered in a half century of trade rivalry among European powers that saw Morocco's sovereignty steadily erode; in 1912, the French imposed a protectorate over the country. A protracted independence struggle with France ended successfully in 1956. The internationalized city of Tangier and most Spanish possessions were turned over to the new country that same year. Sultan MOHAMMED V, the current monarch's grandfather, organized the new state as a constitutional monarchy and in 1957 assumed the title of king. Although Morocco is not the UN-recognized Administering Power for the Western Sahara, it exercises de facto administrative control over 80% of the territory. The UN since 1991 has monitored a ceasefire between Morocco and the Polisario Front and leads ongoing negotiations over the status of the territory. King MOHAMMED VI in early 2011 responded to the spread of pro-democracy protests in the region by implementing a reform program that included a new constitution, passed by popular referendum in July 2011, under which some new powers were extended to parliament and the prime minister but ultimate authority remains in the hands of the monarch. In November 2012, the Justice and Development Party - a moderate Islamist party - won the largest number of seats in parliamentary elections, becoming the first Islamist party to lead the Moroccan Government.",
+  "geography": {
+    "area": {
+      "land": "446,300 sq km ",
+      "total": "446,550 sq km",
+      "water": "250 sq km "
+    },
+    "areaCompare": "slightly larger than California",
+    "climate": "Mediterranean, becoming more extreme in the interior",
+    "coastline": "1,835 km",
+    "elevationHighest": "Jebel Toubkal 4,165 m ",
+    "elevationLowest": "Sebkha Tah -55 m",
+    "environment": {
+      "currIssues": "land degradation/desertification (soil erosion resulting from farming of marginal areas, overgrazing, destruction of vegetation); water supplies contaminated by raw sewage; siltation of reservoirs; oil pollution of coastal waters",
+      "intlAgreements": {
+        "notRatified": "Environmental Modification ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "428.1  cu m/yr (2005) ",
+      "total": "12.61  cu km/yr (12%/4%/84%)"
+    },
+    "geoCoords": "32 00 N, 5 00 W",
+    "irrigatedLand": "14,850 sq km (2004)",
+    "landBoundaries": "2,020.5 kmAlgeria 1,559 km, Western Sahara 443 km, Spain (Ceuta) 8 km, Spain (Melilla) 10.5 km an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera ",
+    "landUse": {
+      "arable": "17.79%",
+      "crops": "2.6% ",
+      "other": "79.61% (2011) "
+    },
+    "location": "Northern Africa, bordering the North Atlantic Ocean and the Mediterranean Sea, between Algeria and Western Sahara",
+    "naturalHazards": "northern mountains geologically unstable and subject to earthquakes; periodic droughts",
+    "naturalResources": "phosphates, iron ore, manganese, lead, zinc, fish, salt",
+    "notes": "strategic location along Strait of Gibraltar",
+    "renewableWater": "29 cu km (2011)",
+    "terrain": "northern coast and interior are mountainous with large areas of bordering plateaus, intermontane valleys, and rich coastal plains"
+  },
+  "countryName": "Morocco",
+  "countryCode": "MO"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "Although sighted by Christopher COLUMBUS in 1493 and claimed for Spain, it was the Dutch who occupied the island in 1631 and set about exploiting its salt deposits. The Spanish retook the island in 1633, but continued to be harassed by the Dutch. The Spanish finally relinquished the island of Saint Martin to the French and Dutch, who divided it amongst themselves in 1648. The establishment of cotton, tobacco, and sugar plantations dramatically expanded African slavery on the island in the 18th and 19th centuries; the practice was not abolished in the Dutch half until 1863. The island's economy declined until 1939 when it became a free port; the tourism industry was dramatically expanded beginning in the 1950s. In 1954, Sint Maarten and several other Dutch Caribbean possessions became part of the Kingdom of the Netherlands as the Netherlands Antilles. In a 2000 referendum, the citizens of Sint Maarten voted to become a self-governing country within the Kingdom of the Netherlands. The change in status became effective in October of 2010 with the dissolution of the Netherlands Antilles.",
+  "geography": {
+    "area": {
+      "land": "34 sq km ",
+      "total": "34 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "one-fifth the size of Washington, DC",
+    "climate": "tropical marine climate, ameliorated by northeast trade winds, results in moderate temperatures; average rainfall of 1500 mm/year; hurricane season stretches from July to November",
+    "coastline": "364 km",
+    "elevationHighest": "Mount Flagstaff 386 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "18 4 N, 63 4 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "16 kmSaint Martin (France) 16 km ",
+    "landUse": {
+      "arable": "10%",
+      "crops": "0% ",
+      "other": "90% (2011) "
+    },
+    "location": "Caribbean, located in the Leeward Islands (northern) group; Dutch part of the island of Saint Martin in the Caribbean Sea; Sint Maarten lies east of the US Virgin Islands",
+    "naturalHazards": "subject to hurricanes from July to November",
+    "naturalResources": "fish, salt",
+    "notes": "the northern border is shared with the French overseas collectivity of Saint Martin; together, these two entities make up the smallest landmass in the world shared by two self-governing states",
+    "renewableWater": "",
+    "terrain": "low, hilly terrain, volcanic origin"
+  },
+  "countryName": "Sint Maarten",
+  "countryCode": "SK"
+}

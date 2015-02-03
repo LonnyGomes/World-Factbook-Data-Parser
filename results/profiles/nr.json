@@ -1,0 +1,42 @@
+{
+  "background": "The exact origins of the Nauruans are unclear since their language does not resemble any other in the Pacific region. Germany annexed the island in 1888. A German-British consortium began mining the island's phosphate deposits early in the 20th century. Australian forces occupied Nauru in World War I; it subsequently became a League of Nations mandate. After the Second World War - and a brutal occupation by Japan - Nauru became a UN trust territory. It achieved independence in 1968 and joined the UN in 1999 as the world's smallest independent republic.",
+  "geography": {
+    "area": {
+      "land": "21 sq km ",
+      "total": "21 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about 0.1 times the size of Washington, DC",
+    "climate": "tropical with a monsoonal pattern; rainy season (November to February)",
+    "coastline": "30 km",
+    "elevationHighest": "unnamed elevation along plateau rim 61 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "limited natural freshwater resources, roof storage tanks collect rainwater but mostly dependent on a single, aging desalination plant; intensive phosphate mining during the past 90 years - mainly by a UK, Australia, and NZ consortium - has left the central 90% of Nauru a wasteland and threatens limited remaining land resources",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "0 32 S, 166 55 E",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0%",
+      "crops": "20% ",
+      "other": "80% (2011) "
+    },
+    "location": "Oceania, island in the South Pacific Ocean, south of the Marshall Islands",
+    "naturalHazards": "periodic droughts",
+    "naturalResources": "phosphates, fish",
+    "notes": "world's smallest island country; situated just 53 km south of the Equator; Nauru is one of the three great phosphate rock islands in the Pacific Ocean - the others are Banaba (Ocean Island) in Kiribati and Makatea in French Polynesia",
+    "renewableWater": "",
+    "terrain": "sandy beach rises to fertile ring around raised coral reefs with phosphate plateau in center"
+  },
+  "countryName": "Nauru",
+  "countryCode": "NR"
+}

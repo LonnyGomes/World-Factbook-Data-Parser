@@ -1,0 +1,42 @@
+{
+  "background": "Celtic tribes arrived on the island between 600 and 150 B.C. Invasions by Norsemen that began in the late 8th century were finally ended when King Brian BORU defeated the Danes in 1014. Norman invasions began in the 12th century and set off more than seven centuries of Anglo-Irish struggle marked by fierce rebellions and harsh repressions. The Irish famine of the mid-19th century saw the population of the island drop by one third through starvation and emigration. For more than a century after that the population of the island continued to fall only to begin growing again in the 1960s. Over the last 50 years, Ireland's high birthrate has made it demographically one of the youngest populations in the EU. The modern Irish state traces its origins to the failed 1916 Easter Monday Uprising which touched off several years of guerrilla warfare resulting in independence from the UK in 1921 for 26 southern counties; six northern counties remained part of the UK. Unresolved issues in Northern Ireland erupted into years of violence known as the \"Troubles\" that began in the 1960s. The Government of Ireland was part of a process along with the UK and US Governments that helped broker what is known as The Good Friday Agreement in Northern Ireland in 1998. This initiated a new phase of cooperation between Irish and British governments. Ireland was neutral in World War II and continues its policy of military neutrality. Ireland joined the European Community in 1973 and the Eurozone currency union in 1999. The economic boom years of the Celtic Tiger (1995-2007) saw rapid economic growth, which came to an abrupt end in 2008 with the meltdown of the Irish banking system. Today the economy is recovering, fueled by large and growing foreign direct investment, especially from US multi-nationals.",
+  "geography": {
+    "area": {
+      "land": "68,883 sq km ",
+      "total": "70,273 sq km",
+      "water": "1,390 sq km "
+    },
+    "areaCompare": "slightly larger than West Virginia",
+    "climate": "temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time",
+    "coastline": "1,448 km",
+    "elevationHighest": "Carrauntoohil 1,041 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "water pollution, especially of lakes, from agricultural runoff",
+      "intlAgreements": {
+        "notRatified": "Air Pollution-Persistent Organic Pollutants, Marine Life Conservation ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 94, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "226.9  cu m/yr (2007) ",
+      "total": "0.79  cu km/yr (94%/6%/0%)"
+    },
+    "geoCoords": "53 00 N, 8 00 W",
+    "irrigatedLand": "11 sq km (2003)",
+    "landBoundaries": "443 kmUK 443 km ",
+    "landUse": {
+      "arable": "15.11%",
+      "crops": "0.01% ",
+      "other": "84.87% (2011) "
+    },
+    "location": "Western Europe, occupying five-sixths of the island of Ireland in the North Atlantic Ocean, west of Great Britain",
+    "naturalHazards": "NA",
+    "naturalResources": "natural gas, peat, copper, lead, zinc, silver, barite, gypsum, limestone, dolomite",
+    "notes": "strategic location on major air and sea routes between North America and northern Europe; over 40% of the population resides within 100 km of Dublin",
+    "renewableWater": "52 cu km (2011)",
+    "terrain": "mostly level to rolling interior plain surrounded by rugged hills and low mountains; sea cliffs on west coast"
+  },
+  "countryName": "Ireland",
+  "countryCode": "EI"
+}

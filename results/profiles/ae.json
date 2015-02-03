@@ -1,0 +1,42 @@
+{
+  "background": "The Trucial States of the Persian Gulf coast granted the UK control of their defense and foreign affairs in 19th century treaties. In 1971, six of these states - Abu Dhabi, 'Ajman, Al Fujayrah, Ash Shariqah, Dubayy, and Umm al Qaywayn - merged to form the United Arab Emirates (UAE). They were joined in 1972 by Ra's al Khaymah. The UAE's per capita GDP is on par with those of leading West European nations. Its high oil revenues and its moderate foreign policy stance have allowed the UAE to play a vital role in the affairs of the region. For more than three decades, oil and global finance drove the UAE's economy. However, in 2008-09, the confluence of falling oil prices, collapsing real estate prices, and the international banking crisis hit the UAE especially hard. The UAE has essentially avoided the \"Arab Spring\" unrest seen elsewhere in the Middle East, though in March 2011, political activists and intellectuals signed a petition calling for greater public participation in governance that was widely circulated on the Internet. In an effort to stem potential further unrest, the government announced a multi-year, $1.6-billion infrastructure investment plan for the poorer northern emirates and aggressively pursued advocates of political reform.",
+  "geography": {
+    "area": {
+      "land": "83,600 sq km ",
+      "total": "83,600 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly smaller than Maine",
+    "climate": "desert; cooler in eastern mountains",
+    "coastline": "1,318 km",
+    "elevationHighest": "Jabal Yibir 1,527 m ",
+    "elevationLowest": "Persian Gulf 0 m",
+    "environment": {
+      "currIssues": "lack of natural freshwater resources compensated by desalination plants; desertification; beach pollution from oil spills",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping, Ozone Layer Protection"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "739.5  cu m/yr (2005) ",
+      "total": "3.99  cu km/yr (15%/2%/83%)"
+    },
+    "geoCoords": "24 00 N, 54 00 E",
+    "irrigatedLand": "920 sq km (2010)",
+    "landBoundaries": "1,066 kmOman 609 km, Saudi Arabia 457 km ",
+    "landUse": {
+      "arable": "0.61%",
+      "crops": "0.5% ",
+      "other": "98.9% (2011) "
+    },
+    "location": "Middle East, bordering the Gulf of Oman and the Persian Gulf, between Oman and Saudi Arabia",
+    "naturalHazards": "frequent sand and dust storms",
+    "naturalResources": "petroleum, natural gas",
+    "notes": "strategic location along southern approaches to Strait of Hormuz, a vital transit point for world crude oil",
+    "renewableWater": "0.15 cu km (2011)",
+    "terrain": "flat, barren coastal plain merging into rolling sand dunes of vast desert wasteland; mountains in east"
+  },
+  "countryName": "United Arab Emirates",
+  "countryCode": "AE"
+}

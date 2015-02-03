@@ -1,0 +1,42 @@
+{
+  "background": "The Portuguese began to trade with the island of Timor in the early 16th century and colonized it in mid-century. Skirmishing with the Dutch in the region eventually resulted in an 1859 treaty in which Portugal ceded the western portion of the island. Imperial Japan occupied Portuguese Timor from 1942 to 1945, but Portugal resumed colonial authority after the Japanese defeat in World War II. East Timor declared itself independent from Portugal on 28 November 1975 and was invaded and occupied by Indonesian forces nine days later. It was incorporated into Indonesia in July 1976 as the province of Timor Timur (East Timor). An unsuccessful campaign of pacification followed over the next two decades, during which an estimated 100,000 to 250,000 individuals lost their lives. On 30 August 1999, in a UN-supervised popular referendum, an overwhelming majority of the people of Timor-Leste voted for independence from Indonesia. However, in the next three weeks, anti-independence Timorese militias - organized and supported by the Indonesian military - commenced a large-scale, scorched-earth campaign of retribution. The militias killed approximately 1,400 Timorese and forcibly pushed 300,000 people into western Timor as refugees. Most of the country's infrastructure, including homes, irrigation systems, water supply systems, and schools, and nearly 100% of the country's electrical grid were destroyed. On 20 September 1999, Australian-led peacekeeping troops deployed to the country and brought the violence to an end. On 20 May 2002, Timor-Leste was internationally recognized as an independent state. In 2006, internal tensions threatened the new nation's security when a military strike led to violence and a breakdown of law and order. At Dili's request, an Australian-led International Stabilization Force (ISF) deployed to Timor-Leste, and the UN Security Council established the UN Integrated Mission in Timor-Leste (UNMIT), which included an authorized police presence of over 1,600 personnel. The ISF and UNMIT restored stability, allowing for presidential and parliamentary elections in 2007 in a largely peaceful atmosphere. In February 2008, a rebel group staged an unsuccessful attack against the president and prime minister. The ringleader was killed in the attack, and most of the rebels surrendered in April 2008. Since the attack, the government has enjoyed one of its longest periods of post-independence stability, including successful 2012 elections for both the parliament and president. In late 2012, the UN Security Council voted to end its peacekeeping mission in Timor-Leste and both the ISF and UNMIT departed the country by the end of the year.",
+  "geography": {
+    "area": {
+      "land": "14,874 sq km ",
+      "total": "14,874 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly larger than Connecticut",
+    "climate": "tropical; hot, humid; distinct rainy and dry seasons",
+    "coastline": "706 km",
+    "elevationHighest": "Foho Tatamailau 2,963 m ",
+    "elevationLowest": "Timor Sea, Savu Sea, and Banda Sea 0 m",
+    "environment": {
+      "currIssues": "widespread use of slash and burn agriculture has led to deforestation and soil erosion",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "8 50 S, 125 55 E",
+    "irrigatedLand": "346.5 sq km (2003)",
+    "landBoundaries": "228 kmIndonesia 228 km ",
+    "landUse": {
+      "arable": "10.09%",
+      "crops": "4.03% ",
+      "other": "85.88% (2011) "
+    },
+    "location": "Southeastern Asia, northwest of Australia in the Lesser Sunda Islands at the eastern end of the Indonesian archipelago; note - Timor-Leste includes the eastern half of the island of Timor, the Oecussi (Ambeno) region on the northwest portion of the island of Timor, and the islands of Pulau Atauro and Pulau Jaco",
+    "naturalHazards": "floods and landslides are common; earthquakes; tsunamis; tropical cyclones",
+    "naturalResources": "gold, petroleum, natural gas, manganese, marble",
+    "notes": "Timor comes from the Malay word for \"East\"; the island of Timor is part of the Malay Archipelago and is the largest and easternmost of the Lesser Sunda Islands",
+    "renewableWater": "",
+    "terrain": "mountainous"
+  },
+  "countryName": "Timor-Leste",
+  "countryCode": "TT"
+}

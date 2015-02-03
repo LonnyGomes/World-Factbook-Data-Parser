@@ -1,0 +1,42 @@
+{
+  "background": "British influence and control over what would become Nigeria and Africa's most populous country grew through the 19th century. A series of constitutions after World War II granted Nigeria greater autonomy; independence came in 1960. Following nearly 16 years of military rule, a new constitution was adopted in 1999, and a peaceful transition to civilian government was completed. The government continues to face the daunting task of reforming a petroleum-based economy, whose revenues have been squandered through corruption and mismanagement, and institutionalizing democracy. In addition, Nigeria continues to experience longstanding ethnic and religious tensions. Although both the 2003 and 2007 presidential elections were marred by significant irregularities and violence, Nigeria is currently experiencing its longest period of civilian rule since independence. The general elections of April 2007 marked the first civilian-to-civilian transfer of power in the country's history and the elections of 2011 were generally regarded as credible. In January 2014, Nigeria assumed a nonpermanent seat on the UN Security Council for the 2014-15 term.",
+  "geography": {
+    "area": {
+      "land": "910,768 sq km ",
+      "total": "923,768 sq km",
+      "water": "13,000 sq km "
+    },
+    "areaCompare": "slightly more than twice the size of California",
+    "climate": "varies; equatorial in south, tropical in center, arid in north",
+    "coastline": "853 km",
+    "elevationHighest": "Chappal Waddi 2,419 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "soil degradation; rapid deforestation; urban air and water pollution; desertification; oil pollution - water, air, and soil; has suffered serious damage from oil spills; loss of arable land; rapid urbanization",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "89.21  cu m/yr (2005) ",
+      "total": "13.11  cu km/yr (31%/15%/54%)"
+    },
+    "geoCoords": "10 00 N, 8 00 E",
+    "irrigatedLand": "2,932 sq km (2004)",
+    "landBoundaries": "4,047 kmBenin 773 km, Cameroon 1,690 km, Chad 87 km, Niger 1,497 km ",
+    "landUse": {
+      "arable": "38.97%",
+      "crops": "3.46% ",
+      "other": "57.57% (2011) "
+    },
+    "location": "Western Africa, bordering the Gulf of Guinea, between Benin and Cameroon",
+    "naturalHazards": "periodic droughts; flooding",
+    "naturalResources": "natural gas, petroleum, tin, iron ore, coal, limestone, niobium, lead, zinc, arable land",
+    "notes": "the Niger enters the country in the northwest and flows southward through tropical rain forests and swamps to its delta in the Gulf of Guinea",
+    "renewableWater": "286.2 cu km (2011)",
+    "terrain": "southern lowlands merge into central hills and plateaus; mountains in southeast, plains in north"
+  },
+  "countryName": "Nigeria",
+  "countryCode": "NI"
+}

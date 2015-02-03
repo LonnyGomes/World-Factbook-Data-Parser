@@ -1,0 +1,42 @@
+{
+  "background": "Angola is still rebuilding its country since the end of a 27-year civil war in 2002. Fighting between the Popular Movement for the Liberation of Angola (MPLA), led by Jose Eduardo DOS SANTOS, and the National Union for the Total Independence of Angola (UNITA), led by Jonas SAVIMBI, followed independence from Portugal in 1975. Peace seemed imminent in 1992 when Angola held national elections, but fighting picked up again in 1993. Up to 1.5 million lives may have been lost - and 4 million people displaced - during the more than a quarter century of fighting. SAVIMBI's death in 2002 ended UNITA's insurgency and cemented the MPLA's hold on power. President DOS SANTOS pushed through a new constitution in 2010; elections held in 2012 saw him installed as president.",
+  "geography": {
+    "area": {
+      "land": "1,246,700 sq km ",
+      "total": "1,246,700 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly less than twice the size of Texas",
+    "climate": "semiarid in south and along coast to Luanda; north has cool, dry season (May to October) and hot, rainy season (November to April)",
+    "coastline": "1,600 km",
+    "elevationHighest": "Morro de Moco 2,620 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "overuse of pastures and subsequent soil erosion attributable to population pressures; desertification; deforestation of tropical rain forest, in response to both international demand for tropical timber and to domestic use as fuel, resulting in loss of biodiversity; soil erosion contributing to water pollution and siltation of rivers and dams; inadequate supplies of potable water",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "40.27  cu m/yr (2005) ",
+      "total": "0.71  cu km/yr (45%/34%/21%)"
+    },
+    "geoCoords": "12 30 S, 18 30 E",
+    "irrigatedLand": "855.3 sq km (2005)",
+    "landBoundaries": "5,369 kmDemocratic Republic of the Congo 2,646 km (of which 225 km is the boundary of discontiguous Cabinda Province), Republic of the Congo 231 km, Namibia 1,427 km, Zambia 1,065 km ",
+    "landUse": {
+      "arable": "3.29%",
+      "crops": "0.23% ",
+      "other": "96.48% (2011) "
+    },
+    "location": "Southern Africa, bordering the South Atlantic Ocean, between Namibia and Democratic Republic of the Congo",
+    "naturalHazards": "locally heavy rainfall causes periodic flooding on the plateau",
+    "naturalResources": "petroleum, diamonds, iron ore, phosphates, copper, feldspar, gold, bauxite, uranium",
+    "notes": "the province of Cabinda is an exclave, separated from the rest of the country by the Democratic Republic of the Congo",
+    "renewableWater": "148 cu km (2011)",
+    "terrain": "narrow coastal plain rises abruptly to vast interior plateau"
+  },
+  "countryName": "Angola",
+  "countryCode": "AO"
+}

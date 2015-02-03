@@ -1,0 +1,42 @@
+{
+  "background": "Greece achieved independence from the Ottoman Empire in 1830. During the second half of the 19th century and the first half of the 20th century, it gradually added neighboring islands and territories, most with Greek-speaking populations. In World War II, Greece was first invaded by Italy (1940) and subsequently occupied by Germany (1941-44); fighting endured in a protracted civil war between supporters of the king and other anti-communist and communist rebels. Following the latter's defeat in 1949, Greece joined NATO in 1952. In 1967, a group of military officers seized power, establishing a military dictatorship that suspended many political liberties and forced the king to flee the country. In 1974, democratic elections and a referendum created a parliamentary republic and abolished the monarchy. In 1981, Greece joined the EC (now the EU); it became the 12th member of the European Economic and Monetary Union in 2001. In 2010, the prospect of a Greek default on its euro-denominated debt created severe strains within the EMU and raised the question of whether a member country might voluntarily leave the common currency or be removed.",
+  "geography": {
+    "area": {
+      "land": "130,647 sq km ",
+      "total": "131,957 sq km",
+      "water": "1,310 sq km "
+    },
+    "areaCompare": "",
+    "climate": "temperate; mild, wet winters; hot, dry summers",
+    "coastline": "13,676 km",
+    "elevationHighest": "Mount Olympus 2,917 m ",
+    "elevationLowest": "Mediterranean Sea 0 m",
+    "environment": {
+      "currIssues": "air pollution; water pollution",
+      "intlAgreements": {
+        "notRatified": "Air Pollution-Persistent Organic Pollutants, Air Pollution-Volatile Organic Compounds ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Sulfur 94, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "841.4  cu m/yr (2007) ",
+      "total": "9.47  cu km/yr (9%/2%/89%)"
+    },
+    "geoCoords": "39 00 N, 22 00 E",
+    "irrigatedLand": "15,550 sq km (2007)",
+    "landBoundaries": "1,110 kmAlbania 212 km, Bulgaria 472 km, Macedonia 234 km, Turkey 192 km ",
+    "landUse": {
+      "arable": "18.95%",
+      "crops": "8.73% ",
+      "other": "72.32% (2011) "
+    },
+    "location": "Southern Europe, bordering the Aegean Sea, Ionian Sea, and the Mediterranean Sea, between Albania and Turkey",
+    "naturalHazards": "severe earthquakesSantorini (elev. 367 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; although there have been very few eruptions in recent centuries, Methana and Nisyros in the Aegean are classified as historically active ",
+    "naturalResources": "lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential",
+    "notes": "strategic location dominating the Aegean Sea and southern approach to Turkish Straits; a peninsular country, possessing an archipelago of about 2,000 islands",
+    "renewableWater": "74.25 cu km (2011)",
+    "terrain": "mostly mountains with ranges extending into the sea as peninsulas or chains of islands"
+  },
+  "countryName": "Greece",
+  "countryCode": "GR"
+}

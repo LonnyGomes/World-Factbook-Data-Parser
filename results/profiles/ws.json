@@ -1,0 +1,42 @@
+{
+  "background": "New Zealand occupied the German protectorate of Western Samoa at the outbreak of World War I in 1914. It continued to administer the islands as a mandate and then as a trust territory until 1962, when the islands became the first Polynesian nation to reestablish independence in the 20th century. The country dropped the \"Western\" from its name in 1997.",
+  "geography": {
+    "area": {
+      "land": "2,821 sq km ",
+      "total": "2,831 sq km",
+      "water": "10 sq km "
+    },
+    "areaCompare": "slightly smaller than Rhode Island",
+    "climate": "tropical; rainy season (November to April), dry season (May to October)",
+    "coastline": "403 km",
+    "elevationHighest": "Mount Silisili 1,857 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "soil erosion, deforestation, invasive species, overfishing",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "13 35 S, 172 20 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "2.82%",
+      "crops": "7.75% ",
+      "other": "89.44% (2011) "
+    },
+    "location": "Oceania, group of islands in the South Pacific Ocean, about half way between Hawaii and New Zealand",
+    "naturalHazards": "occasional typhoons; active volcanismSavai'I Island (elev. 1,858 m), which last erupted in 1911, is historically active ",
+    "naturalResources": "hardwood forests, fish, hydropower",
+    "notes": "occupies an almost central position within Polynesia",
+    "renewableWater": "",
+    "terrain": "two main islands (Savaii, Upolu) and several smaller islands and uninhabited islets; narrow coastal plain with volcanic, rocky, rugged mountains in interior"
+  },
+  "countryName": "Samoa",
+  "countryCode": "WS"
+}

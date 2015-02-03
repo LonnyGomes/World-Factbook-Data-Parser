@@ -1,0 +1,42 @@
+{
+  "background": "The region of present day Georgia contained the ancient kingdoms of Colchis and Kartli-Iberia. The area came under Roman influence in the first centuries A.D., and Christianity became the state religion in the 330s. Domination by Persians, Arabs, and Turks was followed by a Georgian golden age (11th-13th centuries) that was cut short by the Mongol invasion of 1236. Subsequently, the Ottoman and Persian empires competed for influence in the region. Georgia was absorbed into the Russian Empire in the 19th century. Independent for three years (1918-1921) following the Russian revolution, it was forcibly incorporated into the USSR in 1921 and regained its independence when the Soviet Union dissolved in 1991. Mounting public discontent over rampant corruption and ineffective government services, followed by an attempt by the incumbent Georgian Government to manipulate national legislative elections in November 2003 touched off widespread protests that led to the resignation of Eduard SHEVARDNADZE, president since 1995. In the aftermath of that popular movement, which became known as the \"Rose Revolution,\" new elections in early 2004 swept Mikheil SAAKASHVILI into power along with his United National Movement (UNM) party. Progress on market reforms and democratization has been made in the years since independence, but this progress has been complicated by Russian assistance and support to the separatist regions of Abkhazia and South Ossetia. Periodic flare-ups in tension and violence culminated in a five-day conflict in August 2008 between Russia and Georgia, including the invasion of large portions of undisputed Georgian territory. Russian troops pledged to pull back from most occupied Georgian territory, but in late August 2008 Russia unilaterally recognized the independence of Abkhazia and South Ossetia, and Russian military forces remain in those regions. Billionaire philanthropist Bidzina IVANISHVILI's unexpected entry into politics in October 2011 brought the divided opposition together under his Georgian Dream coalition, which won a majority of seats in the October 2012 parliamentary election and removed UNM from power. Conceding defeat, SAAKASHVILI named IVANISHVILI as prime minister and allowed Georgian Dream to create a new government. Georgian Dream's Giorgi MARGVELASHVILI was inaugurated as president on 17 November 2013, ending a tense year of power-sharing between SAAKASHVILI and IVANISHVILI. IVANISHVILI voluntarily resigned from office after the presidential succession, and Georgia's legislature on 20 November 2013 confirmed Irakli GARIBASHVILI as his replacement. Georgia's recent elections represent unique examples of a former Soviet state that emerged to conduct democratic and peaceful government transitions of power. Popular and government support for integration with the West is high in Georgia. Joining the EU and NATO are among the country's top foreign policy goals.",
+  "geography": {
+    "area": {
+      "land": "69,700 sq km ",
+      "total": "69,700 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly smaller than South Carolina",
+    "climate": "warm and pleasant; Mediterranean-like on Black Sea coast",
+    "coastline": "310 km",
+    "elevationHighest": "Mt'a Shkhara 5,201 m ",
+    "elevationLowest": "Black Sea 0 m",
+    "environment": {
+      "currIssues": "air pollution, particularly in Rust'avi; heavy pollution of Mtkvari River and the Black Sea; inadequate supplies of potable water; soil pollution from toxic chemicals",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "410.6  cu m/yr (2005) ",
+      "total": "1.81  cu km/yr (20%/22%/58%)"
+    },
+    "geoCoords": "42 00 N, 43 30 E",
+    "irrigatedLand": "4,328 sq km (2007)",
+    "landBoundaries": "1,814 kmArmenia 219 km, Azerbaijan 428 km, Russia 894 km, Turkey 273 km ",
+    "landUse": {
+      "arable": "5.94%",
+      "crops": "1.65% ",
+      "other": "92.41% (2011) "
+    },
+    "location": "Southwestern Asia, bordering the Black Sea, between Turkey and Russia, with a sliver of land north of the Caucasus extending into Europe; note - Georgia views itself as part of Europe",
+    "naturalHazards": "earthquakes",
+    "naturalResources": "timber, hydropower, manganese deposits, iron ore, copper, minor coal and oil deposits; coastal climate and soils allow for important tea and citrus growth",
+    "notes": "strategically located east of the Black Sea; Georgia controls much of the Caucasus Mountains and the routes through them",
+    "renewableWater": "63.33 cu km (2011)",
+    "terrain": "largely mountainous with Great Caucasus Mountains in the north and Lesser Caucasus Mountains in the south; Kolkhet'is Dablobi (Kolkhida Lowland) opens to the Black Sea in the west; Mtkvari River Basin in the east; good soils in river valley flood plains, foothills of Kolkhida Lowland"
+  },
+  "countryName": "Georgia",
+  "countryCode": "GG"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "In 1865, Britain and Bhutan signed the Treaty of Sinchulu, under which Bhutan would receive an annual subsidy in exchange for ceding some border land to British India. Under British influence, a monarchy was set up in 1907; three years later, a treaty was signed whereby the British agreed not to interfere in Bhutanese internal affairs, and Bhutan allowed Britain to direct its foreign affairs. This role was assumed by independent India after 1947. Two years later, a formal Indo-Bhutanese accord returned to Bhutan the areas annexed by the British, formalized the annual subsidies the country received, and defined India's responsibilities in defense and foreign relations. In March 2005, King Jigme Singye WANGCHUCK unveiled the government's draft constitution - which introduced major democratic reforms - and pledged to hold a national referendum for its approval. In December 2006, the King abdicated the throne in favor of his son, Jigme Khesar Namgyel WANGCHUCK, in order to give him experience as head of state before the democratic transition. In early 2007, India and Bhutan renegotiated their treaty, eliminating the clause that stated that Bhutan would be \"guided by\" India in conducting its foreign policy, although Thimphu continues to coordinate closely with New Delhi. Elections for seating the country's first parliament were completed in March 2008; the king ratified the country's first constitution in July 2008. Bhutan experienced a peaceful turnover of power following parliamentary elections in 2013, which routed the incumbent party. The disposition of some 30,000 Bhutanese refugees - housed in two UN refugee camps in Nepal - remains unresolved.",
+  "geography": {
+    "area": {
+      "land": "38,394 sq km ",
+      "total": "38,394 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about one-half the size of Indiana",
+    "climate": "varies; tropical in southern plains; cool winters and hot summers in central valleys; severe winters and cool summers in Himalayas",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Gangkar Puensum 7,570 m ",
+    "elevationLowest": "Drangeme Chhu 97 m",
+    "environment": {
+      "currIssues": "soil erosion; limited access to potable water",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "458  cu m/yr (2008) ",
+      "total": "0.34  cu km/yr (5%/1%/94%)"
+    },
+    "geoCoords": "27 30 N, 90 30 E",
+    "irrigatedLand": "319.1 sq km (2010)",
+    "landBoundaries": "1,136 kmChina 477 km, India 659 km ",
+    "landUse": {
+      "arable": "2.49%",
+      "crops": "0.46% ",
+      "other": "97.06% (2011) "
+    },
+    "location": "Southern Asia, between China and India",
+    "naturalHazards": "violent storms from the Himalayas are the source of the country's name, which translates as Land of the Thunder Dragon; frequent landslides during the rainy season",
+    "naturalResources": "timber, hydropower, gypsum, calcium carbonate",
+    "notes": "landlocked; strategic location between China and India; controls several key Himalayan mountain passes",
+    "renewableWater": "78 cu km (2011)",
+    "terrain": "mostly mountainous with some fertile valleys and savanna"
+  },
+  "countryName": "Bhutan",
+  "countryCode": "BT"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "This desolate, arctic, mountainous island was named after a Dutch whaling captain who indisputably discovered it in 1614 (earlier claims are inconclusive). Visited only occasionally by seal hunters and trappers over the following centuries, the island came under Norwegian sovereignty in 1929. The long dormant Beerenberg volcano, the northernmost active volcano on earth, resumed activity in 1970 and the most recent eruption occurred in 1985.",
+  "geography": {
+    "area": {
+      "land": "377 sq km ",
+      "total": "377 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly more than twice the size of Washington, DC",
+    "climate": "arctic maritime with frequent storms and persistent fog",
+    "coastline": "124.1 km",
+    "elevationHighest": "Haakon VII Toppen on Beerenberg 2,277 m ",
+    "elevationLowest": "Norwegian Sea 0 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "71 00 N, 8 00 W",
+    "irrigatedLand": "0 sq km (2011)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0%",
+      "crops": "0% ",
+      "other": "100% (2011) "
+    },
+    "location": "Northern Europe, island between the Greenland Sea and the Norwegian Sea, northeast of Iceland",
+    "naturalHazards": "dominated by the volcano BeerenbergBeerenberg (elev. 2,227 m) is Norway's only active volcano; volcanic activity resumed in 1970; the most recent eruption occurred in 1985 ",
+    "naturalResources": "none",
+    "notes": "barren volcanic island with some moss and grass",
+    "renewableWater": "",
+    "terrain": "volcanic island, partly covered by glaciers"
+  },
+  "countryName": "Jan Mayen",
+  "countryCode": "JN"
+}

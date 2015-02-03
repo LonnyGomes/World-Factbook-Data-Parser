@@ -1,0 +1,42 @@
+{
+  "background": "Fiji became independent in 1970 after nearly a century as a British colony. Democratic rule was interrupted by two military coups in 1987 caused by concern over a government perceived as dominated by the Indian community (descendants of contract laborers brought to the islands by the British in the 19th century). The coups and a 1990 constitution that cemented native Melanesian control of Fiji led to heavy Indian emigration; the population loss resulted in economic difficulties, but ensured that Melanesians became the majority. A new constitution enacted in 1997 was more equitable. Free and peaceful elections in 1999 resulted in a government led by an Indo-Fijian, but a civilian-led coup in May 2000 ushered in a prolonged period of political turmoil. Parliamentary elections held in August 2001 provided Fiji with a democratically elected government led by Prime Minister Laisenia QARASE. Re-elected in May 2006, QARASE was ousted in a December 2006 military coup led by Commodore Voreqe BAINIMARAMA, who initially appointed himself acting president but in January 2007 became interim prime minister. Since taking power BAINIMARAMA has neutralized his opponents, crippled Fiji's democratic institutions, and initially refused to hold elections. In 2012, he promised to hold elections in 2014.",
+  "geography": {
+    "area": {
+      "land": "18,274 sq km ",
+      "total": "18,274 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly smaller than New Jersey",
+    "climate": "tropical marine; only slight seasonal temperature variation",
+    "coastline": "1,129 km",
+    "elevationHighest": "Tomanivi 1,324 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; soil erosion",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "100.1  cu m/yr (2005) ",
+      "total": "0.08  cu km/yr (30%/11%/59%)"
+    },
+    "geoCoords": "18 00 S, 175 00 E",
+    "irrigatedLand": "30 sq km (2003)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "9.17%",
+      "crops": "4.65% ",
+      "other": "86.17% (2011) "
+    },
+    "location": "Oceania, island group in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand",
+    "naturalHazards": "cyclonic storms can occur from November to January",
+    "naturalResources": "timber, fish, gold, copper, offshore oil potential, hydropower",
+    "notes": "includes 332 islands; approximately 110 are inhabited",
+    "renewableWater": "28.55 cu km (2011)",
+    "terrain": "mostly mountains of volcanic origin"
+  },
+  "countryName": "Fiji",
+  "countryCode": "FJ"
+}

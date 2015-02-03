@@ -1,0 +1,42 @@
+{
+  "background": "Following World War II, the British withdrew from their mandate of Palestine, and the UN proposed partitioning the area into Arab and Jewish states, an arrangement rejected by the Arabs. Nonetheless, an Israeli state was declared in 1948 and the Israelis subsequently defeated the Arabs in a series of wars without ending the deep tensions between the two sides. (The territories Israel occupied since the 1967 war are not included in the Israel country profile, unless otherwise noted.) On 25 April 1982, Israel withdrew from the Sinai pursuant to the 1979 Israel-Egypt Peace Treaty. In keeping with the framework established at the Madrid Conference in October 1991, bilateral negotiations were conducted between Israel and Palestinian representatives and Syria to achieve a permanent settlement. Israel and Palestinian officials signed on 13 September 1993 a Declaration of Principles (also known as the \"Oslo Accords\"), enshrining the idea of a two-state solution to their conflict and guiding an interim period of Palestinian self-rule. Outstanding territorial and other disputes with Jordan were resolved in the 26 October 1994 Israel-Jordan Treaty of Peace. Progress toward a permanent status agreement with the Palestinians was undermined by Israeli-Palestinian violence between 2001 and February 2005. Israel in 2005 unilaterally disengaged from the Gaza Strip, evacuating settlers and its military while retaining control over most points of entry into the Gaza Strip. The election of HAMAS to head the Palestinian Legislative Council in 2006 froze relations between Israel and the Palestinian Authority (PA). In 2006 Israel engaged in a 34-day conflict with Hizballah in Lebanon in June-August 2006 and a 23-day conflict with HAMAS in the Gaza Strip during December 2008 and January 2009. Direct talks with the Palestinians launched in September 2010 collapsed following the expiration of Israel's 10-month partial settlement construction moratorium in the West Bank. In November 2012, Israel engaged in a seven-day conflict with HAMAS in the Gaza Strip. Prime Minister Binyamin NETANYAHU formed a coalition government in March 2013 following general elections in January 2013. Direct talks with the Palestinians resumed in July 2013 and but were suspended in late April 2014.",
+  "geography": {
+    "area": {
+      "land": "20,330 sq km ",
+      "total": "20,770 sq km",
+      "water": "440 sq km "
+    },
+    "areaCompare": "",
+    "climate": "temperate; hot and dry in southern and eastern desert areas",
+    "coastline": "273 km",
+    "elevationHighest": "Har Meron 1,208 m ",
+    "elevationLowest": "Dead Sea -408 m",
+    "environment": {
+      "currIssues": "limited arable land and natural freshwater resources pose serious constraints; desertification; air pollution from industrial and vehicle emissions; groundwater pollution from industrial and domestic waste, chemical fertilizers, and pesticides",
+      "intlAgreements": {
+        "notRatified": "Marine Life Conservation ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "282.4  cu m/yr (2009) ",
+      "total": "1.95  cu km/yr (39%/6%/55%)"
+    },
+    "geoCoords": "31 30 N, 34 45 E",
+    "irrigatedLand": "2,250 sq km (2004)",
+    "landBoundaries": "1,068 kmEgypt 208 km, Gaza Strip 59 km, Jordan 307 km, Lebanon 81 km, Syria 83 km, West Bank 330 km ",
+    "landUse": {
+      "arable": "13.68%",
+      "crops": "3.69% ",
+      "other": "82.62% (2011) "
+    },
+    "location": "Middle East, bordering the Mediterranean Sea, between Egypt and Lebanon",
+    "naturalHazards": "sandstorms may occur during spring and summer; droughts; periodic earthquakes",
+    "naturalResources": "timber, potash, copper ore, natural gas, phosphate rock, magnesium bromide, clays, sand",
+    "notes": "Lake Tiberias (Sea of Galilee) is an important freshwater source; the Dead Sea is the second saltiest body of water in the world (after Lake Assal in Djibouti); there are about 355 Israeli civilian sites including about 145 small outpost communities in the West Bank, 41 sites in the Golan Heights, and 32 in East Jerusalem (2010 est.)",
+    "renewableWater": "1.78 cu km (2011)",
+    "terrain": "Negev desert in the south; low coastal plain; central mountains; Jordan Rift Valley"
+  },
+  "countryName": "Israel",
+  "countryCode": "IS"
+}

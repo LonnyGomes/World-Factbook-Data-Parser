@@ -1,0 +1,42 @@
+{
+  "background": "Resistance by native Caribs prevented colonization on Saint Vincent until 1719. Disputed between France and the United Kingdom for most of the 18th century, the island was ceded to the latter in 1783. Between 1960 and 1962, Saint Vincent and the Grenadines was a separate administrative unit of the Federation of the West Indies. Autonomy was granted in 1969 and independence in 1979.",
+  "geography": {
+    "area": {
+      "land": "389 sq km ",
+      "total": "389 sq km (Saint Vincent 344 sq km)",
+      "water": "0 sq km "
+    },
+    "areaCompare": "twice the size of Washington, DC",
+    "climate": "tropical; little seasonal temperature variation; rainy season (May to November)",
+    "coastline": "84 km",
+    "elevationHighest": "La Soufriere 1,234 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "pollution of coastal waters and shorelines from discharges by pleasure yachts and other effluents; in some areas, pollution is severe enough to make swimming prohibitive",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "92.59  cu m/yr (1995) ",
+      "total": "0.01  cu km/yr (NA)"
+    },
+    "geoCoords": "13 15 N, 61 12 W",
+    "irrigatedLand": "10 sq km (2003)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "12.82%",
+      "crops": "7.69% ",
+      "other": "79.49% (2011) "
+    },
+    "location": "Caribbean, islands between the Caribbean Sea and North Atlantic Ocean, north of Trinidad and Tobago",
+    "naturalHazards": "hurricanes; Soufriere volcano on the island of Saint Vincent is a constant threat",
+    "naturalResources": "hydropower, cropland",
+    "notes": "the administration of the islands of the Grenadines group is divided between Saint Vincent and the Grenadines and Grenada; Saint Vincent and the Grenadines is comprised of 32 islands and cays",
+    "renewableWater": "",
+    "terrain": "volcanic, mountainous"
+  },
+  "countryName": "Saint Vincent and the Grenadines",
+  "countryCode": "VC"
+}

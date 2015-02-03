@@ -1,0 +1,42 @@
+{
+  "background": "The principalities of Wallachia and Moldavia - for centuries under the suzerainty of the Turkish Ottoman Empire - secured their autonomy in 1856; they were de facto linked in 1859 and formally united in 1862 under the new name of Romania. The country gained recognition of its independence in 1878. It joined the Allied Powers in World War I and acquired new territories - most notably Transylvania - following the conflict. In 1940, Romania allied with the Axis powers and participated in the 1941 German invasion of the USSR. Three years later, overrun by the Soviets, Romania signed an armistice. The post-war Soviet occupation led to the formation of a communist \"people's republic\" in 1947 and the abdication of the king. The decades-long rule of dictator Nicolae CEAUSESCU, who took power in 1965, and his Securitate police state became increasingly oppressive and draconian through the 1980s. CEAUSESCU was overthrown and executed in late 1989. Former communists dominated the government until 1996 when they were swept from power. Romania joined NATO in 2004 and the EU in 2007.",
+  "geography": {
+    "area": {
+      "land": "229,891 sq km ",
+      "total": "238,391 sq km",
+      "water": "8,500 sq km "
+    },
+    "areaCompare": "slightly smaller than Oregon",
+    "climate": "temperate; cold, cloudy winters with frequent snow and fog; sunny summers with frequent showers and thunderstorms",
+    "coastline": "225 km",
+    "elevationHighest": "Moldoveanu 2,544 m ",
+    "elevationLowest": "Black Sea 0 m",
+    "environment": {
+      "currIssues": "soil erosion and degradation; water pollution; air pollution in south from industrial effluents; contamination of Danube delta wetlands",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Persistent Organic Pollutants, Antarctic-Environmental Protocol, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "320.8  cu m/yr (2009) ",
+      "total": "6.88  cu km/yr (22%/61%/17%)"
+    },
+    "geoCoords": "46 00 N, 25 00 E",
+    "irrigatedLand": "6,153 sq km (2007)",
+    "landBoundaries": "2,508 kmBulgaria 608 km, Hungary 443 km, Moldova 450 km, Serbia 476 km, Ukraine (north) 362 km, Ukraine (east) 169 km ",
+    "landUse": {
+      "arable": "37.73%",
+      "crops": "1.86% ",
+      "other": "60.41% (2011) "
+    },
+    "location": "Southeastern Europe, bordering the Black Sea, between Bulgaria and Ukraine",
+    "naturalHazards": "earthquakes, most severe in south and southwest; geologic structure and climate promote landslides",
+    "naturalResources": "petroleum (reserves declining), timber, natural gas, coal, iron ore, salt, arable land, hydropower",
+    "notes": "controls most easily traversable land route between the Balkans, Moldova, and Ukraine",
+    "renewableWater": "211.9 cu km (2011)",
+    "terrain": "central Transylvanian Basin is separated from the Moldavian Plateau on the east by the Eastern Carpathian Mountains and separated from the Walachian Plain on the south by the Transylvanian Alps"
+  },
+  "countryName": "Romania",
+  "countryCode": "RO"
+}

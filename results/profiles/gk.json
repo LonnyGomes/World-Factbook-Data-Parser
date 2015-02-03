@@ -1,0 +1,42 @@
+{
+  "background": "Guernsey and the other Channel Islands represent the last remnants of the medieval Dukedom of Normandy, which held sway in both France and England. The islands were the only British soil occupied by German troops in World War II. Guernsey is a British crown dependency but is not part of the UK or of the European Union. However, the UK Government is constitutionally responsible for its defense and international representation.",
+  "geography": {
+    "area": {
+      "land": "78 sq km ",
+      "total": "78 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about one-half the size of Washington, DC",
+    "climate": "temperate with mild winters and cool summers; about 50% of days are overcast",
+    "coastline": "50 km",
+    "elevationHighest": "unnamed elevation on Sark 114 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "49 28 N, 2 35 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "NA",
+      "crops": "NA ",
+      "other": "NA "
+    },
+    "location": "Western Europe, islands in the English Channel, northwest of France",
+    "naturalHazards": "NA",
+    "naturalResources": "cropland",
+    "notes": "large, deepwater harbor at Saint Peter Port",
+    "renewableWater": "",
+    "terrain": "mostly level with low hills in southwest"
+  },
+  "countryName": "Guernsey",
+  "countryCode": "GK"
+}

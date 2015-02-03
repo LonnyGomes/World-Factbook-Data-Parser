@@ -1,0 +1,42 @@
+{
+  "background": "Finland was a province and then a grand duchy under Sweden from the 12th to the 19th centuries, and an autonomous grand duchy of Russia after 1809. It gained complete independence in 1917. During World War II, it successfully defended its independence through cooperation with Germany and resisted subsequent invasions by the Soviet Union - albeit with some loss of territory. In the subsequent half century, Finland transformed from a farm/forest economy to a diversified modern industrial economy; per capita income is among the highest in Western Europe. A member of the European Union since 1995, Finland was the only Nordic state to join the euro single currency at its initiation in January 1999. In the 21st century, the key features of Finland's modern welfare state are high quality education, promotion of equality, and a national social welfare system - currently challenged by an aging population and the fluctuations of an export-driven economy.",
+  "geography": {
+    "area": {
+      "land": "303,815 sq km ",
+      "total": "338,145 sq km",
+      "water": "34,330 sq km "
+    },
+    "areaCompare": "slightly smaller than Montana",
+    "climate": "cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes",
+    "coastline": "1,250 km",
+    "elevationHighest": "Halti (alternatively Haltia, Haltitunturi, Haltiatunturi) 1,328 m ",
+    "elevationLowest": "Baltic Sea 0 m",
+    "environment": {
+      "currIssues": "air pollution from manufacturing and power plants contributing to acid rain; water pollution from industrial wastes, agricultural chemicals; habitat loss threatens wildlife populations",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "308.9  cu m/yr (2005) ",
+      "total": "1.63  cu km/yr (25%/72%/3%)"
+    },
+    "geoCoords": "64 00 N, 26 00 E",
+    "irrigatedLand": "685.8 sq km (2010)",
+    "landBoundaries": "2,563 kmNorway 709 km, Sweden 545 km, Russia 1,309 km ",
+    "landUse": {
+      "arable": "6.65%",
+      "crops": "0.01% ",
+      "other": "93.34% (2011) "
+    },
+    "location": "Northern Europe, bordering the Baltic Sea, Gulf of Bothnia, and Gulf of Finland, between Sweden and Russia",
+    "naturalHazards": "NA",
+    "naturalResources": "timber, iron ore, copper, lead, zinc, chromite, nickel, gold, silver, limestone",
+    "notes": "long boundary with Russia; Helsinki is northernmost national capital on European continent; population concentrated on small southwestern coastal plain",
+    "renewableWater": "110 cu km (2011)",
+    "terrain": "mostly low, flat to rolling plains interspersed with lakes and low hills"
+  },
+  "countryName": "Finland",
+  "countryCode": "FI"
+}

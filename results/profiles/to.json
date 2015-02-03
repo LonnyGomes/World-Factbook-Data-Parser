@@ -1,0 +1,42 @@
+{
+  "background": "French Togoland became Togo in 1960. Gen. Gnassingbe EYADEMA, installed as military ruler in 1967, ruled Togo with a heavy hand for almost four decades. Despite the facade of multi-party elections instituted in the early 1990s, the government was largely dominated by President EYADEMA, whose Rally of the Togolese People (RPT) party has maintained power almost continually since 1967 and maintains a majority of seats in today's legislature. Upon EYADEMA's death in February 2005, the military installed the president's son, Faure GNASSINGBE, and then engineered his formal election two months later. Democratic gains since then allowed Togo to hold its first relatively free and fair legislative elections in October 2007. After years of political unrest and condemnation from international organizations for human rights abuses, Togo is finally being re-welcomed into the international community.",
+  "geography": {
+    "area": {
+      "land": "54,385 sq km ",
+      "total": "56,785 sq km",
+      "water": "2,400 sq km "
+    },
+    "areaCompare": "slightly smaller than West Virginia",
+    "climate": "tropical; hot, humid in south; semiarid in north",
+    "coastline": "56 km",
+    "elevationHighest": "Mont Agou 986 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation attributable to slash-and-burn agriculture and the use of wood for fuel; water pollution presents health hazards and hinders the fishing industry; air pollution increasing in urban areas",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "33.46  cu m/yr (2005) ",
+      "total": "0.17  cu km/yr (63%/3%/34%)"
+    },
+    "geoCoords": "8 00 N, 1 10 E",
+    "irrigatedLand": "73 sq km (2003)",
+    "landBoundaries": "1,647 kmBenin 644 km, Burkina Faso 126 km, Ghana 877 km ",
+    "landUse": {
+      "arable": "44.2%",
+      "crops": "3.7% ",
+      "other": "52.1% (2011) "
+    },
+    "location": "Western Africa, bordering the Bight of Benin, between Benin and Ghana",
+    "naturalHazards": "hot, dry harmattan wind can reduce visibility in north during winter; periodic droughts",
+    "naturalResources": "phosphates, limestone, marble, arable land",
+    "notes": "the country's length allows it to stretch through six distinct geographic regions; climate varies from tropical to savanna",
+    "renewableWater": "14.7 cu km (2011)",
+    "terrain": "gently rolling savanna in north; central hills; southern plateau; low coastal plain with extensive lagoons and marshes"
+  },
+  "countryName": "Togo",
+  "countryCode": "TO"
+}

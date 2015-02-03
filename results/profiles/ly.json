@@ -1,0 +1,42 @@
+{
+  "background": "The Italians supplanted the Ottoman Turks in the area around Tripoli in 1911 and did not relinquish their hold until 1943 when defeated in World War II. Libya then passed to UN administration and achieved independence in 1951. Following a 1969 military coup, Col. Muammar al-QADHAFI assumed leadership and began to espouse his political system at home, which was a combination of socialism and Islam. During the 1970s, QADHAFI used oil revenues to promote his ideology outside Libya, supporting subversive and terrorist activities that included the downing of two airliners - one over Scotland, another in Northern Africa - and a discotheque bombing in Berlin. UN sanctions in 1992 isolated QADHAFI politically and economically following the attacks; sanctions were lifted in 2003 following Libyan acceptance of responsibility for the bombings and agreement to claimant compensation. QADHAFI also agreed to end Libya's program to develop weapons of mass destruction, and he made significant strides in normalizing relations with Western nations. Unrest that began in several Middle Eastern and North African countries in late 2010 erupted in Libyan cities in early 2011. QADHAFI's brutal crackdown on protesters spawned a civil war that triggered UN authorization of air and naval intervention by the international community. After months of seesaw fighting between government and opposition forces, the QADHAFI regime was toppled in mid-2011 and replaced by a transitional government. Libya in 2012 formed a new parliament and elected a new prime minister.",
+  "geography": {
+    "area": {
+      "land": "1,759,540 sq km ",
+      "total": "1,759,540 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "",
+    "climate": "Mediterranean along coast; dry, extreme desert interior",
+    "coastline": "1,770 km",
+    "elevationHighest": "Bikku Bitti 2,267 m ",
+    "elevationLowest": "Sabkhat Ghuzayyil -47 m",
+    "environment": {
+      "currIssues": "desertification; limited natural freshwater resources; the Great Manmade River Project, the largest water development scheme in the world, brings water from large aquifers under the Sahara to coastal cities",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "796.1  cu m/yr (2000) ",
+      "total": "4.33  cu km/yr (14%/3%/83%)"
+    },
+    "geoCoords": "25 00 N, 17 00 E",
+    "irrigatedLand": "4,700 sq km (2003)",
+    "landBoundaries": "4,348 kmAlgeria 982 km, Chad 1,055 km, Egypt 1,115 km, Niger 354 km, Sudan 383 km, Tunisia 459 km ",
+    "landUse": {
+      "arable": "0.99%",
+      "crops": "0.19% ",
+      "other": "98.82% (2011) "
+    },
+    "location": "Northern Africa, bordering the Mediterranean Sea, between Egypt, Tunisia, and Algeria",
+    "naturalHazards": "hot, dry, dust-laden ghibli is a southern wind lasting one to four days in spring and fall; dust storms, sandstorms",
+    "naturalResources": "petroleum, natural gas, gypsum",
+    "notes": "more than 90% of the country is desert or semidesert",
+    "renewableWater": "0.7 cu km (2011)",
+    "terrain": "mostly barren, flat to undulating plains, plateaus, depressions"
+  },
+  "countryName": "Libya",
+  "countryCode": "LY"
+}

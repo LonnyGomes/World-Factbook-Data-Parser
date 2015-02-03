@@ -1,0 +1,42 @@
+{
+  "background": "Inhabited since at least the 15th century B.C., Gaza has been dominated by many different peoples and empires throughout its history; it was incorporated into the Ottoman Empire in the early 16th century. Gaza fell to British forces during World War I, becoming a part of the British Mandate of Palestine. Following the 1948 Arab-Israeli War, Egypt administered the newly formed Gaza Strip; it was captured by Israel in the Six-Day War in 1967. Under a series of agreements signed between 1994 and 1999, Israel transferred to the Palestinian Authority (PA) security and civilian responsibility for many Palestinian-populated areas of the Gaza Strip as well as the West Bank. Negotiations to determine the permanent status of the West Bank and Gaza Strip stalled after the outbreak of an intifada in mid- 2000. In early 2003, the \"Quartet\" of the US, EU, UN, and Russia, presented a roadmap to a final peace settlement by 2005, calling for two states - Israel and a democratic Palestine. Following Palestinian leader Yasir ARAFAT's death in late 2004 and the subsequent election of Mahmud ABBAS (head of the Fatah political party) as the PA president, Israel and the PA agreed to move the peace process forward. Israel in late 2005 unilaterally withdrew all of its settlers and soldiers and dismantled its military facilities in the Gaza Strip, but continues to control maritime, airspace, and other access. In early 2006, the Islamic Resistance Movement, HAMAS, won the Palestinian Legislative Council election and took control of the PA government. Attempts to form a unity government between Fatah and HAMAS failed, and violent clashes between Fatah and HAMAS supporters ensued, culminating in HAMAS's violent seizure of all military and governmental institutions in the Gaza Strip in June 2007. Fatah and HAMAS in early 2011 agreed to reunify the Gaza Strip and West Bank, but the factions have struggled to implement details on governance and security. Brief periods of increased violence between Israel and Palestinian militants in the Gaza Strip in 2007-08 and again in 2012, both led to Egyptian-brokered truces. The status quo remains with HAMAS in control of the Gaza Strip and the PA governing the West Bank.",
+  "geography": {
+    "area": {
+      "land": "360 sq km ",
+      "total": "360 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly more than twice the size of Washington, DC",
+    "climate": "temperate, mild winters, dry and warm to hot summers",
+    "coastline": "40 km",
+    "elevationHighest": "Abu 'Awdah (Joz Abu 'Awdah) 105 m ",
+    "elevationLowest": "Mediterranean Sea 0 m",
+    "environment": {
+      "currIssues": "desertification; salination of fresh water; sewage treatment; water-borne disease; soil degradation; depletion and contamination of underground water resources",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "31 25 N, 34 20 E",
+    "irrigatedLand": "240 sq km; note - includes West Bank (2003)",
+    "landBoundaries": "72 kmEgypt 13 km, Israel 59 km ",
+    "landUse": {
+      "arable": "7.39%",
+      "crops": "10.96% ",
+      "other": "81.64% (2011) "
+    },
+    "location": "Middle East, bordering the Mediterranean Sea, between Egypt and Israel",
+    "naturalHazards": "droughts",
+    "naturalResources": "arable land, natural gas",
+    "notes": "strategic strip of land along Mideast-North African trade routes has experienced an incredibly turbulent history; the town of Gaza itself has been besieged countless times in its history",
+    "renewableWater": "",
+    "terrain": "flat to rolling, sand- and dune-covered coastal plain"
+  },
+  "countryName": "Gaza Strip",
+  "countryCode": "GZ"
+}

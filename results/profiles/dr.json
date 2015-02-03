@@ -1,0 +1,42 @@
+{
+  "background": "The Taino - indigenous inhabitants of Hispaniola prior to the arrival of the Europeans - divided the island into five chiefdoms and territories. Christopher COLUMBUS explored and claimed the island on his first voyage in 1492; it became a springboard for Spanish conquest of the Caribbean and the American mainland. In 1697, Spain recognized French dominion over the western third of the island, which in 1804 became Haiti. The remainder of the island, by then known as Santo Domingo, sought to gain its own independence in 1821 but was conquered and ruled by the Haitians for 22 years; it finally attained independence as the Dominican Republic in 1844. In 1861, the Dominicans voluntarily returned to the Spanish Empire, but two years later they launched a war that restored independence in 1865. A legacy of unsettled, mostly non-representative rule followed, capped by the dictatorship of Rafael Leonidas TRUJILLO from 1930 to 1961. Juan BOSCH was elected president in 1962 but was deposed in a military coup in 1963. In 1965, the United States led an intervention in the midst of a civil war sparked by an uprising to restore BOSCH. In 1966, Joaquin BALAGUER defeated BOSCH in an election to become president. BALAGUER maintained a tight grip on power for most of the next 30 years when international reaction to flawed elections forced him to curtail his term in 1996. Since then, regular competitive elections have been held in which opposition candidates have won the presidency. Former President Leonel FERNANDEZ Reyna (first term 1996-2000) won election to a new term in 2004 following a constitutional amendment allowing presidents to serve more than one term, and was later reelected to a second consecutive term. In 2012, Danilo MEDINA Sanchez was elected president.",
+  "geography": {
+    "area": {
+      "land": "48,320 sq km ",
+      "total": "48,670 sq km",
+      "water": "350 sq km "
+    },
+    "areaCompare": "slightly more than twice the size of New Hampshire",
+    "climate": "tropical maritime; little seasonal temperature variation; seasonal variation in rainfall",
+    "coastline": "1,288 km",
+    "elevationHighest": "Pico Duarte 3,175 m ",
+    "elevationLowest": "Lago Enriquillo -46 m",
+    "environment": {
+      "currIssues": "water shortages; soil eroding into the sea damages coral reefs; deforestation",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "574.2  cu m/yr (2005) ",
+      "total": "5.47  cu km/yr (26%/1%/72%)"
+    },
+    "geoCoords": "19 00 N, 70 40 W",
+    "irrigatedLand": "3,065 sq km (2009)",
+    "landBoundaries": "376 kmHaiti 376 km ",
+    "landUse": {
+      "arable": "16.44%",
+      "crops": "9.25% ",
+      "other": "74.32% (2011) "
+    },
+    "location": "Caribbean, eastern two-thirds of the island of Hispaniola, between the Caribbean Sea and the North Atlantic Ocean, east of Haiti",
+    "naturalHazards": "lies in the middle of the hurricane belt and subject to severe storms from June to October; occasional flooding; periodic droughts",
+    "naturalResources": "nickel, bauxite, gold, silver",
+    "notes": "shares island of Hispaniola with Haiti",
+    "renewableWater": "21 cu km (2011)",
+    "terrain": "rugged highlands and mountains with fertile valleys interspersed"
+  },
+  "countryName": "Dominican Republic",
+  "countryCode": "DR"
+}

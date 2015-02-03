@@ -1,0 +1,42 @@
+{
+  "background": "Known as Persia until 1935, Iran became an Islamic republic in 1979 after the ruling monarchy was overthrown and Shah Mohammad Reza PAHLAVI was forced into exile. Conservative clerical forces led by Ayatollah Ruhollah KHOMEINI established a theocratic system of government with ultimate political authority vested in a learned religious scholar referred to commonly as the Supreme Leader who, according to the constitution, is accountable only to the Assembly of Experts - a popularly elected 86-member body of clerics. US-Iranian relations became strained when a group of Iranian students seized the US Embassy in Tehran in November 1979 and held embassy personnel hostages until mid-January 1981. The US cut off diplomatic relations with Iran in April 1980. During the period 1980-88, Iran fought a bloody, indecisive war with Iraq that eventually expanded into the Persian Gulf and led to clashes between US Navy and Iranian military forces. Iran has been designated a state sponsor of terrorism for its activities in Lebanon and elsewhere in the world and remains subject to US, UN, and EU economic sanctions and export controls because of its continued involvement in terrorism and concerns over possible military dimensions of its nuclear program. Following the election of reformer Hojjat ol-Eslam Mohammad KHATAMI as president in 1997 and a reformist Majles (legislature) in 2000, a campaign to foster political reform in response to popular dissatisfaction was initiated. The movement floundered as conservative politicians, supported by the Supreme Leader, unelected institutions of authority like the Council of Guardians, and the security services reversed and blocked reform measures while increasing security repression. Starting with nationwide municipal elections in 2003 and continuing through Majles elections in 2004, conservatives reestablished control over Iran's elected government institutions, which culminated with the August 2005 inauguration of hardliner Mahmud AHMADI-NEJAD as president. His controversial reelection in June 2009 sparked nationwide protests over allegations of electoral fraud. These protests were quickly suppressed, and the political opposition that arouse as a consequence of AHMADI-NEJAD's election was repressed. Deteriorating economic conditions due primarily to government mismanagement and international sanctions prompted at least two major economically based protests in July and October 2012, but Iran's internal security situation remained stable. President AHMADI-NEJAD's independent streak angered regime establishment figures, including the Supreme Leader, leading to conservative opposition to his agenda for the last year of his presidency, and an alienation of his political supporters. In June 2013 Iranians elected a moderate conservative cleric, Dr. Hasan Fereidun RUHANI to the presidency. He is a long-time senior member in the regime, but has made promises of reforming society and Iran's foreign policy. The UN Security Council has passed a number of resolutions calling for Iran to suspend its uranium enrichment and reprocessing activities and comply with its IAEA obligations and responsibilities, but in November 2013 the five permanent members, plus Germany, (P5+1) signed a joint plan with Iran to provide the country with incremental relief from international pressure for positive steps toward transparency of their nuclear program.",
+  "geography": {
+    "area": {
+      "land": "1,531,595 sq km ",
+      "total": "1,648,195 sq km",
+      "water": "116,600 sq km "
+    },
+    "areaCompare": "",
+    "climate": "mostly arid or semiarid, subtropical along Caspian coast",
+    "coastline": "2,440 km; note - Iran also borders the Caspian Sea (740 km)",
+    "elevationHighest": "Kuh-e Damavand 5,671 m ",
+    "elevationLowest": "Caspian Sea -28 m",
+    "environment": {
+      "currIssues": "air pollution, especially in urban areas, from vehicle emissions, refinery operations, and industrial effluents; deforestation; overgrazing; desertification; oil pollution in the Persian Gulf; wetland losses from drought; soil degradation (salination); inadequate supplies of potable water; water pollution from raw sewage and industrial waste; urbanization",
+      "intlAgreements": {
+        "notRatified": "Environmental Modification, Law of the Sea, Marine Life Conservation ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "1,306  cu m/yr (2004) ",
+      "total": "93.3  cu km/yr (7%/1%/92%)"
+    },
+    "geoCoords": "32 00 N, 53 00 E",
+    "irrigatedLand": "87,000 sq km (2009)",
+    "landBoundaries": "5,894 kmAfghanistan 921 km, Armenia 44 km, Azerbaijan 689 km, Iraq 1,599 km, Pakistan 959 km, Turkey 534 km, Turkmenistan 1,148 km ",
+    "landUse": {
+      "arable": "10.05%",
+      "crops": "1.08% ",
+      "other": "88.86% (2011) "
+    },
+    "location": "Middle East, bordering the Gulf of Oman, the Persian Gulf, and the Caspian Sea, between Iraq and Pakistan",
+    "naturalHazards": "periodic droughts, floods; dust storms, sandstorms; earthquakes",
+    "naturalResources": "petroleum, natural gas, coal, chromium, copper, iron ore, lead, manganese, zinc, sulfur",
+    "notes": "strategic location on the Persian Gulf and Strait of Hormuz, which are vital maritime pathways for crude oil transport",
+    "renewableWater": "137 cu km (2011)",
+    "terrain": "rugged, mountainous rim; high, central basin with deserts, mountains; small, discontinuous plains along both coasts"
+  },
+  "countryName": "Iran",
+  "countryCode": "IR"
+}

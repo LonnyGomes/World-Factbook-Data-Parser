@@ -1,0 +1,42 @@
+{
+  "background": "Part of Romania during the interwar period, Moldova was incorporated into the Soviet Union at the close of World War II. Although the country has been independent from the USSR since 1991, Russian forces have remained on Moldovan territory east of the Nistru River supporting the separatist region of Transnistria, composed of a Slavic majority population (mostly Ukrainians and Russians), but with a sizeable ethnic Moldovan minority. One of the poorest nations in Europe, Moldova became the first former Soviet state to elect a communist, Vladimir VORONIN, as its president in 2001. VORONIN served as Moldova's president until he resigned in September 2009, following the opposition's gain of a narrow majority in July parliamentary elections and the Communist Party's (PCRM) subsequent inability to attract the three-fifths of parliamentary votes required to elect a president and, by doing so, put into place a permanent government. Four Moldovan opposition parties formed a new coalition, the Alliance for European Integration (AEI), iterations of which have acted as Moldova's governing coalitions since. Moldova experienced significant political uncertainty between 2009 and early 2012, holding three general elections and numerous presidential ballots in parliament, all of which failed to secure a president. Following November 2010 parliamentary elections, a reconstituted AEI-coalition consisting of three of the four original AEI parties formed a government, and in March 2012 was finally able to elect an independent as president. As of late May 2013, the ruling coalition - comprised of two of the original AEI parties and a splinter group from a third - is called the Pro-European Coalition. In November 2013, the Moldovan Government initialed an Association Agreement with the European Union (EU), advancing the coalition's policy priority of EU integration.",
+  "geography": {
+    "area": {
+      "land": "32,891 sq km ",
+      "total": "33,851 sq km",
+      "water": "960 sq km "
+    },
+    "areaCompare": "slightly larger than Maryland",
+    "climate": "moderate winters, warm summers",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Dealul Balanesti 430 m ",
+    "elevationLowest": "Dniester (Nistru) 2 m",
+    "environment": {
+      "currIssues": "heavy use of agricultural chemicals, including banned pesticides such as DDT, has contaminated soil and groundwater; extensive soil erosion from poor farming methods",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "290  cu m/yr (2010) ",
+      "total": "1.07  cu km/yr (14%/83%/4%)"
+    },
+    "geoCoords": "47 00 N, 29 00 E",
+    "irrigatedLand": "2,283 sq km (2011)",
+    "landBoundaries": "1,390 kmRomania 450 km, Ukraine 940 km ",
+    "landUse": {
+      "arable": "53.47%",
+      "crops": "8.77% ",
+      "other": "37.75% (2011) "
+    },
+    "location": "Eastern Europe, northeast of Romania",
+    "naturalHazards": "landslides",
+    "naturalResources": "lignite, phosphorites, gypsum, arable land, limestone",
+    "notes": "landlocked; well endowed with various sedimentary rocks and minerals including sand, gravel, gypsum, and limestone",
+    "renewableWater": "11.65 cu km (2011)",
+    "terrain": "rolling steppe, gradual slope south to Black Sea"
+  },
+  "countryName": "Moldova",
+  "countryCode": "MD"
+}

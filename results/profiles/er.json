@@ -1,0 +1,42 @@
+{
+  "background": "After independence from Italian colonial control in 1941 and 10 years of British administrative control, the UN established Eritrea as an autonomous region within the Ethiopian federation in 1952. Ethiopia's full annexation of Eritrea as a province 10 years later sparked a violent 30-year struggle for independence that ended in 1991 with Eritrean rebels defeating government forces. Eritreans overwhelmingly approved independence in a 1993 referendum. ISAIAS Afworki has been Eritrea's only president since independence; his rule, particularly since 2001, has been highly autocratic and repressive. His government has created a highly militarized society by pursuing an unpopular program of mandatory conscription into national service, sometimes of indefinite length. A two-and-a-half-year border war with Ethiopia that erupted in 1998 ended under UN auspices in December 2000. A UN peacekeeping operation was established that monitored a 25 km-wide Temporary Security Zone. The Eritrea-Ethiopia Boundary Commission (EEBC) created in April 2003 was tasked \"to delimit and demarcate the colonial treaty border based on pertinent colonial treaties (1900, 1902, and 1908) and applicable international law.\" The EEBC on 30 November 2007 remotely demarcated the border, assigning the town of Badme to Eritrea, despite Ethiopia's maintaining forces there from the time of the 1998-2000 war. Eritrea insisted that the UN terminate its peacekeeping mission on 31 July 2008. Eritrea has accepted the EEBC's \"virtual demarcation\" decision and repeatedly called on Ethiopia to remove its troops. Ethiopia has not accepted the demarcation decision, and neither party has entered into meaningful dialogue to resolve the impasse. Eritrea is subject to several UN Security Council Resolutions (from 2009, 2011, and 2012) imposing various military and economic sanctions, in view of evidence that it has supported armed opposition groups in the region.",
+  "geography": {
+    "area": {
+      "land": "101,000 sq km ",
+      "total": "117,600 sq km",
+      "water": "16,600 sq km "
+    },
+    "areaCompare": "slightly larger than Pennsylvania",
+    "climate": "hot, dry desert strip along Red Sea coast; cooler and wetter in the central highlands (up to 61 cm of rainfall annually, heaviest June to September); semiarid in western hills and lowlands",
+    "coastline": "2,234 km (mainland on Red Sea 1,151 km, islands in Red Sea 1,083 km)",
+    "elevationHighest": "Soira 3,018 m ",
+    "elevationLowest": "near Kulul within the Danakil Depression -75 m",
+    "environment": {
+      "currIssues": "deforestation; desertification; soil erosion; overgrazing; loss of infrastructure from civil warfare",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "121.3  cu m/yr (2004) ",
+      "total": "0.58  cu km/yr (5%/0%/95%)"
+    },
+    "geoCoords": "15 00 N, 39 00 E",
+    "irrigatedLand": "215.9 sq km (2003)",
+    "landBoundaries": "1,840 kmDjibouti 125 km, Ethiopia 1,033 km, Sudan 682 km ",
+    "landUse": {
+      "arable": "5.87%",
+      "crops": "0.02% ",
+      "other": "94.12% (2011) "
+    },
+    "location": "Eastern Africa, bordering the Red Sea, between Djibouti and Sudan",
+    "naturalHazards": "frequent droughts, rare earthquakes and volcanoes; locust swarmsDubbi (elev. 1,625 m), which last erupted in 1861, was the country's only historically active volcano until Nabro (2,218 m) came to life on 12 June 2011 ",
+    "naturalResources": "gold, potash, zinc, copper, salt, possibly oil and natural gas, fish",
+    "notes": "strategic geopolitical position along world's busiest shipping lanes; Eritrea retained the entire coastline of Ethiopia along the Red Sea upon de jure independence from Ethiopia on 24 May 1993",
+    "renewableWater": "6.3 cu km (2011)",
+    "terrain": "dominated by extension of Ethiopian north-south trending highlands, descending on the east to a coastal desert plain, on the northwest to hilly terrain and on the southwest to flat-to-rolling plains"
+  },
+  "countryName": "Eritrea",
+  "countryCode": "ER"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "The Indian Ocean is the third largest of the world's five oceans (after the Pacific Ocean and Atlantic Ocean, but larger than the Southern Ocean and Arctic Ocean). Four critically important access waterways are the Suez Canal (Egypt), Bab el Mandeb (Djibouti-Yemen), Strait of Hormuz (Iran-Oman), and Strait of Malacca (Indonesia-Malaysia). The decision by the International Hydrographic Organization in the spring of 2000 to delimit a fifth ocean, the Southern Ocean, removed the portion of the Indian Ocean south of 60 degrees south latitude.",
+  "geography": {
+    "area": {
+      "land": "",
+      "total": "68.556 million sq km",
+      "water": ""
+    },
+    "areaCompare": "about 5.5 times the size of the US",
+    "climate": "northeast monsoon (December to April), southwest monsoon (June to October); tropical cyclones occur during May/June and October/November in the northern Indian Ocean and January/February in the southern Indian Ocean",
+    "coastline": "66,526 km",
+    "elevationHighest": "sea level 0 m ",
+    "elevationLowest": "Java Trench -7,258 m",
+    "environment": {
+      "currIssues": "endangered marine species include the dugong, seals, turtles, and whales; oil pollution in the Arabian Sea, Persian Gulf, and Red Sea",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "20 00 S, 80 00 E",
+    "irrigatedLand": "",
+    "landBoundaries": "",
+    "landUse": {
+      "arable": "",
+      "crops": "",
+      "other": ""
+    },
+    "location": "body of water between Africa, the Southern Ocean, Asia, and Australia",
+    "naturalHazards": "occasional icebergs pose navigational hazard in southern reaches",
+    "naturalResources": "oil and gas fields, fish, shrimp, sand and gravel aggregates, placer deposits, polymetallic nodules",
+    "notes": "major chokepoints include Bab el Mandeb, Strait of Hormuz, Strait of Malacca, southern access to the Suez Canal, and the Lombok Strait",
+    "renewableWater": "",
+    "terrain": "surface dominated by counterclockwise gyre (broad, circular system of currents) in the southern Indian Ocean; unique reversal of surface currents in the northern Indian Ocean; low atmospheric pressure over southwest Asia from hot, rising, summer air results in the southwest monsoon and southwest-to-northeast winds and currents, while high pressure over northern Asia from cold, falling, winter air results in the northeast monsoon and northeast-to-southwest winds and currents; ocean floor is dominated by the Mid-Indian Ocean Ridge and subdivided by the Southeast Indian Ocean Ridge, Southwest Indian Ocean Ridge, and Ninetyeast Ridge"
+  },
+  "countryName": "Indian Ocean",
+  "countryCode": "XO"
+}

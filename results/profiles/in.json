@@ -1,0 +1,42 @@
+{
+  "background": "The Indus Valley civilization, one of the world's oldest, flourished during the 3rd and 2nd millennia B.C. and extended into northwestern India. Aryan tribes from the northwest infiltrated the Indian subcontinent about 1500 B.C.; their merger with the earlier Dravidian inhabitants created the classical Indian culture. The Maurya Empire of the 4th and 3rd centuries B.C. - which reached its zenith under ASHOKA - united much of South Asia. The Golden Age ushered in by the Gupta dynasty (4th to 6th centuries A.D.) saw a flowering of Indian science, art, and culture. Islam spread across the subcontinent over a period of 700 years. In the 10th and 11th centuries, Turks and Afghans invaded India and established the Delhi Sultanate. In the early 16th century, the Emperor BABUR established the Mughal Dynasty which ruled India for more than three centuries. European explorers began establishing footholds in India during the 16th century. By the 19th century, Great Britain had become the dominant political power on the subcontinent. The British Indian Army played a vital role in both World Wars. Years of nonviolent resistance to British rule, led by Mohandas GANDHI and Jawaharlal NEHRU, eventually resulted in Indian independence, which was granted in 1947. Large-scale communal violence took place before and after the subcontinent partition into two separate states - India and Pakistan. The neighboring nations have fought three wars since independence, the last of which was in 1971 and resulted in East Pakistan becoming the separate nation of Bangladesh. India's nuclear weapons tests in 1998 emboldened Pakistan to conduct its own tests that same year. In November 2008, terrorists originating from Pakistan conducted a series of coordinated attacks in Mumbai, India's financial capital. Despite pressing problems such as significant overpopulation, environmental degradation, extensive poverty, and widespread corruption, economic growth following the launch of economic reforms in 1991 and a massive youthful population are driving India's emergence as a regional and global power.",
+  "geography": {
+    "area": {
+      "land": "2,973,193 sq km ",
+      "total": "3,287,263 sq km",
+      "water": "314,070 sq km "
+    },
+    "areaCompare": "",
+    "climate": "varies from tropical monsoon in south to temperate in north",
+    "coastline": "7,000 km",
+    "elevationHighest": "Kanchenjunga 8,598 m ",
+    "elevationLowest": "Indian Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; soil erosion; overgrazing; desertification; air pollution from industrial effluents and vehicle emissions; water pollution from raw sewage and runoff of agricultural pesticides; tap water is not potable throughout the country; huge and growing population is overstraining natural resources",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "613  cu m/yr (2010) ",
+      "total": "761  cu km/yr (7%/2%/90%)"
+    },
+    "geoCoords": "20 00 N, 77 00 E",
+    "irrigatedLand": "663,340 sq km (2008)",
+    "landBoundaries": "13,888 kmBangladesh 4,142 km, Bhutan 659 km, Burma 1,468 km, China 2,659 km, Nepal 1,770 km, Pakistan 3,190 km ",
+    "landUse": {
+      "arable": "47.87%",
+      "crops": "3.74% ",
+      "other": "48.39% (2011) "
+    },
+    "location": "Southern Asia, bordering the Arabian Sea and the Bay of Bengal, between Burma and Pakistan",
+    "naturalHazards": "droughts; flash floods, as well as widespread and destructive flooding from monsoonal rains; severe thunderstorms; earthquakesBarren Island (elev. 354 m) in the Andaman Sea has been active in recent years ",
+    "naturalResources": "coal (fourth-largest reserves in the world), iron ore, manganese, mica, bauxite, rare earth elements, titanium ore, chromite, natural gas, diamonds, petroleum, limestone, arable land",
+    "notes": "dominates South Asian subcontinent; near important Indian Ocean trade routes; Kanchenjunga, third tallest mountain in the world, lies on the border with Nepal",
+    "renewableWater": "1,911 cu km (2011)",
+    "terrain": "upland plain (Deccan Plateau) in south, flat to rolling plain along the Ganges, deserts in west, Himalayas in north"
+  },
+  "countryName": "India",
+  "countryCode": "IN"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "Paraguay achieved its independence from Spain in 1811. In the disastrous War of the Triple Alliance (1865-70) - between Paraguay and Argentina, Brazil, and Uruguay - Paraguay lost two-thirds of its adult males and much of its territory. The country stagnated economically for the next half century. Following the Chaco War of 1932-35 with Bolivia, Paraguay gained a large part of the Chaco lowland region. The 35-year military dictatorship of Alfredo STROESSNER ended in 1989, and, despite a marked increase in political infighting in recent years, Paraguay has held relatively free and regular presidential elections since the country's return to democracy.",
+  "geography": {
+    "area": {
+      "land": "397,302 sq km ",
+      "total": "406,752 sq km",
+      "water": "9,450 sq km "
+    },
+    "areaCompare": "slightly smaller than California",
+    "climate": "subtropical to temperate; substantial rainfall in the eastern portions, becoming semiarid in the far west",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Cerro Pero 842 m ",
+    "elevationLowest": "junction of Rio Paraguay and Rio Parana 46 m",
+    "environment": {
+      "currIssues": "deforestation; water pollution; inadequate means for waste disposal pose health risks for many urban residents; loss of wetlands",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "88.05  cu m/yr (2000) ",
+      "total": "0.49  cu km/yr (20%/8%/71%)"
+    },
+    "geoCoords": "23 00 S, 58 00 W",
+    "irrigatedLand": "670 sq km (2003)",
+    "landBoundaries": "3,995 kmArgentina 1,880 km, Bolivia 750 km, Brazil 1,365 km ",
+    "landUse": {
+      "arable": "9.59%",
+      "crops": "0.22% ",
+      "other": "90.19% (2011) "
+    },
+    "location": "Central South America, northeast of Argentina, southwest of Brazil",
+    "naturalHazards": "local flooding in southeast (early September to June); poorly drained plains may become boggy (early October to June)",
+    "naturalResources": "hydropower, timber, iron ore, manganese, limestone",
+    "notes": "landlocked; lies between Argentina, Bolivia, and Brazil; population concentrated in southern part of country",
+    "renewableWater": "336 cu km (2011)",
+    "terrain": "grassy plains and wooded hills east of Rio Paraguay; Gran Chaco region west of Rio Paraguay mostly low, marshy plain near the river, and dry forest and thorny scrub elsewhere"
+  },
+  "countryName": "Paraguay",
+  "countryCode": "PA"
+}

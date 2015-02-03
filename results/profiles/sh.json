@@ -1,0 +1,42 @@
+{
+  "background": "Saint Helena is a British Overseas Territory consisting of Saint Helena and Ascension Islands, and the island group of Tristan da Cunha.Uninhabited when first discovered by the Portuguese in 1502, Saint Helena was garrisoned by the British during the 17th century. It acquired fame as the place of Napoleon BONAPARTE's exile from 1815 until his death in 1821, but its importance as a port of call declined after the opening of the Suez Canal in 1869. During the Anglo-Boer War in South Africa, several thousand Boer prisoners were confined on the island between 1900 and 1903. This barren and uninhabited island was discovered and named by the Portuguese in 1503. The British garrisoned the island in 1815 to prevent a rescue of Napoleon from Saint Helena. It served as a provisioning station for the Royal Navy's West Africa Squadron on anti-slavery patrol. The island remained under Admiralty control until 1922, when it became a dependency of Saint Helena. During World War II, the UK permitted the US to construct an airfield on Ascension in support of transatlantic flights to Africa and anti-submarine operations in the South Atlantic. In the 1960s the island became an important space tracking station for the US. In 1982, Ascension was an essential staging area for British forces during the Falklands War. It remains a critical refueling point in the air-bridge from the UK to the South Atlantic. The island group consists of the islands of Tristan da Cunha, Nightingale, Inaccessible, and Gough. Tristan da Cunha is named after its Portuguese discoverer (1506); it was garrisoned by the British in 1816 to prevent any attempt to rescue Napoleon from Saint Helena. Gough and Inaccessible Islands have been designated World Heritage Sites. South Africa leases a site for a meteorological station on Gough Island. ",
+  "geography": {
+    "area": {
+      "land": "Saint Helena Island 122 sq km; Ascension Island 88 sq km; Tristan da Cunha island group 98 sq km ",
+      "total": "308 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly more than twice the size of Washington, DC",
+    "climate": "tropical marine; mild, tempered by trade windstropical marine; mild, semi-arid temperate marine; mild, tempered by trade winds (tends to be cooler than Saint Helena) ",
+    "coastline": "60 kmNA 40 km ",
+    "elevationHighest": "Queen Mary's Peak on Tristan da Cunha 2,060 m; Green Mountain on Ascension Island 859 m; Mount Actaeon on Saint Helena Island 818 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "15 57 S, 5 42 W7 57 S, 14 22 W 37 15 S, 12 30 W ",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "10.26%",
+      "crops": "0% ",
+      "other": "89.74% (2011) "
+    },
+    "location": "islands in the South Atlantic Ocean, about midway between South America and Africa; Ascension Island lies 1,300 km (800 mi) northwest of Saint Helena; Tristan da Cunha lies 4,300 km (2,700 mi) southwest of Saint Helena",
+    "naturalHazards": "active volcanism on Tristan da Cunhathe island volcanoes of Tristan da Cunha (elev. 2,060 m) and Nightingale Island (elev. 365 m) experience volcanic activity; Tristan da Cunha erupted in 1962 and Nightingale in 2004 ",
+    "naturalResources": "fish, lobster",
+    "notes": "Saint Helena harbors at least 40 species of plants unknown elsewhere in the world; Ascension is a breeding ground for sea turtles and sooty terns; Queen Mary's Peak on Tristan da Cunha is the highest island mountain in the South Atlantic and a prominent landmark on the sea lanes around southern Africa",
+    "renewableWater": "",
+    "terrain": "the islands of this group result from volcanic activity associated with the Atlantic Mid-Ocean Ridgerugged, volcanic; small scattered plateaus and plains surface covered by lava flows and cinder cones of 44 dormant volcanoes; ground rises to the east sheer cliffs line the coastline of the nearly circular island; the flanks of the central volcanic peak are deeply dissected; narrow coastal plain lies between The Peak and the coastal cliffs "
+  },
+  "countryName": "Saint Helena, Ascension, and Tristan da Cunha",
+  "countryCode": "SH"
+}

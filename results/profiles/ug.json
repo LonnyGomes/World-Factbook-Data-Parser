@@ -1,0 +1,42 @@
+{
+  "background": "The colonial boundaries created by Britain to delimit Uganda grouped together a wide range of ethnic groups with different political systems and cultures. These differences prevented the establishment of a working political community after independence was achieved in 1962. The dictatorial regime of Idi AMIN (1971-79) was responsible for the deaths of some 300,000 opponents; guerrilla war and human rights abuses under Milton OBOTE (1980-85) claimed at least another 100,000 lives. The rule of Yoweri MUSEVENI since 1986 has brought relative stability and economic growth to Uganda. A constitutional referendum in 2005 cancelled a 19-year ban on multi-party politics.",
+  "geography": {
+    "area": {
+      "land": "197,100 sq km ",
+      "total": "241,038 sq km",
+      "water": "43,938 sq km "
+    },
+    "areaCompare": "slightly smaller than Oregon",
+    "climate": "tropical; generally rainy with two dry seasons (December to February, June to August); semiarid in northeast",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Margherita Peak on Mount Stanley 5,110 m ",
+    "elevationLowest": "Lake Albert 621 m",
+    "environment": {
+      "currIssues": "draining of wetlands for agricultural use; deforestation; overgrazing; soil erosion; water hyacinth infestation in Lake Victoria; widespread poaching",
+      "intlAgreements": {
+        "notRatified": "Environmental Modification ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "12.31  cu m/yr (2005) ",
+      "total": "0.32  cu km/yr (41%/16%/43%)"
+    },
+    "geoCoords": "1 00 N, 32 00 E",
+    "irrigatedLand": "144.2 sq km (2010)",
+    "landBoundaries": "2,698 kmDemocratic Republic of the Congo 765 km, Kenya 933 km, Rwanda 169 km, South Sudan 435 km, Tanzania 396 km ",
+    "landUse": {
+      "arable": "27.94%",
+      "crops": "9.11% ",
+      "other": "62.95% (2011) "
+    },
+    "location": "East-Central Africa, west of Kenya, east of the Democratic Republic of the Congo",
+    "naturalHazards": "NA",
+    "naturalResources": "copper, cobalt, hydropower, limestone, salt, arable land, gold",
+    "notes": "landlocked; fertile, well-watered country with many lakes and rivers",
+    "renewableWater": "66 cu km (2011)",
+    "terrain": "mostly plateau with rim of mountains"
+  },
+  "countryName": "Uganda",
+  "countryCode": "UG"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "Unique among African countries, the ancient Ethiopian monarchy maintained its freedom from colonial rule with the exception of a short-lived Italian occupation from 1936-41. In 1974, a military junta, the Derg, deposed Emperor Haile SELASSIE (who had ruled since 1930) and established a socialist state. Torn by bloody coups, uprisings, wide-scale drought, and massive refugee problems, the regime was finally toppled in 1991 by a coalition of rebel forces, the Ethiopian People's Revolutionary Democratic Front (EPRDF). A constitution was adopted in 1994, and Ethiopia's first multiparty elections were held in 1995. A border war with Eritrea late in the 1990s ended with a peace treaty in December 2000. In November 2007, the Eritrea-Ethiopia Border Commission (EEBC) issued specific coordinates as virtually demarcating the border and pronounced its work finished. Alleging that the EEBC acted beyond its mandate in issuing the coordinates, Ethiopia has not accepted them and has not withdrawn troops from previously contested areas pronounced by the EEBC as belonging to Eritrea. In August 2012, longtime leader Prime Minister MELES Zenawi died in office and was replaced by his Deputy Prime Minister HAILEMARIAM Desalegn, marking the first peaceful transition of power in decades.",
+  "geography": {
+    "area": {
+      "land": "1 million sq km ",
+      "total": "1,104,300 sq km",
+      "water": "104,300 sq km "
+    },
+    "areaCompare": "slightly less than twice the size of Texas",
+    "climate": "tropical monsoon with wide topographic-induced variation",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Ras Dejen 4,533 m ",
+    "elevationLowest": "Danakil Depression -125 m",
+    "environment": {
+      "currIssues": "deforestation; overgrazing; soil erosion; desertification; water shortages in some areas from water-intensive farming and poor management",
+      "intlAgreements": {
+        "notRatified": "Environmental Modification, Law of the Sea ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "80.5  cu m/yr (2005) ",
+      "total": "5.56  cu km/yr (13%/1%/86%)"
+    },
+    "geoCoords": "8 00 N, 38 00 E",
+    "irrigatedLand": "2,896 sq km (2003)",
+    "landBoundaries": "5,925 kmDjibouti 342 km, Eritrea 1,033 km, Kenya 867 km, Somalia 1,640 km, South Sudan 1,299 km, Sudan 744 km ",
+    "landUse": {
+      "arable": "13.19%",
+      "crops": "1.01% ",
+      "other": "85.8% (2011) "
+    },
+    "location": "Eastern Africa, west of Somalia",
+    "naturalHazards": "geologically active Great Rift Valley susceptible to earthquakes, volcanic eruptions; frequent droughtsvolcanic activity in the Great Rift Valley; Erta Ale (elev. 613 m), which has caused frequent lava flows in recent years, is the country's most active volcano; Dabbahu became active in 2005, causing evacuations; other historically active volcanoes include Alayta, Dalaffilla, Dallol, Dama Ali, Fentale, Kone, Manda Hararo, and Manda-Inakir ",
+    "naturalResources": "small reserves of gold, platinum, copper, potash, natural gas, hydropower",
+    "notes": "landlocked - entire coastline along the Red Sea was lost with the de jure independence of Eritrea on 24 May 1993; Ethiopia is, therefore, the most populous landlocked country in the world; the Blue Nile, the chief headstream of the Nile by water volume, rises in T'ana Hayk (Lake Tana) in northwest Ethiopia; three major crops are believed to have originated in Ethiopia: coffee, grain sorghum, and castor bean",
+    "renewableWater": "122 cu km (2011)",
+    "terrain": "high plateau with central mountain range divided by Great Rift Valley"
+  },
+  "countryName": "Ethiopia",
+  "countryCode": "ET"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "The Futuna island group was discovered by the Dutch in 1616 and Wallis by the British in 1767, but it was the French who declared a protectorate over the islands in 1842, and took official control of them between 1886 and 1888. Notably, Wallis and Futuna was the only French colony to side with the Vichy regime during World War II, a phase that ended in May of 1942 with the arrival of 2,000 American troops. In 1959, the inhabitants of the islands voted to become a French overseas territory and officially assumed this status in July 1961.",
+  "geography": {
+    "area": {
+      "land": "142 sq km ",
+      "total": "142 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "1.5 times the size of Washington, DC",
+    "climate": "tropical; hot, rainy season (November to April); cool, dry season (May to October); rains 2,500-3,000 mm per year (80% humidity); average temperature 26.6 degrees C",
+    "coastline": "129 km",
+    "elevationHighest": "Mont Singavi (on Futuna) 765 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation (only small portions of the original forests remain) largely as a result of the continued use of wood as the main fuel source; as a consequence of cutting down the forests, the mountainous terrain of Futuna is particularly prone to erosion; there are no permanent settlements on Alofi because of the lack of natural freshwater resources",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "13 18 S, 176 12 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "7.14%",
+      "crops": "35.71% ",
+      "other": "57.15% (2011) "
+    },
+    "location": "Oceania, islands in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand",
+    "naturalHazards": "NA",
+    "naturalResources": "NEGL",
+    "notes": "both island groups have fringing reefs",
+    "renewableWater": "",
+    "terrain": "volcanic origin; low hills"
+  },
+  "countryName": "Wallis and Futuna",
+  "countryCode": "WF"
+}

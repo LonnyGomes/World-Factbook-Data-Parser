@@ -1,0 +1,42 @@
+{
+  "background": "The French Territory of the Afars and the Issas became Djibouti in 1977. Hassan Gouled APTIDON installed an authoritarian one-party state and proceeded to serve as president until 1999. Unrest among the Afar minority during the 1990s led to a civil war that ended in 2001 with a peace accord between Afar rebels and the Somali Issa-dominated government. In 1999, Djibouti's first multiparty presidential elections resulted in the election of Ismail Omar GUELLEH as president; he was reelected to a second term in 2005 and extended his tenure in office via a constitutional amendment, which allowed him to begin a third term in 2011. Djibouti occupies a strategic geographic location at the intersection of the Red Sea and the Gulf of Aden and serves as an important shipping portal for goods entering and leaving the east African highlands and transshipments between Europe, the Middle East, and Asia. The government holds longstanding ties to France, which maintains a significant military presence in the country, and has strong ties with the United States. Djibouti hosts several thousand members of US armed services at US-run Camp Lemonnier.",
+  "geography": {
+    "area": {
+      "land": "23,180 sq km ",
+      "total": "23,200 sq km",
+      "water": "20 sq km "
+    },
+    "areaCompare": "",
+    "climate": "desert; torrid, dry",
+    "coastline": "314 km",
+    "elevationHighest": "Moussa Ali 2,028 m ",
+    "elevationLowest": "Lac Assal -155 m",
+    "environment": {
+      "currIssues": "inadequate supplies of potable water; limited arable land; desertification; endangered species",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "24.84  cu m/yr (2000) ",
+      "total": "0.02  cu km/yr (84%/0%/16%)"
+    },
+    "geoCoords": "11 30 N, 43 00 E",
+    "irrigatedLand": "10.12 sq km (2003)",
+    "landBoundaries": "528 kmEritrea 125 km, Ethiopia 342 km, Somalia 61 km ",
+    "landUse": {
+      "arable": "0.09%",
+      "crops": "0% ",
+      "other": "99.91% (2011) "
+    },
+    "location": "Eastern Africa, bordering the Gulf of Aden and the Red Sea, between Eritrea and Somalia",
+    "naturalHazards": "earthquakes; droughts; occasional cyclonic disturbances from the Indian Ocean bring heavy rains and flash floodsexperiences limited volcanic activity; Ardoukoba (elev. 298 m) last erupted in 1978; Manda-Inakir, located along the Ethiopian border, is also historically active ",
+    "naturalResources": "potential geothermal power, gold, clay, granite, limestone, marble, salt, diatomite, gypsum, pumice, petroleum",
+    "notes": "strategic location near world's busiest shipping lanes and close to Arabian oilfields; terminus of rail traffic into Ethiopia; mostly wasteland; Lac Assal (Lake Assal) is the lowest point in Africa and the saltiest lake in the world",
+    "renewableWater": "0.3 cu km (2011)",
+    "terrain": "coastal plain and plateau separated by central mountains"
+  },
+  "countryName": "Djibouti",
+  "countryCode": "DJ"
+}

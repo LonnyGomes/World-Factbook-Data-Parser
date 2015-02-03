@@ -1,0 +1,42 @@
+{
+  "background": "The Bulgars, a Central Asian Turkic tribe, merged with the local Slavic inhabitants in the late 7th century to form the first Bulgarian state. In succeeding centuries, Bulgaria struggled with the Byzantine Empire to assert its place in the Balkans, but by the end of the 14th century the country was overrun by the Ottoman Turks. Northern Bulgaria attained autonomy in 1878 and all of Bulgaria became independent from the Ottoman Empire in 1908. Having fought on the losing side in both World Wars, Bulgaria fell within the Soviet sphere of influence and became a People's Republic in 1946. Communist domination ended in 1990, when Bulgaria held its first multiparty election since World War II and began the contentious process of moving toward political democracy and a market economy while combating inflation, unemployment, corruption, and crime. The country joined NATO in 2004 and the EU in 2007.",
+  "geography": {
+    "area": {
+      "land": "108,489 sq km ",
+      "total": "110,879 sq km",
+      "water": "2,390 sq km "
+    },
+    "areaCompare": "slightly larger than Tennessee",
+    "climate": "temperate; cold, damp winters; hot, dry summers",
+    "coastline": "354 km",
+    "elevationHighest": "Musala 2,925 m ",
+    "elevationLowest": "Black Sea 0 m",
+    "environment": {
+      "currIssues": "air pollution from industrial emissions; rivers polluted from raw sewage, heavy metals, detergents; deforestation; forest damage from air pollution and resulting acid rain; soil contamination from heavy metals from metallurgical plants and industrial wastes",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "821.8  cu m/yr (2009) ",
+      "total": "6.12  cu km/yr (16%/68%/16%)"
+    },
+    "geoCoords": "43 00 N, 25 00 E",
+    "irrigatedLand": "1,046 sq km (2007)",
+    "landBoundaries": "1,806 kmGreece 472 km, Macedonia 162 km, Romania 605 km, Serbia 344 km, Turkey 223 km ",
+    "landUse": {
+      "arable": "29.28%",
+      "crops": "1.44% ",
+      "other": "69.28% (2011) "
+    },
+    "location": "Southeastern Europe, bordering the Black Sea, between Romania and Turkey",
+    "naturalHazards": "earthquakes; landslides",
+    "naturalResources": "bauxite, copper, lead, zinc, coal, timber, arable land",
+    "notes": "strategic location near Turkish Straits; controls key land routes from Europe to Middle East and Asia",
+    "renewableWater": "21.3 cu km (2011)",
+    "terrain": "mostly mountains with lowlands in north and southeast"
+  },
+  "countryName": "Bulgaria",
+  "countryCode": "BU"
+}

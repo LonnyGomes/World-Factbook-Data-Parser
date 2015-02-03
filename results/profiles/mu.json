@@ -1,0 +1,42 @@
+{
+  "background": "The inhabitants of the area of Oman have long prospered on Indian Ocean trade. In the late 18th century, a newly established sultanate in Muscat signed the first in a series of friendship treaties with Britain. Over time, Oman's dependence on British political and military advisors increased, but it never became a British colony. In 1970, QABOOS bin Said Al-Said overthrew his father, and he has since ruled as sultan. His extensive modernization program has opened the country to the outside world while preserving the longstanding close ties with the UK. Oman's moderate, independent foreign policy has sought to maintain good relations with all Middle Eastern countries. Inspired by the popular uprisings that swept the Middle East and North Africa beginning in January 2011, some Omanis began staging marches, demonstrations, and sit-ins calling mostly for more jobs and economic benefits and an end to corruption. In response to those protester demands, QABOOS in 2011 pledged to implement economic and political reforms, such as granting legislative and regulatory powers to the Majlis al-Shura and introducing unemployment benefits. Additionally, in August 2012, the Sultan announced a royal directive mandating the speedy implementation of a national job creation plan for thousands of public and private sector jobs. As part of the government's efforts to decentralize authority and allow greater citizen participation in local governance, Oman successfully conducted its first municipal council elections in December 2012. Announced by the Sultan in 2011, the municipal councils will have the power to advise the Royal Court on the needs of local districts across Oman's 11 governorates.",
+  "geography": {
+    "area": {
+      "land": "309,500 sq km ",
+      "total": "309,500 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly smaller than Kansas",
+    "climate": "dry desert; hot, humid along coast; hot, dry interior; strong southwest summer monsoon (May to September) in far south",
+    "coastline": "2,092 km",
+    "elevationHighest": "Jabal Shams 2,980 m ",
+    "elevationLowest": "Arabian Sea 0 m",
+    "environment": {
+      "currIssues": "rising soil salinity; beach pollution from oil spills; limited natural freshwater resources",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "515.8  cu m/yr (2003) ",
+      "total": "1.32  cu km/yr (10%/1%/88%)"
+    },
+    "geoCoords": "21 00 N, 57 00 E",
+    "irrigatedLand": "588.5 sq km (2004)",
+    "landBoundaries": "1,573 kmSaudi Arabia 676 km, UAE 609 km, Yemen 288 km ",
+    "landUse": {
+      "arable": "0.1%",
+      "crops": "0.12% ",
+      "other": "99.77% (2011) "
+    },
+    "location": "Middle East, bordering the Arabian Sea, Gulf of Oman, and Persian Gulf, between Yemen and UAE",
+    "naturalHazards": "summer winds often raise large sandstorms and dust storms in interior; periodic droughts",
+    "naturalResources": "petroleum, copper, asbestos, some marble, limestone, chromium, gypsum, natural gas",
+    "notes": "strategic location on Musandam Peninsula adjacent to Strait of Hormuz, a vital transit point for world crude oil",
+    "renewableWater": "1.4 cu km (2011)",
+    "terrain": "central desert plain, rugged mountains in north and south"
+  },
+  "countryName": "Oman",
+  "countryCode": "MU"
+}

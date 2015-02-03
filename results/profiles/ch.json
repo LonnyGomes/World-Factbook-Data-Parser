@@ -1,0 +1,42 @@
+{
+  "background": "For centuries China stood as a leading civilization, outpacing the rest of the world in the arts and sciences, but in the 19th and early 20th centuries, the country was beset by civil unrest, major famines, military defeats, and foreign occupation. After World War II, the communists under MAO Zedong established an autocratic socialist system that, while ensuring China's sovereignty, imposed strict controls over everyday life and cost the lives of tens of millions of people. After 1978, MAO's successor DENG Xiaoping and other leaders focused on market-oriented economic development and by 2000 output had quadrupled. For much of the population, living standards have improved dramatically and the room for personal choice has expanded, yet political controls remain tight. Since the early 1990s, China has increased its global outreach and participation in international organizations.",
+  "geography": {
+    "area": {
+      "land": "9,326,410 sq km ",
+      "total": "9,596,960 sq km",
+      "water": "270,550 sq km "
+    },
+    "areaCompare": "",
+    "climate": "extremely diverse; tropical in south to subarctic in north",
+    "coastline": "14,500 km",
+    "elevationHighest": "Mount Everest 8,850 m (highest point in Asia) ",
+    "elevationLowest": "Turpan Pendi -154 m",
+    "environment": {
+      "currIssues": "air pollution (greenhouse gases, sulfur dioxide particulates) from reliance on coal produces acid rain; China is the world's largest single emitter of carbon dioxide from the burning of fossil fuels; water shortages, particularly in the north; water pollution from untreated wastes; deforestation; estimated loss of one-fifth of agricultural land since 1949 to soil erosion and economic development; desertification; trade in endangered species",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Antarctic-Environmental Protocol, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "409.9  cu m/yr (2005) ",
+      "total": "554.1  cu km/yr (12%/23%/65%)"
+    },
+    "geoCoords": "35 00 N, 105 00 E",
+    "irrigatedLand": "629,380 sq km (2006)",
+    "landBoundaries": "22,457 kmAfghanistan 91 km, Bhutan 477 km, Burma 2,129 km, India 2,659 km, Kazakhstan 1,765 km, North Korea 1,352 km, Kyrgyzstan 1,063 km, Laos 475 km, Mongolia 4,630 km, Nepal 1,389 km, Pakistan 438 km, Russia (northeast) 4,139 km, Russia (northwest) 40 km, Tajikistan 477 km, Vietnam 1,297 km Hong Kong 33 km, Macau 3 km ",
+    "landUse": {
+      "arable": "11.62%",
+      "crops": "1.53% ",
+      "other": "86.84% (2011) "
+    },
+    "location": "Eastern Asia, bordering the East China Sea, Korea Bay, Yellow Sea, and South China Sea, between North Korea and Vietnam",
+    "naturalHazards": "frequent typhoons (about five per year along southern and eastern coasts); damaging floods; tsunamis; earthquakes; droughts; land subsidenceChina contains some historically active volcanoes including Changbaishan (also known as Baitoushan, Baegdu, or P'aektu-san), Hainan Dao, and Kunlun although most have been relatively inactive in recent centuries ",
+    "naturalResources": "coal, iron ore, petroleum, natural gas, mercury, tin, tungsten, antimony, manganese, molybdenum, vanadium, magnetite, aluminum, lead, zinc, rare earth elements, uranium, hydropower potential (world's largest)",
+    "notes": "world's fourth largest country (after Russia, Canada, and US) and largest country situated entirely in Asia; Mount Everest on the border with Nepal is the world's tallest peak",
+    "renewableWater": "2,840 cu km (2011)",
+    "terrain": "mostly mountains, high plateaus, deserts in west; plains, deltas, and hills in east"
+  },
+  "countryName": "China",
+  "countryCode": "CH"
+}

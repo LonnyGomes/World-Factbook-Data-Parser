@@ -1,0 +1,42 @@
+{
+  "background": "Belgium became independent from the Netherlands in 1830; it was occupied by Germany during World Wars I and II. The country prospered in the past half century as a modern, technologically advanced European state and member of NATO and the EU. Political divisions between the Dutch-speaking Flemings of the north and the French-speaking Walloons of the south have led in recent years to constitutional amendments granting these regions formal recognition and autonomy. Its capital, Brussels, is home to numerous international organizations including the EU and NATO.",
+  "geography": {
+    "area": {
+      "land": "30,278 sq km ",
+      "total": "30,528 sq km",
+      "water": "250 sq km "
+    },
+    "areaCompare": "about the size of Maryland",
+    "climate": "temperate; mild winters, cool summers; rainy, humid, cloudy",
+    "coastline": "66.5 km",
+    "elevationHighest": "Botrange 694 m ",
+    "elevationLowest": "North Sea 0 m",
+    "environment": {
+      "currIssues": "the environment is exposed to intense pressures from human activities: urbanization, dense transportation network, industry, extensive animal breeding and crop cultivation; air and water pollution also have repercussions for neighboring countries; uncertainties regarding federal and regional responsibilities (now resolved) had slowed progress in tackling environmental challenges",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "589.8  cu m/yr (2007) ",
+      "total": "6.22  cu km/yr (12%/88%/1%)"
+    },
+    "geoCoords": "50 50 N, 4 00 E",
+    "irrigatedLand": "233.5 sq km (2007)",
+    "landBoundaries": "1,297 kmFrance 556 km, Germany 133 km, Luxembourg 130 km, Netherlands 478 km ",
+    "landUse": {
+      "arable": "27.06%",
+      "crops": "0.72% ",
+      "other": "72.22% "
+    },
+    "location": "Western Europe, bordering the North Sea, between France and the Netherlands",
+    "naturalHazards": "flooding is a threat along rivers and in areas of reclaimed coastal land, protected from the sea by concrete dikes",
+    "naturalResources": "construction materials, silica sand, carbonates",
+    "notes": "crossroads of Western Europe; most West European capitals within 1,000 km of Brussels, the seat of both the European Union and NATO",
+    "renewableWater": "18.3 cu km (2011)",
+    "terrain": "flat coastal plains in northwest, central rolling hills, rugged mountains of Ardennes Forest in southeast"
+  },
+  "countryName": "Belgium",
+  "countryCode": "BE"
+}

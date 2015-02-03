@@ -1,0 +1,42 @@
+{
+  "background": "An independent kingdom for much of its long history, Korea was occupied by Japan beginning in 1905 following the Russo-Japanese War. Five years later, Japan formally annexed the entire peninsula. Following World War II, Korea was split with the northern half coming under Soviet-sponsored communist control. After failing in the Korean War (1950-53) to conquer the US-backed Republic of Korea (ROK) in the southern portion by force, North Korea (DPRK), under its founder President KIM Il Sung, adopted a policy of ostensible diplomatic and economic \"self-reliance\" as a check against outside influence. The DPRK demonized the US as the ultimate threat to its social system through state-funded propaganda, and molded political, economic, and military policies around the core ideological objective of eventual unification of Korea under Pyongyang's control. KIM Il Sung's son, KIM Jong Il, was officially designated as his father's successor in 1980, assuming a growing political and managerial role until the elder KIM's death in 1994. KIM Jong Un was publicly unveiled as his father's successor in September 2010. Following KIM Jong Il's death in December 2011, the regime began to take actions to transfer power to KIM Jong Un and KIM has now assumed many his father's former titles and duties. After decades of economic mismanagement and resource misallocation, the DPRK since the mid-1990s has relied heavily on international aid to feed its population. The DPRK began to ease restrictions to allow semi-private markets, starting in 2002, but then sought to roll back the scale of economic reforms in 2005 and 2009. North Korea's history of regional military provocations; proliferation of military-related items; long-range missile development; WMD programs including tests of nuclear devices in 2006, 2009, and 2013; and massive conventional armed forces are of major concern to the international community. The regime in 2013 announced a new policy calling for the simultaneous development of the North's nuclear weapons program and its economy.",
+  "geography": {
+    "area": {
+      "land": "120,408 sq km ",
+      "total": "120,538 sq km",
+      "water": "130 sq km "
+    },
+    "areaCompare": "",
+    "climate": "temperate with rainfall concentrated in summer",
+    "coastline": "2,495 km",
+    "elevationHighest": "Paektu-san 2,744 m ",
+    "elevationLowest": "Sea of Japan 0 m",
+    "environment": {
+      "currIssues": "water pollution; inadequate supplies of potable water; waterborne disease; deforestation; soil erosion and degradation",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Environmental Modification, Hazardous Wastes, Ozone Layer Protection, Ship Pollution"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "360.6  cu m/yr (2005) ",
+      "total": "8.66  cu km/yr (10%/13%/76%)"
+    },
+    "geoCoords": "40 00 N, 127 00 E",
+    "irrigatedLand": "14,600 sq km (2003)",
+    "landBoundaries": "1,672 kmChina 1,416 km, South Korea 238 km, Russia 18 km ",
+    "landUse": {
+      "arable": "19.08%",
+      "crops": "1.7% ",
+      "other": "79.22% (2011) "
+    },
+    "location": "Eastern Asia, northern half of the Korean Peninsula bordering the Korea Bay and the Sea of Japan, between China and South Korea",
+    "naturalHazards": "late spring droughts often followed by severe flooding; occasional typhoons during the early fallChangbaishan (elev. 2,744 m) (also known as Baitoushan, Baegdu or P'aektu-san), on the Chinese border, is considered historically active ",
+    "naturalResources": "coal, lead, tungsten, zinc, graphite, magnesite, iron ore, copper, gold, pyrites, salt, fluorspar, hydropower",
+    "notes": "strategic location bordering China, South Korea, and Russia; mountainous interior is isolated and sparsely populated",
+    "renewableWater": "77.15 cu km (2011)",
+    "terrain": "mostly hills and mountains separated by deep, narrow valleys; coastal plains wide in west, discontinuous in east"
+  },
+  "countryName": "Korea, North",
+  "countryCode": "KN"
+}

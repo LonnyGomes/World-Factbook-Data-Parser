@@ -1,0 +1,42 @@
+{
+  "background": "In 1816, the United Provinces of the Rio Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political conflict between Federalists and Unitarians and between civilian and military factions. After World War II, an era of Peronist populism and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. In January 2013, Argentina assumed a nonpermanent seat on the UN Security Council for the 2013-14 term.",
+  "geography": {
+    "area": {
+      "land": "2,736,690 sq km ",
+      "total": "2,780,400 sq km",
+      "water": "43,710 sq km "
+    },
+    "areaCompare": "",
+    "climate": "mostly temperate; arid in southeast; subantarctic in southwest",
+    "coastline": "4,989 km",
+    "elevationHighest": "Cerro Aconcagua 6,960 m (located in the northwestern corner of the province of Mendoza; highest point in South America) ",
+    "elevationLowest": "Laguna del Carbon -105 m (located between Puerto San Julian and Comandante Luis Piedra Buena in the province of Santa Cruz)",
+    "environment": {
+      "currIssues": "environmental problems (urban and rural) typical of an industrializing economy such as deforestation, soil degradation, desertification, air pollution, and water pollutionArgentina is a world leader in setting voluntary greenhouse gas targets ",
+      "intlAgreements": {
+        "notRatified": "Marine Life Conservation ",
+        "partyTo": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "864.9  cu m/yr (2005) ",
+      "total": "32.57  cu km/yr (23%/13%/64%)"
+    },
+    "geoCoords": "34 00 S, 64 00 W",
+    "irrigatedLand": "15,500 sq km (2003)",
+    "landBoundaries": "11,968 kmBolivia 942 km, Brazil 1,263 km, Chile 6,691 km, Paraguay 2,531 km, Uruguay 541 km ",
+    "landUse": {
+      "arable": "13.68%",
+      "crops": "0.36% ",
+      "other": "85.96% (2011) "
+    },
+    "location": "Southern South America, bordering the South Atlantic Ocean, between Chile and Uruguay",
+    "naturalHazards": "San Miguel de Tucuman and Mendoza areas in the Andes subject to earthquakes; pamperos are violent windstorms that can strike the pampas and northeast; heavy flooding in some areasvolcanic activity in the Andes Mountains along the Chilean border; Copahue (elev. 2,997 m) last erupted in 2000; other historically active volcanoes include Llullaillaco, Maipo, Planchon-Peteroa, San Jose, Tromen, Tupungatito, and Viedma ",
+    "naturalResources": "fertile plains of the pampas, lead, zinc, tin, copper, iron ore, manganese, petroleum, uranium",
+    "notes": "second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carbon is the lowest point in the Western Hemisphere",
+    "renewableWater": "814 cu km (2011)",
+    "terrain": "rich plains of the Pampas in northern half, flat to rolling plateau of Patagonia in south, rugged Andes along western border"
+  },
+  "countryName": "Argentina",
+  "countryCode": "AR"
+}

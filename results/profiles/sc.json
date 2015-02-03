@@ -1,0 +1,42 @@
+{
+  "background": "Carib Indians occupied the islands of the West Indies for hundreds of years before the British began settlement in 1623. In 1967, the island territory of Saint Christopher-Nevis-Anguilla became an associated state of the UK with full internal autonomy. The island of Anguilla rebelled and was allowed to secede in 1971. The remaining islands achieved independence in 1983 as Saint Kitts and Nevis. In 1998, a vote in Nevis on a referendum to separate from Saint Kitts fell short of the two-thirds majority needed. Nevis continues in its efforts to separate from Saint Kitts.",
+  "geography": {
+    "area": {
+      "land": "261 sq km ",
+      "total": "261 sq km (Saint Kitts 168 sq km; Nevis 93 sq km)",
+      "water": "0 sq km "
+    },
+    "areaCompare": "one and a half times the size of Washington, DC",
+    "climate": "tropical, tempered by constant sea breezes; little seasonal temperature variation; rainy season (May to November)",
+    "coastline": "135 km",
+    "elevationHighest": "Mount Liamuiga 1,156 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "17 20 N, 62 45 W",
+    "irrigatedLand": "0.18 sq km (2003)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "19.23%",
+      "crops": "0.38% ",
+      "other": "80.38% (2011) "
+    },
+    "location": "Caribbean, islands in the Caribbean Sea, about one-third of the way from Puerto Rico to Trinidad and Tobago",
+    "naturalHazards": "hurricanes (July to October)",
+    "naturalResources": "arable land",
+    "notes": "smallest country in the Americas and Western Hemisphere; with coastlines in the shape of a baseball bat and ball, the two volcanic islands are separated by a 3-km-wide channel called The Narrows; on the southern tip of long, baseball bat-shaped Saint Kitts lies the Great Salt Pond; Nevis Peak sits in the center of its almost circular namesake island and its ball shape complements that of its sister island",
+    "renewableWater": "0.02 cu km (2011)",
+    "terrain": "volcanic with mountainous interiors"
+  },
+  "countryName": "Saint Kitts and Nevis",
+  "countryCode": "SC"
+}

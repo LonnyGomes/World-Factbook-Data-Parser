@@ -1,0 +1,42 @@
+{
+  "background": "The Maya civilization flourished in Guatemala and surrounding regions during the first millennium A.D. After almost three centuries as a Spanish colony, Guatemala won its independence in 1821. During the second half of the 20th century, it experienced a variety of military and civilian governments, as well as a 36-year guerrilla war. In 1996, the government signed a peace agreement formally ending the internal conflict, which had left more than 200,000 people dead and had created, by some estimates, about 1 million refugees.",
+  "geography": {
+    "area": {
+      "land": "107,159 sq km ",
+      "total": "108,889 sq km",
+      "water": "1,730 sq km "
+    },
+    "areaCompare": "",
+    "climate": "tropical; hot, humid in lowlands; cooler in highlands",
+    "coastline": "400 km",
+    "elevationHighest": "Volcan Tajumulco 4,211 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation in the Peten rainforest; soil erosion; water pollution",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "259.1  cu m/yr (2006) ",
+      "total": "3.46  cu km/yr (15%/31%/54%)"
+    },
+    "geoCoords": "15 30 N, 90 15 W",
+    "irrigatedLand": "3,121 sq km (2003)",
+    "landBoundaries": "1,667 kmBelize 266 km, El Salvador 199 km, Honduras 244 km, Mexico 958 km ",
+    "landUse": {
+      "arable": "13.78%",
+      "crops": "8.68% ",
+      "other": "77.55% (2011) "
+    },
+    "location": "Central America, bordering the North Pacific Ocean, between El Salvador and Mexico, and bordering the Gulf of Honduras (Caribbean Sea) between Honduras and Belize",
+    "naturalHazards": "numerous volcanoes in mountains, with occasional violent earthquakes; Caribbean coast extremely susceptible to hurricanes and other tropical stormssignificant volcanic activity in the Sierra Madre range; Santa Maria (elev. 3,772 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Pacaya (elev. 2,552 m), which erupted in May 2010 causing an ashfall on Guatemala City and prompting evacuations, is one of the country's most active volcanoes with frequent eruptions since 1965; other historically active volcanoes include Acatenango, Almolonga, Atitlan, Fuego, and Tacana ",
+    "naturalResources": "petroleum, nickel, rare woods, fish, chicle, hydropower",
+    "notes": "no natural harbors on west coast",
+    "renewableWater": "111.3 cu km (2011)",
+    "terrain": "mostly mountains with narrow coastal plains and rolling limestone plateau"
+  },
+  "countryName": "Guatemala",
+  "countryCode": "GT"
+}

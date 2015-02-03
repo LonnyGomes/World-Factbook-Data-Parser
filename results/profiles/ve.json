@@ -1,0 +1,42 @@
+{
+  "background": "Venezuela was one of three countries that emerged from the collapse of Gran Colombia in 1830 (the others being Ecuador and New Granada, which became Colombia). For most of the first half of the 20th century, Venezuela was ruled by generally benevolent military strongmen, who promoted the oil industry and allowed for some social reforms. Democratically elected governments have held sway since 1959. Hugo CHAVEZ, president from 1999 to 2013, sought to implement his \"21st Century Socialism,\" which purported to alleviate social ills while at the same time attacking capitalist globalization and existing democratic institutions. His hand-picked successor, President Nicolas MADURO, continues CHAVEZ's socialist programs. Current concerns include: a weakening of democratic institutions, political polarization, a politicized military, rampant violent crime, overdependence on the petroleum industry with its price fluctuations, foreign exchange controls that discourage private-sector investment, high inflation, a decline in the quality of fundamental houman rights, and widespread scarcity of consumer goods.",
+  "geography": {
+    "area": {
+      "land": "882,050 sq km ",
+      "total": "912,050 sq km",
+      "water": "30,000 sq km "
+    },
+    "areaCompare": "",
+    "climate": "tropical; hot, humid; more moderate in highlands",
+    "coastline": "2,800 km",
+    "elevationHighest": "Pico Bolivar 5,007 m ",
+    "elevationLowest": "Caribbean Sea 0 m",
+    "environment": {
+      "currIssues": "sewage pollution of Lago de Valencia; oil and urban pollution of Lago de Maracaibo; deforestation; soil degradation; urban and industrial pollution, especially along the Caribbean coast; threat to the rainforest ecosystem from irresponsible mining operations",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": "Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "358.6  cu m/yr (2008) ",
+      "total": "9.06  cu km/yr (23%/4%/74%)"
+    },
+    "geoCoords": "8 00 N, 66 00 W",
+    "irrigatedLand": "10,550 sq km (2008)",
+    "landBoundaries": "4,993 kmBrazil 2,200 km, Colombia 2,050 km, Guyana 743 km ",
+    "landUse": {
+      "arable": "2.85%",
+      "crops": "0.71% ",
+      "other": "96.44% (2011) "
+    },
+    "location": "Northern South America, bordering the Caribbean Sea and the North Atlantic Ocean, between Colombia and Guyana",
+    "naturalHazards": "subject to floods, rockslides, mudslides; periodic droughts",
+    "naturalResources": "petroleum, natural gas, iron ore, gold, bauxite, other minerals, hydropower, diamonds",
+    "notes": "on major sea and air routes linking North and South America; Angel Falls in the Guiana Highlands is the world's highest waterfall",
+    "renewableWater": "1,233 cu km (2011)",
+    "terrain": "Andes Mountains and Maracaibo Lowlands in northwest; central plains (llanos); Guiana Highlands in southeast"
+  },
+  "countryName": "Venezuela",
+  "countryCode": "VE"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "Great Britain formally acquired possession of Malta in 1814. The island staunchly supported the UK through both world wars and remained in the Commonwealth when it became independent in 1964; a decade later it declared itself a republic. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination. Malta became an EU member in May 2004 and began using the euro as currency in 2008.",
+  "geography": {
+    "area": {
+      "land": "316 sq km ",
+      "total": "316 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly less than twice the size of Washington, DC",
+    "climate": "Mediterranean; mild, rainy winters; hot, dry summers",
+    "coastline": "196.8 km (excludes 56 km for the island of Gozo)",
+    "elevationHighest": "Ta'Dmejrek 253 m (near Dingli) ",
+    "elevationLowest": "Mediterranean Sea 0 m",
+    "environment": {
+      "currIssues": "limited natural freshwater resources; increasing reliance on desalination",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "134.1  cu m/yr (2009) ",
+      "total": "0.05  cu km/yr (64%/1%/35%)"
+    },
+    "geoCoords": "35 50 N, 14 35 E",
+    "irrigatedLand": "32 sq km (2007)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "28.12%",
+      "crops": "4.06% ",
+      "other": "67.81% (2011) "
+    },
+    "location": "Southern Europe, islands in the Mediterranean Sea, south of Sicily (Italy)",
+    "naturalHazards": "NA",
+    "naturalResources": "limestone, salt, arable land",
+    "notes": "the country comprises an archipelago, with only the three largest islands (Malta, Ghawdex or Gozo, and Kemmuna or Comino) being inhabited; numerous bays provide good harbors; Malta and Tunisia are discussing the commercial exploitation of the continental shelf between their countries, particularly for oil exploration",
+    "renewableWater": "0.05 cu km (2011)",
+    "terrain": "mostly low, rocky, flat to dissected plains; many coastal cliffs"
+  },
+  "countryName": "Malta",
+  "countryCode": "MT"
+}

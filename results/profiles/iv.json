@@ -1,0 +1,42 @@
+{
+  "background": "Close ties to France following independence in 1960, the development of cocoa production for export, and foreign investment all made Cote d'Ivoire one of the most prosperous of the West African states but did not protect it from political turmoil. In December 1999, a military coup - the first ever in Cote d'Ivoire's history - overthrew the government. Junta leader Robert GUEI blatantly rigged elections held in late 2000 and declared himself the winner. Popular protest forced him to step aside and brought Laurent GBAGBO into power. Ivorian dissidents and disaffected members of the military launched a failed coup attempt in September 2002 that developed into a rebellion and then a civil war. The war ended in 2003 with a cease fire that left the country divided with the rebels holding the north, the government the south, and peacekeeping forces a buffer zone between the two. In March 2007, President GBAGBO and former New Forces rebel leader Guillaume SORO signed an agreement in which SORO joined GBAGBO's government as prime minister and the two agreed to reunite the country by dismantling the buffer zone, integrating rebel forces into the national armed forces, and holding elections. Difficulties in preparing electoral registers delayed balloting until 2010. In November 2010, Alassane Dramane OUATTARA won the presidential election over GBAGBO, but GBAGBO refused to hand over power, resulting in a five-month stand-off. In April 2011, after widespread fighting, GBAGBO was formally forced from office by armed OUATTARA supporters with the help of UN and French forces. Several thousand UN peacekeepers and several hundred French troops remain in Cote d'Ivoire to support the transition process. OUATTARA is focused on rebuilding the country's infrastructure and military after the five months of post-electoral fighting and faces ongoing threats from GBAGBO supporters, many of whom have sought shelter in Ghana. GBAGBO is in The Hague awaiting trial for crimes against humanity.",
+  "geography": {
+    "area": {
+      "land": "318,003 sq km ",
+      "total": "322,463 sq km",
+      "water": "4,460 sq km "
+    },
+    "areaCompare": "slightly larger than New Mexico",
+    "climate": "tropical along coast, semiarid in far north; three seasons - warm and dry (November to March), hot and dry (March to May), hot and wet (June to October)",
+    "coastline": "515 km",
+    "elevationHighest": "Monts Nimba 1,752 m ",
+    "elevationLowest": "Gulf of Guinea 0 m",
+    "environment": {
+      "currIssues": "deforestation (most of the country's forests - once the largest in West Africa - have been heavily logged); water pollution from sewage and industrial and agricultural effluents",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "83.07  cu m/yr (2008) ",
+      "total": "1.55  cu km/yr (41%/21%/38%)"
+    },
+    "geoCoords": "8 00 N, 5 00 W",
+    "irrigatedLand": "727.5 sq km (2003)",
+    "landBoundaries": "3,458 kmBurkina Faso 545 km, Ghana 720 km, Guinea 816 km, Liberia 778 km, Mali 599 km ",
+    "landUse": {
+      "arable": "8.99%",
+      "crops": "13.65% ",
+      "other": "77.36% (2011) "
+    },
+    "location": "Western Africa, bordering the North Atlantic Ocean, between Ghana and Liberia",
+    "naturalHazards": "coast has heavy surf and no natural harbors; during the rainy season torrential flooding is possible",
+    "naturalResources": "petroleum, natural gas, diamonds, manganese, iron ore, cobalt, bauxite, copper, gold, nickel, tantalum, silica sand, clay, cocoa beans, coffee, palm oil, hydropower",
+    "notes": "most of the inhabitants live along the sandy coastal region; apart from the capital area, the forested interior is sparsely populated",
+    "renewableWater": "81.14 cu km (2011)",
+    "terrain": "mostly flat to undulating plains; mountains in northwest"
+  },
+  "countryName": "Cote d'Ivoire",
+  "countryCode": "IV"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "Western Sahara is a disputed territory on the northwest coast of Africa bordered by Morocco, Mauritania, and Algeria. After Spain withdrew from its former colony of Spanish Sahara in 1976, Morocco annexed the northern two-thirds of Western Sahara and claimed the rest of the territory in 1979, following Mauritania's withdrawal. A guerrilla war with the Polisario Front contesting Morocco's sovereignty ended in a 1991 cease-fire and the establishment of a UN peacekeeping operation. As part of this effort, the UN sought to offer a choice to the peoples of the Western Sahara between independence (favored by the Polisario Front) or integration into Morocco. A proposed referendum never took place due to lack of agreement on voter eligibility. The 2,700 km- (1,700 mi-) long defensive sand berm, built by the Moroccans from 1980 to 1987 and running the length of the territory, continues to separate the opposing forces with Morocco controlling the roughly 80 percent of the territory west of the berm. Local demonstrations criticizing the Moroccan authorities occur regularly, and there are periodic ethnic tensions between the native Sahrawi population and Moroccan immigrants. Morocco maintains a heavy security presence in the territory.",
+  "geography": {
+    "area": {
+      "land": "266,000 sq km ",
+      "total": "266,000 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "about the size of Colorado",
+    "climate": "hot, dry desert; rain is rare; cold offshore air currents produce fog and heavy dew",
+    "coastline": "1,110 km",
+    "elevationHighest": "unnamed elevation 805 m ",
+    "elevationLowest": "Sebjet Tah -55 m",
+    "environment": {
+      "currIssues": "sparse water and lack of arable land",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": "none of the selected agreements"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "24 30 N, 13 00 W",
+    "irrigatedLand": "NA",
+    "landBoundaries": "2,046 kmAlgeria 42 km, Mauritania 1,561 km, Morocco 443 km ",
+    "landUse": {
+      "arable": "0.02%",
+      "crops": "0% ",
+      "other": "99.98% (2011) "
+    },
+    "location": "Northern Africa, bordering the North Atlantic Ocean, between Mauritania and Morocco",
+    "naturalHazards": "hot, dry, dust/sand-laden sirocco wind can occur during winter and spring; widespread harmattan haze exists 60% of time, often severely restricting visibility",
+    "naturalResources": "phosphates, iron ore",
+    "notes": "the waters off the coast are particularly rich fishing areas",
+    "renewableWater": "",
+    "terrain": "mostly low, flat desert with large areas of rocky or sandy surfaces rising to small mountains in south and northeast"
+  },
+  "countryName": "Western Sahara",
+  "countryCode": "WI"
+}

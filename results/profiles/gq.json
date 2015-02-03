@@ -1,0 +1,42 @@
+{
+  "background": "Spain ceded Guam to the US in 1898. Captured by the Japanese in 1941, it was retaken by the US three years later. The military installations on the island are some of the most strategically important US bases in the Pacific.",
+  "geography": {
+    "area": {
+      "land": "544 sq km ",
+      "total": "544 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "three times the size of Washington, DC",
+    "climate": "tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation",
+    "coastline": "125.5 km",
+    "elevationHighest": "Mount Lamlam 406 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "extirpation of native bird population by the rapid proliferation of the brown tree snake, an exotic, invasive species",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": ""
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "13 28 N, 144 47 E",
+    "irrigatedLand": "2 sq km (2011)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "1.85%",
+      "crops": "16.67% ",
+      "other": "81.48% (2011) "
+    },
+    "location": "Oceania, island in the North Pacific Ocean, about three-quarters of the way from Hawaii to the Philippines",
+    "naturalHazards": "frequent squalls during rainy season; relatively rare but potentially destructive typhoons (June to December)",
+    "naturalResources": "aquatic wildlife (supporting tourism), fishing (largely undeveloped)",
+    "notes": "largest and southernmost island in the Mariana Islands archipelago; strategic location in western North Pacific Ocean",
+    "renewableWater": "",
+    "terrain": "volcanic origin, surrounded by coral reefs; relatively flat coralline limestone plateau (source of most fresh water), with steep coastal cliffs and narrow coastal plains in north, low hills in center, mountains in south"
+  },
+  "countryName": "Guam",
+  "countryCode": "GQ"
+}

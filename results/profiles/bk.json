@@ -1,0 +1,42 @@
+{
+  "background": "Bosnia and Herzegovina declared sovereignty in October 1991 and independence from the former Yugoslavia on 3 March 1992 after a referendum boycotted by ethnic Serbs. The Bosnian Serbs - supported by neighboring Serbia and Montenegro - responded with armed resistance aimed at partitioning the republic along ethnic lines and joining Serb-held areas to form a \"Greater Serbia.\" In March 1994, Bosniaks and Croats reduced the number of warring factions from three to two by signing an agreement creating a joint Bosniak/Croat Federation of Bosnia and Herzegovina. On 21 November 1995, in Dayton, Ohio, the warring parties initialed a peace agreement that ended three years of interethnic civil strife (the final agreement was signed in Paris on 14 December 1995). The Dayton Peace Accords retained Bosnia and Herzegovina's international boundaries and created a multi-ethnic and democratic government charged with conducting foreign, diplomatic, and fiscal policy. Also recognized was a second tier of government composed of two entities roughly equal in size: the Bosniak/Bosnian Croat Federation of Bosnia and Herzegovina and the Bosnian Serb-led Republika Srpska (RS). The Federation and RS governments are responsible for overseeing most government functions. Additionally, the Dayton Accords established the Office of the High Representative (OHR) to oversee the implementation of the civilian aspects of the agreement. The Peace Implementation Council (PIC) at its conference in Bonn in 1997 also gave the High Representative the authority to impose legislation and remove officials, the so-called \"Bonn Powers.\" An original NATO-led international peacekeeping force (IFOR) of 60,000 troops assembled in 1995 was succeeded over time by a smaller, NATO-led Stabilization Force (SFOR). In 2004, European Union peacekeeping troops (EUFOR) replaced SFOR. Currently EUFOR deploys around 600 troops in theater in a policing capacity.",
+  "geography": {
+    "area": {
+      "land": "51,187 sq km ",
+      "total": "51,197 sq km",
+      "water": "10 sq km "
+    },
+    "areaCompare": "slightly smaller than West Virginia",
+    "climate": "hot summers and cold winters; areas of high elevation have short, cool summers and long, severe winters; mild, rainy winters along coast",
+    "coastline": "20 km",
+    "elevationHighest": "Maglic 2,386 m ",
+    "elevationLowest": "Adriatic Sea 0 m",
+    "environment": {
+      "currIssues": "air pollution from metallurgical plants; sites for disposing of urban waste are limited; water shortages and destruction of infrastructure because of the 1992-95 civil strife; deforestation",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "44 00 N, 18 00 E",
+    "irrigatedLand": "30 sq km (2003)",
+    "landBoundaries": "1,543 kmCroatia 956 km, Montenegro 242 km, Serbia 345 km ",
+    "landUse": {
+      "arable": "19.63%",
+      "crops": "1.99% ",
+      "other": "78.38% (2011) "
+    },
+    "location": "Southeastern Europe, bordering the Adriatic Sea and Croatia",
+    "naturalHazards": "destructive earthquakes",
+    "naturalResources": "coal, iron ore, bauxite, copper, lead, zinc, chromite, cobalt, manganese, nickel, clay, gypsum, salt, sand, timber, hydropower",
+    "notes": "within Bosnia and Herzegovina's recognized borders, the country is divided into a joint Bosniak/Croat Federation (about 51% of the territory) and the Bosnian Serb-led Republika Srpska or RS (about 49% of the territory); the region called Herzegovina is contiguous to Croatia and Montenegro, and traditionally has been settled by an ethnic Croat majority in the west and an ethnic Serb majority in the east",
+    "renewableWater": "37.5 cu km (2011)",
+    "terrain": "mountains and valleys"
+  },
+  "countryName": "Bosnia and Herzegovina",
+  "countryCode": "BK"
+}

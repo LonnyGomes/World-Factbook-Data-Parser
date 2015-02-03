@@ -1,0 +1,42 @@
+{
+  "background": "Burkina Faso (formerly Upper Volta) achieved independence from France in 1960. Repeated military coups during the 1970s and 1980s were followed by multiparty elections in the early 1990s. Current President Blaise COMPAORE came to power in a 1987 military coup and has won every election since then. There have been increasing protests over the belief that the president may try to run for a currently unconstitutional third term in the 2015 presidential elections. Burkina Faso's high population growth and limited natural resources result in poor economic prospects for the majority of its citizens.",
+  "geography": {
+    "area": {
+      "land": "273,800 sq km ",
+      "total": "274,200 sq km",
+      "water": "400 sq km "
+    },
+    "areaCompare": "slightly larger than Colorado",
+    "climate": "tropical; warm, dry winters; hot, wet summers",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Tena Kourou 749 m ",
+    "elevationLowest": "Mouhoun (Black Volta) River 200 m",
+    "environment": {
+      "currIssues": "recent droughts and desertification severely affecting agricultural activities, population distribution, and the economy; overgrazing; soil degradation; deforestation",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "54.99  cu m/yr (2005) ",
+      "total": "0.72  cu km/yr (46%/3%/51%)"
+    },
+    "geoCoords": "13 00 N, 2 00 W",
+    "irrigatedLand": "250 sq km (2003)",
+    "landBoundaries": "3,193 kmBenin 306 km, Cote d'Ivoire 584 km, Ghana 549 km, Mali 1,000 km, Niger 628 km, Togo 126 km ",
+    "landUse": {
+      "arable": "20.79%",
+      "crops": "0.24% ",
+      "other": "78.98% (2011) "
+    },
+    "location": "Western Africa, north of Ghana",
+    "naturalHazards": "recurring droughts",
+    "naturalResources": "manganese, limestone, marble; small deposits of gold, phosphates, pumice, salt",
+    "notes": "landlocked savanna cut by the three principal rivers of the Black, Red, and White Voltas",
+    "renewableWater": "12.5 cu km (2011)",
+    "terrain": "mostly flat to dissected, undulating plains; hills in west and southeast"
+  },
+  "countryName": "Burkina Faso",
+  "countryCode": "UV"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "The Kingdom of Serbs, Croats, and Slovenes was formed in 1918; its name was changed to Yugoslavia in 1929. Communist Partisans resisted the Axis occupation and division of Yugoslavia from 1941 to 1945 and fought nationalist opponents and collaborators as well. The military and political movement headed by Josip Broz \"TITO\" (Partisans) took full control of Yugoslavia when their domestic rivals and the occupiers were defeated in 1945. Although communists, TITO and his successors (Tito died in 1980) managed to steer their own path between the Warsaw Pact nations and the West for the next four and a half decades. In 1989, Slobodan MILOSEVIC became president of the Republic of Serbia and his ultranationalist calls for Serbian domination led to the violent breakup of Yugoslavia along ethnic lines. In 1991, Croatia, Slovenia, and Macedonia declared independence, followed by Bosnia in 1992. The remaining republics of Serbia and Montenegro declared a new Federal Republic of Yugoslavia (FRY) in April 1992 and under MILOSEVIC's leadership, Serbia led various military campaigns to unite ethnic Serbs in neighboring republics into a \"Greater Serbia.\" These actions were ultimately unsuccessful and, after international intervention, led to the signing of the Dayton Peace Accords in 1995. MILOSEVIC retained control over Serbia and eventually became president of the FRY in 1997. In 1998, an ethnic Albanian insurgency in the formerly autonomous Serbian province of Kosovo provoked a Serbian counterinsurgency campaign that resulted in massacres and massive expulsions of ethnic Albanians living in Kosovo. The MILOSEVIC government's rejection of a proposed international settlement led to NATO's bombing of Serbia in the spring of 1999. Serbian military and police forces withdrew from Kosovo in June 1999, and the UN Security Council authorized an interim UN administration and a NATO-led security force in Kosovo. FRY elections in late 2000 led to the ouster of MILOSEVIC and the installation of democratic government. In 2003, the FRY became the State Union of Serbia and Montenegro, a loose federation of the two republics. Widespread violence predominantly targeting ethnic Serbs in Kosovo in March 2004 let to more intense calls to address Kosovo's status, and the UN began facilitating status talks in 2006. In June 2006, Montenegro seceded from the federation and declared itself an independent nation. Serbia subsequently gave notice that it was the successor state to the union of Serbia and Montenegro. In February 2008, after nearly two years of inconclusive negotiations, Kosovo declared itself independent of Serbia - an action Serbia refuses to recognize. At Serbia's request, the UN General Assembly (UNGA) in October 2008 sought an advisory opinion from the International Court of Justice (ICJ) on whether Kosovo's unilateral declaration of independence was in accordance with international law. In a ruling considered unfavorable to Serbia, the ICJ issued an advisory opinion in July 2010 stating that international law did not prohibit declarations of independence. In late 2010, Serbia agreed to an EU-drafted UNGA Resolution acknowledging the ICJ's decision and calling for a new round of talks between Serbia and Kosovo, this time on practical issues rather than Kosovo's status. The EU-moderated Belgrade-Pristina dialogue began in March 2011 and was raised to the level of prime ministers in October 2012. Serbia and Kosovo signed the first agreement of principles governing the normalization of relations between the two countries in April 2013 and are in the process of implementing its provisions.",
+  "geography": {
+    "area": {
+      "land": "77,474 sq km ",
+      "total": "77,474 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly smaller than South Carolina",
+    "climate": "in the north, continental climate (cold winters and hot, humid summers with well-distributed rainfall); in other parts, continental and Mediterranean climate (relatively cold winters with heavy snowfall and hot, dry summers and autumns)",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Midzor 2,169 m ",
+    "elevationLowest": "Danube and Timok Rivers 35 m",
+    "environment": {
+      "currIssues": "air pollution around Belgrade and other industrial cities; water pollution from industrial wastes dumped into the Sava which flows into the Danube",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "44 00 N, 21 00 E",
+    "irrigatedLand": "919.6 sq km (2011)",
+    "landBoundaries": "2,026 kmBosnia and Herzegovina 302 km, Bulgaria 318 km, Croatia 241 km, Hungary 151 km, Kosovo 352 km, Macedonia 62 km, Montenegro 124 km, Romania 476 km ",
+    "landUse": {
+      "arable": "37.28%",
+      "crops": "3.41% ",
+      "other": "59.31% (2011) "
+    },
+    "location": "Southeastern Europe, between Macedonia and Hungary",
+    "naturalHazards": "destructive earthquakes",
+    "naturalResources": "oil, gas, coal, iron ore, copper, zinc, antimony, chromite, gold, silver, magnesium, pyrite, limestone, marble, salt, arable land",
+    "notes": "controls one of the major land routes from Western Europe to Turkey and the Near East",
+    "renewableWater": "162.2 cu km (note - includes Kosovo) (2011)",
+    "terrain": "extremely varied; to the north, rich fertile plains; to the east, limestone ranges and basins; to the southeast, ancient mountains and hills"
+  },
+  "countryName": "Serbia",
+  "countryCode": "RI"
+}

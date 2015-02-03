@@ -1,0 +1,42 @@
+{
+  "background": "Poland's history as a state begins near the middle of the 10th century. By the mid-16th century, the Polish-Lithuanian Commonwealth ruled a vast tract of land in central and eastern Europe. During the 18th century, internal disorders weakened the nation, and in a series of agreements between 1772 and 1795, Russia, Prussia, and Austria partitioned Poland among themselves. Poland regained its independence in 1918 only to be overrun by Germany and the Soviet Union in World War II. It became a Soviet satellite state following the war, but its government was comparatively tolerant and progressive. Labor turmoil in 1980 led to the formation of the independent trade union \"Solidarity\" that over time became a political force with over ten million members. Free elections in 1989 and 1990 won Solidarity control of the parliament and the presidency, bringing the communist era to a close. A \"shock therapy\" program during the early 1990s enabled the country to transform its economy into one of the most robust in Central Europe. Poland joined NATO in 1999 and the European Union in 2004. With its transformation to a democratic, market-oriented country largely completed and with large investments in defense, energy, and other infrastructure, Poland is an increasingly active member of Euro-Atlantic organizations.",
+  "geography": {
+    "area": {
+      "land": "304,255 sq km ",
+      "total": "312,685 sq km",
+      "water": "8,430 sq km "
+    },
+    "areaCompare": "slightly smaller than New Mexico",
+    "climate": "temperate with cold, cloudy, moderately severe winters with frequent precipitation; mild summers with frequent showers and thundershowers",
+    "coastline": "440 km",
+    "elevationHighest": "Rysy 2,499 m ",
+    "elevationLowest": "near Raczki Elblaskie -2 m",
+    "environment": {
+      "currIssues": "situation has improved since 1989 due to decline in heavy industry and increased environmental concern by post-Communist governments; air pollution nonetheless remains serious because of sulfur dioxide emissions from coal-fired power plants, and the resulting acid rain has caused forest damage; water pollution from industrial and municipal sources is also a problem, as is disposal of hazardous wastes; pollution levels should continue to decrease as industrial establishments bring their facilities up to EU code, but at substantial cost to business and the government",
+      "intlAgreements": {
+        "notRatified": "Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulfur 94 ",
+        "partyTo": "Air Pollution, Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "312.3  cu m/yr (2009) ",
+      "total": "11.96  cu km/yr (31%/60%/10%)"
+    },
+    "geoCoords": "52 00 N, 20 00 E",
+    "irrigatedLand": "1,157 sq km (2007)",
+    "landBoundaries": "3,071 kmBelarus 418 km, Czech Republic 796 km, Germany 467 km, Lithuania 104 km, Russia (Kaliningrad Oblast) 210 km, Slovakia 541 km, Ukraine 535 km ",
+    "landUse": {
+      "arable": "35.49%",
+      "crops": "1.25% ",
+      "other": "63.26% (2011) "
+    },
+    "location": "Central Europe, east of Germany",
+    "naturalHazards": "flooding",
+    "naturalResources": "coal, sulfur, copper, natural gas, silver, lead, salt, amber, arable land",
+    "notes": "historically, an area of conflict because of flat terrain and the lack of natural barriers on the North European Plain",
+    "renewableWater": "61.6 cu km (2011)",
+    "terrain": "mostly flat plain; mountains along southern border"
+  },
+  "countryName": "Poland",
+  "countryCode": "PL"
+}

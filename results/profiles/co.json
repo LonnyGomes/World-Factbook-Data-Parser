@@ -1,0 +1,42 @@
+{
+  "background": "Colombia was one of the three countries that emerged from the collapse of Gran Colombia in 1830 (the others are Ecuador and Venezuela). A nearly five-decade long conflict between government forces and anti-government insurgent groups, principally the Revolutionary Armed Forces of Colombia (FARC) heavily funded by the drug trade, escalated during the 1990s. More than 31,000 former paramilitaries had demobilized by the end of 2006 and the United Self Defense Forces of Colombia as a formal organization had ceased to function. In the wake of the paramilitary demobilization, emerging criminal groups arose, whose members include some former paramilitaries. The insurgents lack the military or popular support necessary to overthrow the government, but continue attacks against civilians. Large areas of the countryside are under guerrilla influence or are contested by security forces. In November 2012, the Colombian Government started formal peace negotiations with the FARC aimed at reaching a definitive bilateral ceasefire and incorporating demobilized FARC members into mainstream society and politics. The Colombian Government has stepped up efforts to reassert government control throughout the country, and now has a presence in every one of its administrative departments. Despite decades of internal conflict and drug related security challenges, Colombia maintains relatively strong democratic institutions characterized by peaceful, transparent elections and the protection of civil liberties.",
+  "geography": {
+    "area": {
+      "land": "1,038,700 sq km ",
+      "total": "1,138,910 sq km",
+      "water": "100,210 sq km "
+    },
+    "areaCompare": "slightly less than twice the size of Texas",
+    "climate": "tropical along coast and eastern plains; cooler in highlands",
+    "coastline": "3,208 km (Caribbean Sea 1,760 km, North Pacific Ocean 1,448 km)",
+    "elevationHighest": "Pico Cristobal Colon 5,775 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; soil and water quality damage from overuse of pesticides; air pollution, especially in Bogota, from vehicle emissions",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "308  cu m/yr (2010) ",
+      "total": "12.65  cu km/yr (55%/4%/41%)"
+    },
+    "geoCoords": "4 00 N, 72 00 W",
+    "irrigatedLand": "10,870 sq km (2011)",
+    "landBoundaries": "6,672 kmBrazil 1,790 km, Ecuador 708 km, Panama 339 km, Peru 1,494 km, Venezuela 2,341 km ",
+    "landUse": {
+      "arable": "1.84%",
+      "crops": "1.66% ",
+      "other": "96.5% (2011) "
+    },
+    "location": "Northern South America, bordering the Caribbean Sea, between Panama and Venezuela, and bordering the North Pacific Ocean, between Ecuador and Panama",
+    "naturalHazards": "highlands subject to volcanic eruptions; occasional earthquakes; periodic droughtsGaleras (elev. 4,276 m) is one of Colombia's most active volcanoes, having erupted in 2009 and 2010 causing major evacuations; it has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Nevado del Ruiz (elev. 5,321 m), 129 km (80 mi) west of Bogota, erupted in 1985 producing lahars that killed 23,000 people; the volcano last erupted in 1991; additionally, after 500 years of dormancy, Nevado del Huila reawakened in 2007 and has experienced frequent eruptions since then; other historically active volcanoes include Cumbal, Dona Juana, Nevado del Tolima, and Purace ",
+    "naturalResources": "petroleum, natural gas, coal, iron ore, nickel, gold, copper, emeralds, hydropower",
+    "notes": "only South American country with coastlines on both the North Pacific Ocean and Caribbean Sea",
+    "renewableWater": "2,132 cu km (2011)",
+    "terrain": "flat coastal lowlands, central highlands, high Andes Mountains, eastern lowland plains (Llanos)"
+  },
+  "countryName": "Colombia",
+  "countryCode": "CO"
+}

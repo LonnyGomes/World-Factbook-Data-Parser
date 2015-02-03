@@ -1,0 +1,42 @@
+{
+  "background": "The regularity and richness of the annual Nile River flood, coupled with semi-isolation provided by deserts to the east and west, allowed for the development of one of the world's great civilizations. A unified kingdom arose circa 3200 B.C., and a series of dynasties ruled in Egypt for the next three millennia. The last native dynasty fell to the Persians in 341 B.C., who in turn were replaced by the Greeks, Romans, and Byzantines. It was the Arabs who introduced Islam and the Arabic language in the 7th century and who ruled for the next six centuries. A local military caste, the Mamluks took control about 1250 and continued to govern after the conquest of Egypt by the Ottoman Turks in 1517. Completion of the Suez Canal in 1869 elevated Egypt as an important world transportation hub. Ostensibly to protect its investments, Britain seized control of Egypt's government in 1882, but nominal allegiance to the Ottoman Empire continued until 1914. Partially independent from the UK in 1922, Egypt acquired full sovereignty from Britain in 1952. The completion of the Aswan High Dam in 1971 and the resultant Lake Nasser have altered the time-honored place of the Nile River in the agriculture and ecology of Egypt. A rapidly growing population (the largest in the Arab world), limited arable land, and dependence on the Nile all continue to overtax resources and stress society. The government has struggled to meet the demands of Egypt's population through economic reform and massive investment in communications and physical infrastructure. Inspired by the 2010 Tunisian revolution, Egyptian opposition groups led demonstrations and labor strikes countrywide, culminating in President Hosni MUBARAK's ouster. Egypt's military assumed national leadership until a new parliament was in place in early 2012; later that same year, Mohammed MORSI won the presidential election. Following often violent protests throughout the spring of 2013 against MORSI's government and the Muslim Brotherhood (MB), and massive anti-government demonstrations, the Egyptian Armed Forces (EAF) intervened and removed MORSI from power in mid-July 2013 and replaced him with interim president Adly MANSOUR. In mid-January 2014, voters approved a new constitution by referendum. Presidential elections to replace MANSOUR are scheduled for late May 2014. According to the constitution and the government's transitional road map, preparations for parliamentary elections will begin by mid-July 2014.",
+  "geography": {
+    "area": {
+      "land": "995,450 sq km ",
+      "total": "1,001,450 sq km",
+      "water": "6,000 sq km "
+    },
+    "areaCompare": "",
+    "climate": "desert; hot, dry summers with moderate winters",
+    "coastline": "2,450 km",
+    "elevationHighest": "Mount Catherine 2,629 m ",
+    "elevationLowest": "Qattara Depression -133 m",
+    "environment": {
+      "currIssues": "agricultural land being lost to urbanization and windblown sands; increasing soil salination below Aswan High Dam; desertification; oil pollution threatening coral reefs, beaches, and marine habitats; other water pollution from agricultural pesticides, raw sewage, and industrial effluents; limited natural freshwater resources away from the Nile, which is the only perennial water source; rapid growth in population overstraining the Nile and natural resources",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "973.3  cu m/yr (2000) ",
+      "total": "68.3  cu km/yr (8%/6%/86%)"
+    },
+    "geoCoords": "27 00 N, 30 00 E",
+    "irrigatedLand": "34,220 sq km (2003)",
+    "landBoundaries": "2,612 kmGaza Strip 13 km, Israel 208 km, Libya 1,115 km, Sudan 1,276 km ",
+    "landUse": {
+      "arable": "2.87%",
+      "crops": "0.79% ",
+      "other": "96.34% (2011) "
+    },
+    "location": "Northern Africa, bordering the Mediterranean Sea, between Libya and the Gaza Strip, and the Red Sea north of Sudan, and includes the Asian Sinai Peninsula",
+    "naturalHazards": "periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving windstorms called khamsin occur in spring; dust storms; sandstorms",
+    "naturalResources": "petroleum, natural gas, iron ore, phosphates, manganese, limestone, gypsum, talc, asbestos, lead, rare earth elements, zinc",
+    "notes": "controls Sinai Peninsula, only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea; size, and juxtaposition to Israel, establish its major role in Middle Eastern geopolitics; dependence on upstream neighbors; dominance of Nile basin issues; prone to influxes of refugees from Sudan and the Palestinian territories",
+    "renewableWater": "57.3 cu km (2011)",
+    "terrain": "vast desert plateau interrupted by Nile valley and delta"
+  },
+  "countryName": "Egypt",
+  "countryCode": "EG"
+}

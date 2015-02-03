@@ -1,0 +1,42 @@
+{
+  "background": "Modern Turkey was founded in 1923 from the Anatolian remnants of the defeated Ottoman Empire by national hero Mustafa KEMAL, who was later honored with the title Ataturk or \"Father of the Turks.\" Under his leadership, the country adopted wide-ranging social, legal, and political reforms. After a period of one-party rule, an experiment with multi-party politics led to the 1950 election victory of the opposition Democratic Party and the peaceful transfer of power. Since then, Turkish political parties have multiplied, but democracy has been fractured by periods of instability and intermittent military coups (1960, 1971, 1980), which in each case eventually resulted in a return of political power to civilians. In 1997, the military again helped engineer the ouster - popularly dubbed a \"post-modern coup\" - of the then Islamic-oriented government. Turkey intervened militarily on Cyprus in 1974 to prevent a Greek takeover of the island and has since acted as patron state to the \"Turkish Republic of Northern Cyprus,\" which only Turkey recognizes. A separatist insurgency begun in 1984 by the Kurdistan Workers' Party (PKK) - now known as the Kurdistan People's Congress or Kongra-Gel (KGK) - has dominated the Turkish military's attention and claimed more than 30,000 lives. After the capture of the group's leader in 1999, the insurgents largely withdrew from Turkey mainly to northern Iraq. In 2013, KGK and the Turkish Government agreed to a ceasefire that continues despite slow progress in ongoing peace talks. Turkey joined the UN in 1945 and in 1952 it became a member of NATO. In 1964, Turkey became an associate member of the European Community. Over the past decade, it has undertaken many reforms to strengthen its democracy and economy; it began accession membership talks with the European Union in 2005.",
+  "geography": {
+    "area": {
+      "land": "769,632 sq km ",
+      "total": "783,562 sq km",
+      "water": "13,930 sq km "
+    },
+    "areaCompare": "",
+    "climate": "temperate; hot, dry summers with mild, wet winters; harsher in interior",
+    "coastline": "7,200 km",
+    "elevationHighest": "Mount Ararat 5,166 m ",
+    "elevationLowest": "Mediterranean Sea 0 m",
+    "environment": {
+      "currIssues": "water pollution from dumping of chemicals and detergents; air pollution, particularly in urban areas; deforestation; concern for oil spills from increasing Bosporus ship traffic",
+      "intlAgreements": {
+        "notRatified": "Environmental Modification ",
+        "partyTo": "Air Pollution, Antarctic Treaty, Biodiversity, Climate Change, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "572.9  cu m/yr (2008) ",
+      "total": "40.1  cu km/yr (14%/10%/76%)"
+    },
+    "geoCoords": "39 00 N, 35 00 E",
+    "irrigatedLand": "53,400 sq km (2012)",
+    "landBoundaries": "2,656 kmArmenia 268 km, Azerbaijan 17 km, Bulgaria 240 km, Georgia 252 km, Greece 206 km, Iran 499 km, Iraq 352 km, Syria 822 km ",
+    "landUse": {
+      "arable": "26.21%",
+      "crops": "3.94% ",
+      "other": "69.84% (2011) "
+    },
+    "location": "Southeastern Europe and Southwestern Asia (that portion of Turkey west of the Bosporus is geographically part of Europe), bordering the Black Sea, between Bulgaria and Georgia, and bordering the Aegean Sea and the Mediterranean Sea, between Greece and Syria",
+    "naturalHazards": "severe earthquakes, especially in northern Turkey, along an arc extending from the Sea of Marmara to Lake Vanlimited volcanic activity; its three historically active volcanoes; Ararat, Nemrut Dagi, and Tendurek Dagi have not erupted since the 19th century or earlier ",
+    "naturalResources": "coal, iron ore, copper, chromium, antimony, mercury, gold, barite, borate, celestite (strontium), emery, feldspar, limestone, magnesite, marble, perlite, pumice, pyrites (sulfur), clay, arable land, hydropower",
+    "notes": "strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Dardanelles) that link Black and Aegean Seas; Mount Ararat, the legendary landing place of Noah's ark, is in the far eastern portion of the country",
+    "renewableWater": "211.6 cu km (2011)",
+    "terrain": "high central plateau (Anatolia); narrow coastal plain; several mountain ranges"
+  },
+  "countryName": "Turkey",
+  "countryCode": "TU"
+}

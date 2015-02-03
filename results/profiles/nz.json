@@ -1,0 +1,42 @@
+{
+  "background": "The Polynesian Maori reached New Zealand in about A.D. 800. In 1840, their chieftains entered into a compact with Britain, the Treaty of Waitangi, in which they ceded sovereignty to Queen Victoria while retaining territorial rights. That same year, the British began the first organized colonial settlement. A series of land wars between 1843 and 1872 ended with the defeat of the native peoples. The British colony of New Zealand became an independent dominion in 1907 and supported the UK militarily in both world wars. New Zealand's full participation in a number of defense alliances lapsed by the 1980s. In recent years, the government has sought to address longstanding Maori grievances.",
+  "geography": {
+    "area": {
+      "land": "267,710 sq km ",
+      "total": "267,710 sq km",
+      "water": "NA "
+    },
+    "areaCompare": "",
+    "climate": "temperate with sharp regional contrasts",
+    "coastline": "15,134 km",
+    "elevationHighest": "Aoraki-Mount Cook 3,754 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; soil erosion; native flora and fauna hard-hit by invasive species",
+      "intlAgreements": {
+        "notRatified": "Antarctic Seals, Marine Life Conservation ",
+        "partyTo": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "1,200  cu m/yr (2010) ",
+      "total": "4.75  cu km/yr (23%/5%/72%)"
+    },
+    "geoCoords": "41 00 S, 174 00 E",
+    "irrigatedLand": "6,193 sq km (2007)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "1.76%",
+      "crops": "0.27% ",
+      "other": "97.98% (2011) "
+    },
+    "location": "Oceania, islands in the South Pacific Ocean, southeast of Australia",
+    "naturalHazards": "earthquakes are common, though usually not severe; volcanic activitysignificant volcanism on North Island; Ruapehu (elev. 2,797 m), which last erupted in 2007, has a history of large eruptions in the past century; Taranaki has the potential to produce dangerous avalanches and lahars; other historically active volcanoes include Okataina, Raoul Island, Tongariro, and White Island ",
+    "naturalResources": "natural gas, iron ore, sand, coal, timber, hydropower, gold, limestone",
+    "notes": "almost 90% of the population lives in cities; Wellington is the southernmost national capital in the world",
+    "renewableWater": "327 cu km (2011)",
+    "terrain": "predominately mountainous with some large coastal plains"
+  },
+  "countryName": "New Zealand",
+  "countryCode": "NZ"
+}

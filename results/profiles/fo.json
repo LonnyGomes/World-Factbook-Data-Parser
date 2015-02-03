@@ -1,0 +1,42 @@
+{
+  "background": "The population of the Faroe Islands is largely descended from Viking settlers who arrived in the 9th century. The islands have been connected politically to Denmark since the 14th century. A high degree of self-government was granted the Faroese in 1948, who have autonomy over most internal affairs while Denmark is responsible for justice, defense, and foreign affairs. The Faroe Islands are not part of the European Union.",
+  "geography": {
+    "area": {
+      "land": "1,393 sq km ",
+      "total": "1,393 sq km",
+      "water": "0 sq km (some lakes and streams) "
+    },
+    "areaCompare": "eight times the size of Washington, DC",
+    "climate": "mild winters, cool summers; usually overcast; foggy, windy",
+    "coastline": "1,117 km",
+    "elevationHighest": "Slaettaratindur 882 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": "Marine Dumping - associate member to the London Convention and Ship Pollution"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "62 00 N, 7 00 W",
+    "irrigatedLand": "0 sq km (2011)",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "2.15%",
+      "crops": "0% ",
+      "other": "97.85% (2011) "
+    },
+    "location": "Northern Europe, island group between the Norwegian Sea and the North Atlantic Ocean, about half way between Iceland and Norway",
+    "naturalHazards": "NA",
+    "naturalResources": "fish, whales, hydropower, possible oil and gas",
+    "notes": "archipelago of 17 inhabited islands and one uninhabited island, and a few uninhabited islets; strategically located along important sea lanes in northeastern Atlantic; precipitous terrain limits habitation to small coastal lowlands",
+    "renewableWater": "",
+    "terrain": "rugged, rocky, some low peaks; cliffs along most of coast"
+  },
+  "countryName": "Faroe Islands",
+  "countryCode": "FO"
+}

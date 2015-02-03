@@ -1,0 +1,42 @@
+{
+  "background": "The name \"Latvia\" originates from the ancient Latgalians, one of four eastern Baltic tribes that formed the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.). The region subsequently came under the control of Germans, Poles, Swedes, and finally, Russians. A Latvian republic emerged following World War I, but it was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. Latvia reestablished its independence in 1991 following the breakup of the Soviet Union. Although the last Russian troops left in 1994, the status of the Russian minority (some 28% of the population) remains of concern to Moscow. Latvia acceded to both NATO and the EU in the spring of 2004; it joined the eurozone in 2014.",
+  "geography": {
+    "area": {
+      "land": "62,249 sq km ",
+      "total": "64,589 sq km",
+      "water": "2,340 sq km "
+    },
+    "areaCompare": "slightly larger than West Virginia",
+    "climate": "maritime; wet, moderate winters",
+    "coastline": "498 km",
+    "elevationHighest": "Gaizina Kalns 312 m ",
+    "elevationLowest": "Baltic Sea 0 m",
+    "environment": {
+      "currIssues": "Latvia's environment has benefited from a shift to service industries after the country regained independence; the main environmental priorities are improvement of drinking water quality and sewage system, household, and hazardous waste management, as well as reduction of air pollution; in 2001, Latvia closed the EU accession negotiation chapter on environment committing to full enforcement of EU environmental directives by 2010",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Air Pollution, Air Pollution-Persistent Organic Pollutants, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "177.9  cu m/yr (2007) ",
+      "total": "0.42  cu km/yr (42%/45%/13%)"
+    },
+    "geoCoords": "57 00 N, 25 00 E",
+    "irrigatedLand": "8.3 sq kmland in Latvia is often too wet and in need of drainage not irrigation; approximately 16,000 sq km or 85% of agricultural land has been improved by drainage (2007) ",
+    "landBoundaries": "1,382 kmBelarus 171 km, Estonia 343 km, Lithuania 576 km, Russia 292 km ",
+    "landUse": {
+      "arable": "17.96%",
+      "crops": "0.11% ",
+      "other": "81.93% (2011) "
+    },
+    "location": "Eastern Europe, bordering the Baltic Sea, between Estonia and Lithuania",
+    "naturalHazards": "NA",
+    "naturalResources": "peat, limestone, dolomite, amber, hydropower, timber, arable land",
+    "notes": "most of the country is composed of fertile low-lying plains with some hills in the east",
+    "renewableWater": "35.45 cu km (2011)",
+    "terrain": "low plain"
+  },
+  "countryName": "Latvia",
+  "countryCode": "LG"
+}

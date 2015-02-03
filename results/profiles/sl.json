@@ -1,0 +1,42 @@
+{
+  "background": "Democracy is slowly being reestablished after the civil war from 1991 to 2002 that resulted in tens of thousands of deaths and the displacement of more than 2 million people (about a third of the population). The military, which took over full responsibility for security following the departure of UN peacekeepers at the end of 2005, is increasingly developing as a guarantor of the country's stability. The armed forces remained on the sideline during the 2007 and 2012 national elections, and over the past year have deployed over 850 peacekeepers in the African Union Mission in Somalia (AMISOM). As of January 2014, Sierra Leone also fielded 122 staff for five UN peacekeeping missions. In March 2014, the closure of the UN Integrated Peacebuilding Office in Sierra Leone (UNIPSIL) marked the end of more than 15 years of peacekeeping and political operations in Sierra Leone. The government's priorities include furthering development, creating jobs, and stamping out endemic corruption.",
+  "geography": {
+    "area": {
+      "land": "71,620 sq km ",
+      "total": "71,740 sq km",
+      "water": "120 sq km "
+    },
+    "areaCompare": "slightly smaller than South Carolina",
+    "climate": "tropical; hot, humid; summer rainy season (May to December); winter dry season (December to April)",
+    "coastline": "402 km",
+    "elevationHighest": "Loma Mansa (Bintimani) 1,948 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "rapid population growth pressuring the environment; overharvesting of timber, expansion of cattle grazing, and slash-and-burn agriculture have resulted in deforestation and soil exhaustion; civil war depleted natural resources; overfishing",
+      "intlAgreements": {
+        "notRatified": "Environmental Modification ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "38.74  cu m/yr (2005) ",
+      "total": "0.21  cu km/yr (52%/26%/22%)"
+    },
+    "geoCoords": "8 30 N, 11 30 W",
+    "irrigatedLand": "293.6 sq km (2003)",
+    "landBoundaries": "958 kmGuinea 652 km, Liberia 306 km ",
+    "landUse": {
+      "arable": "15.33%",
+      "crops": "1.88% ",
+      "other": "82.79% (2011) "
+    },
+    "location": "Western Africa, bordering the North Atlantic Ocean, between Guinea and Liberia",
+    "naturalHazards": "dry, sand-laden harmattan winds blow from the Sahara (December to February); sandstorms, dust storms",
+    "naturalResources": "diamonds, titanium ore, bauxite, iron ore, gold, chromite",
+    "notes": "rainfall along the coast can reach 495 cm (195 inches) a year, making it one of the wettest places along coastal, western Africa",
+    "renewableWater": "160 cu km (2011)",
+    "terrain": "coastal belt of mangrove swamps, wooded hill country, upland plateau, mountains in east"
+  },
+  "countryName": "Sierra Leone",
+  "countryCode": "SL"
+}

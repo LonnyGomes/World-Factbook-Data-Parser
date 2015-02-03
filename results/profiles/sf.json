@@ -1,0 +1,42 @@
+{
+  "background": "Dutch traders landed at the southern tip of modern day South Africa in 1652 and established a stopover point on the spice route between the Netherlands and the Far East, founding the city of Cape Town. After the British seized the Cape of Good Hope area in 1806, many of the Dutch settlers (the Boers) trekked north to found their own republics. The discovery of diamonds (1867) and gold (1886) spurred wealth and immigration and intensified the subjugation of the native inhabitants. The Boers resisted British encroachments but were defeated in the Second Anglo Boer War (1899-1902); however, the British and the Afrikaners, as the Boers became known, ruled together beginning in 1910 under the Union of South Africa, which became a republic in 1961 after a whites-only referendum. In 1948, the National Party was voted into power and instituted a policy of apartheid - the separate development of the races - which favored the white minority at the expense of the black majority. The African National Congress (ANC) led the opposition to apartheid and many top ANC leaders, such as Nelson MANDELA, spent decades in South Africa's prisons. Internal protests and insurgency, as well as boycotts by some Western nations and institutions, led to the regime's eventual willingness to negotiate a peaceful transition to majority rule. The first multi-racial elections in 1994 brought an end to apartheid and ushered in majority rule under an ANC-led government. South Africa since then has struggled to address apartheid-era imbalances in decent housing, education, and health care. ANC infighting, which has grown in recent years, came to a head in September 2008 when President Thabo MBEKI resigned, and Kgalema MOTLANTHE, the party's General-Secretary, succeeded him as interim president. Jacob ZUMA became president after the ANC won general elections in April 2009. National presidential and parliamentary elections are scheduled for May 2014.",
+  "geography": {
+    "area": {
+      "land": "1,214,470 sq km ",
+      "total": "1,219,090 sq km",
+      "water": "4,620 sq km "
+    },
+    "areaCompare": "slightly less than twice the size of Texas",
+    "climate": "mostly semiarid; subtropical along east coast; sunny days, cool nights",
+    "coastline": "2,798 km",
+    "elevationHighest": "Njesuthi 3,408 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "lack of important arterial rivers or lakes requires extensive water conservation and control measures; growth in water usage outpacing supply; pollution of rivers from agricultural runoff and urban discharge; air pollution resulting in acid rain; soil erosion; desertification",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Seals, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine Life Conservation, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "271.7  cu m/yr (2005) ",
+      "total": "12.5  cu km/yr (36%/7%/57%)"
+    },
+    "geoCoords": "29 00 S, 24 00 E",
+    "irrigatedLand": "16,700 sq km (2012)",
+    "landBoundaries": "4,862 kmBotswana 1,840 km, Lesotho 909 km, Mozambique 491 km, Namibia 967 km, Swaziland 430 km, Zimbabwe 225 km ",
+    "landUse": {
+      "arable": "9.87%",
+      "crops": "0.34% ",
+      "other": "89.79% (2011) "
+    },
+    "location": "Southern Africa, at the southern tip of the continent of Africa",
+    "naturalHazards": "prolonged droughtsthe volcano forming Marion Island in the Prince Edward Islands, which last erupted in 2004, is South Africa's only active volcano ",
+    "naturalResources": "gold, chromium, antimony, coal, iron ore, manganese, nickel, phosphates, tin, rare earth elements, uranium, gem diamonds, platinum, copper, vanadium, salt, natural gas",
+    "notes": "South Africa completely surrounds Lesotho and almost completely surrounds Swaziland",
+    "renewableWater": "51.4 cu km (2011)",
+    "terrain": "vast interior plateau rimmed by rugged hills and narrow coastal plain"
+  },
+  "countryName": "South Africa",
+  "countryCode": "SF"
+}

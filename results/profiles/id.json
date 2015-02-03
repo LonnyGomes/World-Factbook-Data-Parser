@@ -1,0 +1,42 @@
+{
+  "background": "The Dutch began to colonize Indonesia in the early 17th century; Japan occupied the islands from 1942 to 1945. Indonesia declared its independence shortly before Japan's surrender, but it required four years of sometimes brutal fighting, intermittent negotiations, and UN mediation before the Netherlands agreed to transfer sovereignty in 1949. A period of sometimes unruly parliamentary democracy ended in 1957 when President SOEKARNO declared martial law and instituted \"Guided Democracy.\" After an abortive coup in 1965 by alleged communist sympathizers, SOEKARNO was gradually eased from power. From 1967 until 1988, President SUHARTO ruled Indonesia with his \"New Order\" government. After rioting toppled Suharto in 1998, free and fair legislative elections took place in 1999. Indonesia is now the world's third most populous democracy, the world's largest archipelagic state, and the world's largest Muslim-majority nation. Current issues include: alleviating poverty, improving education, preventing terrorism, consolidating democracy after four decades of authoritarianism, implementing economic and financial reforms, stemming corruption, reforming the criminal justice system, holding the military and police accountable for human rights violations, addressing climate change, and controlling infectious diseases, particularly those of global and regional importance. In 2005, Indonesia reached a historic peace agreement with armed separatists in Aceh, which led to democratic elections in Aceh in December 2006. Indonesia continues to face low intensity armed resistance in Papua by the separatist Free Papua Movement.",
+  "geography": {
+    "area": {
+      "land": "1,811,569 sq km ",
+      "total": "1,904,569 sq km",
+      "water": "93,000 sq km "
+    },
+    "areaCompare": "",
+    "climate": "tropical; hot, humid; more moderate in highlands",
+    "coastline": "54,716 km",
+    "elevationHighest": "Puncak Jaya 4,884 m ",
+    "elevationLowest": "Indian Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation; water pollution from industrial wastes, sewage; air pollution in urban areas; smoke and haze from forest fires",
+      "intlAgreements": {
+        "notRatified": "Marine Life Conservation ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "517.3  cu m/yr (2005) ",
+      "total": "113.3  cu km/yr (11%/19%/71%)"
+    },
+    "geoCoords": "5 00 S, 120 00 E",
+    "irrigatedLand": "67,220 sq km (2005)",
+    "landBoundaries": "2,958 kmTimor-Leste 253 km, Malaysia 1,881 km, Papua New Guinea 824 km ",
+    "landUse": {
+      "arable": "12.34%",
+      "crops": "10.5% ",
+      "other": "77.16% (2011) "
+    },
+    "location": "Southeastern Asia, archipelago between the Indian Ocean and the Pacific Ocean",
+    "naturalHazards": "occasional floods; severe droughts; tsunamis; earthquakes; volcanoes; forest firesIndonesia contains the most volcanoes of any country in the world - some 76 are historically active; significant volcanic activity occurs on Java, Sumatra, the Sunda Islands, Halmahera Island, Sulawesi Island, Sangihe Island, and in the Banda Sea; Merapi (elev. 2,968 m), Indonesia's most active volcano and in eruption since 2010, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; other notable historically active volcanoes include Agung, Awu, Karangetang, Krakatau (Krakatoa), Makian, Raung, and Tambora ",
+    "naturalResources": "petroleum, tin, natural gas, nickel, timber, bauxite, copper, fertile soils, coal, gold, silver",
+    "notes": "archipelago of 17,508 islands, some 6,000 of which are inhabited (Indonesia is the world's largest country comprised solely of islands); straddles equator; strategic location astride or along major sea lanes from Indian Ocean to Pacific Ocean",
+    "renewableWater": "2,019 cu km (2011)",
+    "terrain": "mostly coastal lowlands; larger islands have interior mountains"
+  },
+  "countryName": "Indonesia",
+  "countryCode": "ID"
+}

@@ -1,0 +1,42 @@
+{
+  "background": "Burundi's first democratically elected president was assassinated in October 1993 after only 100 days in office, triggering widespread ethnic violence between Hutu and Tutsi factions. More than 200,000 Burundians perished during the conflict that spanned almost a dozen years. Hundreds of thousands of Burundians were internally displaced or became refugees in neighboring countries. An internationally brokered power-sharing agreement between the Tutsi-dominated government and the Hutu rebels in 2003 paved the way for a transition process that led to an integrated defense force, established a new constitution in 2005, and elected a majority Hutu government in 2005. The government of President Pierre NKURUNZIZA, who was reelected in 2010, continues to face many political and economic challenges.",
+  "geography": {
+    "area": {
+      "land": "25,680 sq km ",
+      "total": "27,830 sq km",
+      "water": "2,150 sq km "
+    },
+    "areaCompare": "slightly smaller than Maryland",
+    "climate": "equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees centigrade but is generally moderate as the average altitude is about 1,700 m; average annual rainfall is about 150 cm; two wet seasons (February to May and September to November), and two dry seasons (June to August and December to January)",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Heha 2,670 m ",
+    "elevationLowest": "Lake Tanganyika 772 m",
+    "environment": {
+      "currIssues": "soil erosion as a result of overgrazing and the expansion of agriculture into marginal lands; deforestation (little forested land remains because of uncontrolled cutting of trees for fuel); habitat loss threatens wildlife populations",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "43.27  cu m/yr (2005) ",
+      "total": "0.29  cu km/yr (15%/5%/79%)"
+    },
+    "geoCoords": "3 30 S, 30 00 E",
+    "irrigatedLand": "214.3 sq km (2003)",
+    "landBoundaries": "1,140 kmDemocratic Republic of the Congo 236 km, Rwanda 315 km, Tanzania 589 km ",
+    "landUse": {
+      "arable": "33.06%",
+      "crops": "14.37% ",
+      "other": "52.57% (2011) "
+    },
+    "location": "Central Africa, east of Democratic Republic of the Congo",
+    "naturalHazards": "flooding; landslides; drought",
+    "naturalResources": "nickel, uranium, rare earth oxides, peat, cobalt, copper, platinum, vanadium, arable land, hydropower, niobium, tantalum, gold, tin, tungsten, kaolin, limestone",
+    "notes": "landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drains into Lake Victoria, is the most remote headstream of the White Nile",
+    "renewableWater": "12.54 cu km (2011)",
+    "terrain": "hilly and mountainous, dropping to a plateau in east, some plains"
+  },
+  "countryName": "Burundi",
+  "countryCode": "BY"
+}

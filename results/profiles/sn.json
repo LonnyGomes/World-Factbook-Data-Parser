@@ -1,0 +1,42 @@
+{
+  "background": "Singapore was founded as a British trading colony in 1819. It joined the Malaysian Federation in 1963 but separated two years later and became independent. Singapore subsequently became one of the world's most prosperous countries with strong international trading links (its port is one of the world's busiest in terms of tonnage handled) and with per capita GDP equal to that of the leading nations of Western Europe.",
+  "geography": {
+    "area": {
+      "land": "687 sq km ",
+      "total": "697 sq km",
+      "water": "10 sq km "
+    },
+    "areaCompare": "slightly more than 3.5 times the size of Washington, DC",
+    "climate": "tropical; hot, humid, rainy; two distinct monsoon seasons - Northeastern monsoon (December to March) and Southwestern monsoon (June to September); inter-monsoon - frequent afternoon and early evening thunderstorms",
+    "coastline": "193 km",
+    "elevationHighest": "Bukit Timah 166 m ",
+    "elevationLowest": "Singapore Strait 0 m",
+    "environment": {
+      "currIssues": "industrial pollution; limited natural freshwater resources; limited land availability presents waste disposal problems; seasonal smoke/haze resulting from forest fires in Indonesia",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "81.97  cu m/yr (2005) ",
+      "total": "0.19  cu km/yr (47%/53%/0%)"
+    },
+    "geoCoords": "1 22 N, 103 48 E",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "0.89%",
+      "crops": "0.14% ",
+      "other": "98.97% (2011) "
+    },
+    "location": "Southeastern Asia, islands between Malaysia and Indonesia",
+    "naturalHazards": "NA",
+    "naturalResources": "fish, deepwater ports",
+    "notes": "focal point for Southeast Asian sea routes",
+    "renewableWater": "0.6 cu km (2011)",
+    "terrain": "lowland; gently undulating central plateau contains water catchment area and nature preserve"
+  },
+  "countryName": "Singapore",
+  "countryCode": "SN"
+}

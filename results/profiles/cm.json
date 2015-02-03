@@ -1,0 +1,42 @@
+{
+  "background": "French Cameroon became independent in 1960 as the Republic of Cameroon. The following year the southern portion of neighboring British Cameroon voted to merge with the new country to form the Federal Republic of Cameroon. In 1972, a new constitution replaced the federation with a unitary state, the United Republic of Cameroon. The country has generally enjoyed stability, which has permitted the development of agriculture, roads, and railways, as well as a petroleum industry. Despite slow movement toward democratic reform, political power remains firmly in the hands of President Paul BIYA.",
+  "geography": {
+    "area": {
+      "land": "472,710 sq km ",
+      "total": "475,440 sq km",
+      "water": "2,730 sq km "
+    },
+    "areaCompare": "slightly larger than California",
+    "climate": "varies with terrain, from tropical along coast to semiarid and hot in north",
+    "coastline": "402 km",
+    "elevationHighest": "Fako 4,095 m (on Mt. Cameroon) ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "waterborne diseases are prevalent; deforestation; overgrazing; desertification; poaching; overfishing",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "58.9  cu m/yr (2005) ",
+      "total": "0.97  cu km/yr (23%/10%/68%)"
+    },
+    "geoCoords": "6 00 N, 12 00 E",
+    "irrigatedLand": "256.5 sq km (2003)",
+    "landBoundaries": "5,018 kmCentral African Republic 901 km, Chad 1,116 km, Republic of the Congo 494 km, Equatorial Guinea 183 km, Gabon 349 km, Nigeria 1,975 km ",
+    "landUse": {
+      "arable": "13.04%",
+      "crops": "2.94% ",
+      "other": "84.01% (2011) "
+    },
+    "location": "Central Africa, bordering the Bight of Biafra, between Equatorial Guinea and Nigeria",
+    "naturalHazards": "volcanic activity with periodic releases of poisonous gases from Lake Nyos and Lake Monoun volcanoesMt. Cameroon (elev. 4,095 m), which last erupted in 2000, is the most frequently active volcano in West Africa; lakes in Oku volcanic field have released fatal levels of gas on occasion, killing some 1,700 people in 1986 ",
+    "naturalResources": "petroleum, bauxite, iron ore, timber, hydropower",
+    "notes": "sometimes referred to as the hinge of Africa; throughout the country there are areas of thermal springs and indications of current or prior volcanic activity; Mount Cameroon, the highest mountain in Sub-Saharan west Africa, is an active volcano",
+    "renewableWater": "285.5 cu km (2011)",
+    "terrain": "diverse, with coastal plain in southwest, dissected plateau in center, mountains in west, plains in north"
+  },
+  "countryName": "Cameroon",
+  "countryCode": "CM"
+}

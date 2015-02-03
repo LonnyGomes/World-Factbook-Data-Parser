@@ -1,0 +1,42 @@
+{
+  "background": "The Sudanese Republic and Senegal became independent of France in 1960 as the Mali Federation. When Senegal withdrew after only a few months, what formerly made up the Sudanese Republic was renamed Mali. Rule by dictatorship was brought to a close in 1991 by a military coup that ushered in a period of democratic rule. President Alpha KONARE won Mali's first two democratic presidential elections in 1992 and 1997. In keeping with Mali's two-term constitutional limit, he stepped down in 2002 and was succeeded by Amadou Toumani TOURE, who was elected to a second term in 2007 elections that were widely judged to be free and fair. Malian returnees from Libya in 2011 exacerbated tensions in northern Mali, and Tuareg ethnic militias started a rebellion in January 2012. Low- and mid-level soldiers, frustrated with the poor handling of the rebellion overthrew TOURE on 22 March. Intensive mediation efforts led by the Economic Community of West African States (ECOWAS) returned power to a civilian administration in April with the appointment of interim President Dioncounda TRAORE. The post-coup chaos led to rebels expelling the Malian military from the three northern regions of the country and allowed Islamic militants to set up strongholds. Hundreds of thousands of northern Malians fled the violence to southern Mali and neighboring countries, exacerbating regional food insecurity in host communities. An international military intervention to retake the three northern regions began in January 2013 and within a month most of the north had been retaken. In a democratic presidential election conducted in July and August of 2013, Ibrahim Boubacar KEITA was elected president in the second round.",
+  "geography": {
+    "area": {
+      "land": "1,220,190 sq km ",
+      "total": "1,240,192 sq km",
+      "water": "20,002 sq km "
+    },
+    "areaCompare": "slightly less than twice the size of Texas",
+    "climate": "subtropical to arid; hot and dry (February to June); rainy, humid, and mild (June to November); cool and dry (November to February)",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Hombori Tondo 1,155 m ",
+    "elevationLowest": "Senegal River 23 m",
+    "environment": {
+      "currIssues": "deforestation; soil erosion; desertification; inadequate supplies of potable water; poaching",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "545.4  cu m/yr (2000) ",
+      "total": "6.55  cu km/yr (9%/1%/90%)"
+    },
+    "geoCoords": "17 00 N, 4 00 W",
+    "irrigatedLand": "2,358 sq km (2003)",
+    "landBoundaries": "7,243 kmAlgeria 1,376 km, Burkina Faso 1,000 km, Guinea 858 km, Cote d'Ivoire 532 km, Mauritania 2,237 km, Niger 821 km, Senegal 419 km ",
+    "landUse": {
+      "arable": "5.53%",
+      "crops": "0.1% ",
+      "other": "94.37% (2011) "
+    },
+    "location": "interior Western Africa, southwest of Algeria, north of Guinea, Cote d'Ivoire, and Burkina Faso, west of Niger",
+    "naturalHazards": "hot, dust-laden harmattan haze common during dry seasons; recurring droughts; occasional Niger River flooding",
+    "naturalResources": "gold, phosphates, kaolin, salt, limestone, uranium, gypsum, granite, hydropowerbauxite, iron ore, manganese, tin, and copper deposits are known but not exploited ",
+    "notes": "landlocked; divided into three natural zones: the southern, cultivated Sudanese; the central, semiarid Sahelian; and the northern, arid Saharan",
+    "renewableWater": "100 cu km (2011)",
+    "terrain": "mostly flat to rolling northern plains covered by sand; savanna in south, rugged hills in northeast"
+  },
+  "countryName": "Mali",
+  "countryCode": "ML"
+}

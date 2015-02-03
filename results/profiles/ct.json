@@ -1,0 +1,42 @@
+{
+  "background": "The former French colony of Ubangi-Shari became the Central African Republic upon independence in 1960. After three tumultuous decades of misrule - mostly by military governments - civilian rule was established in 1993 and lasted for one decade. In March, 2003 President Ange-Felix PATASSE was deposed in a military coup led by General Francois BOZIZE, who established a transitional government. Elections held in 2005 affirmed General BOZIZE as president; he was reelected in 2011 in voting widely viewed as flawed. The government still does not fully control the countryside, where pockets of lawlessness persist. The militant group the Lord's Resistance Army continues to destabilize southeastern Central African Republic, and several rebel groups joined together in early December 2012 to launch a series of attacks that left them in control of numerous towns in the northern and central parts of the country. The rebels - who are unhappy with BOZIZE's government - participated in peace talks in early January 2013 which resulted in a coalition government including the rebellion's leadership. In March 2013, the coalition government dissolved, rebels seized the capital, and President BOZIZE fled the country. Rebel leader Michel DJOTODIA assumed the presidency, reappointed Nicolas TIANGAYE as Prime Minister, and established a transitional government on 31 March. On 13 April 2013, the National Transitional Council affirmed DJOTODIA as President.",
+  "geography": {
+    "area": {
+      "land": "622,984 sq km ",
+      "total": "622,984 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly smaller than Texas",
+    "climate": "tropical; hot, dry winters; mild to hot, wet summers",
+    "coastline": "0 km (landlocked)",
+    "elevationHighest": "Mont Ngaoui 1,420 m ",
+    "elevationLowest": "Oubangui River 335 m",
+    "environment": {
+      "currIssues": "tap water is not potable; poaching has diminished the country's reputation as one of the last great wildlife refuges; desertification; deforestation",
+      "intlAgreements": {
+        "notRatified": "Law of the Sea ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Ozone Layer Protection, Tropical Timber 94, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "17.42  cu m/yr (2005) ",
+      "total": "0.07  cu km/yr (83%/17%/1%)"
+    },
+    "geoCoords": "7 00 N, 21 00 E",
+    "irrigatedLand": "1.35 sq km (2003)",
+    "landBoundaries": "5,920 kmCameroon 901 km, Chad 1,556 km, Democratic Republic of the Congo 1,747 km, Republic of the Congo 487 km, South Sudan 1,055 km, Sudan 174 km ",
+    "landUse": {
+      "arable": "2.89%",
+      "crops": "0.13% ",
+      "other": "96.98% (2011) "
+    },
+    "location": "Central Africa, north of Democratic Republic of the Congo",
+    "naturalHazards": "hot, dry, dusty harmattan winds affect northern areas; floods are common",
+    "naturalResources": "diamonds, uranium, timber, gold, oil, hydropower",
+    "notes": "landlocked; almost the precise center of Africa",
+    "renewableWater": "144.4 cu km (2011)",
+    "terrain": "vast, flat to rolling, monotonous plateau; scattered hills in northeast and southwest"
+  },
+  "countryName": "Central African Republic",
+  "countryCode": "CT"
+}

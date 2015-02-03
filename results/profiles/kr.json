@@ -1,0 +1,42 @@
+{
+  "background": "The Gilbert Islands became a British protectorate in 1892 and a colony in 1915; they were captured by the Japanese in the Pacific War in 1941. The islands of Makin and Tarawa were the sites of major US amphibious victories over entrenched Japanese garrisons in 1943. The Gilbert Islands were granted self-rule by the UK in 1971 and complete independence in 1979 under the new name of Kiribati. The US relinquished all claims to the sparsely inhabited Phoenix and Line Island groups in a 1979 treaty of friendship with Kiribati.",
+  "geography": {
+    "area": {
+      "land": "811 sq km ",
+      "total": "811 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "four times the size of Washington, DC",
+    "climate": "tropical; marine, hot and humid, moderated by trade winds",
+    "coastline": "1,143 km",
+    "elevationHighest": "unnamed elevation on Banaba 81 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "heavy pollution in lagoon of south Tarawa atoll due to heavy migration mixed with traditional practices such as lagoon latrines and open-pit dumping; ground water at risk",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "1 25 N, 173 00 E",
+    "irrigatedLand": "NA",
+    "landBoundaries": "0 km",
+    "landUse": {
+      "arable": "2.47%",
+      "crops": "39.51% ",
+      "other": "58.02% (2011) "
+    },
+    "location": "Oceania, group of 33 coral atolls in the Pacific Ocean, straddling the Equator; the capital Tarawa is about half way between Hawaii and Australia",
+    "naturalHazards": "typhoons can occur any time, but usually November to March; occasional tornadoes; low level of some of the islands make them sensitive to changes in sea level",
+    "naturalResources": "phosphate (production discontinued in 1979)",
+    "notes": "21 of the 33 islands are inhabited; Banaba (Ocean Island) in Kiribati is one of the three great phosphate rock islands in the Pacific Ocean - the others are Makatea in French Polynesia, and Nauru; Kiribati is the only country in the world to fall into all four hemispheres (northern, southern, eastern, and western)",
+    "renewableWater": "",
+    "terrain": "mostly low-lying coral atolls surrounded by extensive reefs"
+  },
+  "countryName": "Kiribati",
+  "countryCode": "KR"
+}

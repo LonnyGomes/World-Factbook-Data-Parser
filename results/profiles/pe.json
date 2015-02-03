@@ -1,0 +1,42 @@
+{
+  "background": "Ancient Peru was the seat of several prominent Andean civilizations, most notably that of the Incas whose empire was captured by Spanish conquistadors in 1533. Peruvian independence was declared in 1821, and remaining Spanish forces were defeated in 1824. After a dozen years of military rule, Peru returned to democratic leadership in 1980, but experienced economic problems and the growth of a violent insurgency. President Alberto FUJIMORI's election in 1990 ushered in a decade that saw a dramatic turnaround in the economy and significant progress in curtailing guerrilla activity. Nevertheless, the president's increasing reliance on authoritarian measures and an economic slump in the late 1990s generated mounting dissatisfaction with his regime, which led to his resignation in 2000. A caretaker government oversaw new elections in the spring of 2001, which installed Alejandro TOLEDO Manrique as the new head of government - Peru's first democratically elected president of indigenous ethnicity. The presidential election of 2006 saw the return of Alan GARCIA Perez who, after a disappointing presidential term from 1985 to 1990, oversaw a robust economic rebound. In June 2011, former army officer Ollanta HUMALA Tasso was elected president, defeating Keiko FUJIMORI Higuchi, the daughter of Alberto FUJIMORI. Since his election, HUMALA has carried on the sound, market-oriented economic policies of the three preceding administrations.",
+  "geography": {
+    "area": {
+      "land": "1,279,996 sq km ",
+      "total": "1,285,216 sq km",
+      "water": "5,220 sq km "
+    },
+    "areaCompare": "slightly smaller than Alaska",
+    "climate": "varies from tropical in east to dry desert in west; temperate to frigid in Andes",
+    "coastline": "2,414 km",
+    "elevationHighest": "Nevado Huascaran 6,768 m ",
+    "elevationLowest": "Pacific Ocean 0 m",
+    "environment": {
+      "currIssues": "deforestation (some the result of illegal logging); overgrazing of the slopes of the costa and sierra leading to soil erosion; desertification; air pollution in Lima; pollution of rivers and coastal waters from municipal and mining wastes",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Antarctic-Environmental Protocol, Antarctic-Marine Living Resources, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Marine Dumping, Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "727.6  cu m/yr (2005) ",
+      "total": "19.34  cu km/yr (8%/10%/82%)"
+    },
+    "geoCoords": "10 00 S, 76 00 W",
+    "irrigatedLand": "11,960 sq km (2003)",
+    "landBoundaries": "7,461 kmBolivia 1,075 km, Brazil 2,995 km, Chile 171 km, Colombia 1,800 km, Ecuador 1,420 km ",
+    "landUse": {
+      "arable": "2.84%",
+      "crops": "0.66% ",
+      "other": "96.5% (2011) "
+    },
+    "location": "Western South America, bordering the South Pacific Ocean, between Chile and Ecuador",
+    "naturalHazards": "earthquakes, tsunamis, flooding, landslides, mild volcanic activityvolcanic activity in the Andes Mountains; Ubinas (elev. 5,672 m), which last erupted in 2009, is the country's most active volcano; other historically active volcanoes include El Misti, Huaynaputina, Sabancaya, and Yucamane ",
+    "naturalResources": "copper, silver, gold, petroleum, timber, fish, iron ore, coal, phosphate, potash, hydropower, natural gas",
+    "notes": "shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316 m peak, is the ultimate source of the Amazon River",
+    "renewableWater": "1,913 cu km (2011)",
+    "terrain": "western coastal plain (costa), high and rugged Andes in center (sierra), eastern lowland jungle of Amazon Basin (selva)"
+  },
+  "countryName": "Peru",
+  "countryCode": "PE"
+}

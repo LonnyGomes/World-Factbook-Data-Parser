@@ -1,0 +1,42 @@
+{
+  "background": "Ruled by the Al Thani family since the mid-1800s, Qatar transformed itself from a poor British protectorate noted mainly for pearling into an independent state with significant oil and natural gas revenues. During the late 1980s and early 1990s, the Qatari economy was crippled by a continuous siphoning off of petroleum revenues by the Amir, who had ruled the country since 1972. His son, the current Amir HAMAD bin Khalifa Al Thani, overthrew the father in a bloodless coup in 1995. In short order, HAMAD oversaw the creation of the pan-Arab satellite news network Al-Jazeera and Qatar's pursuit of a leadership role in mediating regional conflicts. In the 2000s, Qatar resolved its longstanding border disputes with both Bahrain and Saudi Arabia. As of 2007, oil and natural gas revenues had enabled Qatar to attain the highest per capita income in the world. Qatar has not experienced domestic unrest or violence like that seen in other Near Eastern and North African countries in 2010-11, due in part to its immense wealth. Since the outbreak of regional unrest, however, Doha has prided itself on its support for many of these popular revolutions, particularly in Libya and Syria. In mid-2013, HAMAD transferred power to his 33 year-old son, TAMIM bin Hamad - a peaceful abdication rare in the history of Arab Gulf states. TAMIM has prioritized improving the domestic welfare of Qataris, including establishing advanced healthcare and education systems and expanding the country's infrastructure in anticipation of Doha's hosting of the 2022 World Cup.",
+  "geography": {
+    "area": {
+      "land": "11,586 sq km ",
+      "total": "11,586 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly smaller than Connecticut",
+    "climate": "arid; mild, pleasant winters; very hot, humid summers",
+    "coastline": "563 km",
+    "elevationHighest": "Tuwayyir al Hamir 103 m ",
+    "elevationLowest": "Persian Gulf 0 m",
+    "environment": {
+      "currIssues": "limited natural freshwater resources are increasing dependence on large-scale desalination facilities",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "376.9  cu m/yr (2005) ",
+      "total": "0.44  cu km/yr (39%/2%/59%)"
+    },
+    "geoCoords": "25 30 N, 51 15 E",
+    "irrigatedLand": "129.4 sq km (2003)",
+    "landBoundaries": "60 kmSaudi Arabia 60 km ",
+    "landUse": {
+      "arable": "1.21%",
+      "crops": "0.17% ",
+      "other": "98.62% (2011) "
+    },
+    "location": "Middle East, peninsula bordering the Persian Gulf and Saudi Arabia",
+    "naturalHazards": "haze, dust storms, sandstorms common",
+    "naturalResources": "petroleum, natural gas, fish",
+    "notes": "strategic location in central Persian Gulf near major petroleum deposits",
+    "renewableWater": "0.06 cu km (2011)",
+    "terrain": "mostly flat and barren desert covered with loose sand and gravel"
+  },
+  "countryName": "Qatar",
+  "countryCode": "QA"
+}

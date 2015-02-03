@@ -1,0 +1,42 @@
+{
+  "background": "Following the two devastating World Wars in the first half of the 20th century, a number of European leaders in the late 1940s became convinced that the only way to establish a lasting peace was to reconcile the two chief belligerent nations - France and Germany - both economically and politically. In 1950, the French Foreign Minister Robert SCHUMAN proposed an eventual union of all Europe, the first step of which would be the integration of the coal and steel industries of Western Europe. The following year, the European Coal and Steel Community (ECSC) was set up when six members, Belgium, France, West Germany, Italy, Luxembourg, and the Netherlands, signed the Treaty of Paris.The ECSC was so successful that within a few years the decision was made to integrate other elements of the countries' economies. In 1957, envisioning an \"ever closer union,\" the Treaties of Rome created the European Economic Community (EEC) and the European Atomic Energy Community (Euratom), and the six member states undertook to eliminate trade barriers among themselves by forming a common market. In 1967, the institutions of all three communities were formally merged into the European Community (EC), creating a single Commission, a single Council of Ministers, and the body known today as the European Parliament. Members of the European Parliament were initially selected by national parliaments, but in 1979 the first direct elections were undertaken and have been held every five years since. In 1973, the first enlargement of the EC took place with the addition of Denmark, Ireland, and the United Kingdom. The 1980s saw further membership expansion with Greece joining in 1981 and Spain and Portugal in 1986. The 1992 Treaty of Maastricht laid the basis for further forms of cooperation in foreign and defense policy, in judicial and internal affairs, and in the creation of an economic and monetary union - including a common currency. This further integration created the European Union (EU), at the time standing alongside the European Community. In 1995, Austria, Finland, and Sweden joined the EU/EC, raising the membership total to 15. A new currency, the euro, was launched in world money markets on 1 January 1999; it became the unit of exchange for all EU member states except Denmark, Sweden, and the United Kingdom. In 2002, citizens of those 12 countries began using euro banknotes and coins. Ten new countries joined the EU in 2004 - Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia. Bulgaria and Romania joined in 2007 and Croatia in 2013, bringing the current membership to 28. In an effort to ensure that the EU could function efficiently with an expanded membership, the Treaty of Nice (signed in 2000) set forth rules aimed at streamlining the size and procedures of EU institutions. An effort to establish a \"Constitution for Europe,\" growing out of a Convention held in 2002-2003, foundered when it was rejected in referenda in France and the Netherlands in 2005. A subsequent effort in 2007 incorporated many of the features of the rejected Constitution while also making a number of substantive and symbolic changes. The new treaty, initially known as the Reform Treaty but subsequently referred to as the Treaty of Lisbon, sought to amend existing treaties rather than replace them. The treaty was approved at the EU intergovernmental conference of the 27 member states held in Lisbon in December 2007, after which the process of national ratifications began. In October 2009, an Irish referendum approved the Lisbon Treaty (overturning a previous rejection) and cleared the way for an ultimate unanimous endorsement. Poland and the Czech Republic signed on soon after. The Lisbon Treaty, again invoking the idea of an \"ever closer union,\" came into force on 1 December 2009 and the European Union officially replaced and succeeded the European Community. ",
+  "geography": {
+    "area": {
+      "land": "",
+      "total": "4,324,782 sq km",
+      "water": ""
+    },
+    "areaCompare": "less than one-half the size of the US",
+    "climate": "cold temperate; potentially subarctic in the north to temperate; mild wet winters; hot dry summers in the south",
+    "coastline": "65,992.9 km",
+    "elevationHighest": "Mont Blanc 4,807 m; note - situated on the border between France and Italy ",
+    "elevationLowest": "Lammefjord, Denmark -7 m; Zuidplaspolder, Netherlands -7 m",
+    "environment": {
+      "currIssues": "NA",
+      "intlAgreements": {
+        "notRatified": "",
+        "partyTo": "Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 94, Antarctic-Marine Living Resources, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "",
+      "total": ""
+    },
+    "geoCoords": "",
+    "irrigatedLand": "154,539.82 sq km (2011 est.)",
+    "landBoundaries": "12,440.8 kmAlbania 282 km, Andorra 120.3 km, Belarus 1,050 km, Croatia 999 km, Holy See 3.2 km, Liechtenstein 34.9 km, Macedonia 394 km, Moldova 450 km, Monaco 4.4 km, Norway 2,348 km, Russia 2,257 km, San Marino 39 km, Serbia 945 km, Switzerland 1,811 km, Turkey 446 km, Ukraine 1,257 km data for European Continent only ",
+    "landUse": {
+      "arable": "24.91",
+      "crops": "2.75 ",
+      "other": "72.34 (2011) "
+    },
+    "location": "Europe between the North Atlantic Ocean in the west and Russia, Belarus, and Ukraine to the east",
+    "naturalHazards": "flooding along coasts; avalanches in mountainous area; earthquakes in the south; volcanic eruptions in Italy; periodic droughts in Spain; ice floes in the Baltic",
+    "naturalResources": "iron ore, natural gas, petroleum, coal, copper, lead, zinc, bauxite, uranium, potash, salt, hydropower, arable land, timber, fish",
+    "notes": "",
+    "renewableWater": "2,057.76 cu km (2011)",
+    "terrain": "fairly flat along the Baltic and Atlantic coast; mountainous in the central and southern areas"
+  },
+  "countryName": "European Union",
+  "countryCode": "EE"
+}

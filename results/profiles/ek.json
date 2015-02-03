@@ -1,0 +1,42 @@
+{
+  "background": "Equatorial Guinea gained independence in 1968 after 190 years of Spanish rule. This tiny country, composed of a mainland portion plus five inhabited islands, is one of the smallest on the African continent. President Teodoro Obiang NGUEMA MBASOGO has ruled the country since 1979 when he seized power in a coup. Although nominally a constitutional democracy since 1991, the 1996, 2002, and 2009 presidential elections - as well as the 1999, 2004, 2008, and 2013 legislative elections - were widely seen as flawed. The president exerts almost total control over the political system and has discouraged political opposition. Equatorial Guinea has experienced rapid economic growth due to the discovery of large offshore oil reserves, and in the last decade has become Sub-Saharan Africa's third largest oil exporter. Despite the country's economic windfall from oil production, resulting in a massive increase in government revenue in recent years, improvements in the population's living standards have been slow to develop.",
+  "geography": {
+    "area": {
+      "land": "28,051 sq km ",
+      "total": "28,051 sq km",
+      "water": "0 sq km "
+    },
+    "areaCompare": "slightly smaller than Maryland",
+    "climate": "tropical; always hot, humid",
+    "coastline": "296 km",
+    "elevationHighest": "Pico Basile 3,008 m ",
+    "elevationLowest": "Atlantic Ocean 0 m",
+    "environment": {
+      "currIssues": "tap water is not potable; deforestation",
+      "intlAgreements": {
+        "notRatified": "none of the selected agreements ",
+        "partyTo": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship Pollution, Wetlands"
+      }
+    },
+    "freshWaterWithdrawal": {
+      "perCapita": "31.41  cu m/yr (2005) ",
+      "total": "0.02  cu km/yr (80%/15%/5%)"
+    },
+    "geoCoords": "2 00 N, 10 00 E",
+    "irrigatedLand": "NA",
+    "landBoundaries": "528 kmCameroon 183 km, Gabon 345 km ",
+    "landUse": {
+      "arable": "4.63%",
+      "crops": "2.5% ",
+      "other": "92.87% (2011) "
+    },
+    "location": "Central Africa, bordering the Bight of Biafra, between Cameroon and Gabon",
+    "naturalHazards": "violent windstorms; flash floodsSanta Isabel (elev. 3,007 m), which last erupted in 1923, is the country's only historically active volcano; Santa Isabel, along with two dormant volcanoes, form Bioko Island in the Gulf of Guinea ",
+    "naturalResources": "petroleum, natural gas, timber, gold, bauxite, diamonds, tantalum, sand and gravel, clay",
+    "notes": "insular and continental regions widely separated",
+    "renewableWater": "26 cu km (2011)",
+    "terrain": "coastal plains rise to interior hills; islands are volcanic"
+  },
+  "countryName": "Equatorial Guinea",
+  "countryCode": "EK"
+}
