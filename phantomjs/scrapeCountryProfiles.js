@@ -118,7 +118,33 @@ function parseCountryProfile(url, callback) {
                 urbanization: {
                     population: getCategoryNestedText("Urbanization", "urban population:"),
                     rate: getCategoryNestedText("Urbanization", "rate of urbanization:")
-                }
+                },
+                urbanAreasPopulations: getCategoryTextBlock("Major urban areas - population"),
+                sexRatio: {
+                    total: getCategoryNestedText("Sex ratio", "total population:"),
+                    atBirth: getCategoryNestedText("Sex ratio", "at birth:"),
+                    years00to14: getCategoryNestedText("Sex ratio", "0-14 years:"),
+                    years15to24: getCategoryNestedText("Sex ratio", "15-24 years:"),
+                    years25to54: getCategoryNestedText("Sex ratio", "25-54 years:"),
+                    years55to64: getCategoryNestedText("Sex ratio", "55-64 years:"),
+                    years65to99: getCategoryNestedText("Sex ratio", "65 years and over:")
+                },
+                maternalMortalityRate: getCategoryTextBlock("Maternal mortality rate"),
+                infantMortalityRate: {
+                    total: getCategoryNestedText("Infant mortality rate", "total:"),
+                    male: getCategoryNestedText("Infant mortality rate", "male:"),
+                    female: getCategoryNestedText("Infant mortality rate", "female:")
+                },
+                lifeExpectancy: {
+                    total: getCategoryNestedText("Life expectancy at birth", "total population:"),
+                    male: getCategoryNestedText("Life expectancy at birth", "male:"),
+                    female: getCategoryNestedText("Life expectancy at birth", "female:")
+                },
+                fertilityRate: getCategoryTextBlock("Total fertility rate"),
+                contraceptiveRate: getCategoryTextBlock("Contraceptive prevalence rate"),
+                healthExpenditures: getCategoryTextBlock("Health expenditures"),
+                physiciansDensity: getCategoryTextBlock("Physicians density"),
+                hospitalBedDensity: getCategoryTextBlock("Hospital bed density")
             };
 
             return countryData;
