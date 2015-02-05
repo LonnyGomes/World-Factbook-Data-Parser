@@ -144,7 +144,36 @@ function parseCountryProfile(url, callback) {
                 contraceptiveRate: getCategoryTextBlock("Contraceptive prevalence rate"),
                 healthExpenditures: getCategoryTextBlock("Health expenditures"),
                 physiciansDensity: getCategoryTextBlock("Physicians density"),
-                hospitalBedDensity: getCategoryTextBlock("Hospital bed density")
+                hospitalBedDensity: getCategoryTextBlock("Hospital bed density"),
+                drinkingWaterSource: "TODO", //Deal with this later
+                sanitationFacilityAccess: "TODO", //Deal with this later
+                hivAdultRate: getCategoryTextBlock("HIV/AIDS - adult prevalence rate"),
+                hivPeopleAlive: getCategoryTextBlock("HIV/AIDS - people living with HIV/AIDS"),
+                hivDeaths: getCategoryTextBlock("HIV/AIDS - deaths"),
+                obesityAdultRate: getCategoryTextBlock("Obesity - adult prevalence rate"),
+                underWeightChildren: getCategoryTextBlock("Children under the age of 5 years underweight"),
+                educationExpenditures: getCategoryTextBlock("Education expenditures:"),
+                literacy: {
+                    definition: getCategoryNestedText("Literacy", "definition:"),
+                    total: getCategoryNestedText("Literacy", "total population:"),
+                    male: getCategoryNestedText("Literacy", "male:"),
+                    female: getCategoryNestedText("Literacy", "female:")
+                },
+                schoolLifeExpectancy: {
+                    total: getCategoryNestedText("School life expectancy (primary to tertiary education)", "total:"),
+                    male: getCategoryNestedText("School life expectancy (primary to tertiary education)", "male:"),
+                    female: getCategoryNestedText("School life expectancy (primary to tertiary education)", "female:")
+                },
+                childLabor: {
+                    total: getCategoryNestedText("Child labor - children ages 5-14", "total number:"),
+                    percentage: getCategoryNestedText("Child labor - children ages 5-14", "percentage:")
+                },
+                youthUnemployment: {
+                    total: getCategoryNestedText("Unemployment, youth ages 15-24", "total"),
+                    male: getCategoryNestedText("Unemployment, youth ages 15-24", "male"),
+                    female: getCategoryNestedText("Unemployment, youth ages 15-24", "female")
+                }
+
             };
 
             return countryData;
