@@ -169,12 +169,35 @@ function parseCountryProfile(url, callback) {
                     percentage: getCategoryNestedText("Child labor - children ages 5-14", "percentage:")
                 },
                 youthUnemployment: {
-                    total: getCategoryNestedText("Unemployment, youth ages 15-24", "total"),
-                    male: getCategoryNestedText("Unemployment, youth ages 15-24", "male"),
-                    female: getCategoryNestedText("Unemployment, youth ages 15-24", "female")
+                    total: getCategoryNestedText("Unemployment, youth ages 15-24", "total:"),
+                    male: getCategoryNestedText("Unemployment, youth ages 15-24", "male:"),
+                    female: getCategoryNestedText("Unemployment, youth ages 15-24", "female:")
                 }
-
             };
+
+            countryData.government = {
+                countryNames: {
+                    conventionalLong: getCategoryNestedText("Country name", "conventional long form:"),
+                    conventionalShort: getCategoryNestedText("Country name", "conventional short form:"),
+                    localLong: getCategoryNestedText("Country name", "local long form:"),
+                    localShort: getCategoryNestedText("Country name", "local short form:"),
+                    former: getCategoryNestedText("Country name", "former:")
+                },
+                governmentType: getCategoryTextBlock("Government type"),
+                capital: {
+                    name: getCategoryNestedText("Capital:", "name"),
+                    geoCoords: getCategoryNestedText("Capital:", "geographic coordinates:"),
+                    timeDifference: getCategoryNestedText("Capital:", "time difference:")
+                },
+                adminDivisions: getCategoryTextBlock("Administrative divisions:"),
+                independence: getCategoryTextBlock("Independence"),
+                nationalHoliday: getCategoryTextBlock("National holiday"),
+                constitution: getCategoryTextBlock("Constitution"),
+                legalSystem: getCategoryTextBlock("Legal system"),
+                intlLawParticipation: getCategoryTextBlock("International law organization participation"),
+                suffrage: getCategoryTextBlock("Suffrage")
+
+            }
 
             return countryData;
         });
