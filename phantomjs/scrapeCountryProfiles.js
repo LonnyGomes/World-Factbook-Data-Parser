@@ -197,7 +197,7 @@ function parseCountryProfile(url, callback) {
                 intlLawParticipation: getCategoryTextBlock("International law organization participation"),
                 suffrage: getCategoryTextBlock("Suffrage"),
                 executiveBranch: {
-                    chiefOfState: getCategoryNestedText("Executive branch", "cheif of state:"),
+                    chiefOfState: getCategoryNestedText("Executive branch", "chief of state:"),
                     headOfGov: getCategoryNestedText("Executive branch", "head of government:"),
                     cabinet: getCategoryNestedText("Executive branch", "elections:"),
                     electionResults: getCategoryNestedText("Executive branch", "election results:")
