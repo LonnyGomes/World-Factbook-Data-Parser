@@ -201,6 +201,39 @@ function parseCountryProfile(url, callback) {
                     headOfGov: getCategoryNestedText("Executive branch", "head of government:"),
                     cabinet: getCategoryNestedText("Executive branch", "elections:"),
                     electionResults: getCategoryNestedText("Executive branch", "election results:")
+                },
+                legislativeBranch: {
+                    description: getCategoryTextBlock("Legislative branch"),
+                    elections: getCategoryNestedText("Legislative branch", "elections:"),
+                    electionResults: getCategoryNestedText("Legislative branch", "election results:")
+                },
+                judicialBranch: {
+                    highestCourts: getCategoryNestedText("Judicial branch", "highest court(s)"),
+                    judgeTerms: getCategoryNestedText("Judicial branch", "judge selection and term of office:"),
+                    supordinateCourts: getCategoryNestedText("Judicial branch", "subordinate courts:")
+                },
+                politicalParties: {
+                    partiesAndLeaders: getCategoryTextBlock("Political parties and leaders"),
+                    notes: getCategoryNestedText("Political parties and leaders", "note:")
+                },
+                politicalPressureGroups: {
+                    groupsAndLeaders: getCategoryTextBlock("Political pressure groups and leaders"),
+                    notes: getCategoryNestedText("Political pressure groups and leaders:", "note:")
+                },
+                intlOrgs: getCategoryTextBlock("International organization participation"),
+                diplomaticRepresentation: {
+                    chiefOfMission: getCategoryNestedText("Diplomatic representation in the US", "chief of mission"),
+                    chancery: getCategoryNestedText("Diplomatic representation in the US:", "chancery"),
+                    telephone: getCategoryNestedText("Diplomatic representation in the US:", "telephone"),
+                    fax: getCategoryNestedText("Diplomatic representation in the US:", "FAX:"),
+                    consulatesGeneral: getCategoryNestedText("Diplomatic representation in the US:", "consulate(s) general:")
+                },
+                flagDescription: getCategoryTextBlock("Flag description"),
+                nationalSymbol: getCategoryTextBlock("National symbol(s)"),
+                nationalAnthem: {
+                    name: getCategoryNestedText("National anthem", "name:"),
+                    lyrics: getCategoryNestedText("National anthem", "lyrics/music:"),
+                    notes: getCategoryNestedText("National anthem", "note:")
                 }
 
             }
